@@ -1,0 +1,6104 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Rustic Cultivator",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/334_Rustic Cultivator.png"
+			}
+		},
+		{
+			"name": "Wind Worn Peaks",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Enchantment — Realm",
+			"collector_number": "18",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/18_Wind Worn Peaks_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/18_Wind Worn Peaks_front.png"
+			}
+		},
+		{
+			"name": "Light of Hope",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/35_Light of Hope.png"
+			}
+		},
+		{
+			"name": "History's Weave",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/31_History's Weave.png"
+			}
+		},
+		{
+			"name": "Fall Through Reality",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/26_Fall Through Reality.png"
+			}
+		},
+		{
+			"name": "Meirel Pathwalker",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Rabbit Detective",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/39_Meirel Pathwalker.png"
+			}
+		},
+		{
+			"name": "Staggering Spires",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Realm",
+			"collector_number": "53",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/53_Staggering Spires_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/53_Staggering Spires_front.png"
+			}
+		},
+		{
+			"name": "Pathfinder Wurm",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Wurm Dragon",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/47_Pathfinder Wurm.png"
+			}
+		},
+		{
+			"name": "Rising Haze",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Icon Cleric",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/50_Rising Haze.png"
+			}
+		},
+		{
+			"name": "Meirel Caretaker",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Fox Cleric",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/38_Meirel Caretaker.png"
+			}
+		},
+		{
+			"name": "Outlands Rescinder",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/46_Outlands Rescinder.png"
+			}
+		},
+		{
+			"name": "Outlander Mercenary",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/44_Outlander Mercenary.png"
+			}
+		},
+		{
+			"name": "Fadove Lawkeeper",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/25_Fadove Lawkeeper.png"
+			}
+		},
+		{
+			"name": "Fadove Air Supplier",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/24_Fadove Air Supplier.png"
+			}
+		},
+		{
+			"name": "Veteran Party",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior Wizard",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/55_Veteran Party.png"
+			}
+		},
+		{
+			"name": "Cleric of the Dawn",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Wurm Cleric",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/21_Cleric of the Dawn.png"
+			}
+		},
+		{
+			"name": "Focus of Fadove",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/28_Focus of Fadove.png"
+			}
+		},
+		{
+			"name": "Outfoxed",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/42_Outfoxed.png"
+			}
+		},
+		{
+			"name": "Apprentices Drake",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Drake",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/59_Apprentices Drake.png"
+			}
+		},
+		{
+			"name": "Crystalline Cover",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/66_Crystalline Cover.png"
+			}
+		},
+		{
+			"name": "Tiderock Passage",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Realm",
+			"collector_number": "91",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/91_Tiderock Passage_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/91_Tiderock Passage_front.png"
+			}
+		},
+		{
+			"name": "Fold the Truth",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/70_Fold the Truth.png"
+			}
+		},
+		{
+			"name": "Consult Eternity",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/63_Consult Eternity.png"
+			}
+		},
+		{
+			"name": "Pristine Denial",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/81_Pristine Denial.png"
+			}
+		},
+		{
+			"name": "Reshape Eternity",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/83_Reshape Eternity.png"
+			}
+		},
+		{
+			"name": "Pathwrought Overseer",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Orb Eye",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/79_Pathwrought Overseer.png"
+			}
+		},
+		{
+			"name": "Veneer Walker",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/94_Veneer Walker.png"
+			}
+		},
+		{
+			"name": "Outlands Trailblazer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/78_Outlands Trailblazer.png"
+			}
+		},
+		{
+			"name": "Vestige Prowler",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cat Shark",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/96_Vestige Prowler.png"
+			}
+		},
+		{
+			"name": "Ridgeback Dragonturtle",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Dragon Turtle",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/85_Ridgeback Dragonturtle.png"
+			}
+		},
+		{
+			"name": "Bropheria",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Jellyfish",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/61_Bropheria.png"
+			}
+		},
+		{
+			"name": "Gripping Truths",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/71_Gripping Truths.png"
+			}
+		},
+		{
+			"name": "Migratory Flotilla",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Icon Whale",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/76_Migratory Flotilla.png"
+			}
+		},
+		{
+			"name": "Fly Away With Me",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/69_Fly Away With Me.png"
+			}
+		},
+		{
+			"name": "Aspect of Moth",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/100_Aspect of Moth.png"
+			}
+		},
+		{
+			"name": "You Cant Face Me",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/138_You Cant Face Me.png"
+			}
+		},
+		{
+			"name": "Duskcharm Drake",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Drake",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/109_Duskcharm Drake.png"
+			}
+		},
+		{
+			"name": "Eroding River",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Realm",
+			"collector_number": "110",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/110_Eroding River_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/110_Eroding River_front.png"
+			}
+		},
+		{
+			"name": "Foolish Footing",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/111_Foolish Footing.png"
+			}
+		},
+		{
+			"name": "Smogborn Pilferer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Icon Rogue",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/133_Smogborn Pilferer.png"
+			}
+		},
+		{
+			"name": "Avakin Trapper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird Rogue",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/102_Avakin Trapper.png"
+			}
+		},
+		{
+			"name": "Hedgecrow",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird Plant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/113_Hedgecrow.png"
+			}
+		},
+		{
+			"name": "Scaled Rippler",
+			"rarity": "common",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Lizard",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/132_Scaled Rippler.png"
+			}
+		},
+		{
+			"name": "Left for the Crows",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/117_Left for the Crows.png"
+			}
+		},
+		{
+			"name": "Relentless Truthseeker",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/130_Relentless Truthseeker.png"
+			}
+		},
+		{
+			"name": "Otherworldly Entrance",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/125_Otherworldly Entrance.png"
+			}
+		},
+		{
+			"name": "Pathborn Stinger",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect Lizard",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/127_Pathborn Stinger.png"
+			}
+		},
+		{
+			"name": "Voidborn Horror",
+			"rarity": "common",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/137_Voidborn Horror.png"
+			}
+		},
+		{
+			"name": "Avakin Devotee",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird Warlock",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/101_Avakin Devotee.png"
+			}
+		},
+		{
+			"name": "Pioneer's Premonition",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/128_Pioneer's Premonition.png"
+			}
+		},
+		{
+			"name": "Basalt Hammer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/141_Basalt Hammer.png"
+			}
+		},
+		{
+			"name": "Clanless Combatant",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Bird Warrior",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/145_Clanless Combatant.png"
+			}
+		},
+		{
+			"name": "Willbournes Flame",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/177_Willbournes Flame.png"
+			}
+		},
+		{
+			"name": "Fiery Absolver",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Creature — Icon Knight",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/153_Fiery Absolver.png"
+			}
+		},
+		{
+			"name": "Drougth Adventurer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Cat Scout",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/150_Drougth Adventurer.png"
+			}
+		},
+		{
+			"name": "Warforged Pair",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/175_Warforged Pair.png"
+			}
+		},
+		{
+			"name": "Mordel Hammer",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Minotaur Soldier",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/161_Mordel Hammer.png"
+			}
+		},
+		{
+			"name": "Pathborn Spitter",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Cat",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/165_Pathborn Spitter.png"
+			}
+		},
+		{
+			"name": "Mordel Flamespeaker",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/160_Mordel Flamespeaker.png"
+			}
+		},
+		{
+			"name": "Drakes Intuition",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/149_Drakes Intuition.png"
+			}
+		},
+		{
+			"name": "Smelt Corruption",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/172_Smelt Corruption.png"
+			}
+		},
+		{
+			"name": "Mordel Shaper",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Minotaur Wizard",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/162_Mordel Shaper.png"
+			}
+		},
+		{
+			"name": "Shifting Landscape",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/170_Shifting Landscape.png"
+			}
+		},
+		{
+			"name": "Depthscout",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Wurm Plant Scout",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/187_Depthscout.png"
+			}
+		},
+		{
+			"name": "Disciple of the Thicket",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Elf Wizard",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/188_Disciple of the Thicket.png"
+			}
+		},
+		{
+			"name": "Enduring Woodland",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Realm",
+			"collector_number": "190",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/190_Enduring Woodland_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/190_Enduring Woodland_front.png"
+			}
+		},
+		{
+			"name": "Surubim Harpoon",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/215_Surubim Harpoon.png"
+			}
+		},
+		{
+			"name": "Meirel Traveller",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Wolf Nomad",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/199_Meirel Traveller.png"
+			}
+		},
+		{
+			"name": "Shard Bearer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Icon Elk",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/211_Shard Bearer.png"
+			}
+		},
+		{
+			"name": "Clanless Weaver",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/183_Clanless Weaver.png"
+			}
+		},
+		{
+			"name": "Illusion Reamer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Wurm Wizard",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/195_Illusion Reamer.png"
+			}
+		},
+		{
+			"name": "Voice of the Thicket",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature — Icon Elk",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/221_Voice of the Thicket.png"
+			}
+		},
+		{
+			"name": "Inspiring Recruit",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/157_Inspiring Recruit.png"
+			}
+		},
+		{
+			"name": "Dance of Discovery",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/147_Dance of Discovery.png"
+			}
+		},
+		{
+			"name": "Outland Pair",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Wolf Scout",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/204_Outland Pair.png"
+			}
+		},
+		{
+			"name": "Outlands Rescuer",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Wurm Cleric",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/206_Outlands Rescuer.png"
+			}
+		},
+		{
+			"name": "Stand Your Ground",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/213_Stand Your Ground.png"
+			}
+		},
+		{
+			"name": "Guide With and Through",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/193_Guide With and Through.png"
+			}
+		},
+		{
+			"name": "Teachings of the Coiled",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/216_Teachings of the Coiled.png"
+			}
+		},
+		{
+			"name": "The Strength to Overcome",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/214_The Strength to Overcome.png"
+			}
+		},
+		{
+			"name": "Turbulent Aether",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/218_Turbulent Aether.png"
+			}
+		},
+		{
+			"name": "Dust Converter",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Bird",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/237_Dust Converter.png"
+			}
+		},
+		{
+			"name": "Avakin Adventurer",
+			"rarity": "common",
+			"mana_cost": "{2}{I}",
+			"type": "Creature — Bird Scout",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/226_Avakin Adventurer.png"
+			}
+		},
+		{
+			"name": "Meirel Drifter",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Creature — Fox Scout",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/255_Meirel Drifter.png"
+			}
+		},
+		{
+			"name": "Pathworn Blade",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Artifact — Equipment",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/262_Pathworn Blade.png"
+			}
+		},
+		{
+			"name": "Power from Beyond",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Instant",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/264_Power from Beyond.png"
+			}
+		},
+		{
+			"name": "Calign",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Drake Horror",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/228_Calign.png"
+			}
+		},
+		{
+			"name": "Captivate",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Instant",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/230_Captivate.png"
+			}
+		},
+		{
+			"name": "Adventurous Pair",
+			"rarity": "common",
+			"mana_cost": "{2}{I}",
+			"type": "Creature — Human",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/223_Adventurous Pair.png"
+			}
+		},
+		{
+			"name": "Drougth Attuner",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Cat Wizard",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/235_Drougth Attuner.png"
+			}
+		},
+		{
+			"name": "Perspective Shift",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}",
+			"type": "Instant",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/263_Perspective Shift.png"
+			}
+		},
+		{
+			"name": "Enlisted Arms",
+			"rarity": "common",
+			"mana_cost": "{2}{I}",
+			"type": "Enchantment Creature — Wolf Mercenary",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/240_Enlisted Arms.png"
+			}
+		},
+		{
+			"name": "Emigrating Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{3}{I}",
+			"type": "Enchantment Creature — Icon Knight",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/238_Emigrating Pilgrim.png"
+			}
+		},
+		{
+			"name": "Mana Compression",
+			"rarity": "common",
+			"mana_cost": "{3}{I}",
+			"type": "Sorcery",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/253_Mana Compression.png"
+			}
+		},
+		{
+			"name": "Drougth Oracle",
+			"rarity": "common",
+			"mana_cost": "{6}{I}",
+			"type": "Creature — Cat Shaman",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/236_Drougth Oracle.png"
+			}
+		},
+		{
+			"name": "Enlightening Crescents",
+			"rarity": "common",
+			"mana_cost": "{3}{I}",
+			"type": "Enchantment — Realm",
+			"collector_number": "239",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/239_Enlightening Crescents_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/239_Enlightening Crescents_front.png"
+			}
+		},
+		{
+			"name": "Mutated Pioneer",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Creature — Wurm Crab Scout",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/258_Mutated Pioneer.png"
+			}
+		},
+		{
+			"name": "Somber Marsh",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Somber Marsh.png"
+			}
+		},
+		{
+			"name": "Fiery Chasm",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Fiery Chasm.png"
+			}
+		},
+		{
+			"name": "Barren Fissure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Fault Swamp",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Barren Fissure.png"
+			}
+		},
+		{
+			"name": "Sodden Cavern",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Sodden Cavern.png"
+			}
+		},
+		{
+			"name": "Rainforest Spring",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Rainforest Spring.png"
+			}
+		},
+		{
+			"name": "Roaring Cascade",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Roaring Cascade.png"
+			}
+		},
+		{
+			"name": "Cleft River",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Fault Island",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Cleft River.png"
+			}
+		},
+		{
+			"name": "Splintered Thicket",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Fault Forest",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Splintered Thicket.png"
+			}
+		},
+		{
+			"name": "Carrigol Spires",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Carrigol Spires.png"
+			}
+		},
+		{
+			"name": "Dawnshroud Castle",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Dawnshroud Castle.png"
+			}
+		},
+		{
+			"name": "Formless Frontier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Formless Frontier.png"
+			}
+		},
+		{
+			"name": "Glittering Vale",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Glittering Vale.png"
+			}
+		},
+		{
+			"name": "Sainard Boneyard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Sainard Boneyard.png"
+			}
+		},
+		{
+			"name": "Soarwing Coast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Soarwing Coast.png"
+			}
+		},
+		{
+			"name": "Highland Vale",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Highland Vale.png"
+			}
+		},
+		{
+			"name": "Tectonic Rime",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Fault Mountain",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Tectonic Rime.png"
+			}
+		},
+		{
+			"name": "Desolate Barrens",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Desolate Barrens.png"
+			}
+		},
+		{
+			"name": "Tranquil Stream",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Tranquil Stream.png"
+			}
+		},
+		{
+			"name": "Alpine Meadow",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Alpine Meadow.png"
+			}
+		},
+		{
+			"name": "Jagged Crag",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Jagged Crag.png"
+			}
+		},
+		{
+			"name": "Crackling Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Fault Plains",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Crackling Expanse.png"
+			}
+		},
+		{
+			"name": "Aubrey",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Token Creature — Drake",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/36_Aubrey.png"
+			}
+		},
+		{
+			"name": "Beast-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Beast",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/25_Beast-01.png"
+			}
+		},
+		{
+			"name": "Bird-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/17_Bird-01.png"
+			}
+		},
+		{
+			"name": "Bird-03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/2_Bird-03.png"
+			}
+		},
+		{
+			"name": "Butterfly-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/40_Butterfly-01.png"
+			}
+		},
+		{
+			"name": "Cat-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Cat",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/26_Cat-01.png"
+			}
+		},
+		{
+			"name": "Crab-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Crab",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/31_Crab-01.png"
+			}
+		},
+		{
+			"name": "Draft Archetypes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/12_Draft Archetypes.png"
+			}
+		},
+		{
+			"name": "Dragon Eye-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon Eye",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/13_Dragon Eye-01.png"
+			}
+		},
+		{
+			"name": "Drake-05",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Drake",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/15_Drake-05.png"
+			}
+		},
+		{
+			"name": "Drake-04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Drake",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/3_Drake-04.png"
+			}
+		},
+		{
+			"name": "Drake-02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Drake",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/14_Drake-02.png"
+			}
+		},
+		{
+			"name": "Drake-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Drake",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/18_Drake-01.png"
+			}
+		},
+		{
+			"name": "Drake-03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Drake",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/32_Drake-03.png"
+			}
+		},
+		{
+			"name": "Elemental Demon-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental Demon",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/37_Elemental Demon-01.png"
+			}
+		},
+		{
+			"name": "Elk Plant-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elk Plant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/28_Elk Plant-01.png"
+			}
+		},
+		{
+			"name": "Fish-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Fish",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/29_Fish-01.png"
+			}
+		},
+		{
+			"name": "Fox-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Fox",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/4_Fox-01.png"
+			}
+		},
+		{
+			"name": "Fox-02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Fox",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/5_Fox-02.png"
+			}
+		},
+		{
+			"name": "Lizard-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Lizard",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/20_Lizard-01.png"
+			}
+		},
+		{
+			"name": "Lizard-02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Lizard",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/21_Lizard-02.png"
+			}
+		},
+		{
+			"name": "Mongoose-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Mongoose",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/35_Mongoose-01.png"
+			}
+		},
+		{
+			"name": "Orb-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Orb",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/48_Orb-01.png"
+			}
+		},
+		{
+			"name": "Shark-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Shark",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/8_Shark-01.png"
+			}
+		},
+		{
+			"name": "Whale-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Whale",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/43_Whale-01.png"
+			}
+		},
+		{
+			"name": "Wurm-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wurm",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/24_Wurm-01.png"
+			}
+		},
+		{
+			"name": "Wurm-02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wurm",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/10_Wurm-02.png"
+			}
+		},
+		{
+			"name": "Wurm-03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wurm",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/11_Wurm-03.png"
+			}
+		},
+		{
+			"name": "Wurm Dragon-02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wurm Dragon",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/9_Wurm Dragon-02.png"
+			}
+		},
+		{
+			"name": "Wurm Dragon-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Wurm Dragon",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/1_Wurm Dragon-01.png"
+			}
+		},
+		{
+			"name": "Morraire Shimmer Patrol",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}{W}",
+			"type": "Creature — Faerie Dog",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/310_Morraire Shimmer Patrol.png"
+			}
+		},
+		{
+			"name": "Coiling Jailer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{I}{W}",
+			"type": "Creature — Wurm Cleric",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/282_Coiling Jailer.png"
+			}
+		},
+		{
+			"name": "Sisters in Sorrow",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Wurm Human Soldier",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/322_Sisters in Sorrow.png"
+			}
+		},
+		{
+			"name": "Feather Piper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/289_Feather Piper.png"
+			}
+		},
+		{
+			"name": "Whisperer of the Paths",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Human Druid",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/327_Whisperer of the Paths.png"
+			}
+		},
+		{
+			"name": "Sunlace Panthera",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Kindred Enchantment — Cat Entity",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/324_Sunlace Panthera.png"
+			}
+		},
+		{
+			"name": "Shadow of Grace",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Enchantment Creature — Icon",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/320_Shadow of Grace.png"
+			}
+		},
+		{
+			"name": "Latent Powerstone",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/302_Latent Powerstone.png"
+			}
+		},
+		{
+			"name": "Pathward Riftcalling",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/316_Pathward Riftcalling.png"
+			}
+		},
+		{
+			"name": "Menithel Demon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment Creature — Demon",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/306_Menithel Demon.png"
+			}
+		},
+		{
+			"name": "Cydina Storm Drake",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{I}{R}",
+			"type": "Creature — Drake",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/283_Cydina Storm Drake.png"
+			}
+		},
+		{
+			"name": "Flowsnail",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}{R}",
+			"type": "Creature — Jellyfish Snail",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/290_Flowsnail.png"
+			}
+		},
+		{
+			"name": "Mordel Spiritcaller",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Bear Shaman Warrior",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/309_Mordel Spiritcaller.png"
+			}
+		},
+		{
+			"name": "Ignelscor Frontliner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Human Elf Warrior",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/296_Ignelscor Frontliner.png"
+			}
+		},
+		{
+			"name": "Promise of Hunger",
+			"rarity": "uncommon",
+			"mana_cost": "{I}{G}",
+			"type": "Enchantment",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/318_Promise of Hunger.png"
+			}
+		},
+		{
+			"name": "Balutr Runners",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}{G}",
+			"type": "Creature — Human Wolf Scout",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/277_Balutr Runners.png"
+			}
+		},
+		{
+			"name": "Sanctum Reminder",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Reminder",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/42_Sanctum Reminder.png"
+			}
+		},
+		{
+			"name": "Drake Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{I}{U}",
+			"type": "Creature — Human Noble",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/285_Drake Mentor.png"
+			}
+		},
+		{
+			"name": "Boundless Flight",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}{U}",
+			"type": "Creature — Chimera",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/279_Boundless Flight.png"
+			}
+		},
+		{
+			"name": "Upsurge Nemato-Gnathi",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Kindred Enchantment — Fish Entity",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/326_Upsurge Nemato-Gnathi.png"
+			}
+		},
+		{
+			"name": "Duraval Starmapper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/286_Duraval Starmapper.png"
+			}
+		},
+		{
+			"name": "Kaln-Ocean Harmonizer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Elf",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/300_Kaln-Ocean Harmonizer.png"
+			}
+		},
+		{
+			"name": "Outlands Duelists",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Human Elf Warrior",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/315_Outlands Duelists.png"
+			}
+		},
+		{
+			"name": "Meirel Pathrunner",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Creature — Cat Scout",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/305_Meirel Pathrunner.png"
+			}
+		},
+		{
+			"name": "Those Lost in the Paths",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Enchantment Creature — Icon Warlock",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/325_Those Lost in the Paths.png"
+			}
+		},
+		{
+			"name": "Calamitous Koi",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}{B}",
+			"type": "Creature — Fish Spirit",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/280_Calamitous Koi.png"
+			}
+		},
+		{
+			"name": "Omen of Hunger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{I}{B}",
+			"type": "Creature — Angel Reflection",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/313_Omen of Hunger.png"
+			}
+		},
+		{
+			"name": "Ardent Grief",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment Creature — Icon Cleric",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/274_Ardent Grief.png"
+			}
+		},
+		{
+			"name": "Ignelscor Weaver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Elf Wizard",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/297_Ignelscor Weaver.png"
+			}
+		},
+		{
+			"name": "Guardian of the Cinders",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Creature — Icon Warlock",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/39_Guardian of the Cinders.png"
+			}
+		},
+		{
+			"name": "Mourncast Disciple",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Horror Cleric",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/311_Mourncast Disciple.png"
+			}
+		},
+		{
+			"name": "Remnants of the War",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Battle — Siege",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/319_Remnants of the War.png"
+			}
+		},
+		{
+			"name": "Monument to Forever",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/11_Monument to Forever.png"
+			}
+		},
+		{
+			"name": "Kilnhart Smoghorn",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Enchantment Creature — Elk Icon",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/7_Kilnhart Smoghorn.png"
+			}
+		},
+		{
+			"name": "Ambitious Haze",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Enchantment Creature — Icon",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/1_Ambitious Haze.png"
+			}
+		},
+		{
+			"name": "Drakesteel Effigy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/331_Drakesteel Effigy.png"
+			}
+		},
+		{
+			"name": "Clerics Claymore",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/330_Clerics Claymore.png"
+			}
+		},
+		{
+			"name": "Crystalline Refraction",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Creature — Wurm",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/4_Crystalline Refraction.png"
+			}
+		},
+		{
+			"name": "Homestead Pair",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Human Elf",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/242_Homestead Pair.png"
+			}
+		},
+		{
+			"name": "Parading Terrain",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Echantment Creature — Icon",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/14_Parading Terrain.png"
+			}
+		},
+		{
+			"name": "Depthscout Token",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Token Creature — Wurm Plant Scout",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/27_Depthscout Token.png"
+			}
+		},
+		{
+			"name": "Discover Uncertainty",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Instant",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/234_Discover Uncertainty.png"
+			}
+		},
+		{
+			"name": "When Words Dont Work",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Instant",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/273_When Words Dont Work.png"
+			}
+		},
+		{
+			"name": "Illuminated black",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Reminder",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/19_Illuminated black.png"
+			}
+		},
+		{
+			"name": "Illuminated Blue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Reminder",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/16_Illuminated Blue.png"
+			}
+		},
+		{
+			"name": "Illuminated Green",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Reminder",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/30_Illuminated Green.png"
+			}
+		},
+		{
+			"name": "Illuminated Red",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Reminder",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/22_Illuminated Red.png"
+			}
+		},
+		{
+			"name": "Illuminated Silver",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Reminder",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/33_Illuminated Silver.png"
+			}
+		},
+		{
+			"name": "Illuminated White",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Reminder",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/6_Illuminated White.png"
+			}
+		},
+		{
+			"name": "Fault-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "372",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/372_Fault-01.png"
+			}
+		},
+		{
+			"name": "Fault-03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "374",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/374_Fault-03.png"
+			}
+		},
+		{
+			"name": "Fault-02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "373",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/373_Fault-02.png"
+			}
+		},
+		{
+			"name": "Fault-04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "375",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/375_Fault-04.png"
+			}
+		},
+		{
+			"name": "Forest-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/368_Forest-01.png"
+			}
+		},
+		{
+			"name": "Forest-03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/370_Forest-03.png"
+			}
+		},
+		{
+			"name": "Forest-02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/369_Forest-02.png"
+			}
+		},
+		{
+			"name": "Forest-04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "371",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/371_Forest-04.png"
+			}
+		},
+		{
+			"name": "Island-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/356_Island-01.png"
+			}
+		},
+		{
+			"name": "Island-03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/358_Island-03.png"
+			}
+		},
+		{
+			"name": "Island-02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/357_Island-02.png"
+			}
+		},
+		{
+			"name": "Island-04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/359_Island-04.png"
+			}
+		},
+		{
+			"name": "Mountain-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/364_Mountain-01.png"
+			}
+		},
+		{
+			"name": "Mountain-02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/365_Mountain-02.png"
+			}
+		},
+		{
+			"name": "Mountain-03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/366_Mountain-03.png"
+			}
+		},
+		{
+			"name": "Mountain-04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/367_Mountain-04.png"
+			}
+		},
+		{
+			"name": "Plains-04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/355_Plains-04.png"
+			}
+		},
+		{
+			"name": "Plains-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/352_Plains-01.png"
+			}
+		},
+		{
+			"name": "Plains-03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/354_Plains-03.png"
+			}
+		},
+		{
+			"name": "Plains-02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/353_Plains-02.png"
+			}
+		},
+		{
+			"name": "Swamp-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/360_Swamp-01.png"
+			}
+		},
+		{
+			"name": "Swamp-03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/362_Swamp-03.png"
+			}
+		},
+		{
+			"name": "Swamp-02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/361_Swamp-02.png"
+			}
+		},
+		{
+			"name": "Swamp-04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/363_Swamp-04.png"
+			}
+		},
+		{
+			"name": "Healing Counter",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Reminder",
+			"collector_number": "377",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/377_Healing Counter.png"
+			}
+		},
+		{
+			"name": "Stun Counter",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Reminder",
+			"collector_number": "376",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/376_Stun Counter.png"
+			}
+		},
+		{
+			"name": "plus one plus one counter",
+			"rarity": "special",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Reminder",
+			"collector_number": "378",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/378_plus one plus one counter.png"
+			}
+		},
+		{
+			"name": "Iconic Challenger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Enchantment Creature — Icon Warrior",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/244_Iconic Challenger.png"
+			}
+		},
+		{
+			"name": "Unweave",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Instant",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/271_Unweave.png"
+			}
+		},
+		{
+			"name": "Concealing Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}",
+			"type": "Enchantment — Realm",
+			"collector_number": "233",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/233_Concealing Ruins_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/233_Concealing Ruins_front.png"
+			}
+		},
+		{
+			"name": "Blade Reifier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}",
+			"type": "Creature — Cat Wizard",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/227_Blade Reifier.png"
+			}
+		},
+		{
+			"name": "Ignelscor Witch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/245_Ignelscor Witch.png"
+			}
+		},
+		{
+			"name": "Kornas Forward",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}",
+			"type": "Creature — Wurm Scout",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/250_Kornas Forward.png"
+			}
+		},
+		{
+			"name": "Meirel Evacuator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}{I}",
+			"type": "Creature — Hyena Scout",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/256_Meirel Evacuator.png"
+			}
+		},
+		{
+			"name": "Unending Exploration",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}{I}",
+			"type": "Enchantment",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/270_Unending Exploration.png"
+			}
+		},
+		{
+			"name": "Cascading Cleave",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Cascading Cleave.png"
+			}
+		},
+		{
+			"name": "Persisting Timepiece",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Kindred Land — Scout",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Persisting Timepiece.png"
+			}
+		},
+		{
+			"name": "Vineglare Enclave",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Vineglare Enclave.png"
+			}
+		},
+		{
+			"name": "Inkblot Artist",
+			"rarity": "uncommon",
+			"mana_cost": "{I}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/246_Inkblot Artist.png"
+			}
+		},
+		{
+			"name": "Reflected Inclination",
+			"rarity": "uncommon",
+			"mana_cost": "{I}",
+			"type": "Creature — Elemental",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/266_Reflected Inclination.png"
+			}
+		},
+		{
+			"name": "Wandering Travellers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Human",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/272_Wandering Travellers.png"
+			}
+		},
+		{
+			"name": "Bloomrock Enclave",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Bloomrock Enclave.png"
+			}
+		},
+		{
+			"name": "Brightblossom Enclave",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Brightblossom Enclave.png"
+			}
+		},
+		{
+			"name": "Dawnbreak Resort",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Dawnbreak Resort.png"
+			}
+		},
+		{
+			"name": "Devoted Riftpike",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Kindred Land — Bird",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Devoted Riftpike.png"
+			}
+		},
+		{
+			"name": "Errant Pillar",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Kindred Land — Minotaur",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Errant Pillar.png"
+			}
+		},
+		{
+			"name": "Exhausting Foundation",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Kindred Land — Icon",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Exhausting Foundation.png"
+			}
+		},
+		{
+			"name": "Glowspore Enclave",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Glowspore Enclave.png"
+			}
+		},
+		{
+			"name": "Hostile Pillars",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Hostile Pillars.png"
+			}
+		},
+		{
+			"name": "Listless Monument",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Kindred Land — Bear",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Listless Monument.png"
+			}
+		},
+		{
+			"name": "Mistlake Enclave",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Mistlake Enclave.png"
+			}
+		},
+		{
+			"name": "Moonglow Enclave",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Moonglow Enclave.png"
+			}
+		},
+		{
+			"name": "Ominous Temple",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Kindred Land — Warrior",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Ominous Temple.png"
+			}
+		},
+		{
+			"name": "Roaming Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Kindred Land — Human",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Roaming Ruins.png"
+			}
+		},
+		{
+			"name": "Soaring Tethers",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Soaring Tethers.png"
+			}
+		},
+		{
+			"name": "Sunswept Prairie",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Sunswept Prairie.png"
+			}
+		},
+		{
+			"name": "Thyrsine Way",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Thyrsine Way.png"
+			}
+		},
+		{
+			"name": "Vibrant Knoll",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Vibrant Knoll.png"
+			}
+		},
+		{
+			"name": "Windy Weft",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Frontier Mountain",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Windy Weft.png"
+			}
+		},
+		{
+			"name": "Binding Pools",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Binding Pools.png"
+			}
+		},
+		{
+			"name": "Frontier Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Frontier Sanctuary",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Frontier Sanctuary.png"
+			}
+		},
+		{
+			"name": "Mirdrim Summit",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Mirdrim Summit.png"
+			}
+		},
+		{
+			"name": "Splitting Caldera",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Splitting Caldera.png"
+			}
+		},
+		{
+			"name": "Winnowing Tower",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Kindred Land — Whale",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Winnowing Tower.png"
+			}
+		},
+		{
+			"name": "Tavern Sanctum",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/351_Tavern Sanctum.png"
+			}
+		},
+		{
+			"name": "Bosket Peak",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Realm",
+			"collector_number": "142",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/142_Bosket Peak_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/142_Bosket Peak_front.png"
+			}
+		},
+		{
+			"name": "Orb Wizard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Orb Wizard",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/47_Orb Wizard.png"
+			}
+		},
+		{
+			"name": "Outlands Recruiter",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment Creature — Icon Bird",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/45_Outlands Recruiter.png"
+			}
+		},
+		{
+			"name": "Julius Skyknight of Morriare",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Mouse Bird Knight",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/34_Julius Skyknight of Morriare.png"
+			}
+		},
+		{
+			"name": "Yearn for the Sky",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/57_Yearn for the Sky.png"
+			}
+		},
+		{
+			"name": "Marching Partisan",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Icon Warrior",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/37_Marching Partisan.png"
+			}
+		},
+		{
+			"name": "Outland Riftsower",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Hyena Cleric",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/43_Outland Riftsower.png"
+			}
+		},
+		{
+			"name": "Clanless Tunneler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Wurm Scout",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/20_Clanless Tunneler.png"
+			}
+		},
+		{
+			"name": "Coalesced Company",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment Creature — Icon Wurm",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/22_Coalesced Company.png"
+			}
+		},
+		{
+			"name": "Inspiring Dunes",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/32_Inspiring Dunes.png"
+			}
+		},
+		{
+			"name": "Hengs Intercession",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/29_Hengs Intercession.png"
+			}
+		},
+		{
+			"name": "Mentor of Engagement",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Wurm Advisor",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/40_Mentor of Engagement.png"
+			}
+		},
+		{
+			"name": "Winding Guide",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Wurm Dragon",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/56_Winding Guide.png"
+			}
+		},
+		{
+			"name": "Safeguarded Pair",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Wurm Human Warrior",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/51_Safeguarded Pair.png"
+			}
+		},
+		{
+			"name": "Peacewarden",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/48_Peacewarden.png"
+			}
+		},
+		{
+			"name": "Chimarel Clearing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Realm",
+			"collector_number": "19",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/19_Chimarel Clearing_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/19_Chimarel Clearing_front.png"
+			}
+		},
+		{
+			"name": "Ancient Sigils",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Realm",
+			"collector_number": "58",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/58_Ancient Sigils_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/58_Ancient Sigils_front.png"
+			}
+		},
+		{
+			"name": "Storm Striker",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Elf",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/90_Storm Striker.png"
+			}
+		},
+		{
+			"name": "Dreamgill Salamander",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Nightmare Salamander",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/67_Dreamgill Salamander.png"
+			}
+		},
+		{
+			"name": "Embracing Intonation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Beast Icon",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/68_Embracing Intonation.png"
+			}
+		},
+		{
+			"name": "Moonscale Koi",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Fish Wizard",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/77_Moonscale Koi.png"
+			}
+		},
+		{
+			"name": "Vertical Shift",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/95_Vertical Shift.png"
+			}
+		},
+		{
+			"name": "Waterscape Mystic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/97_Waterscape Mystic.png"
+			}
+		},
+		{
+			"name": "I Know What You Mean to Me",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/72_I Know What You Mean to Me.png"
+			}
+		},
+		{
+			"name": "Rest For a New World",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/84_Rest For a New World.png"
+			}
+		},
+		{
+			"name": "Relentless Spellseeker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/82_Relentless Spellseeker.png"
+			}
+		},
+		{
+			"name": "Cliffside Surveyor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Cat Scout",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/62_Cliffside Surveyor.png"
+			}
+		},
+		{
+			"name": "Skycliff Flow",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Realm",
+			"collector_number": "87",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/87_Skycliff Flow_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/87_Skycliff Flow_front.png"
+			}
+		},
+		{
+			"name": "Slipstream Cyprinus",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Kindred Enchantment — Fish Entity",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/88_Slipstream Cyprinus.png"
+			}
+		},
+		{
+			"name": "Mesmeric Peaks",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/75_Mesmeric Peaks.png"
+			}
+		},
+		{
+			"name": "Parasitic Roots",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/126_Parasitic Roots.png"
+			}
+		},
+		{
+			"name": "Howling Gasp",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Icon",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/114_Howling Gasp.png"
+			}
+		},
+		{
+			"name": "I Wont Stand Alone",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/115_I Wont Stand Alone.png"
+			}
+		},
+		{
+			"name": "Ditto Dagger",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Shapeshifter Insect",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/108_Ditto Dagger.png"
+			}
+		},
+		{
+			"name": "Lizturbance",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/120_Lizturbance.png"
+			}
+		},
+		{
+			"name": "Dissenting Experience",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/107_Dissenting Experience.png"
+			}
+		},
+		{
+			"name": "Omenspeaker Avakin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bird Wizard",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/124_Omenspeaker Avakin.png"
+			}
+		},
+		{
+			"name": "Your Strength is Fading",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/139_Your Strength is Fading.png"
+			}
+		},
+		{
+			"name": "Bloodstained Fields",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Realm",
+			"collector_number": "104",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/104_Bloodstained Fields_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/104_Bloodstained Fields_front.png"
+			}
+		},
+		{
+			"name": "Spire of Rebirth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/135_Spire of Rebirth.png"
+			}
+		},
+		{
+			"name": "Murkross Spiritcaller",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Spider",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/123_Murkross Spiritcaller.png"
+			}
+		},
+		{
+			"name": "Gold-Streaked Obelisks",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment — Realm",
+			"collector_number": "192",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/192_Gold-Streaked Obelisks_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/192_Gold-Streaked Obelisks_front.png"
+			}
+		},
+		{
+			"name": "Fervent Canyon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Realm",
+			"collector_number": "152",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/152_Fervent Canyon_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/152_Fervent Canyon_front.png"
+			}
+		},
+		{
+			"name": "Ignelscor Jidiao",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Dragon Turtle",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/116_Ignelscor Jidiao.png"
+			}
+		},
+		{
+			"name": "Boundless Hollow",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/105_Boundless Hollow.png"
+			}
+		},
+		{
+			"name": "Rend Hope",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/131_Rend Hope.png"
+			}
+		},
+		{
+			"name": "Awakened Wurm",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Wurm Dragon",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/103_Awakened Wurm.png"
+			}
+		},
+		{
+			"name": "Moonlit Congregation",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Realm",
+			"collector_number": "122",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/122_Moonlit Congregation_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/122_Moonlit Congregation_front.png"
+			}
+		},
+		{
+			"name": "Bare Your Fangs",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/140_Bare Your Fangs.png"
+			}
+		},
+		{
+			"name": "Lost Sunset",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment Creature — Icon",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/158_Lost Sunset.png"
+			}
+		},
+		{
+			"name": "Counterinsurgency",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/146_Counterinsurgency.png"
+			}
+		},
+		{
+			"name": "Haphazard and Unbound",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/156_Haphazard and Unbound.png"
+			}
+		},
+		{
+			"name": "New Mordel Fireweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/163_New Mordel Fireweaver.png"
+			}
+		},
+		{
+			"name": "Seasoned Flamefinder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Fox Wizard",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/169_Seasoned Flamefinder.png"
+			}
+		},
+		{
+			"name": "Broodmages Furor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/143_Broodmages Furor.png"
+			}
+		},
+		{
+			"name": "Our March Wont End",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/164_Our March Wont End.png"
+			}
+		},
+		{
+			"name": "Call to Revolution",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/144_Call to Revolution.png"
+			}
+		},
+		{
+			"name": "Shimmer From Beyond",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/171_Shimmer From Beyond.png"
+			}
+		},
+		{
+			"name": "Encouraging Passage",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/151_Encouraging Passage.png"
+			}
+		},
+		{
+			"name": "Fritter Skitter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Insect Demon",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/155_Fritter Skitter.png"
+			}
+		},
+		{
+			"name": "Dawncoil Burnisher",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Wurm Dragon",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/148_Dawncoil Burnisher.png"
+			}
+		},
+		{
+			"name": "Ranging Symbiote",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/208_Ranging Symbiote.png"
+			}
+		},
+		{
+			"name": "Leyline Weaver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Treefolk Druid",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/198_Leyline Weaver.png"
+			}
+		},
+		{
+			"name": "Murkross Shaman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/201_Murkross Shaman.png"
+			}
+		},
+		{
+			"name": "Virulent Attendant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Icon Rat",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/220_Virulent Attendant.png"
+			}
+		},
+		{
+			"name": "Cervus Sprouting",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/182_Cervus Sprouting.png"
+			}
+		},
+		{
+			"name": "Unexpected Predator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Salamander",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/219_Unexpected Predator.png"
+			}
+		},
+		{
+			"name": "Cartographers Survey",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/181_Cartographers Survey.png"
+			}
+		},
+		{
+			"name": "Hunters Strength",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/194_Hunters Strength.png"
+			}
+		},
+		{
+			"name": "Keras Appointed",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Treefolk Warrior",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/196_Keras Appointed.png"
+			}
+		},
+		{
+			"name": "Nurtured Landscape",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/203_Nurtured Landscape.png"
+			}
+		},
+		{
+			"name": "Outlands Caretaker",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/205_Outlands Caretaker.png"
+			}
+		},
+		{
+			"name": "Snowscaper Bakunawa",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/212_Snowscaper Bakunawa.png"
+			}
+		},
+		{
+			"name": "Awakened Reactionary",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{G}",
+			"type": "Enchantment Creature — Icon Dryad",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/178_Awakened Reactionary.png"
+			}
+		},
+		{
+			"name": "Crustacean Surge",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/184_Crustacean Surge.png"
+			}
+		},
+		{
+			"name": "Extraplanar Portal",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/332_Extraplanar Portal.png"
+			}
+		},
+		{
+			"name": "Soul Shatter",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/134_Soul Shatter.png"
+			}
+		},
+		{
+			"name": "Korna Adventuring Historian",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Enchantment — Wurm Entity",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/301_Korna Adventuring Historian.png"
+			}
+		},
+		{
+			"name": "Zoslera Exiled Visionary",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Planeswalker — Zoslera",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/328_Zoslera Exiled Visionary.png"
+			}
+		},
+		{
+			"name": "Trade Routes",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/92_Trade Routes.png"
+			}
+		},
+		{
+			"name": "Where Our Paths Meet",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/222_Where Our Paths Meet.png"
+			}
+		},
+		{
+			"name": "Aurel Born Through Discord",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/275_Aurel Born Through Discord.png"
+			}
+		},
+		{
+			"name": "Sonnet Meirel Lancer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Fox Warrior",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/52_Sonnet Meirel Lancer.png"
+			}
+		},
+		{
+			"name": "Marie Hungerbound",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Planeswalker — Marie",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/10_Marie Hungerbound.png"
+			}
+		},
+		{
+			"name": "Skyskif Flying Fish",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Fish Wizard",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/323_Skyskif Flying Fish.png"
+			}
+		},
+		{
+			"name": "Gael Spiteflame Phoenix",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Phoenix",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/292_Gael Spiteflame Phoenix.png"
+			}
+		},
+		{
+			"name": "Jothi Awakened Flock",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Planeswalker — Jothi",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/299_Jothi Awakened Flock.png"
+			}
+		},
+		{
+			"name": "Jothi",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Planeswalker — Jothi",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/33_Jothi.png"
+			}
+		},
+		{
+			"name": "Tofnet Ranger",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Elf Ranger",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/217_Tofnet Ranger.png"
+			}
+		},
+		{
+			"name": "Axoladen Adventurer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Wurm Salamander",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/180_Axoladen Adventurer.png"
+			}
+		},
+		{
+			"name": "Lasting Discovery",
+			"rarity": "rare",
+			"mana_cost": "{X}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/8_Lasting Discovery.png"
+			}
+		},
+		{
+			"name": "Trailing Tethers",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Jellyfish Reflection",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/93_Trailing Tethers.png"
+			}
+		},
+		{
+			"name": "Prismatic Drake",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/80_Prismatic Drake.png"
+			}
+		},
+		{
+			"name": "Ikorian Skyshark",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Shark",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/298_Ikorian Skyshark.png"
+			}
+		},
+		{
+			"name": "Nirvanha Bloom",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/12_Nirvanha Bloom.png"
+			}
+		},
+		{
+			"name": "Forgiving Monument",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/6_Forgiving Monument.png"
+			}
+		},
+		{
+			"name": "I Will Walk My Own Path",
+			"rarity": "mythic",
+			"mana_cost": "{4}{I}{I}",
+			"type": "Enchantment",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/243_I Will Walk My Own Path.png"
+			}
+		},
+		{
+			"name": "Pathshaping",
+			"rarity": "rare",
+			"mana_cost": "{1}{I}",
+			"type": "Sorcery",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/261_Pathshaping.png"
+			}
+		},
+		{
+			"name": "Kaln-Ocean Streamliner",
+			"rarity": "rare",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/248_Kaln-Ocean Streamliner.png"
+			}
+		},
+		{
+			"name": "Soaring Chorus",
+			"rarity": "rare",
+			"mana_cost": "{1}{I}",
+			"type": "Enchamtment Creature — Icon Wizard",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/268_Soaring Chorus.png"
+			}
+		},
+		{
+			"name": "Shrouded Pathcensor",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}",
+			"type": "Creature — Bird Wizard",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/267_Shrouded Pathcensor.png"
+			}
+		},
+		{
+			"name": "Chirps Spice Seeker",
+			"rarity": "rare",
+			"mana_cost": "{3}{I}",
+			"type": "Legendary Enchantment Creature — Bird",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/232_Chirps Spice Seeker.png"
+			}
+		},
+		{
+			"name": "Melodia Explorer at Heart",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}{I}",
+			"type": "Legendary Enchantment Creature — Human Wizard",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/257_Melodia Explorer at Heart.png"
+			}
+		},
+		{
+			"name": "Outlands Chimera",
+			"rarity": "mythic",
+			"mana_cost": "{3}{I}{I}",
+			"type": "Creature — Chimera",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/259_Outlands Chimera.png"
+			}
+		},
+		{
+			"name": "Lisse Bound by the King",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Zombie Cleric",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/118_Lisse Bound by the King.png"
+			}
+		},
+		{
+			"name": "Lorenz Ascendant King of Alira",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/74_Lorenz Ascendant King of Alira.png"
+			}
+		},
+		{
+			"name": "Soul of Vinimroth",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/17_Soul of Vinimroth.png"
+			}
+		},
+		{
+			"name": "Starling",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}{I}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/269_Starling.png"
+			}
+		},
+		{
+			"name": "Cerise Auger of Flow",
+			"rarity": "rare",
+			"mana_cost": "{1}{I}{W}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/281_Cerise Auger of Flow.png"
+			}
+		},
+		{
+			"name": "Realmshaper",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/333_Realmshaper.png"
+			}
+		},
+		{
+			"name": "Campsite",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/329_Campsite.png"
+			}
+		},
+		{
+			"name": "Starfall Outlook",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment — Realm",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/89_Starfall Outlook.png"
+			}
+		},
+		{
+			"name": "The Calm Belt",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Enchantment — Realm",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/3_The Calm Belt.png"
+			}
+		},
+		{
+			"name": "Wavehorn, Great Winding Wizard",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Wurm Wizard",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/98_Wavehorn, Great Winding Wizard.png"
+			}
+		},
+		{
+			"name": "Heng Hien Reifer of Justice",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Planeswalker — Heng",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/293_Heng Hien Reifer of Justice.png"
+			}
+		},
+		{
+			"name": "Kera, Mordel's New Hope",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/23_Kera, Mordel's New Hope.png"
+			}
+		},
+		{
+			"name": "Mordel Civil War",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Battle — Siege",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/159_Mordel Civil War.png"
+			}
+		},
+		{
+			"name": "Resurrection Pools",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Realm",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/49_Resurrection Pools.png"
+			}
+		},
+		{
+			"name": "Themia, Steward of Sanctity",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "54",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/54_Themia, Steward of Sanctity_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/54_Themia, Steward of Sanctity_front.png"
+			}
+		},
+		{
+			"name": "Zesha, Dream Hedonist",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Nightmare",
+			"collector_number": "99",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/99_Zesha, Dream Hedonist_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/99_Zesha, Dream Hedonist_front.png"
+			}
+		},
+		{
+			"name": "Lisse Hope Through Sin",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Demon Cleric",
+			"collector_number": "119",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/119_Lisse Hope Through Sin_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/119_Lisse Hope Through Sin_front.png"
+			}
+		},
+		{
+			"name": "Argent, Flash of Mirdrim",
+			"rarity": "mythic",
+			"mana_cost": "{4}{I}{I}",
+			"type": "Legendary Creature — Drake",
+			"collector_number": "225",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/225_Argent, Flash of Mirdrim_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/225_Argent, Flash of Mirdrim_front.png"
+			}
+		},
+		{
+			"name": "Maal and Sevol, Twin Sentries",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "9",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/9_Maal and Sevol, Twin Sentries_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/9_Maal and Sevol, Twin Sentries_front.png"
+			}
+		},
+		{
+			"name": "Scout, Maw of the Moon",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Legendary Creature — Dog",
+			"collector_number": "168",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/168_Scout, Maw of the Moon_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/168_Scout, Maw of the Moon_front.png"
+			}
+		},
+		{
+			"name": "Prophellos, Hungering Manipulator",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Creature — God",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/15_Prophellos, Hungering Manipulator.png"
+			}
+		},
+		{
+			"name": "Reichen, Verdant Guard",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "209",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/209_Reichen, Verdant Guard_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/209_Reichen, Verdant Guard_front.png"
+			}
+		},
+		{
+			"name": "The Shattering of Meirel",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/16_The Shattering of Meirel.png"
+			}
+		},
+		{
+			"name": "Luminous in All Colors",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Reminder",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/41_Luminous in All Colors.png"
+			}
+		},
+		{
+			"name": "Sanctum Trader",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dinosaur Advisor",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/167_Sanctum Trader.png"
+			}
+		},
+		{
+			"name": "Mass Mutation",
+			"rarity": "rare",
+			"mana_cost": "{1}{I}{I}",
+			"type": "Sorcery",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/254_Mass Mutation.png"
+			}
+		},
+		{
+			"name": "Ancient Interference",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}{I}",
+			"type": "Instant",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/224_Ancient Interference.png"
+			}
+		},
+		{
+			"name": "Probe the Veil",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}",
+			"type": "Sorcery",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/265_Probe the Veil.png"
+			}
+		},
+		{
+			"name": "Lithify",
+			"rarity": "rare",
+			"mana_cost": "{1}{I}",
+			"type": "Enchantment — Aura",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/252_Lithify.png"
+			}
+		},
+		{
+			"name": "Cascading Reflections",
+			"rarity": "rare",
+			"mana_cost": "{I}",
+			"type": "Instant",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/231_Cascading Reflections.png"
+			}
+		},
+		{
+			"name": "Shifting Spire",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/350_Shifting Spire.png"
+			}
+		},
+		{
+			"name": "Kindred Spirits",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}",
+			"type": "Enchantment",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/249_Kindred Spirits.png"
+			}
+		},
+		{
+			"name": "Liminal Ambiguity",
+			"rarity": "rare",
+			"mana_cost": "{X}{I}",
+			"type": "Instant",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/251_Liminal Ambiguity.png"
+			}
+		},
+		{
+			"name": "Experience Cultivator",
+			"rarity": "common",
+			"mana_cost": "{2}{I/G}",
+			"type": "Creature — Plant",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/287_Experience Cultivator.png"
+			}
+		},
+		{
+			"name": "Podinaetremata",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Zombie Shark Octopus",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/207_Podinaetremata.png"
+			}
+		},
+		{
+			"name": "A Flock is Born",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Kindred Sorcery — Bird",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/5_A Flock is Born.png"
+			}
+		},
+		{
+			"name": "Branching Paths",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/60_Branching Paths.png"
+			}
+		},
+		{
+			"name": "Meso Meso",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Bird Angel Orb",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/41_Meso Meso.png"
+			}
+		},
+		{
+			"name": "Defector of Mordel",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Minotaur Wizard",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/186_Defector of Mordel.png"
+			}
+		},
+		{
+			"name": "Jothi-01",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Token Creature — Bird",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/7_Jothi-01.png"
+			}
+		},
+		{
+			"name": "Exhuberant Genesis",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/191_Exhuberant Genesis.png"
+			}
+		},
+		{
+			"name": "Meirel Drifter (Luminous)",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Creature — Fox Scout",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/34_Meirel Drifter (Luminous).png"
+			}
+		},
+		{
+			"name": "Emergent Parasitism",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/189_Emergent Parasitism.png"
+			}
+		},
+		{
+			"name": "Mordel Peacekeeper",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Dryad Shaman",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/200_Mordel Peacekeeper.png"
+			}
+		},
+		{
+			"name": "Idol of Reconstruction",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Artifact",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/294_Idol of Reconstruction.png"
+			}
+		},
+		{
+			"name": "Called to Eternity",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}",
+			"type": "Enchantment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/229_Called to Eternity.png"
+			}
+		},
+		{
+			"name": "Shifting Dream",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment Creature — Icon Wizard",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/86_Shifting Dream.png"
+			}
+		},
+		{
+			"name": "Abandoned Sanctum",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/335_Abandoned Sanctum.png"
+			}
+		},
+		{
+			"name": "Parallellism",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}",
+			"type": "Enchantment",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/260_Parallellism.png"
+			}
+		},
+		{
+			"name": "Kalim, Shivta's Ear",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}{I}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/247_Kalim, Shivta's Ear.png"
+			}
+		},
+		{
+			"name": "Avlod Charm",
+			"rarity": "rare",
+			"mana_cost": "{I}{U}{B}",
+			"type": "Instant",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/276_Avlod Charm.png"
+			}
+		},
+		{
+			"name": "Gluttony",
+			"rarity": "rare",
+			"mana_cost": "{3}{I}",
+			"type": "Creature — Eye Incarnation",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/241_Gluttony.png"
+			}
+		},
+		{
+			"name": "Personal Sins",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/317_Personal Sins.png"
+			}
+		},
+		{
+			"name": "Bone Salesman",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Dinosaur Advisor",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/278_Bone Salesman.png"
+			}
+		},
+		{
+			"name": "Mordel Charm",
+			"rarity": "rare",
+			"mana_cost": "{I}{R}{G}",
+			"type": "Instant",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/308_Mordel Charm.png"
+			}
+		},
+		{
+			"name": "Fadove Charm",
+			"rarity": "rare",
+			"mana_cost": "{I}{W}{U}",
+			"type": "Instant",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/288_Fadove Charm.png"
+			}
+		},
+		{
+			"name": "Longneck Marketwatch",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Dinosaur Soldier Advisor",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/303_Longneck Marketwatch.png"
+			}
+		},
+		{
+			"name": "Fossil Laundering",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/112_Fossil Laundering.png"
+			}
+		},
+		{
+			"name": "Continuity Gap",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/64_Continuity Gap.png"
+			}
+		},
+		{
+			"name": "Market Negotiator",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Dinosaur Advisor",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/304_Market Negotiator.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/46_Food.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/44_Blood.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/45_Clue.png"
+			}
+		},
+		{
+			"name": "Burgeoning Town",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/342_Burgeoning Town.png"
+			}
+		},
+		{
+			"name": "Burgeoning Mindscape",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/337_Burgeoning Mindscape.png"
+			}
+		},
+		{
+			"name": "Burgeoning Pith",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/340_Burgeoning Pith.png"
+			}
+		},
+		{
+			"name": "Burgeoning Rockfall",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/341_Burgeoning Rockfall.png"
+			}
+		},
+		{
+			"name": "Burgeoning Jungle",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/336_Burgeoning Jungle.png"
+			}
+		},
+		{
+			"name": "Burgeoning Peaks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/339_Burgeoning Peaks.png"
+			}
+		},
+		{
+			"name": "Burgeoning Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Frontier",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/338_Burgeoning Path.png"
+			}
+		},
+		{
+			"name": "Drifting Crevasse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/343_Drifting Crevasse.png"
+			}
+		},
+		{
+			"name": "Drifting Field",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/344_Drifting Field.png"
+			}
+		},
+		{
+			"name": "Drifting Isle",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/345_Drifting Isle.png"
+			}
+		},
+		{
+			"name": "Drifting Jungle",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/346_Drifting Jungle.png"
+			}
+		},
+		{
+			"name": "Drifting Mire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/347_Drifting Mire.png"
+			}
+		},
+		{
+			"name": "Drifting Peak",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/348_Drifting Peak.png"
+			}
+		},
+		{
+			"name": "Drifting Sands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/349_Drifting Sands.png"
+			}
+		},
+		{
+			"name": "Outlands Charm",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/13_Outlands Charm.png"
+			}
+		},
+		{
+			"name": "Deino Charm",
+			"rarity": "rare",
+			"mana_cost": "{I}{G}{W}",
+			"type": "Instant",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/284_Deino Charm.png"
+			}
+		},
+		{
+			"name": "Ignelscor Charm",
+			"rarity": "rare",
+			"mana_cost": "{I}{B}{R}",
+			"type": "Instant",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/295_Ignelscor Charm.png"
+			}
+		},
+		{
+			"name": "Magic of Ignelscor",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/121_Magic of Ignelscor.png"
+			}
+		},
+		{
+			"name": "Call of Ancestry",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Kindred Enchantment — Dragon Realm",
+			"collector_number": "2",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/FOE-files/img/2_Call of Ancestry_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/2_Call of Ancestry_front.png"
+			}
+		},
+		{
+			"name": "Shivta, Vinimroth's Blade",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Bird Advisor",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/321_Shivta, Vinimroth's Blade.png"
+			}
+		},
+		{
+			"name": "Flying Counter",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/291_Flying Counter.png"
+			}
+		},
+		{
+			"name": "Tangled Heart",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/136_Tangled Heart.png"
+			}
+		},
+		{
+			"name": "Numa, On Hope's Trail",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Human Nomad",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/312_Numa, On Hope's Trail.png"
+			}
+		},
+		{
+			"name": "Goat Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Goat",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/38_Goat Token.png"
+			}
+		},
+		{
+			"name": "Carrigol Tender",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/106_Carrigol Tender.png"
+			}
+		},
+		{
+			"name": "Heron Drake",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Bird Drake",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/30_Heron Drake.png"
+			}
+		},
+		{
+			"name": "Reid, Unrelenting Dias",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Skeleton Knight",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/210_Reid, Unrelenting Dias.png"
+			}
+		},
+		{
+			"name": "Murkross's Hold",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/202_Murkross's Hold.png"
+			}
+		},
+		{
+			"name": "Late-Leaf Elk",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/197_Late-Leaf Elk.png"
+			}
+		},
+		{
+			"name": "Deeplost Traveller",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Bird Scout",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/185_Deeplost Traveller.png"
+			}
+		},
+		{
+			"name": "Awakened Titan",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Demon Construct",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/179_Awakened Titan.png"
+			}
+		},
+		{
+			"name": "Jura",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Land Token",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/49_Jura.png"
+			}
+		},
+		{
+			"name": "Marblewrought Titan",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact Creature — Demon Construct",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/36_Marblewrought Titan.png"
+			}
+		},
+		{
+			"name": "Coven of the Black Sun",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/23_Coven of the Black Sun.png"
+			}
+		},
+		{
+			"name": "Poison Pincher",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Crab",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/129_Poison Pincher.png"
+			}
+		},
+		{
+			"name": "Radioactive Rumna",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Zombie",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/166_Radioactive Rumna.png"
+			}
+		},
+		{
+			"name": "Oracle of Multaph",
+			"rarity": "rare",
+			"mana_cost": "{I}{U}{B}",
+			"type": "Legendary Planeswalker — Pramma",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/314_Oracle of Multaph.png"
+			}
+		},
+		{
+			"name": "Faloden Barrier Scout",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Drake Scout",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/27_Faloden Barrier Scout.png"
+			}
+		},
+		{
+			"name": "Kaln-Ocean Seahorse",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/73_Kaln-Ocean Seahorse.png"
+			}
+		},
+		{
+			"name": "Coralwisp Entity",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Kindred Enchantment — Cat Entity",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/65_Coralwisp Entity.png"
+			}
+		},
+		{
+			"name": "Warpath Wurm",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Uk",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/176_Warpath Wurm.png"
+			}
+		},
+		{
+			"name": "Miori, Outlands Future",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Planeswalker — Miori",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/307_Miori, Outlands Future.png"
+			}
+		},
+		{
+			"name": "Terramorphic Singularity",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment Creature — Icon Warrior",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/174_Terramorphic Singularity.png"
+			}
+		},
+		{
+			"name": "Form of the Paths",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/154_Form of the Paths.png"
+			}
+		},
+		{
+			"name": "Stinging Surveyor",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Insect Robot",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/173_Stinging Surveyor.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Binding Pools
+	2 Frontier Sanctuary
+	2 Mirdrim Summit
+	2 Splitting Caldera
+	2 Winnowing Tower
+	1 Tavern Sanctum
+	2 Extraplanar Portal
+	2 Soul Shatter
+	2 Korna Adventuring Historian
+	2 Zoslera Exiled Visionary
+	2 Trade Routes
+	2 Where Our Paths Meet
+	2 Aurel Born Through Discord
+	2 Sonnet Meirel Lancer
+	1 Marie Hungerbound
+	2 Skyskif Flying Fish
+	2 Gael Spiteflame Phoenix
+	2 Jothi Awakened Flock
+	2 Jothi
+	2 Tofnet Ranger
+	2 Axoladen Adventurer
+	2 Lasting Discovery
+	2 Trailing Tethers
+	2 Prismatic Drake
+	2 Ikorian Skyshark
+	2 Nirvanha Bloom
+	1 Forgiving Monument
+	1 I Will Walk My Own Path
+	2 Pathshaping
+	2 Kaln-Ocean Streamliner
+	2 Soaring Chorus
+	2 Shrouded Pathcensor
+	2 Chirps Spice Seeker
+	2 Melodia Explorer at Heart
+	1 Outlands Chimera
+	2 Lisse Bound by the King
+	2 Lorenz Ascendant King of Alira
+	2 Soul of Vinimroth
+	2 Starling
+	2 Cerise Auger of Flow
+	2 Realmshaper
+	2 Campsite
+	2 Starfall Outlook
+	2 The Calm Belt
+	2 Wavehorn, Great Winding Wizard
+	2 Heng Hien Reifer of Justice
+	2 Mordel Civil War
+	2 Resurrection Pools
+	1 Themia, Steward of Sanctity
+	1 Zesha, Dream Hedonist
+	1 Lisse Hope Through Sin
+	1 Argent, Flash of Mirdrim
+	1 Maal and Sevol, Twin Sentries
+	1 Scout, Maw of the Moon
+	1 Prophellos, Hungering Manipulator
+	1 Reichen, Verdant Guard
+	1 The Shattering of Meirel
+	2 Sanctum Trader
+	2 Mass Mutation
+	2 Ancient Interference
+	2 Probe the Veil
+	2 Lithify
+	2 Cascading Reflections
+	1 Shifting Spire
+	2 Kindred Spirits
+	2 Liminal Ambiguity
+	2 Podinaetremata
+	2 A Flock is Born
+	2 Branching Paths
+	2 Meso Meso
+	2 Defector of Mordel
+	2 Exhuberant Genesis
+	2 Emergent Parasitism
+	2 Mordel Peacekeeper
+	2 Idol of Reconstruction
+	2 Called to Eternity
+	2 Shifting Dream
+	2 Parallellism
+	2 Kalim, Shivta's Ear
+	2 Avlod Charm
+	2 Gluttony
+	2 Personal Sins
+	2 Bone Salesman
+	2 Mordel Charm
+	2 Fadove Charm
+	2 Longneck Marketwatch
+	2 Fossil Laundering
+	2 Continuity Gap
+	2 Market Negotiator
+	2 Burgeoning Town
+	2 Burgeoning Mindscape
+	2 Burgeoning Pith
+	2 Burgeoning Rockfall
+	2 Burgeoning Jungle
+	2 Burgeoning Peaks
+	2 Burgeoning Path
+	2 Outlands Charm
+	2 Deino Charm
+	2 Ignelscor Charm
+	2 Magic of Ignelscor
+	2 Call of Ancestry
+	2 Shivta, Vinimroth's Blade
+	2 Tangled Heart
+	2 Numa, On Hope's Trail
+	2 Carrigol Tender
+	2 Heron Drake
+	2 Reid, Unrelenting Dias
+	2 Murkross's Hold
+	2 Late-Leaf Elk
+	2 Deeplost Traveller
+	2 Awakened Titan
+	2 Marblewrought Titan
+	2 Coven of the Black Sun
+	2 Poison Pincher
+	2 Radioactive Rumna
+	2 Oracle of Multaph
+	2 Faloden Barrier Scout
+	2 Kaln-Ocean Seahorse
+	2 Coralwisp Entity
+	2 Warpath Wurm
+	2 Miori, Outlands Future
+	2 Terramorphic Singularity
+	2 Form of the Paths
+	2 Stinging Surveyor
+[uncommon(3)]
+	4 Perspective Shift
+	4 Morraire Shimmer Patrol
+	4 Coiling Jailer
+	4 Sisters in Sorrow
+	4 Feather Piper
+	4 Whisperer of the Paths
+	4 Sunlace Panthera
+	4 Shadow of Grace
+	4 Latent Powerstone
+	4 Pathward Riftcalling
+	4 Menithel Demon
+	4 Cydina Storm Drake
+	4 Flowsnail
+	4 Mordel Spiritcaller
+	4 Ignelscor Frontliner
+	4 Promise of Hunger
+	4 Balutr Runners
+	4 Drake Mentor
+	4 Boundless Flight
+	4 Upsurge Nemato-Gnathi
+	4 Duraval Starmapper
+	4 Kaln-Ocean Harmonizer
+	4 Outlands Duelists
+	4 Meirel Pathrunner
+	4 Those Lost in the Paths
+	4 Calamitous Koi
+	4 Omen of Hunger
+	4 Ardent Grief
+	4 Ignelscor Weaver
+	4 Mourncast Disciple
+	4 Remnants of the War
+	4 Monument to Forever
+	4 Kilnhart Smoghorn
+	4 Ambitious Haze
+	4 Drakesteel Effigy
+	4 Clerics Claymore
+	4 Crystalline Refraction
+	4 Homestead Pair
+	4 Discover Uncertainty
+	4 Iconic Challenger
+	4 Unweave
+	4 Concealing Ruins
+	4 Blade Reifier
+	4 Ignelscor Witch
+	4 Kornas Forward
+	4 Meirel Evacuator
+	4 Unending Exploration
+	4 Cascading Cleave
+	4 Persisting Timepiece
+	4 Vineglare Enclave
+	4 Inkblot Artist
+	4 Reflected Inclination
+	4 Wandering Travellers
+	4 Bloomrock Enclave
+	4 Brightblossom Enclave
+	4 Dawnbreak Resort
+	4 Devoted Riftpike
+	4 Errant Pillar
+	4 Exhausting Foundation
+	4 Glowspore Enclave
+	4 Hostile Pillars
+	4 Listless Monument
+	4 Mistlake Enclave
+	4 Moonglow Enclave
+	4 Ominous Temple
+	4 Roaming Ruins
+	4 Soaring Tethers
+	4 Sunswept Prairie
+	4 Thyrsine Way
+	4 Vibrant Knoll
+	4 Windy Weft
+	4 Outlands Recruiter
+	4 Julius Skyknight of Morriare
+	4 Yearn for the Sky
+	4 Marching Partisan
+	4 Outland Riftsower
+	4 Clanless Tunneler
+	4 Coalesced Company
+	4 Inspiring Dunes
+	4 Hengs Intercession
+	4 Mentor of Engagement
+	4 Winding Guide
+	4 Safeguarded Pair
+	4 Peacewarden
+	4 Chimarel Clearing
+	4 Ancient Sigils
+	4 Storm Striker
+	4 Dreamgill Salamander
+	4 Embracing Intonation
+	4 Moonscale Koi
+	4 Vertical Shift
+	4 Waterscape Mystic
+	4 I Know What You Mean to Me
+	4 Rest For a New World
+	4 Relentless Spellseeker
+	4 Cliffside Surveyor
+	4 Skycliff Flow
+	4 Slipstream Cyprinus
+	4 Mesmeric Peaks
+	4 Parasitic Roots
+	4 Howling Gasp
+	4 I Wont Stand Alone
+	4 Ditto Dagger
+	4 Lizturbance
+	4 Dissenting Experience
+	4 Omenspeaker Avakin
+	4 Your Strength is Fading
+	4 Bloodstained Fields
+	4 Spire of Rebirth
+	4 Murkross Spiritcaller
+	4 Gold-Streaked Obelisks
+	4 Fervent Canyon
+	4 Ignelscor Jidiao
+	4 Boundless Hollow
+	4 Rend Hope
+	4 Awakened Wurm
+	4 Moonlit Congregation
+	4 Bare Your Fangs
+	4 Lost Sunset
+	4 Counterinsurgency
+	4 Haphazard and Unbound
+	4 New Mordel Fireweaver
+	4 Seasoned Flamefinder
+	4 Broodmages Furor
+	4 Our March Wont End
+	4 Call to Revolution
+	4 Shimmer From Beyond
+	4 Encouraging Passage
+	4 Fritter Skitter
+	4 Dawncoil Burnisher
+	4 Ranging Symbiote
+	4 Leyline Weaver
+	4 Murkross Shaman
+	4 Virulent Attendant
+	4 Cervus Sprouting
+	4 Unexpected Predator
+	4 Cartographers Survey
+	4 Hunters Strength
+	4 Keras Appointed
+	4 Nurtured Landscape
+	4 Outlands Caretaker
+	4 Snowscaper Bakunawa
+	4 Awakened Reactionary
+	4 Crustacean Surge
+	4 Abandoned Sanctum
+[common(7)]
+	8 Rustic Cultivator
+	8 Wind Worn Peaks
+	8 Light of Hope
+	8 History's Weave
+	8 Fall Through Reality
+	8 Meirel Pathwalker
+	8 Staggering Spires
+	8 Pathfinder Wurm
+	8 Rising Haze
+	8 Meirel Caretaker
+	8 Outlands Rescinder
+	8 Outlander Mercenary
+	8 Fadove Lawkeeper
+	8 Fadove Air Supplier
+	8 Veteran Party
+	8 Cleric of the Dawn
+	8 Focus of Fadove
+	8 Outfoxed
+	8 Apprentices Drake
+	8 Crystalline Cover
+	8 Tiderock Passage
+	8 Fold the Truth
+	8 Consult Eternity
+	8 Pristine Denial
+	8 Reshape Eternity
+	8 Pathwrought Overseer
+	8 Veneer Walker
+	8 Outlands Trailblazer
+	8 Vestige Prowler
+	8 Ridgeback Dragonturtle
+	8 Bropheria
+	8 Gripping Truths
+	8 Migratory Flotilla
+	8 Fly Away With Me
+	8 Aspect of Moth
+	8 You Cant Face Me
+	8 Duskcharm Drake
+	8 Eroding River
+	8 Foolish Footing
+	8 Smogborn Pilferer
+	8 Avakin Trapper
+	8 Hedgecrow
+	8 Scaled Rippler
+	8 Left for the Crows
+	8 Relentless Truthseeker
+	8 Otherworldly Entrance
+	8 Pathborn Stinger
+	8 Voidborn Horror
+	8 Avakin Devotee
+	8 Pioneer's Premonition
+	8 Basalt Hammer
+	8 Clanless Combatant
+	8 Willbournes Flame
+	8 Fiery Absolver
+	8 Drougth Adventurer
+	8 Warforged Pair
+	8 Mordel Hammer
+	8 Pathborn Spitter
+	8 Mordel Flamespeaker
+	8 Drakes Intuition
+	8 Smelt Corruption
+	8 Mordel Shaper
+	8 Shifting Landscape
+	8 Depthscout
+	8 Disciple of the Thicket
+	8 Enduring Woodland
+	8 Surubim Harpoon
+	8 Meirel Traveller
+	8 Shard Bearer
+	8 Clanless Weaver
+	8 Illusion Reamer
+	8 Voice of the Thicket
+	8 Inspiring Recruit
+	8 Dance of Discovery
+	8 Outland Pair
+	8 Outlands Rescuer
+	8 Stand Your Ground
+	8 Guide With and Through
+	8 Teachings of the Coiled
+	8 The Strength to Overcome
+	8 Turbulent Aether
+	8 Dust Converter
+	8 Avakin Adventurer
+	8 Meirel Drifter
+	8 Pathworn Blade
+	8 Power from Beyond
+	8 Calign
+	8 Captivate
+	8 Adventurous Pair
+	8 Drougth Attuner
+	8 Enlisted Arms
+	8 Emigrating Pilgrim
+	8 Mana Compression
+	8 Drougth Oracle
+	8 Enlightening Crescents
+	8 Mutated Pioneer
+	8 Somber Marsh
+	8 Fiery Chasm
+	8 Barren Fissure
+	8 Sodden Cavern
+	8 Rainforest Spring
+	8 Roaring Cascade
+	8 Cleft River
+	8 Splintered Thicket
+	8 Carrigol Spires
+	8 Dawnshroud Castle
+	8 Formless Frontier
+	8 Glittering Vale
+	8 Sainard Boneyard
+	8 Soarwing Coast
+	8 Highland Vale
+	8 Tectonic Rime
+	8 Desolate Barrens
+	8 Tranquil Stream
+	8 Alpine Meadow
+	8 Jagged Crag
+	8 Crackling Expanse
+	8 Parading Terrain
+	8 When Words Dont Work
+	8 Bosket Peak
+	8 Experience Cultivator
+	8 Drifting Crevasse
+	8 Drifting Field
+	8 Drifting Isle
+	8 Drifting Jungle
+	8 Drifting Mire
+	8 Drifting Peak
+	8 Drifting Sands
+	8 Flying Counter
+[foil(1)]
+	12 Rustic Cultivator
+	12 Wind Worn Peaks
+	12 Light of Hope
+	12 History's Weave
+	12 Fall Through Reality
+	12 Meirel Pathwalker
+	12 Staggering Spires
+	12 Pathfinder Wurm
+	12 Rising Haze
+	12 Meirel Caretaker
+	12 Outlands Rescinder
+	12 Outlander Mercenary
+	12 Fadove Lawkeeper
+	12 Fadove Air Supplier
+	12 Veteran Party
+	12 Cleric of the Dawn
+	12 Focus of Fadove
+	12 Outfoxed
+	12 Apprentices Drake
+	12 Crystalline Cover
+	12 Tiderock Passage
+	12 Fold the Truth
+	12 Consult Eternity
+	12 Pristine Denial
+	12 Reshape Eternity
+	12 Pathwrought Overseer
+	12 Veneer Walker
+	12 Outlands Trailblazer
+	12 Vestige Prowler
+	12 Ridgeback Dragonturtle
+	12 Bropheria
+	12 Gripping Truths
+	12 Migratory Flotilla
+	12 Fly Away With Me
+	12 Aspect of Moth
+	12 You Cant Face Me
+	12 Duskcharm Drake
+	12 Eroding River
+	12 Foolish Footing
+	12 Smogborn Pilferer
+	12 Avakin Trapper
+	12 Hedgecrow
+	12 Scaled Rippler
+	12 Left for the Crows
+	12 Relentless Truthseeker
+	12 Otherworldly Entrance
+	12 Pathborn Stinger
+	12 Voidborn Horror
+	12 Avakin Devotee
+	12 Pioneer's Premonition
+	12 Basalt Hammer
+	12 Clanless Combatant
+	12 Willbournes Flame
+	12 Fiery Absolver
+	12 Drougth Adventurer
+	12 Warforged Pair
+	12 Mordel Hammer
+	12 Pathborn Spitter
+	12 Mordel Flamespeaker
+	12 Drakes Intuition
+	12 Smelt Corruption
+	12 Mordel Shaper
+	12 Shifting Landscape
+	12 Depthscout
+	12 Disciple of the Thicket
+	12 Enduring Woodland
+	12 Surubim Harpoon
+	12 Meirel Traveller
+	12 Shard Bearer
+	12 Clanless Weaver
+	12 Illusion Reamer
+	12 Voice of the Thicket
+	12 Inspiring Recruit
+	12 Dance of Discovery
+	12 Outland Pair
+	12 Outlands Rescuer
+	12 Stand Your Ground
+	12 Guide With and Through
+	12 Teachings of the Coiled
+	12 The Strength to Overcome
+	12 Turbulent Aether
+	12 Dust Converter
+	12 Avakin Adventurer
+	12 Meirel Drifter
+	12 Pathworn Blade
+	12 Power from Beyond
+	12 Calign
+	12 Captivate
+	12 Adventurous Pair
+	12 Drougth Attuner
+	6 Perspective Shift
+	12 Enlisted Arms
+	12 Emigrating Pilgrim
+	12 Mana Compression
+	12 Drougth Oracle
+	12 Enlightening Crescents
+	12 Mutated Pioneer
+	12 Somber Marsh
+	12 Fiery Chasm
+	12 Barren Fissure
+	12 Sodden Cavern
+	12 Rainforest Spring
+	12 Roaring Cascade
+	12 Cleft River
+	12 Splintered Thicket
+	12 Carrigol Spires
+	12 Dawnshroud Castle
+	12 Formless Frontier
+	12 Glittering Vale
+	12 Sainard Boneyard
+	12 Soarwing Coast
+	12 Highland Vale
+	12 Tectonic Rime
+	12 Desolate Barrens
+	12 Tranquil Stream
+	12 Alpine Meadow
+	12 Jagged Crag
+	12 Crackling Expanse
+	6 Morraire Shimmer Patrol
+	6 Coiling Jailer
+	6 Sisters in Sorrow
+	6 Feather Piper
+	6 Whisperer of the Paths
+	6 Sunlace Panthera
+	6 Shadow of Grace
+	6 Latent Powerstone
+	6 Pathward Riftcalling
+	6 Menithel Demon
+	6 Cydina Storm Drake
+	6 Flowsnail
+	6 Mordel Spiritcaller
+	6 Ignelscor Frontliner
+	6 Promise of Hunger
+	6 Balutr Runners
+	6 Drake Mentor
+	6 Boundless Flight
+	6 Upsurge Nemato-Gnathi
+	6 Duraval Starmapper
+	6 Kaln-Ocean Harmonizer
+	6 Outlands Duelists
+	6 Meirel Pathrunner
+	6 Those Lost in the Paths
+	6 Calamitous Koi
+	6 Omen of Hunger
+	6 Ardent Grief
+	6 Ignelscor Weaver
+	6 Mourncast Disciple
+	6 Remnants of the War
+	6 Monument to Forever
+	6 Kilnhart Smoghorn
+	6 Ambitious Haze
+	6 Drakesteel Effigy
+	6 Clerics Claymore
+	6 Crystalline Refraction
+	6 Homestead Pair
+	12 Parading Terrain
+	6 Discover Uncertainty
+	12 When Words Dont Work
+	6 Iconic Challenger
+	6 Unweave
+	6 Concealing Ruins
+	6 Blade Reifier
+	6 Ignelscor Witch
+	6 Kornas Forward
+	6 Meirel Evacuator
+	6 Unending Exploration
+	6 Cascading Cleave
+	6 Persisting Timepiece
+	6 Vineglare Enclave
+	6 Inkblot Artist
+	6 Reflected Inclination
+	6 Wandering Travellers
+	6 Bloomrock Enclave
+	6 Brightblossom Enclave
+	6 Dawnbreak Resort
+	6 Devoted Riftpike
+	6 Errant Pillar
+	6 Exhausting Foundation
+	6 Glowspore Enclave
+	6 Hostile Pillars
+	6 Listless Monument
+	6 Mistlake Enclave
+	6 Moonglow Enclave
+	6 Ominous Temple
+	6 Roaming Ruins
+	6 Soaring Tethers
+	6 Sunswept Prairie
+	6 Thyrsine Way
+	6 Vibrant Knoll
+	6 Windy Weft
+	2 Binding Pools
+	2 Frontier Sanctuary
+	2 Mirdrim Summit
+	2 Splitting Caldera
+	2 Winnowing Tower
+	1 Tavern Sanctum
+	12 Bosket Peak
+	6 Outlands Recruiter
+	6 Julius Skyknight of Morriare
+	6 Yearn for the Sky
+	6 Marching Partisan
+	6 Outland Riftsower
+	6 Clanless Tunneler
+	6 Coalesced Company
+	6 Inspiring Dunes
+	6 Hengs Intercession
+	6 Mentor of Engagement
+	6 Winding Guide
+	6 Safeguarded Pair
+	6 Peacewarden
+	6 Chimarel Clearing
+	6 Ancient Sigils
+	6 Storm Striker
+	6 Dreamgill Salamander
+	6 Embracing Intonation
+	6 Moonscale Koi
+	6 Vertical Shift
+	6 Waterscape Mystic
+	6 I Know What You Mean to Me
+	6 Rest For a New World
+	6 Relentless Spellseeker
+	6 Cliffside Surveyor
+	6 Skycliff Flow
+	6 Slipstream Cyprinus
+	6 Mesmeric Peaks
+	6 Parasitic Roots
+	6 Howling Gasp
+	6 I Wont Stand Alone
+	6 Ditto Dagger
+	6 Lizturbance
+	6 Dissenting Experience
+	6 Omenspeaker Avakin
+	6 Your Strength is Fading
+	6 Bloodstained Fields
+	6 Spire of Rebirth
+	6 Murkross Spiritcaller
+	6 Gold-Streaked Obelisks
+	6 Fervent Canyon
+	6 Ignelscor Jidiao
+	6 Boundless Hollow
+	6 Rend Hope
+	6 Awakened Wurm
+	6 Moonlit Congregation
+	6 Bare Your Fangs
+	6 Lost Sunset
+	6 Counterinsurgency
+	6 Haphazard and Unbound
+	6 New Mordel Fireweaver
+	6 Seasoned Flamefinder
+	6 Broodmages Furor
+	6 Our March Wont End
+	6 Call to Revolution
+	6 Shimmer From Beyond
+	6 Encouraging Passage
+	6 Fritter Skitter
+	6 Dawncoil Burnisher
+	6 Ranging Symbiote
+	6 Leyline Weaver
+	6 Murkross Shaman
+	6 Virulent Attendant
+	6 Cervus Sprouting
+	6 Unexpected Predator
+	6 Cartographers Survey
+	6 Hunters Strength
+	6 Keras Appointed
+	6 Nurtured Landscape
+	6 Outlands Caretaker
+	6 Snowscaper Bakunawa
+	6 Awakened Reactionary
+	6 Crustacean Surge
+	2 Extraplanar Portal
+	2 Soul Shatter
+	2 Korna Adventuring Historian
+	2 Zoslera Exiled Visionary
+	2 Trade Routes
+	2 Where Our Paths Meet
+	2 Aurel Born Through Discord
+	2 Sonnet Meirel Lancer
+	1 Marie Hungerbound
+	2 Skyskif Flying Fish
+	2 Gael Spiteflame Phoenix
+	2 Jothi Awakened Flock
+	2 Jothi
+	2 Tofnet Ranger
+	2 Axoladen Adventurer
+	2 Lasting Discovery
+	2 Trailing Tethers
+	2 Prismatic Drake
+	2 Ikorian Skyshark
+	2 Nirvanha Bloom
+	1 Forgiving Monument
+	1 I Will Walk My Own Path
+	2 Pathshaping
+	2 Kaln-Ocean Streamliner
+	2 Soaring Chorus
+	2 Shrouded Pathcensor
+	2 Chirps Spice Seeker
+	2 Melodia Explorer at Heart
+	1 Outlands Chimera
+	2 Lisse Bound by the King
+	2 Lorenz Ascendant King of Alira
+	2 Soul of Vinimroth
+	2 Starling
+	2 Cerise Auger of Flow
+	2 Realmshaper
+	2 Campsite
+	2 Starfall Outlook
+	2 The Calm Belt
+	2 Wavehorn, Great Winding Wizard
+	2 Heng Hien Reifer of Justice
+	2 Mordel Civil War
+	2 Resurrection Pools
+	1 Themia, Steward of Sanctity
+	1 Zesha, Dream Hedonist
+	1 Lisse Hope Through Sin
+	1 Argent, Flash of Mirdrim
+	1 Maal and Sevol, Twin Sentries
+	1 Scout, Maw of the Moon
+	1 Prophellos, Hungering Manipulator
+	1 Reichen, Verdant Guard
+	1 The Shattering of Meirel
+	2 Sanctum Trader
+	2 Mass Mutation
+	2 Ancient Interference
+	2 Probe the Veil
+	2 Lithify
+	2 Cascading Reflections
+	1 Shifting Spire
+	2 Kindred Spirits
+	2 Liminal Ambiguity
+	12 Experience Cultivator
+	2 Podinaetremata
+	2 A Flock is Born
+	2 Branching Paths
+	2 Meso Meso
+	2 Defector of Mordel
+	2 Exhuberant Genesis
+	2 Emergent Parasitism
+	2 Mordel Peacekeeper
+	2 Idol of Reconstruction
+	2 Called to Eternity
+	2 Shifting Dream
+	6 Abandoned Sanctum
+	2 Parallellism
+	2 Kalim, Shivta's Ear
+	2 Avlod Charm
+	2 Gluttony
+	2 Personal Sins
+	2 Bone Salesman
+	2 Mordel Charm
+	2 Fadove Charm
+	2 Longneck Marketwatch
+	2 Fossil Laundering
+	2 Continuity Gap
+	2 Market Negotiator
+	2 Burgeoning Town
+	2 Burgeoning Mindscape
+	2 Burgeoning Pith
+	2 Burgeoning Rockfall
+	2 Burgeoning Jungle
+	2 Burgeoning Peaks
+	2 Burgeoning Path
+	12 Drifting Crevasse
+	12 Drifting Field
+	12 Drifting Isle
+	12 Drifting Jungle
+	12 Drifting Mire
+	12 Drifting Peak
+	12 Drifting Sands
+	2 Outlands Charm
+	2 Deino Charm
+	2 Ignelscor Charm
+	2 Magic of Ignelscor
+	2 Call of Ancestry
+	2 Shivta, Vinimroth's Blade
+	12 Flying Counter
+	2 Tangled Heart
+	2 Numa, On Hope's Trail
+	2 Carrigol Tender
+	2 Heron Drake
+	2 Reid, Unrelenting Dias
+	2 Murkross's Hold
+	2 Late-Leaf Elk
+	2 Deeplost Traveller
+	2 Awakened Titan
+	2 Marblewrought Titan
+	2 Coven of the Black Sun
+	2 Poison Pincher
+	2 Radioactive Rumna
+	2 Oracle of Multaph
+	2 Faloden Barrier Scout
+	2 Kaln-Ocean Seahorse
+	2 Coralwisp Entity
+	2 Warpath Wurm
+	2 Miori, Outlands Future
+	2 Terramorphic Singularity
+	2 Form of the Paths
+	2 Stinging Surveyor
+[wildcard(1)]
+	6 Rustic Cultivator
+	6 Wind Worn Peaks
+	6 Light of Hope
+	6 History's Weave
+	6 Fall Through Reality
+	6 Meirel Pathwalker
+	6 Staggering Spires
+	6 Pathfinder Wurm
+	6 Rising Haze
+	6 Meirel Caretaker
+	6 Outlands Rescinder
+	6 Outlander Mercenary
+	6 Fadove Lawkeeper
+	6 Fadove Air Supplier
+	6 Veteran Party
+	6 Cleric of the Dawn
+	6 Focus of Fadove
+	6 Outfoxed
+	6 Apprentices Drake
+	6 Crystalline Cover
+	6 Tiderock Passage
+	6 Fold the Truth
+	6 Consult Eternity
+	6 Pristine Denial
+	6 Reshape Eternity
+	6 Pathwrought Overseer
+	6 Veneer Walker
+	6 Outlands Trailblazer
+	6 Vestige Prowler
+	6 Ridgeback Dragonturtle
+	6 Bropheria
+	6 Gripping Truths
+	6 Migratory Flotilla
+	6 Fly Away With Me
+	6 Aspect of Moth
+	6 You Cant Face Me
+	6 Duskcharm Drake
+	6 Eroding River
+	6 Foolish Footing
+	6 Smogborn Pilferer
+	6 Avakin Trapper
+	6 Hedgecrow
+	6 Scaled Rippler
+	6 Left for the Crows
+	6 Relentless Truthseeker
+	6 Otherworldly Entrance
+	6 Pathborn Stinger
+	6 Voidborn Horror
+	6 Avakin Devotee
+	6 Pioneer's Premonition
+	6 Basalt Hammer
+	6 Clanless Combatant
+	6 Willbournes Flame
+	6 Fiery Absolver
+	6 Drougth Adventurer
+	6 Warforged Pair
+	6 Mordel Hammer
+	6 Pathborn Spitter
+	6 Mordel Flamespeaker
+	6 Drakes Intuition
+	6 Smelt Corruption
+	6 Mordel Shaper
+	6 Shifting Landscape
+	6 Depthscout
+	6 Disciple of the Thicket
+	6 Enduring Woodland
+	6 Surubim Harpoon
+	6 Meirel Traveller
+	6 Shard Bearer
+	6 Clanless Weaver
+	6 Illusion Reamer
+	6 Voice of the Thicket
+	6 Inspiring Recruit
+	6 Dance of Discovery
+	6 Outland Pair
+	6 Outlands Rescuer
+	6 Stand Your Ground
+	6 Guide With and Through
+	6 Teachings of the Coiled
+	6 The Strength to Overcome
+	6 Turbulent Aether
+	6 Dust Converter
+	6 Avakin Adventurer
+	6 Meirel Drifter
+	6 Pathworn Blade
+	6 Power from Beyond
+	6 Calign
+	6 Captivate
+	6 Adventurous Pair
+	6 Drougth Attuner
+	15 Perspective Shift
+	6 Enlisted Arms
+	6 Emigrating Pilgrim
+	6 Mana Compression
+	6 Drougth Oracle
+	6 Enlightening Crescents
+	6 Mutated Pioneer
+	6 Somber Marsh
+	6 Fiery Chasm
+	6 Barren Fissure
+	6 Sodden Cavern
+	6 Rainforest Spring
+	6 Roaring Cascade
+	6 Cleft River
+	6 Splintered Thicket
+	6 Carrigol Spires
+	6 Dawnshroud Castle
+	6 Formless Frontier
+	6 Glittering Vale
+	6 Sainard Boneyard
+	6 Soarwing Coast
+	6 Highland Vale
+	6 Tectonic Rime
+	6 Desolate Barrens
+	6 Tranquil Stream
+	6 Alpine Meadow
+	6 Jagged Crag
+	6 Crackling Expanse
+	15 Morraire Shimmer Patrol
+	15 Coiling Jailer
+	15 Sisters in Sorrow
+	15 Feather Piper
+	15 Whisperer of the Paths
+	15 Sunlace Panthera
+	15 Shadow of Grace
+	15 Latent Powerstone
+	15 Pathward Riftcalling
+	15 Menithel Demon
+	15 Cydina Storm Drake
+	15 Flowsnail
+	15 Mordel Spiritcaller
+	15 Ignelscor Frontliner
+	15 Promise of Hunger
+	15 Balutr Runners
+	15 Drake Mentor
+	15 Boundless Flight
+	15 Upsurge Nemato-Gnathi
+	15 Duraval Starmapper
+	15 Kaln-Ocean Harmonizer
+	15 Outlands Duelists
+	15 Meirel Pathrunner
+	15 Those Lost in the Paths
+	15 Calamitous Koi
+	15 Omen of Hunger
+	15 Ardent Grief
+	15 Ignelscor Weaver
+	15 Mourncast Disciple
+	15 Remnants of the War
+	15 Monument to Forever
+	15 Kilnhart Smoghorn
+	15 Ambitious Haze
+	15 Drakesteel Effigy
+	15 Clerics Claymore
+	15 Crystalline Refraction
+	15 Homestead Pair
+	6 Parading Terrain
+	15 Discover Uncertainty
+	6 When Words Dont Work
+	15 Iconic Challenger
+	15 Unweave
+	15 Concealing Ruins
+	15 Blade Reifier
+	15 Ignelscor Witch
+	15 Kornas Forward
+	15 Meirel Evacuator
+	15 Unending Exploration
+	15 Cascading Cleave
+	15 Persisting Timepiece
+	15 Vineglare Enclave
+	15 Inkblot Artist
+	15 Reflected Inclination
+	15 Wandering Travellers
+	15 Bloomrock Enclave
+	15 Brightblossom Enclave
+	15 Dawnbreak Resort
+	15 Devoted Riftpike
+	15 Errant Pillar
+	15 Exhausting Foundation
+	15 Glowspore Enclave
+	15 Hostile Pillars
+	15 Listless Monument
+	15 Mistlake Enclave
+	15 Moonglow Enclave
+	15 Ominous Temple
+	15 Roaming Ruins
+	15 Soaring Tethers
+	15 Sunswept Prairie
+	15 Thyrsine Way
+	15 Vibrant Knoll
+	15 Windy Weft
+	7 Binding Pools
+	7 Frontier Sanctuary
+	7 Mirdrim Summit
+	7 Splitting Caldera
+	7 Winnowing Tower
+	4 Tavern Sanctum
+	6 Bosket Peak
+	15 Outlands Recruiter
+	15 Julius Skyknight of Morriare
+	15 Yearn for the Sky
+	15 Marching Partisan
+	15 Outland Riftsower
+	15 Clanless Tunneler
+	15 Coalesced Company
+	15 Inspiring Dunes
+	15 Hengs Intercession
+	15 Mentor of Engagement
+	15 Winding Guide
+	15 Safeguarded Pair
+	15 Peacewarden
+	15 Chimarel Clearing
+	15 Ancient Sigils
+	15 Storm Striker
+	15 Dreamgill Salamander
+	15 Embracing Intonation
+	15 Moonscale Koi
+	15 Vertical Shift
+	15 Waterscape Mystic
+	15 I Know What You Mean to Me
+	15 Rest For a New World
+	15 Relentless Spellseeker
+	15 Cliffside Surveyor
+	15 Skycliff Flow
+	15 Slipstream Cyprinus
+	15 Mesmeric Peaks
+	15 Parasitic Roots
+	15 Howling Gasp
+	15 I Wont Stand Alone
+	15 Ditto Dagger
+	15 Lizturbance
+	15 Dissenting Experience
+	15 Omenspeaker Avakin
+	15 Your Strength is Fading
+	15 Bloodstained Fields
+	15 Spire of Rebirth
+	15 Murkross Spiritcaller
+	15 Gold-Streaked Obelisks
+	15 Fervent Canyon
+	15 Ignelscor Jidiao
+	15 Boundless Hollow
+	15 Rend Hope
+	15 Awakened Wurm
+	15 Moonlit Congregation
+	15 Bare Your Fangs
+	15 Lost Sunset
+	15 Counterinsurgency
+	15 Haphazard and Unbound
+	15 New Mordel Fireweaver
+	15 Seasoned Flamefinder
+	15 Broodmages Furor
+	15 Our March Wont End
+	15 Call to Revolution
+	15 Shimmer From Beyond
+	15 Encouraging Passage
+	15 Fritter Skitter
+	15 Dawncoil Burnisher
+	15 Ranging Symbiote
+	15 Leyline Weaver
+	15 Murkross Shaman
+	15 Virulent Attendant
+	15 Cervus Sprouting
+	15 Unexpected Predator
+	15 Cartographers Survey
+	15 Hunters Strength
+	15 Keras Appointed
+	15 Nurtured Landscape
+	15 Outlands Caretaker
+	15 Snowscaper Bakunawa
+	15 Awakened Reactionary
+	15 Crustacean Surge
+	7 Extraplanar Portal
+	7 Soul Shatter
+	7 Korna Adventuring Historian
+	7 Zoslera Exiled Visionary
+	7 Trade Routes
+	7 Where Our Paths Meet
+	7 Aurel Born Through Discord
+	7 Sonnet Meirel Lancer
+	4 Marie Hungerbound
+	7 Skyskif Flying Fish
+	7 Gael Spiteflame Phoenix
+	7 Jothi Awakened Flock
+	7 Jothi
+	7 Tofnet Ranger
+	7 Axoladen Adventurer
+	7 Lasting Discovery
+	7 Trailing Tethers
+	7 Prismatic Drake
+	7 Ikorian Skyshark
+	7 Nirvanha Bloom
+	4 Forgiving Monument
+	4 I Will Walk My Own Path
+	7 Pathshaping
+	7 Kaln-Ocean Streamliner
+	7 Soaring Chorus
+	7 Shrouded Pathcensor
+	7 Chirps Spice Seeker
+	7 Melodia Explorer at Heart
+	4 Outlands Chimera
+	7 Lisse Bound by the King
+	7 Lorenz Ascendant King of Alira
+	7 Soul of Vinimroth
+	7 Starling
+	7 Cerise Auger of Flow
+	7 Realmshaper
+	7 Campsite
+	7 Starfall Outlook
+	7 The Calm Belt
+	7 Wavehorn, Great Winding Wizard
+	7 Heng Hien Reifer of Justice
+	7 Mordel Civil War
+	7 Resurrection Pools
+	4 Themia, Steward of Sanctity
+	4 Zesha, Dream Hedonist
+	4 Lisse Hope Through Sin
+	4 Argent, Flash of Mirdrim
+	4 Maal and Sevol, Twin Sentries
+	4 Scout, Maw of the Moon
+	4 Prophellos, Hungering Manipulator
+	4 Reichen, Verdant Guard
+	4 The Shattering of Meirel
+	7 Sanctum Trader
+	7 Mass Mutation
+	7 Ancient Interference
+	7 Probe the Veil
+	7 Lithify
+	7 Cascading Reflections
+	4 Shifting Spire
+	7 Kindred Spirits
+	7 Liminal Ambiguity
+	6 Experience Cultivator
+	7 Podinaetremata
+	7 A Flock is Born
+	7 Branching Paths
+	7 Meso Meso
+	7 Defector of Mordel
+	7 Exhuberant Genesis
+	7 Emergent Parasitism
+	7 Mordel Peacekeeper
+	7 Idol of Reconstruction
+	7 Called to Eternity
+	7 Shifting Dream
+	15 Abandoned Sanctum
+	7 Parallellism
+	7 Kalim, Shivta's Ear
+	7 Avlod Charm
+	7 Gluttony
+	7 Personal Sins
+	7 Bone Salesman
+	7 Mordel Charm
+	7 Fadove Charm
+	7 Longneck Marketwatch
+	7 Fossil Laundering
+	7 Continuity Gap
+	7 Market Negotiator
+	7 Burgeoning Town
+	7 Burgeoning Mindscape
+	7 Burgeoning Pith
+	7 Burgeoning Rockfall
+	7 Burgeoning Jungle
+	7 Burgeoning Peaks
+	7 Burgeoning Path
+	6 Drifting Crevasse
+	6 Drifting Field
+	6 Drifting Isle
+	6 Drifting Jungle
+	6 Drifting Mire
+	6 Drifting Peak
+	6 Drifting Sands
+	7 Outlands Charm
+	7 Deino Charm
+	7 Ignelscor Charm
+	7 Magic of Ignelscor
+	7 Call of Ancestry
+	7 Shivta, Vinimroth's Blade
+	6 Flying Counter
+	7 Tangled Heart
+	7 Numa, On Hope's Trail
+	7 Carrigol Tender
+	7 Heron Drake
+	7 Reid, Unrelenting Dias
+	7 Murkross's Hold
+	7 Late-Leaf Elk
+	7 Deeplost Traveller
+	7 Awakened Titan
+	7 Marblewrought Titan
+	7 Coven of the Black Sun
+	7 Poison Pincher
+	7 Radioactive Rumna
+	7 Oracle of Multaph
+	7 Faloden Barrier Scout
+	7 Kaln-Ocean Seahorse
+	7 Coralwisp Entity
+	7 Warpath Wurm
+	7 Miori, Outlands Future
+	7 Terramorphic Singularity
+	7 Form of the Paths
+	7 Stinging Surveyor

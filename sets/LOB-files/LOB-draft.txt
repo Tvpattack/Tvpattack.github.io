@@ -1,0 +1,4175 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Ancient Telescope",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/318_Ancient Telescope.png"
+			}
+		},
+		{
+			"name": "Bag of Holding",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/319_Bag of Holding.png"
+			}
+		},
+		{
+			"name": "Book of Secret Arts",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Artifact",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/216_Book of Secret Arts.png"
+			}
+		},
+		{
+			"name": "Dragon Capture Jar",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/58_Dragon Capture Jar.png"
+			}
+		},
+		{
+			"name": "Mental Lock",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/320_Mental Lock.png"
+			}
+		},
+		{
+			"name": "Mystical Capture Chain",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/39_Mystical Capture Chain.png"
+			}
+		},
+		{
+			"name": "Prismatic Bulb",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/255_Prismatic Bulb.png"
+			}
+		},
+		{
+			"name": "Rainbow Flower",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/256_Rainbow Flower.png"
+			}
+		},
+		{
+			"name": "Temple of Skulls",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/110_Temple of Skulls.png"
+			}
+		},
+		{
+			"name": "Ancient Jar",
+			"rarity": "uncommon",
+			"mana_cost": "{I}",
+			"type": "Artifact Creature — Demon Wizard",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/180_Ancient Jar.png"
+			}
+		},
+		{
+			"name": "Golgoil",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{I}{I}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/190_Golgoil.png"
+			}
+		},
+		{
+			"name": "Bat",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Robot Bat",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/23_Bat.png"
+			}
+		},
+		{
+			"name": "Gradius",
+			"rarity": "special",
+			"mana_cost": "{I}",
+			"type": "Artifact Creature — Robot Construct",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/295_Gradius.png"
+			}
+		},
+		{
+			"name": "Gradius Option",
+			"rarity": "special",
+			"mana_cost": "{2}{I}",
+			"type": "Artifact Creature — Robot Construct",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/296_Gradius Option.png"
+			}
+		},
+		{
+			"name": "Man-Eating Treasure Chest",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Robot Demon",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/102_Man-Eating Treasure Chest.png"
+			}
+		},
+		{
+			"name": "Metal Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Robot Dragon",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/254_Metal Dragon.png"
+			}
+		},
+		{
+			"name": "Giant Mech-Soldier",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Robot Knight",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/251_Giant Mech-Soldier.png"
+			}
+		},
+		{
+			"name": "Mech Mole Zombie",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Artifact Creature — Robot Mole Zombie",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/230_Mech Mole Zombie.png"
+			}
+		},
+		{
+			"name": "Steel Ogre Grotto 1",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Robot Ogre",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/259_Steel Ogre Grotto 1.png"
+			}
+		},
+		{
+			"name": "Statue of Easter Island",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Robot Sculpture",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/258_Statue of Easter Island.png"
+			}
+		},
+		{
+			"name": "Cyber Soldier of Darkworld",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact Creature — Robot Soldier",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/89_Cyber Soldier of Darkworld.png"
+			}
+		},
+		{
+			"name": "Giant Soldier of Stone",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}",
+			"type": "Artifact Creature — Robot Warrior",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/189_Giant Soldier of Stone.png"
+			}
+		},
+		{
+			"name": "Patrol Robo",
+			"rarity": "common",
+			"mana_cost": "{2}{I}",
+			"type": "Artifact Creature — Robot Warrior",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/200_Patrol Robo.png"
+			}
+		},
+		{
+			"name": "Hard Armor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Warrior",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/30_Hard Armor.png"
+			}
+		},
+		{
+			"name": "Beast Fangs",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/150_Beast Fangs.png"
+			}
+		},
+		{
+			"name": "Cyclon Laser",
+			"rarity": "special",
+			"mana_cost": "{I}",
+			"type": "Artifact — Equipment",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/293_Cyclon Laser.png"
+			}
+		},
+		{
+			"name": "Dragon Treasure",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/121_Dragon Treasure.png"
+			}
+		},
+		{
+			"name": "Electro-Whip",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/122_Electro-Whip.png"
+			}
+		},
+		{
+			"name": "Gust Fan",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Artifact — Equipment",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/191_Gust Fan.png"
+			}
+		},
+		{
+			"name": "Laser Cannon Armor",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/252_Laser Cannon Armor.png"
+			}
+		},
+		{
+			"name": "Legendary Sword",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/34_Legendary Sword.png"
+			}
+		},
+		{
+			"name": "Machine Conversion Factory",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/253_Machine Conversion Factory.png"
+			}
+		},
+		{
+			"name": "Power of Kaishin",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/70_Power of Kaishin.png"
+			}
+		},
+		{
+			"name": "Silver Bow and Arrow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Artifact — Equipment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/203_Silver Bow and Arrow.png"
+			}
+		},
+		{
+			"name": "Sword of Dark Destruction",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/290_Sword of Dark Destruction.png"
+			}
+		},
+		{
+			"name": "Violet Crystal",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/113_Violet Crystal.png"
+			}
+		},
+		{
+			"name": "Basic Fault LOB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Fault",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/278_Basic Fault LOB.png"
+			}
+		},
+		{
+			"name": "Basic Forest LOB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/277_Basic Forest LOB.png"
+			}
+		},
+		{
+			"name": "Basic Island LOB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/274_Basic Island LOB.png"
+			}
+		},
+		{
+			"name": "Basic Mountain LOB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/276_Basic Mountain LOB.png"
+			}
+		},
+		{
+			"name": "Basic Plains LOB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/273_Basic Plains LOB.png"
+			}
+		},
+		{
+			"name": "Basic Swamp LOB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/275_Basic Swamp LOB.png"
+			}
+		},
+		{
+			"name": "Happy Lover",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Angel Spirit",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/29_Happy Lover.png"
+			}
+		},
+		{
+			"name": "Hourglass of Courage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Angel Spirit",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/32_Hourglass of Courage.png"
+			}
+		},
+		{
+			"name": "Hourglass of Life",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Creature — Angel Spirit",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/192_Hourglass of Life.png"
+			}
+		},
+		{
+			"name": "Petit Angel",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel Spirit",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/43_Petit Angel.png"
+			}
+		},
+		{
+			"name": "Shining Friendship",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel Spirit",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/48_Shining Friendship.png"
+			}
+		},
+		{
+			"name": "Soul of the Pure",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Angel Spirit",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/314_Soul of the Pure.png"
+			}
+		},
+		{
+			"name": "Spirit of the Harp",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Angel Spirit",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/49_Spirit of the Harp.png"
+			}
+		},
+		{
+			"name": "Meda Bat",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Bat Eye",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/231_Meda Bat.png"
+			}
+		},
+		{
+			"name": "Frenzied Panda",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Bear Warrior",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/129_Frenzied Panda.png"
+			}
+		},
+		{
+			"name": "Mabarrel",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Beast",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/100_Mabarrel.png"
+			}
+		},
+		{
+			"name": "Beaver Warrior",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Beaver Warrior",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/25_Beaver Warrior.png"
+			}
+		},
+		{
+			"name": "Skull Red Bird",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Bird Demon",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/240_Skull Red Bird.png"
+			}
+		},
+		{
+			"name": "Punished Eagle",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Bird Demon Spirit",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/236_Punished Eagle.png"
+			}
+		},
+		{
+			"name": "Droll Bird",
+			"rarity": "common",
+			"mana_cost": "{4}{I}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/187_Droll Bird.png"
+			}
+		},
+		{
+			"name": "Kurama",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/5_Kurama.png"
+			}
+		},
+		{
+			"name": "Fiend Reflection 2",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Spirit Reflection",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/26_Fiend Reflection 2.png"
+			}
+		},
+		{
+			"name": "Spirit of the Books",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Spirit Wizard",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/75_Spirit of the Books.png"
+			}
+		},
+		{
+			"name": "Bolt Penguin",
+			"rarity": "uncommon",
+			"mana_cost": "{I}{U}",
+			"type": "Creature — Bird Wizard",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/215_Bolt Penguin.png"
+			}
+		},
+		{
+			"name": "Rare Fish",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Cat Spirit Merfolk",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/71_Rare Fish.png"
+			}
+		},
+		{
+			"name": "Turtle Tiger",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Cat Turtle Demon",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/78_Turtle Tiger.png"
+			}
+		},
+		{
+			"name": "Tiger Axe",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/51_Tiger Axe.png"
+			}
+		},
+		{
+			"name": "Leo Wizard",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Cat Wizard",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/308_Leo Wizard.png"
+			}
+		},
+		{
+			"name": "Rabid Horseman",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Centaur Warrior",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/135_Rabid Horseman.png"
+			}
+		},
+		{
+			"name": "Wood Clown",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Clown Plant Robot",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/147_Wood Clown.png"
+			}
+		},
+		{
+			"name": "Hitotsu-Me Giant",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Demon Warrior",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/160_Hitotsu-Me Giant.png"
+			}
+		},
+		{
+			"name": "Midnight Fiend",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/103_Midnight Fiend.png"
+			}
+		},
+		{
+			"name": "Ryu-Kishin",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Creature — Demon",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/238_Ryu-Kishin.png"
+			}
+		},
+		{
+			"name": "Tyhone",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Demon Bat",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/112_Tyhone.png"
+			}
+		},
+		{
+			"name": "Synchar",
+			"rarity": "common",
+			"mana_cost": "{1}{I}{I}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/206_Synchar.png"
+			}
+		},
+		{
+			"name": "Mystic Clown",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon Clown",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/289_Mystic Clown.png"
+			}
+		},
+		{
+			"name": "Meotoko",
+			"rarity": "common",
+			"mana_cost": "{3}{I}",
+			"type": "Creature — Demon Warrior",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/196_Meotoko.png"
+			}
+		},
+		{
+			"name": "Red-Eyes Black Dragon",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Dragon",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/105_Red-Eyes Black Dragon.png"
+			}
+		},
+		{
+			"name": "Tri-Horned Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Demon Dragon",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/77_Tri-Horned Dragon.png"
+			}
+		},
+		{
+			"name": "Archfiend Mirror",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Demon Dragon Reflection",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/181_Archfiend Mirror.png"
+			}
+		},
+		{
+			"name": "Roaring Ocean Snake",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{I}{U}",
+			"type": "Creature — Demon Dragon Serpent",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/237_Roaring Ocean Snake.png"
+			}
+		},
+		{
+			"name": "Yormungarde",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{U}",
+			"type": "Creature — Demon Dragon Serpent",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/250_Yormungarde.png"
+			}
+		},
+		{
+			"name": "Twin Long Rods 1",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Demon Fish",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/79_Twin Long Rods 1.png"
+			}
+		},
+		{
+			"name": "Sanwitch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}{B}",
+			"type": "Creature — Demon Imp Wizard",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/239_Sanwitch.png"
+			}
+		},
+		{
+			"name": "Succubus Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Demon Knight",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/109_Succubus Knight.png"
+			}
+		},
+		{
+			"name": "Dark Plant",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon Plant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/94_Dark Plant.png"
+			}
+		},
+		{
+			"name": "Witty Phantom",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Demon Rogue",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/114_Witty Phantom.png"
+			}
+		},
+		{
+			"name": "Dig Beak",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Demon Snake",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/185_Dig Beak.png"
+			}
+		},
+		{
+			"name": "Shadow Who Controls the Dark",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon Spirit",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/107_Shadow Who Controls the Dark.png"
+			}
+		},
+		{
+			"name": "Rhaimundos of the Red Sword",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Demon Warrior",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/138_Rhaimundos of the Red Sword.png"
+			}
+		},
+		{
+			"name": "Megirus Light",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{I}{B}",
+			"type": "Creature — Demon Wizard",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/232_Megirus Light.png"
+			}
+		},
+		{
+			"name": "Phantom Dewan",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Demon Wizard",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/201_Phantom Dewan.png"
+			}
+		},
+		{
+			"name": "Dark King of the Abyss",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Zombie Noble",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/93_Dark King of the Abyss.png"
+			}
+		},
+		{
+			"name": "Tomozaurus",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/174_Tomozaurus.png"
+			}
+		},
+		{
+			"name": "Two-Mouth Darkruler",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dinosaur Elemental",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/144_Two-Mouth Darkruler.png"
+			}
+		},
+		{
+			"name": "Uraby",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dinosaur Spirit",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/175_Uraby.png"
+			}
+		},
+		{
+			"name": "Blue-Eyes White Dragon",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}{U}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/214_Blue-Eyes White Dragon.png"
+			}
+		},
+		{
+			"name": "Curse of Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/87_Curse of Dragon.png"
+			}
+		},
+		{
+			"name": "Lesser Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/164_Lesser Dragon.png"
+			}
+		},
+		{
+			"name": "Winged Dragon, Guardian of the Fortress 1",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/248_Winged Dragon, Guardian of the Fortress 1.png"
+			}
+		},
+		{
+			"name": "Winged Dragon, Guardian of the Fortress 2",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/249_Winged Dragon, Guardian of the Fortress 2.png"
+			}
+		},
+		{
+			"name": "Wicked Dragon with the Ersatz Head",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Creature — Dragon Demon",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/247_Wicked Dragon with the Ersatz Head.png"
+			}
+		},
+		{
+			"name": "Tripwire Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dragon Elemental",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/143_Tripwire Beast.png"
+			}
+		},
+		{
+			"name": "Kaiser Dragon",
+			"rarity": "common",
+			"mana_cost": "{3}{I}",
+			"type": "Creature — Dragon Spirit",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/194_Kaiser Dragon.png"
+			}
+		},
+		{
+			"name": "Petit Dragon",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Dragon Spirit",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/44_Petit Dragon.png"
+			}
+		},
+		{
+			"name": "That Which Feeds on Life",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon Spirit",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/142_That Which Feeds on Life.png"
+			}
+		},
+		{
+			"name": "One-Eyed Shield Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dragon Warrior",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/41_One-Eyed Shield Dragon.png"
+			}
+		},
+		{
+			"name": "Monster Egg",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Egg Warrior",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/36_Monster Egg.png"
+			}
+		},
+		{
+			"name": "Little D",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Dinosaur",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/133_Little D.png"
+			}
+		},
+		{
+			"name": "Fire Eye",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental Eye",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/124_Fire Eye.png"
+			}
+		},
+		{
+			"name": "Flame Ghost",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/221_Flame Ghost.png"
+			}
+		},
+		{
+			"name": "Empress Judge",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/219_Empress Judge.png"
+			}
+		},
+		{
+			"name": "Mammoth Graveyard",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Dinosaur Elephant Zombie",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/101_Mammoth Graveyard.png"
+			}
+		},
+		{
+			"name": "Mystical Elf",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elf Cleric Wizard",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/40_Mystical Elf.png"
+			}
+		},
+		{
+			"name": "Battle Warrior",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/24_Battle Warrior.png"
+			}
+		},
+		{
+			"name": "Celtic Guardian",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/151_Celtic Guardian.png"
+			}
+		},
+		{
+			"name": "Key Mace 2",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Faerie Demon",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/307_Key Mace 2.png"
+			}
+		},
+		{
+			"name": "Fairywitch",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{I}{R}",
+			"type": "Creature — Faerie Demon Wizard",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/220_Fairywitch.png"
+			}
+		},
+		{
+			"name": "Musician King",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Bard Warrior",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/38_Musician King.png"
+			}
+		},
+		{
+			"name": "Dragoness the Wicked Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Human Dragon Knight",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/218_Dragoness the Wicked Knight.png"
+			}
+		},
+		{
+			"name": "Gaia the Dragon Champion",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Creature — Human Dragon Knight",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/225_Gaia the Dragon Champion.png"
+			}
+		},
+		{
+			"name": "Doriado",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid Wizard",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/152_Doriado.png"
+			}
+		},
+		{
+			"name": "Muse-A",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Faerie Bard",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/37_Muse-A.png"
+			}
+		},
+		{
+			"name": "Gaia The Fierce Knight",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/155_Gaia The Fierce Knight.png"
+			}
+		},
+		{
+			"name": "Armed Ninja",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Knight Ninja",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/85_Armed Ninja.png"
+			}
+		},
+		{
+			"name": "Ansatsu",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Ninja",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/297_Ansatsu.png"
+			}
+		},
+		{
+			"name": "Armaill",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Human Robot Knight",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/212_Armaill.png"
+			}
+		},
+		{
+			"name": "Beautiful Headhuntress",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}{G}",
+			"type": "Creature — Human Shapeshifter",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/213_Beautiful Headhuntress.png"
+			}
+		},
+		{
+			"name": "Warrior of Tradition",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}{G}",
+			"type": "Creature — Human Shapeshifter",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/244_Warrior of Tradition.png"
+			}
+		},
+		{
+			"name": "Flame Swordsman",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/222_Flame Swordsman.png"
+			}
+		},
+		{
+			"name": "Kagemusha of the Blue Flame",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/4_Kagemusha of the Blue Flame.png"
+			}
+		},
+		{
+			"name": "Karbonala Warrior",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/63_Karbonala Warrior.png"
+			}
+		},
+		{
+			"name": "Minomushi Warrior",
+			"rarity": "uncommon",
+			"mana_cost": "{I}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/197_Minomushi Warrior.png"
+			}
+		},
+		{
+			"name": "Sonic Maid",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/291_Sonic Maid.png"
+			}
+		},
+		{
+			"name": "St Joan",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/50_St Joan.png"
+			}
+		},
+		{
+			"name": "M-Warrior 1",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Warrior Wizard",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/65_M-Warrior 1.png"
+			}
+		},
+		{
+			"name": "M-Warrior 2",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Warrior Wizard",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/166_M-Warrior 2.png"
+			}
+		},
+		{
+			"name": "Dark Magician",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}{B}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/217_Dark Magician.png"
+			}
+		},
+		{
+			"name": "Fireyarou",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/127_Fireyarou.png"
+			}
+		},
+		{
+			"name": "Flame Manipulator",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/128_Flame Manipulator.png"
+			}
+		},
+		{
+			"name": "Vermillion Sparrow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/243_Vermillion Sparrow.png"
+			}
+		},
+		{
+			"name": "Kamionwizard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Robot Wizard Warrior",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/228_Kamionwizard.png"
+			}
+		},
+		{
+			"name": "Fiends Hand",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Human Zombie",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/302_Fiends Hand.png"
+			}
+		},
+		{
+			"name": "Boo Koo",
+			"rarity": "rare",
+			"mana_cost": "{4}{I}",
+			"type": "Creature — Illusion Wizard",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/183_Boo Koo.png"
+			}
+		},
+		{
+			"name": "Alinsection",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Insect",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/179_Alinsection.png"
+			}
+		},
+		{
+			"name": "Basic Insect",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/149_Basic Insect.png"
+			}
+		},
+		{
+			"name": "Giant Flea",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/156_Giant Flea.png"
+			}
+		},
+		{
+			"name": "Man-Eater Bug",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Demon",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/168_Man-Eater Bug.png"
+			}
+		},
+		{
+			"name": "Hercules Beetle",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/159_Hercules Beetle.png"
+			}
+		},
+		{
+			"name": "Kuwagata Alpha",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/162_Kuwagata Alpha.png"
+			}
+		},
+		{
+			"name": "Kwagar Hercules",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/163_Kwagar Hercules.png"
+			}
+		},
+		{
+			"name": "Larvas",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/132_Larvas.png"
+			}
+		},
+		{
+			"name": "Mon Larvas",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/198_Mon Larvas.png"
+			}
+		},
+		{
+			"name": "Winged Cleaver",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/145_Winged Cleaver.png"
+			}
+		},
+		{
+			"name": "Lisark",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Creature — Lizard",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/309_Lisark.png"
+			}
+		},
+		{
+			"name": "Drooling Lizard",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/153_Drooling Lizard.png"
+			}
+		},
+		{
+			"name": "Zarigun",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Elemental",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/83_Zarigun.png"
+			}
+		},
+		{
+			"name": "Great White",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Merfolk Shark",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/303_Great White.png"
+			}
+		},
+		{
+			"name": "Kappa Avenger",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Merfolk Turtle Spirit",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/286_Kappa Avenger.png"
+			}
+		},
+		{
+			"name": "Furious Sea King",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/60_Furious Sea King.png"
+			}
+		},
+		{
+			"name": "Wow Warrior",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/82_Wow Warrior.png"
+			}
+		},
+		{
+			"name": "Enchanting Mermaid",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/59_Enchanting Mermaid.png"
+			}
+		},
+		{
+			"name": "Root Water",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Zombie",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/73_Root Water.png"
+			}
+		},
+		{
+			"name": "Terra the Terrible",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Ogre Warrior",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/141_Terra the Terrible.png"
+			}
+		},
+		{
+			"name": "Man Eater",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/167_Man Eater.png"
+			}
+		},
+		{
+			"name": "Man-Eating Plant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/169_Man-Eating Plant.png"
+			}
+		},
+		{
+			"name": "Abyss Flower",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Plant Demon",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/148_Abyss Flower.png"
+			}
+		},
+		{
+			"name": "Darkfire Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Plant Dragon",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/95_Darkfire Dragon.png"
+			}
+		},
+		{
+			"name": "Rose Spectre of Dunn",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Spirit",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/172_Rose Spectre of Dunn.png"
+			}
+		},
+		{
+			"name": "Wodan the Resident of the Forest",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Creature — Plant Spirit",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/177_Wodan the Resident of the Forest.png"
+			}
+		},
+		{
+			"name": "Bean Soldier",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Plant Warrior",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/182_Bean Soldier.png"
+			}
+		},
+		{
+			"name": "Firegrass",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Plant Wizard",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/126_Firegrass.png"
+			}
+		},
+		{
+			"name": "Flower Wolf",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Plant Wolf",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/223_Flower Wolf.png"
+			}
+		},
+		{
+			"name": "Wilmee",
+			"rarity": "common",
+			"mana_cost": "{6}{I}",
+			"type": "Creature — Rabbit Warrior",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/210_Wilmee.png"
+			}
+		},
+		{
+			"name": "Masaki the Legendary Swordsman",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Creature — Robot Warrior Knight",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/9_Masaki the Legendary Swordsman.png"
+			}
+		},
+		{
+			"name": "Oscillo Hero",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Robot Warrior",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/42_Oscillo Hero.png"
+			}
+		},
+		{
+			"name": "Wattkid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Robot Wizard",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/245_Wattkid.png"
+			}
+		},
+		{
+			"name": "Nightmare Scorpion",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{I}{I}",
+			"type": "Creature — Scorpion Insect",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/199_Nightmare Scorpion.png"
+			}
+		},
+		{
+			"name": "Dark Gray",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/2_Dark Gray.png"
+			}
+		},
+		{
+			"name": "Embryonic Beast",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/301_Embryonic Beast.png"
+			}
+		},
+		{
+			"name": "Eyearmor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}{I}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/188_Eyearmor.png"
+			}
+		},
+		{
+			"name": "Doron",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Shapeshifter Warrior",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/120_Doron.png"
+			}
+		},
+		{
+			"name": "Misairuzame",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Shark Robot",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/67_Misairuzame.png"
+			}
+		},
+		{
+			"name": "Harpie Lady",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Siren Warrior",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/226_Harpie Lady.png"
+			}
+		},
+		{
+			"name": "Harpie Lady Sisters",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Creature — Siren Warrior",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/304_Harpie Lady Sisters.png"
+			}
+		},
+		{
+			"name": "Kumootoko",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Spider Demon Warrior",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/161_Kumootoko.png"
+			}
+		},
+		{
+			"name": "Reaper of the Cards",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/72_Reaper of the Cards.png"
+			}
+		},
+		{
+			"name": "Tao the Chanter",
+			"rarity": "rare",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Spirit",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/207_Tao the Chanter.png"
+			}
+		},
+		{
+			"name": "Djinn the Watcher of the Wind",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit Elemental",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/57_Djinn the Watcher of the Wind.png"
+			}
+		},
+		{
+			"name": "Hane-Hane",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Spirit Warrior",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/130_Hane-Hane.png"
+			}
+		},
+		{
+			"name": "One Who Hunts Souls",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Spirit Warrior",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/234_One Who Hunts Souls.png"
+			}
+		},
+		{
+			"name": "Secretarian of Secrets",
+			"rarity": "common",
+			"mana_cost": "{3}{I}",
+			"type": "Creature — Spirit Wizard",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/202_Secretarian of Secrets.png"
+			}
+		},
+		{
+			"name": "Vishwar Randi",
+			"rarity": "special",
+			"mana_cost": "{I}{B}{R}",
+			"type": "Creature — Vampire Warrior",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/317_Vishwar Randi.png"
+			}
+		},
+		{
+			"name": "Silver Fang",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Wolf Warrior",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/173_Silver Fang.png"
+			}
+		},
+		{
+			"name": "Pragticul",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/235_Pragticul.png"
+			}
+		},
+		{
+			"name": "Gate Deeg",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Demon",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/97_Gate Deeg.png"
+			}
+		},
+		{
+			"name": "Skullbird",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}{I}",
+			"type": "Creature — Zombie Demon Bird",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/204_Skullbird.png"
+			}
+		},
+		{
+			"name": "Skelegon",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Creature — Zombie Dragon",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/19_Skelegon.png"
+			}
+		},
+		{
+			"name": "Drdek",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Zombie Eye Wizard",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/186_Drdek.png"
+			}
+		},
+		{
+			"name": "Akihiron",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Zombie Fish",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/53_Akihiron.png"
+			}
+		},
+		{
+			"name": "Bone Mouse",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Rat",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/86_Bone Mouse.png"
+			}
+		},
+		{
+			"name": "Spike Seadra",
+			"rarity": "common",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Zombie Serpent",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/74_Spike Seadra.png"
+			}
+		},
+		{
+			"name": "Dark Artist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Spirit",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/90_Dark Artist.png"
+			}
+		},
+		{
+			"name": "Phantom Ghost",
+			"rarity": "special",
+			"mana_cost": "{2}{I}{B}",
+			"type": "Creature — Zombie Spirit",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/311_Phantom Ghost.png"
+			}
+		},
+		{
+			"name": "Skull Servant",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Spirit",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/108_Skull Servant.png"
+			}
+		},
+		{
+			"name": "Armored Starfish",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Zombie Starfish",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/55_Armored Starfish.png"
+			}
+		},
+		{
+			"name": "The 13th Grave",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/84_The 13th Grave.png"
+			}
+		},
+		{
+			"name": "Zombie Warrior",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/115_Zombie Warrior.png"
+			}
+		},
+		{
+			"name": "Fire Reaper",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/125_Fire Reaper.png"
+			}
+		},
+		{
+			"name": "Curtain of the Dark Ones",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/88_Curtain of the Dark Ones.png"
+			}
+		},
+		{
+			"name": "Elegant Egotist",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/300_Elegant Egotist.png"
+			}
+		},
+		{
+			"name": "Elfs Light",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/279_Elfs Light.png"
+			}
+		},
+		{
+			"name": "Haniwa",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/158_Haniwa.png"
+			}
+		},
+		{
+			"name": "Lucky Trinket",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/35_Lucky Trinket.png"
+			}
+		},
+		{
+			"name": "Steel Shell",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/76_Steel Shell.png"
+			}
+		},
+		{
+			"name": "Tatsunootoshigo",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Enchantment",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/208_Tatsunootoshigo.png"
+			}
+		},
+		{
+			"name": "The Melting Red Shadow",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/66_The Melting Red Shadow.png"
+			}
+		},
+		{
+			"name": "Trap Hole",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}{W}",
+			"type": "Enchantment",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/242_Trap Hole.png"
+			}
+		},
+		{
+			"name": "Ultimate Offering",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/316_Ultimate Offering.png"
+			}
+		},
+		{
+			"name": "Wings of Wicked Flame",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/146_Wings of Wicked Flame.png"
+			}
+		},
+		{
+			"name": "Yamatano Dragon Scroll",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}",
+			"type": "Enchantment",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/211_Yamatano Dragon Scroll.png"
+			}
+		},
+		{
+			"name": "The Seal of Orichalcos",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Enchantment Artifact",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/257_The Seal of Orichalcos.png"
+			}
+		},
+		{
+			"name": "LaMoon",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment Creature — Angel Spirit",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/33_LaMoon.png"
+			}
+		},
+		{
+			"name": "Takuhee",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{I}{W}",
+			"type": "Enchantment Creature — Bird Spirit",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/241_Takuhee.png"
+			}
+		},
+		{
+			"name": "Fusionist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment Creature — Cat Spirit",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/224_Fusionist.png"
+			}
+		},
+		{
+			"name": "Aqua Madoor",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/54_Aqua Madoor.png"
+			}
+		},
+		{
+			"name": "Dissolverrock",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/119_Dissolverrock.png"
+			}
+		},
+		{
+			"name": "Hinotama Soul",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/131_Hinotama Soul.png"
+			}
+		},
+		{
+			"name": "Hurricail",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/62_Hurricail.png"
+			}
+		},
+		{
+			"name": "LaLa Li-oon",
+			"rarity": "common",
+			"mana_cost": "{2}{I}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/195_LaLa Li-oon.png"
+			}
+		},
+		{
+			"name": "Weather Control",
+			"rarity": "rare",
+			"mana_cost": "{I}{W}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/246_Weather Control.png"
+			}
+		},
+		{
+			"name": "Mavelus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment Creature — Elemental Phoenix",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/229_Mavelus.png"
+			}
+		},
+		{
+			"name": "Stone Ghost",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment Creature — Elemental Spirit",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/140_Stone Ghost.png"
+			}
+		},
+		{
+			"name": "Water Element",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment Creature — Elemental Spirit",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/80_Water Element.png"
+			}
+		},
+		{
+			"name": "Charubin the Fire Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment Creature — Elemental Warrior",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/118_Charubin the Fire Knight.png"
+			}
+		},
+		{
+			"name": "King Fog",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Elemental Warrior",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/64_King Fog.png"
+			}
+		},
+		{
+			"name": "Green Phantom King",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment Creature — Elf Plant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/157_Green Phantom King.png"
+			}
+		},
+		{
+			"name": "Kaminari Attack",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}{W}",
+			"type": "Enchantment Creature — Human Spirit",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/227_Kaminari Attack.png"
+			}
+		},
+		{
+			"name": "The Judgement Hand",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Human Warrior",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/281_The Judgement Hand.png"
+			}
+		},
+		{
+			"name": "Thunder Kid",
+			"rarity": "common",
+			"mana_cost": "{3}{I}{I}",
+			"type": "Enchantment Creature — Insect",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/209_Thunder Kid.png"
+			}
+		},
+		{
+			"name": "Nemuriko",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Merfolk Spirit",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/69_Nemuriko.png"
+			}
+		},
+		{
+			"name": "Living Vase",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment Creature — Elemental Plant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/165_Living Vase.png"
+			}
+		},
+		{
+			"name": "Darkworld Thorns",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Plant Demon",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/96_Darkworld Thorns.png"
+			}
+		},
+		{
+			"name": "Mystical Sheep 2",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment Creature — Sheep Spirit",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/171_Mystical Sheep 2.png"
+			}
+		},
+		{
+			"name": "Ray and Temperature",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/45_Ray and Temperature.png"
+			}
+		},
+		{
+			"name": "Sand Stone",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment Creature — Wurm",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/47_Sand Stone.png"
+			}
+		},
+		{
+			"name": "Invigoration",
+			"rarity": "rare",
+			"mana_cost": "{1}{I}",
+			"type": "Enchantment — Aura",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/193_Invigoration.png"
+			}
+		},
+		{
+			"name": "Mystical Moon",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/68_Mystical Moon.png"
+			}
+		},
+		{
+			"name": "Vile Germs",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/176_Vile Germs.png"
+			}
+		},
+		{
+			"name": "Ascent From Snakes",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Instant",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/292_Ascent From Snakes.png"
+			}
+		},
+		{
+			"name": "Blue Medicine",
+			"rarity": "rare",
+			"mana_cost": "{X}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/1_Blue Medicine.png"
+			}
+		},
+		{
+			"name": "Called by the Void",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/288_Called by the Void.png"
+			}
+		},
+		{
+			"name": "Consult Eternity",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/284_Consult Eternity.png"
+			}
+		},
+		{
+			"name": "Corroding Shark",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/56_Corroding Shark.png"
+			}
+		},
+		{
+			"name": "Dark-Piercing Light",
+			"rarity": "special",
+			"mana_cost": "{1}{I}{W}",
+			"type": "Instant",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/298_Dark-Piercing Light.png"
+			}
+		},
+		{
+			"name": "Deathly Bellow",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Instant",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/299_Deathly Bellow.png"
+			}
+		},
+		{
+			"name": "Denied by Nature",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/285_Denied by Nature.png"
+			}
+		},
+		{
+			"name": "Discover Uncertainty",
+			"rarity": "special",
+			"mana_cost": "{1}{I}",
+			"type": "Instant",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/294_Discover Uncertainty.png"
+			}
+		},
+		{
+			"name": "Fissure",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/154_Fissure.png"
+			}
+		},
+		{
+			"name": "Goblins Secret Remedy",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/28_Goblins Secret Remedy.png"
+			}
+		},
+		{
+			"name": "Gravedigger Ghoul",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/98_Gravedigger Ghoul.png"
+			}
+		},
+		{
+			"name": "Hinotama",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/31_Hinotama.png"
+			}
+		},
+		{
+			"name": "Into the Unknown",
+			"rarity": "special",
+			"mana_cost": "{2}{G/U}{G/U}",
+			"type": "Instant",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/306_Into the Unknown.png"
+			}
+		},
+		{
+			"name": "Light of Hope",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/282_Light of Hope.png"
+			}
+		},
+		{
+			"name": "Marmot of Nefariousness",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/170_Marmot of Nefariousness.png"
+			}
+		},
+		{
+			"name": "Monster Reborn",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}{W}",
+			"type": "Sorcery",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/233_Monster Reborn.png"
+			}
+		},
+		{
+			"name": "Nefairious Archfiend",
+			"rarity": "special",
+			"mana_cost": "{I/B}",
+			"type": "Instant",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/310_Nefairious Archfiend.png"
+			}
+		},
+		{
+			"name": "Raise Body Heat",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/136_Raise Body Heat.png"
+			}
+		},
+		{
+			"name": "Red Medicine",
+			"rarity": "rare",
+			"mana_cost": "{X}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/16_Red Medicine.png"
+			}
+		},
+		{
+			"name": "Reverse Trap",
+			"rarity": "special",
+			"mana_cost": "{1}{I}{G}",
+			"type": "Instant",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/313_Reverse Trap.png"
+			}
+		},
+		{
+			"name": "Rouge Doll",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/46_Rouge Doll.png"
+			}
+		},
+		{
+			"name": "Sparks",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/139_Sparks.png"
+			}
+		},
+		{
+			"name": "Sun-Scorched Tempering",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/283_Sun-Scorched Tempering.png"
+			}
+		},
+		{
+			"name": "Survivors Hospitality",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/315_Survivors Hospitality.png"
+			}
+		},
+		{
+			"name": "The Inexperienced Spy",
+			"rarity": "special",
+			"mana_cost": "{I}{U}",
+			"type": "Instant",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/305_The Inexperienced Spy.png"
+			}
+		},
+		{
+			"name": "Trial of Nightmare",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/111_Trial of Nightmare.png"
+			}
+		},
+		{
+			"name": "Veto",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/287_Veto.png"
+			}
+		},
+		{
+			"name": "White Dolphin",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/81_White Dolphin.png"
+			}
+		},
+		{
+			"name": "Ancient Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/260_Ancient Forest.png"
+			}
+		},
+		{
+			"name": "Canyon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/261_Canyon.png"
+			}
+		},
+		{
+			"name": "Fire Prison",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/262_Fire Prison.png"
+			}
+		},
+		{
+			"name": "Mystic Plasma Zone",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/263_Mystic Plasma Zone.png"
+			}
+		},
+		{
+			"name": "Mythical Forest",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Field",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/264_Mythical Forest.png"
+			}
+		},
+		{
+			"name": "Mythical Mountain",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Field",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/265_Mythical Mountain.png"
+			}
+		},
+		{
+			"name": "Mythical Sogen",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Field",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/266_Mythical Sogen.png"
+			}
+		},
+		{
+			"name": "Mythical Umi",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Field",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/267_Mythical Umi.png"
+			}
+		},
+		{
+			"name": "Mythical Wasteland",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Field",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/268_Mythical Wasteland.png"
+			}
+		},
+		{
+			"name": "Mythical Yami",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Field",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/269_Mythical Yami.png"
+			}
+		},
+		{
+			"name": "Shadows Light",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/270_Shadows Light.png"
+			}
+		},
+		{
+			"name": "Umiiruka",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/272_Umiiruka.png"
+			}
+		},
+		{
+			"name": "Exodia the Forbidden One",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Legendary Creature — Wizard God",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/3_Exodia the Forbidden One.png"
+			}
+		},
+		{
+			"name": "Left Arm of the Forbidden One",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Legendary Creature — Wizard God",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/6_Left Arm of the Forbidden One.png"
+			}
+		},
+		{
+			"name": "Left Leg of the Forbidden One",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Legendary Creature — Wizard God",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/7_Left Leg of the Forbidden One.png"
+			}
+		},
+		{
+			"name": "Right Arm of the Forbidden One",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Legendary Creature — Wizard God",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/17_Right Arm of the Forbidden One.png"
+			}
+		},
+		{
+			"name": "Right Leg of the Forbidden One",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Legendary Creature — Wizard God",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/18_Right Leg of the Forbidden One.png"
+			}
+		},
+		{
+			"name": "Extra Rulings for Silver",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Reminder",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/7_Extra Rulings for Silver.png"
+			}
+		},
+		{
+			"name": "Sanctum Reminder",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Reminder",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/1_Sanctum Reminder.png"
+			}
+		},
+		{
+			"name": "Burning Spear",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/116_Burning Spear.png"
+			}
+		},
+		{
+			"name": "Candle of Fate",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/117_Candle of Fate.png"
+			}
+		},
+		{
+			"name": "Castle Walls",
+			"rarity": "common",
+			"mana_cost": "{2}{I}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/184_Castle Walls.png"
+			}
+		},
+		{
+			"name": "Dark Energy",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/91_Dark Energy.png"
+			}
+		},
+		{
+			"name": "Dark Hole",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/92_Dark Hole.png"
+			}
+		},
+		{
+			"name": "Final Flame",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/123_Final Flame.png"
+			}
+		},
+		{
+			"name": "Follow Wind",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/27_Follow Wind.png"
+			}
+		},
+		{
+			"name": "Graveyard and the Hand of Invitation",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/99_Graveyard and the Hand of Invitation.png"
+			}
+		},
+		{
+			"name": "Mystery Hand",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/104_Mystery Hand.png"
+			}
+		},
+		{
+			"name": "Ookazi",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/134_Ookazi.png"
+			}
+		},
+		{
+			"name": "Polymerization",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/12_Polymerization.png"
+			}
+		},
+		{
+			"name": "Pot of Greed",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/13_Pot of Greed.png"
+			}
+		},
+		{
+			"name": "Raigeki",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/14_Raigeki.png"
+			}
+		},
+		{
+			"name": "Raimei",
+			"rarity": "special",
+			"mana_cost": "{X}{1}{I}{R}",
+			"type": "Sorcery",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/312_Raimei.png"
+			}
+		},
+		{
+			"name": "Reinforcements",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/137_Reinforcements.png"
+			}
+		},
+		{
+			"name": "Remove Trap",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/106_Remove Trap.png"
+			}
+		},
+		{
+			"name": "Stop Defense",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/20_Stop Defense.png"
+			}
+		},
+		{
+			"name": "Swords of Revealing Light",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}{I}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/205_Swords of Revealing Light.png"
+			}
+		},
+		{
+			"name": "The Great Tear",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/280_The Great Tear.png"
+			}
+		},
+		{
+			"name": "Two-Pronged Attack",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/52_Two-Pronged Attack.png"
+			}
+		},
+		{
+			"name": "Yashinoki",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/178_Yashinoki.png"
+			}
+		},
+		{
+			"name": "Lifelink Counter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/8_Lifelink Counter.png"
+			}
+		},
+		{
+			"name": "Menace Counter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/10_Menace Counter.png"
+			}
+		},
+		{
+			"name": "Plus 1 Plus 1 Counter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/11_Plus 1 Plus 1 Counter.png"
+			}
+		},
+		{
+			"name": "Reach Counter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/15_Reach Counter.png"
+			}
+		},
+		{
+			"name": "Stun Counter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/21_Stun Counter.png"
+			}
+		},
+		{
+			"name": "Vigilance Counter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/22_Vigilance Counter.png"
+			}
+		},
+		{
+			"name": "Robot Token LOB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Robot",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/9_Robot Token LOB.png"
+			}
+		},
+		{
+			"name": "Wall Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Wall",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/10_Wall Token.png"
+			}
+		},
+		{
+			"name": "Demon Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Demon",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/5_Demon Token.png"
+			}
+		},
+		{
+			"name": "Dragon Token LOB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/4_Dragon Token LOB.png"
+			}
+		},
+		{
+			"name": "Elemental Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/6_Elemental Token.png"
+			}
+		},
+		{
+			"name": "Insect Plant Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect Plant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/8_Insect Plant Token.png"
+			}
+		},
+		{
+			"name": "Shapeshifter Token LOB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Shapeshifter",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/2_Shapeshifter Token LOB.png"
+			}
+		},
+		{
+			"name": "Shifting Obelisks",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Field",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/271_Shifting Obelisks.png"
+			}
+		},
+		{
+			"name": "Severed Precipice",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/323_Severed Precipice.png"
+			}
+		},
+		{
+			"name": "Sulking Fortress",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/324_Sulking Fortress.png"
+			}
+		},
+		{
+			"name": "Mudbound Stream",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/322_Mudbound Stream.png"
+			}
+		},
+		{
+			"name": "Carved Sward",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/321_Carved Sward.png"
+			}
+		},
+		{
+			"name": "Wurm Dragon-01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Wurm Dragon",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/3_Wurm Dragon-01.png"
+			}
+		},
+		{
+			"name": "Castle Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Land",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/11_Castle Token.png"
+			}
+		},
+		{
+			"name": "Hitodenchak",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Demon Starfish",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/61_Hitodenchak.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Dragon Capture Jar
+	2 Giant Mech-Soldier
+	2 Cyber Soldier of Darkworld
+	2 Giant Soldier of Stone
+	2 Ryu-Kishin
+	2 Red-Eyes Black Dragon
+	2 Yormungarde
+	2 Blue-Eyes White Dragon
+	2 Winged Dragon, Guardian of the Fortress 1
+	2 Winged Dragon, Guardian of the Fortress 2
+	2 Battle Warrior
+	2 Celtic Guardian
+	2 Gaia the Dragon Champion
+	2 Gaia The Fierce Knight
+	2 Armed Ninja
+	2 Dark Magician
+	2 Boo Koo
+	2 Winged Cleaver
+	2 Wow Warrior
+	2 Wodan the Resident of the Forest
+	2 Reaper of the Cards
+	2 Tao the Chanter
+	2 Hane-Hane
+	2 Trap Hole
+	2 The Seal of Orichalcos
+	2 Aqua Madoor
+	2 Weather Control
+	2 Invigoration
+	2 Blue Medicine
+	2 Fissure
+	2 Goblins Secret Remedy
+	2 Monster Reborn
+	2 Red Medicine
+	2 Exodia the Forbidden One
+	2 Left Arm of the Forbidden One
+	2 Left Leg of the Forbidden One
+	2 Right Arm of the Forbidden One
+	2 Right Leg of the Forbidden One
+	2 Dark Hole
+	2 Final Flame
+	2 Polymerization
+	2 Raigeki
+	2 Reinforcements
+	2 Stop Defense
+	2 Swords of Revealing Light
+	2 Two-Pronged Attack
+[uncommon(3)]
+	4 Book of Secret Arts
+	4 Temple of Skulls
+	4 Ancient Jar
+	4 Golgoil
+	4 Bat
+	4 Metal Dragon
+	4 Mech Mole Zombie
+	4 Steel Ogre Grotto 1
+	4 Statue of Easter Island
+	4 Electro-Whip
+	4 Laser Cannon Armor
+	4 Silver Bow and Arrow
+	4 Hourglass of Courage
+	4 Spirit of the Harp
+	4 Meda Bat
+	4 Frenzied Panda
+	4 Beaver Warrior
+	4 Skull Red Bird
+	4 Punished Eagle
+	4 Bolt Penguin
+	4 Tiger Axe
+	4 Wood Clown
+	4 Tri-Horned Dragon
+	4 Roaring Ocean Snake
+	4 Twin Long Rods 1
+	4 Sanwitch
+	4 Succubus Knight
+	4 Witty Phantom
+	4 Dig Beak
+	4 Shadow Who Controls the Dark
+	4 Megirus Light
+	4 Tomozaurus
+	4 Curse of Dragon
+	4 Lesser Dragon
+	4 Wicked Dragon with the Ersatz Head
+	4 Tripwire Beast
+	4 One-Eyed Shield Dragon
+	4 Flame Ghost
+	4 Empress Judge
+	4 Mystical Elf
+	4 Fairywitch
+	4 Dragoness the Wicked Knight
+	4 Armaill
+	4 Beautiful Headhuntress
+	4 Warrior of Tradition
+	4 Flame Swordsman
+	4 Karbonala Warrior
+	4 Minomushi Warrior
+	4 St Joan
+	4 M-Warrior 1
+	4 M-Warrior 2
+	4 Fireyarou
+	4 Vermillion Sparrow
+	4 Kamionwizard
+	4 Alinsection
+	4 Giant Flea
+	4 Man-Eater Bug
+	4 Kwagar Hercules
+	4 Mon Larvas
+	4 Terra the Terrible
+	4 Man-Eating Plant
+	4 Abyss Flower
+	4 Darkfire Dragon
+	4 Flower Wolf
+	4 Oscillo Hero
+	4 Wattkid
+	4 Nightmare Scorpion
+	4 Eyearmor
+	4 Doron
+	4 Misairuzame
+	4 Harpie Lady
+	4 Kumootoko
+	4 Djinn the Watcher of the Wind
+	4 One Who Hunts Souls
+	4 Pragticul
+	4 Gate Deeg
+	4 Skullbird
+	4 Akihiron
+	4 Dark Artist
+	4 Armored Starfish
+	4 Fire Reaper
+	4 Steel Shell
+	4 Yamatano Dragon Scroll
+	4 Takuhee
+	4 Fusionist
+	4 Hurricail
+	4 Mavelus
+	4 Stone Ghost
+	4 Charubin the Fire Knight
+	4 Kaminari Attack
+	4 Darkworld Thorns
+	4 Sand Stone
+	4 Gravedigger Ghoul
+	4 Mythical Forest
+	4 Mythical Mountain
+	4 Mythical Sogen
+	4 Mythical Umi
+	4 Mythical Wasteland
+	4 Mythical Yami
+	4 Dark Energy
+	4 Ookazi
+	4 Pot of Greed
+	4 Yashinoki
+	4 Shifting Obelisks
+[common(7)]
+	8 Mystical Capture Chain
+	8 Prismatic Bulb
+	8 Rainbow Flower
+	8 Man-Eating Treasure Chest
+	8 Patrol Robo
+	8 Hard Armor
+	8 Beast Fangs
+	8 Dragon Treasure
+	8 Gust Fan
+	8 Legendary Sword
+	8 Machine Conversion Factory
+	8 Power of Kaishin
+	8 Violet Crystal
+	8 Happy Lover
+	8 Hourglass of Life
+	8 Petit Angel
+	8 Shining Friendship
+	8 Mabarrel
+	8 Droll Bird
+	8 Kurama
+	8 Fiend Reflection 2
+	8 Spirit of the Books
+	8 Rare Fish
+	8 Turtle Tiger
+	8 Rabid Horseman
+	8 Hitotsu-Me Giant
+	8 Midnight Fiend
+	8 Tyhone
+	8 Synchar
+	8 Meotoko
+	8 Archfiend Mirror
+	8 Dark Plant
+	8 Rhaimundos of the Red Sword
+	8 Phantom Dewan
+	8 Dark King of the Abyss
+	8 Two-Mouth Darkruler
+	8 Uraby
+	8 Kaiser Dragon
+	8 Petit Dragon
+	8 That Which Feeds on Life
+	8 Monster Egg
+	8 Little D
+	8 Fire Eye
+	8 Mammoth Graveyard
+	8 Musician King
+	8 Doriado
+	8 Muse-A
+	8 Kagemusha of the Blue Flame
+	8 Flame Manipulator
+	8 Basic Insect
+	8 Hercules Beetle
+	8 Kuwagata Alpha
+	8 Larvas
+	8 Drooling Lizard
+	8 Zarigun
+	8 Furious Sea King
+	8 Enchanting Mermaid
+	8 Root Water
+	8 Man Eater
+	8 Rose Spectre of Dunn
+	8 Bean Soldier
+	8 Firegrass
+	8 Wilmee
+	8 Masaki the Legendary Swordsman
+	8 Dark Gray
+	8 Secretarian of Secrets
+	8 Silver Fang
+	8 Skelegon
+	8 Drdek
+	8 Bone Mouse
+	8 Spike Seadra
+	8 Skull Servant
+	8 The 13th Grave
+	8 Zombie Warrior
+	8 Curtain of the Dark Ones
+	8 Haniwa
+	8 Lucky Trinket
+	8 Tatsunootoshigo
+	8 The Melting Red Shadow
+	8 Wings of Wicked Flame
+	8 LaMoon
+	8 Dissolverrock
+	8 Hinotama Soul
+	8 LaLa Li-oon
+	8 Water Element
+	8 King Fog
+	8 Green Phantom King
+	8 Thunder Kid
+	8 Nemuriko
+	8 Living Vase
+	8 Mystical Sheep 2
+	8 Ray and Temperature
+	8 Mystical Moon
+	8 Vile Germs
+	8 Corroding Shark
+	8 Hinotama
+	8 Marmot of Nefariousness
+	8 Raise Body Heat
+	8 Rouge Doll
+	8 Sparks
+	8 Trial of Nightmare
+	8 White Dolphin
+	8 Ancient Forest
+	8 Canyon
+	8 Fire Prison
+	8 Mystic Plasma Zone
+	8 Shadows Light
+	8 Umiiruka
+	8 Burning Spear
+	8 Candle of Fate
+	8 Castle Walls
+	8 Follow Wind
+	8 Graveyard and the Hand of Invitation
+	8 Mystery Hand
+	8 Remove Trap
+	8 Lifelink Counter
+	8 Menace Counter
+	8 Plus 1 Plus 1 Counter
+	8 Reach Counter
+	8 Stun Counter
+	8 Vigilance Counter
+	8 Hitodenchak
+[foil(1)]
+	6 Book of Secret Arts
+	2 Dragon Capture Jar
+	12 Mystical Capture Chain
+	12 Prismatic Bulb
+	12 Rainbow Flower
+	6 Temple of Skulls
+	6 Ancient Jar
+	6 Golgoil
+	6 Bat
+	12 Man-Eating Treasure Chest
+	6 Metal Dragon
+	2 Giant Mech-Soldier
+	6 Mech Mole Zombie
+	6 Steel Ogre Grotto 1
+	6 Statue of Easter Island
+	2 Cyber Soldier of Darkworld
+	2 Giant Soldier of Stone
+	12 Patrol Robo
+	12 Hard Armor
+	12 Beast Fangs
+	12 Dragon Treasure
+	6 Electro-Whip
+	12 Gust Fan
+	6 Laser Cannon Armor
+	12 Legendary Sword
+	12 Machine Conversion Factory
+	12 Power of Kaishin
+	6 Silver Bow and Arrow
+	12 Violet Crystal
+	12 Happy Lover
+	6 Hourglass of Courage
+	12 Hourglass of Life
+	12 Petit Angel
+	12 Shining Friendship
+	6 Spirit of the Harp
+	6 Meda Bat
+	6 Frenzied Panda
+	12 Mabarrel
+	6 Beaver Warrior
+	6 Skull Red Bird
+	6 Punished Eagle
+	12 Droll Bird
+	12 Kurama
+	12 Fiend Reflection 2
+	12 Spirit of the Books
+	6 Bolt Penguin
+	12 Rare Fish
+	12 Turtle Tiger
+	6 Tiger Axe
+	12 Rabid Horseman
+	6 Wood Clown
+	12 Hitotsu-Me Giant
+	12 Midnight Fiend
+	2 Ryu-Kishin
+	12 Tyhone
+	12 Synchar
+	12 Meotoko
+	2 Red-Eyes Black Dragon
+	6 Tri-Horned Dragon
+	12 Archfiend Mirror
+	6 Roaring Ocean Snake
+	2 Yormungarde
+	6 Twin Long Rods 1
+	6 Sanwitch
+	6 Succubus Knight
+	12 Dark Plant
+	6 Witty Phantom
+	6 Dig Beak
+	6 Shadow Who Controls the Dark
+	12 Rhaimundos of the Red Sword
+	6 Megirus Light
+	12 Phantom Dewan
+	12 Dark King of the Abyss
+	6 Tomozaurus
+	12 Two-Mouth Darkruler
+	12 Uraby
+	2 Blue-Eyes White Dragon
+	6 Curse of Dragon
+	6 Lesser Dragon
+	2 Winged Dragon, Guardian of the Fortress 1
+	2 Winged Dragon, Guardian of the Fortress 2
+	6 Wicked Dragon with the Ersatz Head
+	6 Tripwire Beast
+	12 Kaiser Dragon
+	12 Petit Dragon
+	12 That Which Feeds on Life
+	6 One-Eyed Shield Dragon
+	12 Monster Egg
+	12 Little D
+	12 Fire Eye
+	6 Flame Ghost
+	6 Empress Judge
+	12 Mammoth Graveyard
+	6 Mystical Elf
+	2 Battle Warrior
+	2 Celtic Guardian
+	6 Fairywitch
+	12 Musician King
+	6 Dragoness the Wicked Knight
+	2 Gaia the Dragon Champion
+	12 Doriado
+	12 Muse-A
+	2 Gaia The Fierce Knight
+	2 Armed Ninja
+	6 Armaill
+	6 Beautiful Headhuntress
+	6 Warrior of Tradition
+	6 Flame Swordsman
+	12 Kagemusha of the Blue Flame
+	6 Karbonala Warrior
+	6 Minomushi Warrior
+	6 St Joan
+	6 M-Warrior 1
+	6 M-Warrior 2
+	2 Dark Magician
+	6 Fireyarou
+	12 Flame Manipulator
+	6 Vermillion Sparrow
+	6 Kamionwizard
+	2 Boo Koo
+	6 Alinsection
+	12 Basic Insect
+	6 Giant Flea
+	6 Man-Eater Bug
+	12 Hercules Beetle
+	12 Kuwagata Alpha
+	6 Kwagar Hercules
+	12 Larvas
+	6 Mon Larvas
+	2 Winged Cleaver
+	12 Drooling Lizard
+	12 Zarigun
+	12 Furious Sea King
+	2 Wow Warrior
+	12 Enchanting Mermaid
+	12 Root Water
+	6 Terra the Terrible
+	12 Man Eater
+	6 Man-Eating Plant
+	6 Abyss Flower
+	6 Darkfire Dragon
+	12 Rose Spectre of Dunn
+	2 Wodan the Resident of the Forest
+	12 Bean Soldier
+	12 Firegrass
+	6 Flower Wolf
+	12 Wilmee
+	12 Masaki the Legendary Swordsman
+	6 Oscillo Hero
+	6 Wattkid
+	6 Nightmare Scorpion
+	12 Dark Gray
+	6 Eyearmor
+	6 Doron
+	6 Misairuzame
+	6 Harpie Lady
+	6 Kumootoko
+	2 Reaper of the Cards
+	2 Tao the Chanter
+	6 Djinn the Watcher of the Wind
+	2 Hane-Hane
+	6 One Who Hunts Souls
+	12 Secretarian of Secrets
+	12 Silver Fang
+	6 Pragticul
+	6 Gate Deeg
+	6 Skullbird
+	12 Skelegon
+	12 Drdek
+	6 Akihiron
+	12 Bone Mouse
+	12 Spike Seadra
+	6 Dark Artist
+	12 Skull Servant
+	6 Armored Starfish
+	12 The 13th Grave
+	12 Zombie Warrior
+	6 Fire Reaper
+	12 Curtain of the Dark Ones
+	12 Haniwa
+	12 Lucky Trinket
+	6 Steel Shell
+	12 Tatsunootoshigo
+	12 The Melting Red Shadow
+	2 Trap Hole
+	12 Wings of Wicked Flame
+	6 Yamatano Dragon Scroll
+	2 The Seal of Orichalcos
+	12 LaMoon
+	6 Takuhee
+	6 Fusionist
+	2 Aqua Madoor
+	12 Dissolverrock
+	12 Hinotama Soul
+	6 Hurricail
+	12 LaLa Li-oon
+	2 Weather Control
+	6 Mavelus
+	6 Stone Ghost
+	12 Water Element
+	6 Charubin the Fire Knight
+	12 King Fog
+	12 Green Phantom King
+	6 Kaminari Attack
+	12 Thunder Kid
+	12 Nemuriko
+	12 Living Vase
+	6 Darkworld Thorns
+	12 Mystical Sheep 2
+	12 Ray and Temperature
+	6 Sand Stone
+	2 Invigoration
+	12 Mystical Moon
+	12 Vile Germs
+	2 Blue Medicine
+	12 Corroding Shark
+	2 Fissure
+	2 Goblins Secret Remedy
+	6 Gravedigger Ghoul
+	12 Hinotama
+	12 Marmot of Nefariousness
+	2 Monster Reborn
+	12 Raise Body Heat
+	2 Red Medicine
+	12 Rouge Doll
+	12 Sparks
+	12 Trial of Nightmare
+	12 White Dolphin
+	12 Ancient Forest
+	12 Canyon
+	12 Fire Prison
+	12 Mystic Plasma Zone
+	6 Mythical Forest
+	6 Mythical Mountain
+	6 Mythical Sogen
+	6 Mythical Umi
+	6 Mythical Wasteland
+	6 Mythical Yami
+	12 Shadows Light
+	12 Umiiruka
+	2 Exodia the Forbidden One
+	2 Left Arm of the Forbidden One
+	2 Left Leg of the Forbidden One
+	2 Right Arm of the Forbidden One
+	2 Right Leg of the Forbidden One
+	12 Burning Spear
+	12 Candle of Fate
+	12 Castle Walls
+	6 Dark Energy
+	2 Dark Hole
+	2 Final Flame
+	12 Follow Wind
+	12 Graveyard and the Hand of Invitation
+	12 Mystery Hand
+	6 Ookazi
+	2 Polymerization
+	6 Pot of Greed
+	2 Raigeki
+	2 Reinforcements
+	12 Remove Trap
+	2 Stop Defense
+	2 Swords of Revealing Light
+	2 Two-Pronged Attack
+	6 Yashinoki
+	12 Lifelink Counter
+	12 Menace Counter
+	12 Plus 1 Plus 1 Counter
+	12 Reach Counter
+	12 Stun Counter
+	12 Vigilance Counter
+	6 Shifting Obelisks
+	12 Hitodenchak
+[wildcard(1)]
+	15 Book of Secret Arts
+	7 Dragon Capture Jar
+	6 Mystical Capture Chain
+	6 Prismatic Bulb
+	6 Rainbow Flower
+	15 Temple of Skulls
+	15 Ancient Jar
+	15 Golgoil
+	15 Bat
+	6 Man-Eating Treasure Chest
+	15 Metal Dragon
+	7 Giant Mech-Soldier
+	15 Mech Mole Zombie
+	15 Steel Ogre Grotto 1
+	15 Statue of Easter Island
+	7 Cyber Soldier of Darkworld
+	7 Giant Soldier of Stone
+	6 Patrol Robo
+	6 Hard Armor
+	6 Beast Fangs
+	6 Dragon Treasure
+	15 Electro-Whip
+	6 Gust Fan
+	15 Laser Cannon Armor
+	6 Legendary Sword
+	6 Machine Conversion Factory
+	6 Power of Kaishin
+	15 Silver Bow and Arrow
+	6 Violet Crystal
+	6 Happy Lover
+	15 Hourglass of Courage
+	6 Hourglass of Life
+	6 Petit Angel
+	6 Shining Friendship
+	15 Spirit of the Harp
+	15 Meda Bat
+	15 Frenzied Panda
+	6 Mabarrel
+	15 Beaver Warrior
+	15 Skull Red Bird
+	15 Punished Eagle
+	6 Droll Bird
+	6 Kurama
+	6 Fiend Reflection 2
+	6 Spirit of the Books
+	15 Bolt Penguin
+	6 Rare Fish
+	6 Turtle Tiger
+	15 Tiger Axe
+	6 Rabid Horseman
+	15 Wood Clown
+	6 Hitotsu-Me Giant
+	6 Midnight Fiend
+	7 Ryu-Kishin
+	6 Tyhone
+	6 Synchar
+	6 Meotoko
+	7 Red-Eyes Black Dragon
+	15 Tri-Horned Dragon
+	6 Archfiend Mirror
+	15 Roaring Ocean Snake
+	7 Yormungarde
+	15 Twin Long Rods 1
+	15 Sanwitch
+	15 Succubus Knight
+	6 Dark Plant
+	15 Witty Phantom
+	15 Dig Beak
+	15 Shadow Who Controls the Dark
+	6 Rhaimundos of the Red Sword
+	15 Megirus Light
+	6 Phantom Dewan
+	6 Dark King of the Abyss
+	15 Tomozaurus
+	6 Two-Mouth Darkruler
+	6 Uraby
+	7 Blue-Eyes White Dragon
+	15 Curse of Dragon
+	15 Lesser Dragon
+	7 Winged Dragon, Guardian of the Fortress 1
+	7 Winged Dragon, Guardian of the Fortress 2
+	15 Wicked Dragon with the Ersatz Head
+	15 Tripwire Beast
+	6 Kaiser Dragon
+	6 Petit Dragon
+	6 That Which Feeds on Life
+	15 One-Eyed Shield Dragon
+	6 Monster Egg
+	6 Little D
+	6 Fire Eye
+	15 Flame Ghost
+	15 Empress Judge
+	6 Mammoth Graveyard
+	15 Mystical Elf
+	7 Battle Warrior
+	7 Celtic Guardian
+	15 Fairywitch
+	6 Musician King
+	15 Dragoness the Wicked Knight
+	7 Gaia the Dragon Champion
+	6 Doriado
+	6 Muse-A
+	7 Gaia The Fierce Knight
+	7 Armed Ninja
+	15 Armaill
+	15 Beautiful Headhuntress
+	15 Warrior of Tradition
+	15 Flame Swordsman
+	6 Kagemusha of the Blue Flame
+	15 Karbonala Warrior
+	15 Minomushi Warrior
+	15 St Joan
+	15 M-Warrior 1
+	15 M-Warrior 2
+	7 Dark Magician
+	15 Fireyarou
+	6 Flame Manipulator
+	15 Vermillion Sparrow
+	15 Kamionwizard
+	7 Boo Koo
+	15 Alinsection
+	6 Basic Insect
+	15 Giant Flea
+	15 Man-Eater Bug
+	6 Hercules Beetle
+	6 Kuwagata Alpha
+	15 Kwagar Hercules
+	6 Larvas
+	15 Mon Larvas
+	7 Winged Cleaver
+	6 Drooling Lizard
+	6 Zarigun
+	6 Furious Sea King
+	7 Wow Warrior
+	6 Enchanting Mermaid
+	6 Root Water
+	15 Terra the Terrible
+	6 Man Eater
+	15 Man-Eating Plant
+	15 Abyss Flower
+	15 Darkfire Dragon
+	6 Rose Spectre of Dunn
+	7 Wodan the Resident of the Forest
+	6 Bean Soldier
+	6 Firegrass
+	15 Flower Wolf
+	6 Wilmee
+	6 Masaki the Legendary Swordsman
+	15 Oscillo Hero
+	15 Wattkid
+	15 Nightmare Scorpion
+	6 Dark Gray
+	15 Eyearmor
+	15 Doron
+	15 Misairuzame
+	15 Harpie Lady
+	15 Kumootoko
+	7 Reaper of the Cards
+	7 Tao the Chanter
+	15 Djinn the Watcher of the Wind
+	7 Hane-Hane
+	15 One Who Hunts Souls
+	6 Secretarian of Secrets
+	6 Silver Fang
+	15 Pragticul
+	15 Gate Deeg
+	15 Skullbird
+	6 Skelegon
+	6 Drdek
+	15 Akihiron
+	6 Bone Mouse
+	6 Spike Seadra
+	15 Dark Artist
+	6 Skull Servant
+	15 Armored Starfish
+	6 The 13th Grave
+	6 Zombie Warrior
+	15 Fire Reaper
+	6 Curtain of the Dark Ones
+	6 Haniwa
+	6 Lucky Trinket
+	15 Steel Shell
+	6 Tatsunootoshigo
+	6 The Melting Red Shadow
+	7 Trap Hole
+	6 Wings of Wicked Flame
+	15 Yamatano Dragon Scroll
+	7 The Seal of Orichalcos
+	6 LaMoon
+	15 Takuhee
+	15 Fusionist
+	7 Aqua Madoor
+	6 Dissolverrock
+	6 Hinotama Soul
+	15 Hurricail
+	6 LaLa Li-oon
+	7 Weather Control
+	15 Mavelus
+	15 Stone Ghost
+	6 Water Element
+	15 Charubin the Fire Knight
+	6 King Fog
+	6 Green Phantom King
+	15 Kaminari Attack
+	6 Thunder Kid
+	6 Nemuriko
+	6 Living Vase
+	15 Darkworld Thorns
+	6 Mystical Sheep 2
+	6 Ray and Temperature
+	15 Sand Stone
+	7 Invigoration
+	6 Mystical Moon
+	6 Vile Germs
+	7 Blue Medicine
+	6 Corroding Shark
+	7 Fissure
+	7 Goblins Secret Remedy
+	15 Gravedigger Ghoul
+	6 Hinotama
+	6 Marmot of Nefariousness
+	7 Monster Reborn
+	6 Raise Body Heat
+	7 Red Medicine
+	6 Rouge Doll
+	6 Sparks
+	6 Trial of Nightmare
+	6 White Dolphin
+	6 Ancient Forest
+	6 Canyon
+	6 Fire Prison
+	6 Mystic Plasma Zone
+	15 Mythical Forest
+	15 Mythical Mountain
+	15 Mythical Sogen
+	15 Mythical Umi
+	15 Mythical Wasteland
+	15 Mythical Yami
+	6 Shadows Light
+	6 Umiiruka
+	7 Exodia the Forbidden One
+	7 Left Arm of the Forbidden One
+	7 Left Leg of the Forbidden One
+	7 Right Arm of the Forbidden One
+	7 Right Leg of the Forbidden One
+	6 Burning Spear
+	6 Candle of Fate
+	6 Castle Walls
+	15 Dark Energy
+	7 Dark Hole
+	7 Final Flame
+	6 Follow Wind
+	6 Graveyard and the Hand of Invitation
+	6 Mystery Hand
+	15 Ookazi
+	7 Polymerization
+	15 Pot of Greed
+	7 Raigeki
+	7 Reinforcements
+	6 Remove Trap
+	7 Stop Defense
+	7 Swords of Revealing Light
+	7 Two-Pronged Attack
+	15 Yashinoki
+	6 Lifelink Counter
+	6 Menace Counter
+	6 Plus 1 Plus 1 Counter
+	6 Reach Counter
+	6 Stun Counter
+	6 Vigilance Counter
+	15 Shifting Obelisks
+	6 Hitodenchak

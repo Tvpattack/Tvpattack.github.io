@@ -1,0 +1,19 @@
+﻿{
+    "sets": [
+        {
+            "set_code": "FOE",
+            "set_name": "Frontiers of Eternity",
+            "formats": ""
+        },
+        {
+            "set_code": "LOB",
+            "set_name": "Legend of Blue Eyes",
+            "formats": ""
+        },
+        {
+            "set_code": "VNM",
+            "set_name": "Vinimroth Eternities",
+            "formats": ""
+        }
+    ]
+}
