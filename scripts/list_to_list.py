@@ -134,7 +134,8 @@ def convertList(setCode):
 		'L': [],
 		'basic': [],
 		'token': [],
-		'mp': []
+		'mp': [],
+		'': []
 	}
 
 	for group in sort_groups:
@@ -164,7 +165,8 @@ def convertList(setCode):
 		# sort types
 		if '!group' in card['notes']:
 			for group in sort_groups:
-				if group in card['notes']:
+				pattern = re.compile(re.escape(group) + r'(?:\n|$)')
+				if pattern.search(card['notes']):
 					cards_sorted[group].append(card)
 		elif 'token' in card['shape']:
 			cards_sorted['token'].append(card)
@@ -269,6 +271,9 @@ def convertList(setCode):
 			continue
 		else:
 			for index in r['cards']:
+				if index not in cards_sorted:
+					print(f'INFO: Group {index} not found in any card notes.')
+					index = ''
 				row_count = max(row_count, len(cards_sorted[index]))
 				cards_arr.append(cards_sorted[index])
 
