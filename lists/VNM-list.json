@@ -30,6 +30,12 @@
         "set": "VNM"
     },
     {
+        "card_name": "Dustfall",
+        "number": 188,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
         "card_name": "Calia Oracle of Tofnet Plains",
         "number": 17,
         "shape": "normal",
@@ -56,6 +62,12 @@
     {
         "card_name": "Bruin Mentor",
         "number": 158,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Faloden Scavenger",
+        "number": 189,
         "shape": "normal",
         "set": "VNM"
     },
@@ -90,6 +102,12 @@
         "set": "VNM"
     },
     {
+        "card_name": "Melodia Voidtouched",
+        "number": 192,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
         "card_name": "The Great Tear",
         "number": 29,
         "shape": "normal",
@@ -116,6 +134,12 @@
     {
         "card_name": "Keeper of Faloden Woods",
         "number": 166,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "The Wandering Cook",
+        "number": 199,
         "shape": "normal",
         "set": "VNM"
     },
@@ -150,6 +174,12 @@
         "set": "VNM"
     },
     {
+        "card_name": "Weavehorn Chimera",
+        "number": 200,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
         "card_name": "Khestri Fadove Clanleader",
         "number": 32,
         "shape": "normal",
@@ -176,6 +206,12 @@
     {
         "card_name": "Ruins of Uth",
         "number": 182,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Choked Essence",
+        "number": 186,
         "shape": "normal",
         "set": "VNM"
     },
@@ -210,6 +246,12 @@
         "set": "VNM"
     },
     {
+        "card_name": "Common Enemy",
+        "number": 187,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
         "card_name": "Ruins of Multa",
         "number": 42,
         "shape": "normal",
@@ -236,6 +278,12 @@
     {
         "card_name": "Crowned Entity",
         "number": 160,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Paragon of Unknown Sights",
+        "number": 193,
         "shape": "normal",
         "set": "VNM"
     },
@@ -270,6 +318,12 @@
         "set": "VNM"
     },
     {
+        "card_name": "Power Null",
+        "number": 195,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
         "card_name": "Fadove Bodyguard",
         "number": 20,
         "shape": "normal",
@@ -296,6 +350,12 @@
     {
         "card_name": "Manifesting Ardor",
         "number": 167,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Tofnet Predator",
+        "number": 197,
         "shape": "normal",
         "set": "VNM"
     },
@@ -330,6 +390,12 @@
         "set": "VNM"
     },
     {
+        "card_name": "Tofnet Thrummer",
+        "number": 198,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
         "card_name": "Giants Blade",
         "number": 28,
         "shape": "normal",
@@ -356,6 +422,12 @@
     {
         "card_name": "Outlands Protector",
         "number": 175,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Fog Walker",
+        "number": 190,
         "shape": "normal",
         "set": "VNM"
     },
@@ -390,6 +462,12 @@
         "set": "VNM"
     },
     {
+        "card_name": "Grazed by the Endless",
+        "number": 191,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
         "card_name": "Radiant Guide",
         "number": 40,
         "shape": "normal",
@@ -416,6 +494,12 @@
     {
         "card_name": "Progeny of Bruin",
         "number": 178,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Pinnacle Skitter",
+        "number": 194,
         "shape": "normal",
         "set": "VNM"
     },
@@ -450,6 +534,12 @@
         "set": "VNM"
     },
     {
+        "card_name": "Starbright Entity",
+        "number": 196,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
         "card_name": "Trusted Companion",
         "number": 46,
         "shape": "normal",
@@ -478,6 +568,9 @@
         "number": 183,
         "shape": "normal",
         "set": "VNM"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Usher of the Lost",
@@ -510,6 +603,9 @@
         "set": "VNM"
     },
     {
+        "card_name": "e"
+    },
+    {
         "card_name": "Wipe Away the Wicked",
         "number": 49,
         "shape": "normal",
@@ -538,6 +634,9 @@
         "number": 152,
         "shape": "normal",
         "set": "VNM"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Drake Rider",
@@ -570,6 +669,9 @@
         "set": "VNM"
     },
     {
+        "card_name": "e"
+    },
+    {
         "card_name": "Fadove Drillmaster",
         "number": 21,
         "shape": "normal",
@@ -598,6 +700,9 @@
         "number": 154,
         "shape": "normal",
         "set": "VNM"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Fadove Initiate",
@@ -630,6 +735,9 @@
         "set": "VNM"
     },
     {
+        "card_name": "e"
+    },
+    {
         "card_name": "Fadove Reinforcement",
         "number": 24,
         "shape": "normal",
@@ -658,6 +766,9 @@
         "number": 157,
         "shape": "normal",
         "set": "VNM"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Fadove Tracker",
@@ -690,6 +801,9 @@
         "set": "VNM"
     },
     {
+        "card_name": "e"
+    },
+    {
         "card_name": "Fadove Trainer",
         "number": 26,
         "shape": "normal",
@@ -718,6 +832,9 @@
         "number": 162,
         "shape": "normal",
         "set": "VNM"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Iconic Absolution",
@@ -750,6 +867,9 @@
         "set": "VNM"
     },
     {
+        "card_name": "e"
+    },
+    {
         "card_name": "Maddened by Hunger",
         "number": 33,
         "shape": "normal",
@@ -778,6 +898,9 @@
         "number": 165,
         "shape": "normal",
         "set": "VNM"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Oathkeep Wurm",
@@ -810,6 +933,9 @@
         "set": "VNM"
     },
     {
+        "card_name": "e"
+    },
+    {
         "card_name": "Outlands Marauder",
         "number": 35,
         "shape": "normal",
@@ -838,6 +964,9 @@
         "number": 169,
         "shape": "normal",
         "set": "VNM"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Outlands Riftbearer",
@@ -870,6 +999,9 @@
         "set": "VNM"
     },
     {
+        "card_name": "e"
+    },
+    {
         "card_name": "Power of Oath",
         "number": 39,
         "shape": "normal",
@@ -898,6 +1030,9 @@
         "number": 172,
         "shape": "normal",
         "set": "VNM"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Rebuke the Foul",
@@ -930,6 +1065,9 @@
         "set": "VNM"
     },
     {
+        "card_name": "e"
+    },
+    {
         "card_name": "Shining Idol",
         "number": 43,
         "shape": "normal",
@@ -958,6 +1096,9 @@
         "number": 174,
         "shape": "normal",
         "set": "VNM"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Triumphant Entrance",
@@ -990,6 +1131,9 @@
         "set": "VNM"
     },
     {
+        "card_name": "e"
+    },
+    {
         "card_name": "Wandering Soul",
         "number": 48,
         "shape": "normal",
@@ -1018,6 +1162,9 @@
         "number": 181,
         "shape": "normal",
         "set": "VNM"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1063,6 +1210,24 @@
         "set": "VNM"
     },
     {
+        "card_name": "Pinnacle Wanderer",
+        "number": 250,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Frostnip Watcher",
+        "number": 229,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Shroud Walkers",
+        "number": 261,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
         "card_name": "Drake Wrangler",
         "number": 220,
         "shape": "normal",
@@ -1089,6 +1254,24 @@
     {
         "card_name": "Bruin Wanderer",
         "number": 211,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Bark of Tofnet Plains",
+        "number": 208,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Kaln-Ocean Wispop",
+        "number": 235,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Impunity of Souls",
+        "number": 234,
         "shape": "normal",
         "set": "VNM"
     },
@@ -1123,6 +1306,24 @@
         "set": "VNM"
     },
     {
+        "card_name": "Ethereal Exposure",
+        "number": 225,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Scars of Oil",
+        "number": 259,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Outlands Frostalker",
+        "number": 246,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
         "card_name": "Stalwart Guard",
         "number": 265,
         "shape": "normal",
@@ -1151,6 +1352,15 @@
         "number": 214,
         "shape": "normal",
         "set": "VNM"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Transient Eternity",
@@ -1186,6 +1396,15 @@
         "card_name": "e"
     },
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Abrupt Death",
         "number": 201,
         "shape": "normal",
@@ -1207,6 +1426,15 @@
         "card_name": "e"
     },
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Covetous Fox",
         "number": 217,
         "shape": "normal",
@@ -1220,6 +1448,15 @@
         "number": 264,
         "shape": "normal",
         "set": "VNM"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1270,6 +1507,18 @@
         "set": "VNM"
     },
     {
+        "card_name": "Verem-Volcano Stalker",
+        "number": 273,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Faloden Thickets",
+        "number": 227,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
         "card_name": "Hired Enforcer",
         "number": 231,
         "shape": "normal",
@@ -1296,6 +1545,18 @@
     {
         "card_name": "Wild Shimmer",
         "number": 277,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Pathborn Crackle",
+        "number": 248,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Guardian of Faloden Woods",
+        "number": 230,
         "shape": "normal",
         "set": "VNM"
     },
@@ -1330,6 +1591,18 @@
         "set": "VNM"
     },
     {
+        "card_name": "Volatile Visions",
+        "number": 275,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Splendid Genesis",
+        "number": 263,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
         "card_name": "Tofnet Riftstalker",
         "number": 268,
         "shape": "normal",
@@ -1360,6 +1633,12 @@
         "set": "VNM"
     },
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Purge the Clanless",
         "number": 254,
         "shape": "normal",
@@ -1388,6 +1667,12 @@
         "number": 241,
         "shape": "normal",
         "set": "VNM"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Vanishing Resolve",
@@ -1429,6 +1714,12 @@
         "card_name": "e"
     },
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Sublime Liquidation",
         "number": 266,
         "shape": "normal",
@@ -1439,6 +1730,12 @@
         "number": 276,
         "shape": "normal",
         "set": "VNM"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1652,6 +1949,93 @@
     {
         "card_name": "Restored Forest",
         "number": 291,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Crackling Plains",
+        "number": 285,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Splintered Island",
+        "number": 302,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "Sundered Swamp",
+        "number": 303,
+        "shape": "normal",
+        "set": "VNM"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Divided Forest",
+        "number": 286,
         "shape": "normal",
         "set": "VNM"
     },

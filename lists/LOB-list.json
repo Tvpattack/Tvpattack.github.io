@@ -30,6 +30,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "Boo Koo",
+        "number": 183,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Goblins Secret Remedy",
         "number": 28,
         "shape": "normal",
@@ -56,6 +62,12 @@
     {
         "card_name": "Fissure",
         "number": 154,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Giant Soldier of Stone",
+        "number": 189,
         "shape": "normal",
         "set": "LOB"
     },
@@ -90,6 +102,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "Invigoration",
+        "number": 193,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Bat",
         "number": 23,
         "shape": "normal",
@@ -116,6 +134,12 @@
     {
         "card_name": "Wodan the Resident of the Forest",
         "number": 177,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Swords of Revealing Light",
+        "number": 205,
         "shape": "normal",
         "set": "LOB"
     },
@@ -150,6 +174,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "Tao the Chanter",
+        "number": 207,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Hourglass of Courage",
         "number": 32,
         "shape": "normal",
@@ -176,6 +206,12 @@
     {
         "card_name": "Giant Flea",
         "number": 156,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Alinsection",
+        "number": 179,
         "shape": "normal",
         "set": "LOB"
     },
@@ -210,6 +246,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "Ancient Jar",
+        "number": 180,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "One-Eyed Shield Dragon",
         "number": 41,
         "shape": "normal",
@@ -236,6 +278,12 @@
     {
         "card_name": "Kwagar Hercules",
         "number": 163,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Dig Beak",
+        "number": 185,
         "shape": "normal",
         "set": "LOB"
     },
@@ -270,6 +318,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "Eyearmor",
+        "number": 188,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Sand Stone",
         "number": 47,
         "shape": "normal",
@@ -296,6 +350,12 @@
     {
         "card_name": "M-Warrior 2",
         "number": 166,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Golgoil",
+        "number": 190,
         "shape": "normal",
         "set": "LOB"
     },
@@ -330,6 +390,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "Minomushi Warrior",
+        "number": 197,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "St Joan",
         "number": 50,
         "shape": "normal",
@@ -356,6 +422,12 @@
     {
         "card_name": "Man-Eating Plant",
         "number": 169,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Mon Larvas",
+        "number": 198,
         "shape": "normal",
         "set": "LOB"
     },
@@ -390,6 +462,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "Nightmare Scorpion",
+        "number": 199,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Fiend Reflection 2",
         "number": 26,
         "shape": "normal",
@@ -416,6 +494,12 @@
     {
         "card_name": "Yashinoki",
         "number": 178,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Silver Bow and Arrow",
+        "number": 203,
         "shape": "normal",
         "set": "LOB"
     },
@@ -450,6 +534,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "Skullbird",
+        "number": 204,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Happy Lover",
         "number": 29,
         "shape": "normal",
@@ -476,6 +566,12 @@
     {
         "card_name": "Beast Fangs",
         "number": 150,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Yamatano Dragon Scroll",
+        "number": 211,
         "shape": "normal",
         "set": "LOB"
     },
@@ -510,6 +606,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "Archfiend Mirror",
+        "number": 181,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Hinotama",
         "number": 31,
         "shape": "normal",
@@ -536,6 +638,12 @@
     {
         "card_name": "Drooling Lizard",
         "number": 153,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Bean Soldier",
+        "number": 182,
         "shape": "normal",
         "set": "LOB"
     },
@@ -570,6 +678,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "Castle Walls",
+        "number": 184,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Legendary Sword",
         "number": 34,
         "shape": "normal",
@@ -596,6 +710,12 @@
     {
         "card_name": "Haniwa",
         "number": 158,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Drdek",
+        "number": 186,
         "shape": "normal",
         "set": "LOB"
     },
@@ -630,6 +750,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "Droll Bird",
+        "number": 187,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Monster Egg",
         "number": 36,
         "shape": "normal",
@@ -656,6 +782,12 @@
     {
         "card_name": "Hitotsu-Me Giant",
         "number": 160,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Gust Fan",
+        "number": 191,
         "shape": "normal",
         "set": "LOB"
     },
@@ -690,6 +822,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "Hourglass of Life",
+        "number": 192,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Musician King",
         "number": 38,
         "shape": "normal",
@@ -716,6 +854,12 @@
     {
         "card_name": "Living Vase",
         "number": 165,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Kaiser Dragon",
+        "number": 194,
         "shape": "normal",
         "set": "LOB"
     },
@@ -750,6 +894,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "LaLa Li-oon",
+        "number": 195,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Petit Angel",
         "number": 43,
         "shape": "normal",
@@ -776,6 +926,12 @@
     {
         "card_name": "Marmot of Nefariousness",
         "number": 170,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Meotoko",
+        "number": 196,
         "shape": "normal",
         "set": "LOB"
     },
@@ -810,6 +966,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "Patrol Robo",
+        "number": 200,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Ray and Temperature",
         "number": 45,
         "shape": "normal",
@@ -836,6 +998,12 @@
     {
         "card_name": "Rose Spectre of Dunn",
         "number": 172,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Phantom Dewan",
+        "number": 201,
         "shape": "normal",
         "set": "LOB"
     },
@@ -870,6 +1038,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "Secretarian of Secrets",
+        "number": 202,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Shining Friendship",
         "number": 48,
         "shape": "normal",
@@ -896,6 +1070,12 @@
     {
         "card_name": "Uraby",
         "number": 175,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Synchar",
+        "number": 206,
         "shape": "normal",
         "set": "LOB"
     },
@@ -930,6 +1110,12 @@
         "set": "LOB"
     },
     {
+        "card_name": "Tatsunootoshigo",
+        "number": 208,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "The Great Tear",
         "number": 280,
         "shape": "normal",
@@ -956,6 +1142,12 @@
     {
         "card_name": "Ascent From Snakes",
         "number": 292,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Thunder Kid",
+        "number": 209,
         "shape": "normal",
         "set": "LOB"
     },
@@ -987,6 +1179,12 @@
         "card_name": "e"
     },
     {
+        "card_name": "Wilmee",
+        "number": 210,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Light of Hope",
         "number": 282,
         "shape": "normal",
@@ -1011,6 +1209,12 @@
         "card_name": "e"
     },
     {
+        "card_name": "Cyclon Laser",
+        "number": 293,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Sun-Scorched Tempering",
         "number": 283,
         "shape": "normal",
@@ -1033,6 +1237,54 @@
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "Discover Uncertainty",
+        "number": 294,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Gradius",
+        "number": 295,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Gradius Option",
+        "number": 296,
+        "shape": "normal",
+        "set": "LOB"
     },
     {
         "card_name": "er"
@@ -1078,6 +1330,24 @@
         "set": "LOB"
     },
     {
+        "card_name": "Monster Reborn",
+        "number": 233,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Bolt Penguin",
+        "number": 215,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Megirus Light",
+        "number": 232,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Winged Dragon, Guardian of the Fortress 1",
         "number": 248,
         "shape": "normal",
@@ -1104,6 +1374,24 @@
     {
         "card_name": "Soul of the Pure",
         "number": 314,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Trap Hole",
+        "number": 242,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Roaring Ocean Snake",
+        "number": 237,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Sanwitch",
+        "number": 239,
         "shape": "normal",
         "set": "LOB"
     },
@@ -1135,6 +1423,24 @@
         "card_name": "e"
     },
     {
+        "card_name": "Weather Control",
+        "number": 246,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "The Inexperienced Spy",
+        "number": 305,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Nefairious Archfiend",
+        "number": 310,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Wattkid",
         "number": 245,
         "shape": "normal",
@@ -1159,6 +1465,21 @@
         "card_name": "e"
     },
     {
+        "card_name": "Kaminari Attack",
+        "number": 227,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Phantom Ghost",
+        "number": 311,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Leo Wizard",
         "number": 308,
         "shape": "normal",
@@ -1169,6 +1490,45 @@
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Takuhee",
+        "number": 241,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Dark-Piercing Light",
+        "number": 298,
+        "shape": "normal",
+        "set": "LOB"
     },
     {
         "card_name": "e"
@@ -1222,6 +1582,18 @@
         "set": "LOB"
     },
     {
+        "card_name": "Fairywitch",
+        "number": 220,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Beautiful Headhuntress",
+        "number": 213,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "Meda Bat",
         "number": 231,
         "shape": "normal",
@@ -1248,6 +1620,18 @@
     {
         "card_name": "Armaill",
         "number": 212,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Vermillion Sparrow",
+        "number": 243,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Warrior of Tradition",
+        "number": 244,
         "shape": "normal",
         "set": "LOB"
     },
@@ -1282,6 +1666,18 @@
         "set": "LOB"
     },
     {
+        "card_name": "Raimei",
+        "number": 312,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Reverse Trap",
+        "number": 313,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
         "card_name": "e"
     },
     {
@@ -1312,6 +1708,12 @@
         "card_name": "e"
     },
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Fiends Hand",
         "number": 302,
         "shape": "normal",
@@ -1328,6 +1730,12 @@
         "number": 309,
         "shape": "normal",
         "set": "LOB"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1657,6 +2065,93 @@
         "number": 260,
         "shape": "normal",
         "set": "LOB"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Carved Sward",
+        "number": 321,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Mudbound Stream",
+        "number": 322,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "Sulking Fortress",
+        "number": 324,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Severed Precipice",
+        "number": 323,
+        "shape": "normal",
+        "set": "LOB"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

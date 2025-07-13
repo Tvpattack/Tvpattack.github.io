@@ -30,6 +30,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Argent, Flash of Mirdrim",
+        "number": 225,
+        "shape": "modal double faced",
+        "set": "FOE"
+    },
+    {
         "card_name": "Coven of the Black Sun",
         "number": 23,
         "shape": "normal",
@@ -60,6 +66,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "I Will Walk My Own Path",
+        "number": 243,
+        "shape": "adventure",
+        "set": "FOE"
+    },
+    {
         "card_name": "Faloden Barrier Scout",
         "number": 27,
         "shape": "normal",
@@ -86,6 +98,12 @@
     {
         "card_name": "Axoladen Adventurer",
         "number": 180,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Outlands Chimera",
+        "number": 259,
         "shape": "normal",
         "set": "FOE"
     },
@@ -120,6 +138,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Ancient Interference",
+        "number": 224,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Jothi",
         "number": 33,
         "shape": "planeswalker",
@@ -150,6 +174,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Called to Eternity",
+        "number": 229,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Marblewrought Titan",
         "number": 36,
         "shape": "normal",
@@ -176,6 +206,12 @@
     {
         "card_name": "Emergent Parasitism",
         "number": 189,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Cascading Reflections",
+        "number": 231,
         "shape": "normal",
         "set": "FOE"
     },
@@ -210,6 +246,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Chirps Spice Seeker",
+        "number": 232,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Resurrection Pools",
         "number": 49,
         "shape": "normal",
@@ -236,6 +278,12 @@
     {
         "card_name": "Late-Leaf Elk",
         "number": 197,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Gluttony",
+        "number": 241,
         "shape": "normal",
         "set": "FOE"
     },
@@ -270,6 +318,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Kalim, Shivta's Ear",
+        "number": 247,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Chimarel Clearing",
         "number": 19,
         "shape": "transform double faced",
@@ -296,6 +350,12 @@
     {
         "card_name": "Murkross's Hold",
         "number": 202,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Kaln-Ocean Streamliner",
+        "number": 248,
         "shape": "normal",
         "set": "FOE"
     },
@@ -330,6 +390,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Kindred Spirits",
+        "number": 249,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Coalesced Company",
         "number": 22,
         "shape": "normal",
@@ -356,6 +422,12 @@
     {
         "card_name": "Reid, Unrelenting Dias",
         "number": 210,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Liminal Ambiguity",
+        "number": 251,
         "shape": "normal",
         "set": "FOE"
     },
@@ -390,6 +462,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Lithify",
+        "number": 252,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Inspiring Dunes",
         "number": 32,
         "shape": "normal",
@@ -416,6 +494,12 @@
     {
         "card_name": "Where Our Paths Meet",
         "number": 222,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Mass Mutation",
+        "number": 254,
         "shape": "normal",
         "set": "FOE"
     },
@@ -450,6 +534,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Melodia Explorer at Heart",
+        "number": 257,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Marching Partisan",
         "number": 37,
         "shape": "normal",
@@ -476,6 +566,12 @@
     {
         "card_name": "Cartographers Survey",
         "number": 181,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Parallellism",
+        "number": 260,
         "shape": "normal",
         "set": "FOE"
     },
@@ -510,6 +606,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Pathshaping",
+        "number": 261,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Outland Riftsower",
         "number": 43,
         "shape": "normal",
@@ -536,6 +638,12 @@
     {
         "card_name": "Crustacean Surge",
         "number": 184,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Probe the Veil",
+        "number": 265,
         "shape": "normal",
         "set": "FOE"
     },
@@ -570,6 +678,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Shrouded Pathcensor",
+        "number": 267,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Peacewarden",
         "number": 48,
         "shape": "normal",
@@ -596,6 +710,12 @@
     {
         "card_name": "Hunters Strength",
         "number": 194,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Soaring Chorus",
+        "number": 268,
         "shape": "normal",
         "set": "FOE"
     },
@@ -630,6 +750,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Starling",
+        "number": 269,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Winding Guide",
         "number": 56,
         "shape": "normal",
@@ -657,6 +783,12 @@
         "card_name": "Leyline Weaver",
         "number": 198,
         "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Blade Reifier",
+        "number": 227,
+        "shape": "adventure",
         "set": "FOE"
     },
     {
@@ -690,6 +822,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Concealing Ruins",
+        "number": 233,
+        "shape": "transform double faced",
+        "set": "FOE"
+    },
+    {
         "card_name": "Cleric of the Dawn",
         "number": 21,
         "shape": "normal",
@@ -716,6 +854,12 @@
     {
         "card_name": "Nurtured Landscape",
         "number": 203,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Discover Uncertainty",
+        "number": 234,
         "shape": "normal",
         "set": "FOE"
     },
@@ -750,6 +894,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Homestead Pair",
+        "number": 242,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Fadove Lawkeeper",
         "number": 25,
         "shape": "normal",
@@ -776,6 +926,12 @@
     {
         "card_name": "Ranging Symbiote",
         "number": 208,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Iconic Challenger",
+        "number": 244,
         "shape": "normal",
         "set": "FOE"
     },
@@ -810,6 +966,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Ignelscor Witch",
+        "number": 245,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Focus of Fadove",
         "number": 28,
         "shape": "normal",
@@ -836,6 +998,12 @@
     {
         "card_name": "Unexpected Predator",
         "number": 219,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Inkblot Artist",
+        "number": 246,
         "shape": "normal",
         "set": "FOE"
     },
@@ -870,6 +1038,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Kornas Forward",
+        "number": 250,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Light of Hope",
         "number": 35,
         "shape": "normal",
@@ -896,6 +1070,12 @@
     {
         "card_name": "Clanless Weaver",
         "number": 183,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Meirel Evacuator",
+        "number": 256,
         "shape": "normal",
         "set": "FOE"
     },
@@ -930,6 +1110,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Perspective Shift",
+        "number": 263,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Meirel Pathwalker",
         "number": 39,
         "shape": "normal",
@@ -956,6 +1142,12 @@
     {
         "card_name": "Disciple of the Thicket",
         "number": 188,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Reflected Inclination",
+        "number": 266,
         "shape": "normal",
         "set": "FOE"
     },
@@ -990,6 +1182,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Unending Exploration",
+        "number": 270,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Outlander Mercenary",
         "number": 44,
         "shape": "normal",
@@ -1016,6 +1214,12 @@
     {
         "card_name": "Guide With and Through",
         "number": 193,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Unweave",
+        "number": 271,
         "shape": "normal",
         "set": "FOE"
     },
@@ -1050,6 +1254,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Wandering Travellers",
+        "number": 272,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Pathfinder Wurm",
         "number": 47,
         "shape": "normal",
@@ -1076,6 +1286,12 @@
     {
         "card_name": "Meirel Traveller",
         "number": 199,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Adventurous Pair",
+        "number": 223,
         "shape": "normal",
         "set": "FOE"
     },
@@ -1110,6 +1326,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Avakin Adventurer",
+        "number": 226,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Staggering Spires",
         "number": 53,
         "shape": "transform double faced",
@@ -1140,6 +1362,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Calign",
+        "number": 228,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Veteran Party",
         "number": 55,
         "shape": "normal",
@@ -1163,6 +1391,12 @@
     {
         "card_name": "Shard Bearer",
         "number": 211,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Captivate",
+        "number": 230,
         "shape": "normal",
         "set": "FOE"
     },
@@ -1191,6 +1425,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Drougth Attuner",
+        "number": 235,
+        "shape": "adventure",
+        "set": "FOE"
+    },
+    {
         "card_name": "e"
     },
     {
@@ -1215,6 +1455,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Drougth Oracle",
+        "number": 236,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "e"
     },
     {
@@ -1233,6 +1479,12 @@
         "card_name": "Surubim Harpoon",
         "number": 215,
         "shape": "adventure",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Dust Converter",
+        "number": 237,
+        "shape": "normal",
         "set": "FOE"
     },
     {
@@ -1257,6 +1509,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Emigrating Pilgrim",
+        "number": 238,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "e"
     },
     {
@@ -1275,6 +1533,12 @@
         "set": "FOE"
     },
     {
+        "card_name": "Enlightening Crescents",
+        "number": 239,
+        "shape": "transform double faced",
+        "set": "FOE"
+    },
+    {
         "card_name": "e"
     },
     {
@@ -1289,6 +1553,138 @@
     {
         "card_name": "Voice of the Thicket",
         "number": 221,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Enlisted Arms",
+        "number": 240,
+        "shape": "adventure",
+        "set": "FOE"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mana Compression",
+        "number": 253,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Meirel Drifter",
+        "number": 255,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mutated Pioneer",
+        "number": 258,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Pathworn Blade",
+        "number": 262,
+        "shape": "adventure",
+        "set": "FOE"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Power from Beyond",
+        "number": 264,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "When Words Dont Work",
+        "number": 273,
         "shape": "normal",
         "set": "FOE"
     },
@@ -1336,6 +1732,24 @@
         "set": "FOE"
     },
     {
+        "card_name": "Coiling Jailer",
+        "number": 282,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Boundless Flight",
+        "number": 279,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Calamitous Koi",
+        "number": 280,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Longneck Marketwatch",
         "number": 303,
         "shape": "normal",
@@ -1362,6 +1776,24 @@
     {
         "card_name": "Market Negotiator",
         "number": 304,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Morraire Shimmer Patrol",
+        "number": 310,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Drake Mentor",
+        "number": 285,
+        "shape": "adventure",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Omen of Hunger",
+        "number": 313,
         "shape": "normal",
         "set": "FOE"
     },
@@ -1396,6 +1828,15 @@
         "set": "FOE"
     },
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Shadow of Grace",
         "number": 320,
         "shape": "normal",
@@ -1423,10 +1864,28 @@
         "card_name": "e"
     },
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Flying Counter",
         "number": 291,
         "shape": "normal",
         "set": "FOE"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1483,6 +1942,18 @@
         "set": "FOE"
     },
     {
+        "card_name": "Cydina Storm Drake",
+        "number": 283,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Balutr Runners",
+        "number": 277,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "Menithel Demon",
         "number": 306,
         "shape": "normal",
@@ -1509,6 +1980,18 @@
     {
         "card_name": "Kaln-Ocean Harmonizer",
         "number": 300,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Flowsnail",
+        "number": 290,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Promise of Hunger",
+        "number": 318,
         "shape": "normal",
         "set": "FOE"
     },
@@ -1543,6 +2026,15 @@
         "set": "FOE"
     },
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Experience Cultivator",
+        "number": 287,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
         "card_name": "er"
     },
     {
@@ -1564,6 +2056,72 @@
         "card_name": "Gael Spiteflame Phoenix",
         "number": 292,
         "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Cerise Auger of Flow",
+        "number": 281,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Avlod Charm",
+        "number": 276,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Ignelscor Charm",
+        "number": 295,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Mordel Charm",
+        "number": 308,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Deino Charm",
+        "number": 284,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Fadove Charm",
+        "number": 288,
+        "shape": "normal",
+        "set": "FOE"
+    },
+    {
+        "card_name": "Oracle of Multaph",
+        "number": 314,
+        "shape": "planeswalker",
         "set": "FOE"
     },
     {
@@ -1607,6 +2165,24 @@
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Personal Sins",
+        "number": 317,
+        "shape": "normal",
+        "set": "FOE"
     },
     {
         "card_name": "er"
@@ -2040,6 +2616,15 @@
         "set": "FOE"
     },
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "er"
     },
     {
@@ -2083,6 +2668,12 @@
         "number": 0,
         "shape": "normal",
         "set": "FOE"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
