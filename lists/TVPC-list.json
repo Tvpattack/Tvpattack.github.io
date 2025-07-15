@@ -1,0 +1,1532 @@
+﻿[
+    {
+        "card_name": "MW01",
+        "number": 29,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "MU01",
+        "number": 61,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "MB01",
+        "number": 93,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "MR01",
+        "number": 125,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "MG01",
+        "number": 157,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RI01 Memory Restored",
+        "number": 189,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "MW02",
+        "number": 30,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "MU02",
+        "number": 62,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "MB02",
+        "number": 94,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "MR02",
+        "number": 126,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "MG02",
+        "number": 158,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RI02",
+        "number": 190,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RW01",
+        "number": 31,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RU01",
+        "number": 63,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RB01",
+        "number": 95,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RR01",
+        "number": 127,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RG01",
+        "number": 159,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RI03",
+        "number": 191,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RW02",
+        "number": 32,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RU02",
+        "number": 64,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RB02",
+        "number": 96,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RR02",
+        "number": 128,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RG02",
+        "number": 160,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RI04",
+        "number": 192,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RW03",
+        "number": 33,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RU03",
+        "number": 65,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RB03",
+        "number": 97,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RR03",
+        "number": 129,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RG03",
+        "number": 161,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RI05",
+        "number": 193,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RW04",
+        "number": 34,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RU04",
+        "number": 66,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RB04",
+        "number": 98,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RR04",
+        "number": 130,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RG04",
+        "number": 162,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RI06",
+        "number": 194,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RW05",
+        "number": 35,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RU05",
+        "number": 67,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RB05",
+        "number": 99,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RR05",
+        "number": 131,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RG05",
+        "number": 163,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RI07",
+        "number": 195,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RW06",
+        "number": 36,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RU06",
+        "number": 68,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RB06",
+        "number": 100,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RR06",
+        "number": 132,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RG06",
+        "number": 164,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UI01 Night Market Runner",
+        "number": 196,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RW07",
+        "number": 37,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RU07",
+        "number": 69,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RB07",
+        "number": 101,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RR07",
+        "number": 133,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RG07",
+        "number": 165,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UI02",
+        "number": 197,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UW01",
+        "number": 38,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UU01",
+        "number": 70,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UB01",
+        "number": 102,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UR01",
+        "number": 134,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UG01",
+        "number": 166,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UI03",
+        "number": 198,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UW02",
+        "number": 39,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UU02",
+        "number": 71,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UB02",
+        "number": 103,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UR02",
+        "number": 135,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UG02",
+        "number": 167,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UI04",
+        "number": 199,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UW03",
+        "number": 40,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UU03",
+        "number": 72,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UB03",
+        "number": 104,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UR03",
+        "number": 136,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UG03",
+        "number": 168,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UI05",
+        "number": 200,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UW04",
+        "number": 41,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UU04",
+        "number": 73,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UB04",
+        "number": 105,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UR04",
+        "number": 137,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UG04",
+        "number": 169,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UI06",
+        "number": 201,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UW05",
+        "number": 42,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UU05",
+        "number": 74,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UB05",
+        "number": 106,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UR05",
+        "number": 138,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UG05",
+        "number": 170,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UI07",
+        "number": 202,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UW06 Astral Slide",
+        "number": 43,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UU06",
+        "number": 75,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UB06",
+        "number": 107,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UR06",
+        "number": 139,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UG06",
+        "number": 171,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UI08",
+        "number": 203,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UW07",
+        "number": 44,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UU07",
+        "number": 76,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UB07",
+        "number": 108,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UR07",
+        "number": 140,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UG07",
+        "number": 172,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UI09",
+        "number": 204,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UW08",
+        "number": 45,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UU08",
+        "number": 77,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UB08",
+        "number": 109,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UR08",
+        "number": 141,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UG08",
+        "number": 173,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UI10",
+        "number": 205,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UW09",
+        "number": 46,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UU09",
+        "number": 78,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UB09",
+        "number": 110,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UR09",
+        "number": 142,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UG09",
+        "number": 174,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CI01 Information Recovery Crew",
+        "number": 176,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UW10",
+        "number": 47,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UU10",
+        "number": 79,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UB10",
+        "number": 111,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UR10",
+        "number": 143,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UG10",
+        "number": 175,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CI02 Exuberant Archaeologist",
+        "number": 177,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CW01",
+        "number": 16,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CU01",
+        "number": 48,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CB01",
+        "number": 80,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CR01",
+        "number": 112,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CG01",
+        "number": 144,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CI03 Tepid Tamer",
+        "number": 178,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CW02",
+        "number": 17,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CU02",
+        "number": 49,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CB02",
+        "number": 81,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CR02",
+        "number": 113,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CG02",
+        "number": 145,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CI04 Striking Reflection",
+        "number": 179,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CW03",
+        "number": 18,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CU03",
+        "number": 50,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CB03",
+        "number": 82,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CR03",
+        "number": 114,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CG03",
+        "number": 146,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CI05",
+        "number": 180,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CW04",
+        "number": 19,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CU04",
+        "number": 51,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CB04",
+        "number": 83,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CR04",
+        "number": 115,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CG04",
+        "number": 147,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CI06 Unbothered Alchemist",
+        "number": 181,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CW05",
+        "number": 20,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CU05",
+        "number": 52,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CB05",
+        "number": 84,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CR05",
+        "number": 116,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CG05",
+        "number": 148,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CI07 removal",
+        "number": 182,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CW06",
+        "number": 21,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CU06",
+        "number": 53,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CB06",
+        "number": 85,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CR06",
+        "number": 117,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CG06",
+        "number": 149,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CI08 Scouting Party",
+        "number": 183,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CW07",
+        "number": 22,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CU07",
+        "number": 54,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CB07",
+        "number": 86,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CR07",
+        "number": 118,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CG07",
+        "number": 150,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CI09 Back to Market",
+        "number": 184,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CW08",
+        "number": 23,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CU08",
+        "number": 55,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CB08",
+        "number": 87,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CR08",
+        "number": 119,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CG08",
+        "number": 151,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CI10 Center Mass",
+        "number": 185,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CW09",
+        "number": 24,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CU09",
+        "number": 56,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CB09",
+        "number": 88,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CR09 Crasher Mech",
+        "number": 120,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CG09",
+        "number": 152,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CI11 Murky Politics",
+        "number": 186,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CW10",
+        "number": 25,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CU10",
+        "number": 57,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CB10",
+        "number": 89,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CR10",
+        "number": 121,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CG10",
+        "number": 153,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CI12 Removal",
+        "number": 187,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CW11",
+        "number": 26,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CU11",
+        "number": 58,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CB11",
+        "number": 90,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CR11",
+        "number": 122,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CG11",
+        "number": 154,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CI13 more removal",
+        "number": 188,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CW12",
+        "number": 27,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CU12",
+        "number": 59,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CB12",
+        "number": 91,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CR12",
+        "number": 123,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CG12",
+        "number": 155,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "Murky Politics",
+        "number": 290,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CW13",
+        "number": 28,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CU13",
+        "number": 60,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CB13",
+        "number": 92,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CR13",
+        "number": 124,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CG13",
+        "number": 156,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "UM01",
+        "number": 237,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "RM01",
+        "number": 211,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "MX01",
+        "number": 2,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "MX02",
+        "number": 3,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "MX03",
+        "number": 4,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "MX04",
+        "number": 5,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "MX05",
+        "number": 6,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RX05",
+        "number": 7,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RX06",
+        "number": 8,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RX07",
+        "number": 9,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RX08 Veil of Hunger",
+        "number": 10,
+        "shape": "planeswalker",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RX01",
+        "number": 263,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RX03 Nightshifter Engine",
+        "number": 264,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "RX04 Marching Clock",
+        "number": 265,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UC01 Crystallizing Aether",
+        "number": 11,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UX02",
+        "number": 12,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UX03",
+        "number": 13,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UX04",
+        "number": 14,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UX05",
+        "number": 15,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UA02 Surveyor001",
+        "number": 266,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UA04",
+        "number": 267,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UA05",
+        "number": 268,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UX01 Cloudslicer Fleet",
+        "number": 269,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CA04 Digital Song",
+        "number": 1,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CA01 Ursine Temple",
+        "number": 261,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CA02 Citysprout Bonsai",
+        "number": 262,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RX02 Gilded Bar",
+        "number": 273,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "Triome",
+        "number": 283,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UA03 Gilded Viewing Room",
+        "number": 284,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UL01",
+        "number": 285,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UL02",
+        "number": 286,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UL03",
+        "number": 287,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UL04",
+        "number": 288,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "UL05",
+        "number": 289,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CA03 Far Off Horizon",
+        "number": 270,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CA05 Gilded Tea Room",
+        "number": 271,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "CL01",
+        "number": 272,
+        "shape": "normal",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "The Clock",
+        "number": 1,
+        "shape": "token",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "Cloudslicer Fleet",
+        "number": 2,
+        "shape": "token",
+        "set": "TVPC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

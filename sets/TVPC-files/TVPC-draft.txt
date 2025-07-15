@@ -1,0 +1,3796 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CW01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/16_CW01.png"
+			}
+		},
+		{
+			"name": "CW02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/17_CW02.png"
+			}
+		},
+		{
+			"name": "CW03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/18_CW03.png"
+			}
+		},
+		{
+			"name": "CW04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/19_CW04.png"
+			}
+		},
+		{
+			"name": "CW05",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/20_CW05.png"
+			}
+		},
+		{
+			"name": "CW06",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/21_CW06.png"
+			}
+		},
+		{
+			"name": "CW07",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/22_CW07.png"
+			}
+		},
+		{
+			"name": "CW08",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/23_CW08.png"
+			}
+		},
+		{
+			"name": "CW09",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/24_CW09.png"
+			}
+		},
+		{
+			"name": "CW10",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/25_CW10.png"
+			}
+		},
+		{
+			"name": "CW11",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/26_CW11.png"
+			}
+		},
+		{
+			"name": "CW12",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/27_CW12.png"
+			}
+		},
+		{
+			"name": "CW13",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/28_CW13.png"
+			}
+		},
+		{
+			"name": "CU01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/48_CU01.png"
+			}
+		},
+		{
+			"name": "CU02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/49_CU02.png"
+			}
+		},
+		{
+			"name": "CU03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/50_CU03.png"
+			}
+		},
+		{
+			"name": "CU04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/51_CU04.png"
+			}
+		},
+		{
+			"name": "CU05",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/52_CU05.png"
+			}
+		},
+		{
+			"name": "CU06",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/53_CU06.png"
+			}
+		},
+		{
+			"name": "CU07",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/54_CU07.png"
+			}
+		},
+		{
+			"name": "CU08",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/55_CU08.png"
+			}
+		},
+		{
+			"name": "CU09",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/56_CU09.png"
+			}
+		},
+		{
+			"name": "CU10",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/57_CU10.png"
+			}
+		},
+		{
+			"name": "CU11",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/58_CU11.png"
+			}
+		},
+		{
+			"name": "CU12",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/59_CU12.png"
+			}
+		},
+		{
+			"name": "CU13",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/60_CU13.png"
+			}
+		},
+		{
+			"name": "CI13 more removal",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/188_CI13 more removal.png"
+			}
+		},
+		{
+			"name": "CB01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/80_CB01.png"
+			}
+		},
+		{
+			"name": "CB02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/81_CB02.png"
+			}
+		},
+		{
+			"name": "CB03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/82_CB03.png"
+			}
+		},
+		{
+			"name": "CB04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/83_CB04.png"
+			}
+		},
+		{
+			"name": "CB05",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/84_CB05.png"
+			}
+		},
+		{
+			"name": "CB06",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/85_CB06.png"
+			}
+		},
+		{
+			"name": "CB07",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/86_CB07.png"
+			}
+		},
+		{
+			"name": "CB08",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/87_CB08.png"
+			}
+		},
+		{
+			"name": "CB09",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/88_CB09.png"
+			}
+		},
+		{
+			"name": "CB10",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/89_CB10.png"
+			}
+		},
+		{
+			"name": "CB11",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/90_CB11.png"
+			}
+		},
+		{
+			"name": "CB12",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/91_CB12.png"
+			}
+		},
+		{
+			"name": "CB13",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/92_CB13.png"
+			}
+		},
+		{
+			"name": "CI01 Information Recovery Crew",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Creature — Human Scout",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/176_CI01 Information Recovery Crew.png"
+			}
+		},
+		{
+			"name": "CI03 Tepid Tamer",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/178_CI03 Tepid Tamer.png"
+			}
+		},
+		{
+			"name": "CI04 Striking Reflection",
+			"rarity": "common",
+			"mana_cost": "{2}{I}",
+			"type": "Creature — Reflection",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/179_CI04 Striking Reflection.png"
+			}
+		},
+		{
+			"name": "CI02 Exuberant Archaeologist",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Human Scout",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/177_CI02 Exuberant Archaeologist.png"
+			}
+		},
+		{
+			"name": "CR01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/112_CR01.png"
+			}
+		},
+		{
+			"name": "CR02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/113_CR02.png"
+			}
+		},
+		{
+			"name": "CR03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/114_CR03.png"
+			}
+		},
+		{
+			"name": "CR04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/115_CR04.png"
+			}
+		},
+		{
+			"name": "CR05",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/116_CR05.png"
+			}
+		},
+		{
+			"name": "CR06",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/117_CR06.png"
+			}
+		},
+		{
+			"name": "CR07",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/118_CR07.png"
+			}
+		},
+		{
+			"name": "CR08",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/119_CR08.png"
+			}
+		},
+		{
+			"name": "CR09 Crasher Mech",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/120_CR09 Crasher Mech.png"
+			}
+		},
+		{
+			"name": "CR10",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/121_CR10.png"
+			}
+		},
+		{
+			"name": "CR11",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/122_CR11.png"
+			}
+		},
+		{
+			"name": "CR12",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/123_CR12.png"
+			}
+		},
+		{
+			"name": "CR13",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/124_CR13.png"
+			}
+		},
+		{
+			"name": "CI09 Back to Market",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/184_CI09 Back to Market.png"
+			}
+		},
+		{
+			"name": "CI10 Center Mass",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Instant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/185_CI10 Center Mass.png"
+			}
+		},
+		{
+			"name": "CI11 Murky Politics",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Instant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/186_CI11 Murky Politics.png"
+			}
+		},
+		{
+			"name": "CI12 Removal",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/187_CI12 Removal.png"
+			}
+		},
+		{
+			"name": "CG01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/144_CG01.png"
+			}
+		},
+		{
+			"name": "CG02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/145_CG02.png"
+			}
+		},
+		{
+			"name": "CG03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/146_CG03.png"
+			}
+		},
+		{
+			"name": "CG04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/147_CG04.png"
+			}
+		},
+		{
+			"name": "CG05",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/148_CG05.png"
+			}
+		},
+		{
+			"name": "CG06",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/149_CG06.png"
+			}
+		},
+		{
+			"name": "CG07",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/150_CG07.png"
+			}
+		},
+		{
+			"name": "CG08",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/151_CG08.png"
+			}
+		},
+		{
+			"name": "CG09",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/152_CG09.png"
+			}
+		},
+		{
+			"name": "CG10",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/153_CG10.png"
+			}
+		},
+		{
+			"name": "CG11",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/154_CG11.png"
+			}
+		},
+		{
+			"name": "CG12",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/155_CG12.png"
+			}
+		},
+		{
+			"name": "CG13",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/156_CG13.png"
+			}
+		},
+		{
+			"name": "CI05",
+			"rarity": "common",
+			"mana_cost": "{2}{I}",
+			"type": "Creature",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/180_CI05.png"
+			}
+		},
+		{
+			"name": "CI06 Unbothered Alchemist",
+			"rarity": "common",
+			"mana_cost": "{3}{I}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/181_CI06 Unbothered Alchemist.png"
+			}
+		},
+		{
+			"name": "CI07 removal",
+			"rarity": "common",
+			"mana_cost": "{3}{I}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/182_CI07 removal.png"
+			}
+		},
+		{
+			"name": "CI08 Scouting Party",
+			"rarity": "common",
+			"mana_cost": "{3}{I}{I}",
+			"type": "Creature — Rabbit Soldier Scout",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/183_CI08 Scouting Party.png"
+			}
+		},
+		{
+			"name": "UW01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/38_UW01.png"
+			}
+		},
+		{
+			"name": "UW02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/39_UW02.png"
+			}
+		},
+		{
+			"name": "UW03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/40_UW03.png"
+			}
+		},
+		{
+			"name": "UW04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/41_UW04.png"
+			}
+		},
+		{
+			"name": "UW05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/42_UW05.png"
+			}
+		},
+		{
+			"name": "UW06 Astral Slide",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/43_UW06 Astral Slide.png"
+			}
+		},
+		{
+			"name": "UW07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/44_UW07.png"
+			}
+		},
+		{
+			"name": "UW08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/45_UW08.png"
+			}
+		},
+		{
+			"name": "UW09",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/46_UW09.png"
+			}
+		},
+		{
+			"name": "UW10",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/47_UW10.png"
+			}
+		},
+		{
+			"name": "UU01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/70_UU01.png"
+			}
+		},
+		{
+			"name": "UU02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/71_UU02.png"
+			}
+		},
+		{
+			"name": "UU03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/72_UU03.png"
+			}
+		},
+		{
+			"name": "UU04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/73_UU04.png"
+			}
+		},
+		{
+			"name": "UU05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/74_UU05.png"
+			}
+		},
+		{
+			"name": "UU06",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/75_UU06.png"
+			}
+		},
+		{
+			"name": "UU07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/76_UU07.png"
+			}
+		},
+		{
+			"name": "UU08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/77_UU08.png"
+			}
+		},
+		{
+			"name": "UU09",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/78_UU09.png"
+			}
+		},
+		{
+			"name": "UU10",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/79_UU10.png"
+			}
+		},
+		{
+			"name": "UB01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/102_UB01.png"
+			}
+		},
+		{
+			"name": "UB02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/103_UB02.png"
+			}
+		},
+		{
+			"name": "UB03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/104_UB03.png"
+			}
+		},
+		{
+			"name": "UB04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/105_UB04.png"
+			}
+		},
+		{
+			"name": "UB05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/106_UB05.png"
+			}
+		},
+		{
+			"name": "UB06",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/107_UB06.png"
+			}
+		},
+		{
+			"name": "UB07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/108_UB07.png"
+			}
+		},
+		{
+			"name": "UB08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/109_UB08.png"
+			}
+		},
+		{
+			"name": "UB09",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/110_UB09.png"
+			}
+		},
+		{
+			"name": "UB10",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/111_UB10.png"
+			}
+		},
+		{
+			"name": "UR01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/134_UR01.png"
+			}
+		},
+		{
+			"name": "UR02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/135_UR02.png"
+			}
+		},
+		{
+			"name": "UR03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/136_UR03.png"
+			}
+		},
+		{
+			"name": "UR04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/137_UR04.png"
+			}
+		},
+		{
+			"name": "UR05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/138_UR05.png"
+			}
+		},
+		{
+			"name": "UR06",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/139_UR06.png"
+			}
+		},
+		{
+			"name": "UR07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/140_UR07.png"
+			}
+		},
+		{
+			"name": "UR08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/141_UR08.png"
+			}
+		},
+		{
+			"name": "UR09",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/142_UR09.png"
+			}
+		},
+		{
+			"name": "UR10",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/143_UR10.png"
+			}
+		},
+		{
+			"name": "UG01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/166_UG01.png"
+			}
+		},
+		{
+			"name": "UG02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/167_UG02.png"
+			}
+		},
+		{
+			"name": "UG03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/168_UG03.png"
+			}
+		},
+		{
+			"name": "UG04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/169_UG04.png"
+			}
+		},
+		{
+			"name": "UG05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/170_UG05.png"
+			}
+		},
+		{
+			"name": "UG06",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/171_UG06.png"
+			}
+		},
+		{
+			"name": "UG07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/172_UG07.png"
+			}
+		},
+		{
+			"name": "UG08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/173_UG08.png"
+			}
+		},
+		{
+			"name": "UG09",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/174_UG09.png"
+			}
+		},
+		{
+			"name": "UG10",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/175_UG10.png"
+			}
+		},
+		{
+			"name": "RW01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/31_RW01.png"
+			}
+		},
+		{
+			"name": "RW02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/32_RW02.png"
+			}
+		},
+		{
+			"name": "RW03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/33_RW03.png"
+			}
+		},
+		{
+			"name": "RW04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/34_RW04.png"
+			}
+		},
+		{
+			"name": "RW05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/35_RW05.png"
+			}
+		},
+		{
+			"name": "RW06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/36_RW06.png"
+			}
+		},
+		{
+			"name": "RW07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/37_RW07.png"
+			}
+		},
+		{
+			"name": "RU01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/63_RU01.png"
+			}
+		},
+		{
+			"name": "RU02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/64_RU02.png"
+			}
+		},
+		{
+			"name": "RU03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/65_RU03.png"
+			}
+		},
+		{
+			"name": "RU04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/66_RU04.png"
+			}
+		},
+		{
+			"name": "RU05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/67_RU05.png"
+			}
+		},
+		{
+			"name": "RU06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/68_RU06.png"
+			}
+		},
+		{
+			"name": "RU07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/69_RU07.png"
+			}
+		},
+		{
+			"name": "RB01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/95_RB01.png"
+			}
+		},
+		{
+			"name": "RB02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/96_RB02.png"
+			}
+		},
+		{
+			"name": "RB03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/97_RB03.png"
+			}
+		},
+		{
+			"name": "RB04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/98_RB04.png"
+			}
+		},
+		{
+			"name": "RB05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/99_RB05.png"
+			}
+		},
+		{
+			"name": "RB06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/100_RB06.png"
+			}
+		},
+		{
+			"name": "RB07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/101_RB07.png"
+			}
+		},
+		{
+			"name": "RR01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/127_RR01.png"
+			}
+		},
+		{
+			"name": "RR02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/128_RR02.png"
+			}
+		},
+		{
+			"name": "RR03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/129_RR03.png"
+			}
+		},
+		{
+			"name": "RR04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/130_RR04.png"
+			}
+		},
+		{
+			"name": "RR05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/131_RR05.png"
+			}
+		},
+		{
+			"name": "RR06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/132_RR06.png"
+			}
+		},
+		{
+			"name": "RR07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/133_RR07.png"
+			}
+		},
+		{
+			"name": "RG01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/159_RG01.png"
+			}
+		},
+		{
+			"name": "RI02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/190_RI02.png"
+			}
+		},
+		{
+			"name": "RG03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/161_RG03.png"
+			}
+		},
+		{
+			"name": "RI04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/192_RI04.png"
+			}
+		},
+		{
+			"name": "RG05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/163_RG05.png"
+			}
+		},
+		{
+			"name": "RG06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/164_RG06.png"
+			}
+		},
+		{
+			"name": "RI07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/195_RI07.png"
+			}
+		},
+		{
+			"name": "MW01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/29_MW01.png"
+			}
+		},
+		{
+			"name": "MW02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/30_MW02.png"
+			}
+		},
+		{
+			"name": "MU01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/61_MU01.png"
+			}
+		},
+		{
+			"name": "MU02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/62_MU02.png"
+			}
+		},
+		{
+			"name": "MB01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/93_MB01.png"
+			}
+		},
+		{
+			"name": "MB02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/94_MB02.png"
+			}
+		},
+		{
+			"name": "MR01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/125_MR01.png"
+			}
+		},
+		{
+			"name": "MR02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/126_MR02.png"
+			}
+		},
+		{
+			"name": "MG01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/157_MG01.png"
+			}
+		},
+		{
+			"name": "MG02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/158_MG02.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{I}{G}",
+			"type": "",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/216_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/217_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/218_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/219_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/220_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/221_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/222_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/223_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/224_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/225_UM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/213_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/214_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/210_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/215_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/206_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/207_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/208_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/209_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/212_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/211_RM01.png"
+			}
+		},
+		{
+			"name": "CA01 Ursine Temple",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/261_CA01 Ursine Temple.png"
+			}
+		},
+		{
+			"name": "CA02 Citysprout Bonsai",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/262_CA02 Citysprout Bonsai.png"
+			}
+		},
+		{
+			"name": "CA03 Far Off Horizon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/270_CA03 Far Off Horizon.png"
+			}
+		},
+		{
+			"name": "CA04 Digital Song",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Creature — Bird",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/1_CA04 Digital Song.png"
+			}
+		},
+		{
+			"name": "CA05 Gilded Tea Room",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/271_CA05 Gilded Tea Room.png"
+			}
+		},
+		{
+			"name": "UC01 Crystallizing Aether",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/11_UC01 Crystallizing Aether.png"
+			}
+		},
+		{
+			"name": "UA02 Surveyor001",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Construct",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/266_UA02 Surveyor001.png"
+			}
+		},
+		{
+			"name": "UA03 Gilded Viewing Room",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/284_UA03 Gilded Viewing Room.png"
+			}
+		},
+		{
+			"name": "UA04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/267_UA04.png"
+			}
+		},
+		{
+			"name": "UA05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/268_UA05.png"
+			}
+		},
+		{
+			"name": "CL01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/272_CL01.png"
+			}
+		},
+		{
+			"name": "UL01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/285_UL01.png"
+			}
+		},
+		{
+			"name": "UL02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/286_UL02.png"
+			}
+		},
+		{
+			"name": "UL03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/287_UL03.png"
+			}
+		},
+		{
+			"name": "UL04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/288_UL04.png"
+			}
+		},
+		{
+			"name": "UL05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/289_UL05.png"
+			}
+		},
+		{
+			"name": "UX01 Cloudslicer Fleet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Robot Construct",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/269_UX01 Cloudslicer Fleet.png"
+			}
+		},
+		{
+			"name": "UX02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/12_UX02.png"
+			}
+		},
+		{
+			"name": "UX03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/13_UX03.png"
+			}
+		},
+		{
+			"name": "UX04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/14_UX04.png"
+			}
+		},
+		{
+			"name": "UX05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/15_UX05.png"
+			}
+		},
+		{
+			"name": "RX01",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/263_RX01.png"
+			}
+		},
+		{
+			"name": "RX02 Gilded Bar",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/273_RX02 Gilded Bar.png"
+			}
+		},
+		{
+			"name": "RX03 Nightshifter Engine",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/264_RX03 Nightshifter Engine.png"
+			}
+		},
+		{
+			"name": "RX04 Marching Clock",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/265_RX04 Marching Clock.png"
+			}
+		},
+		{
+			"name": "RX05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/7_RX05.png"
+			}
+		},
+		{
+			"name": "RX06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/8_RX06.png"
+			}
+		},
+		{
+			"name": "RX07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/9_RX07.png"
+			}
+		},
+		{
+			"name": "RX08 Veil of Hunger",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Legendary Planeswalker — Prophellos",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/10_RX08 Veil of Hunger.png"
+			}
+		},
+		{
+			"name": "MX01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2_MX01.png"
+			}
+		},
+		{
+			"name": "MX02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/3_MX02.png"
+			}
+		},
+		{
+			"name": "MX03",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/4_MX03.png"
+			}
+		},
+		{
+			"name": "MX04",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/5_MX04.png"
+			}
+		},
+		{
+			"name": "MX05",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/6_MX05.png"
+			}
+		},
+		{
+			"name": "UI01 Night Market Runner",
+			"rarity": "uncommon",
+			"mana_cost": "{I}",
+			"type": "Creature — Human Scout",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/196_UI01 Night Market Runner.png"
+			}
+		},
+		{
+			"name": "UI10",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/205_UI10.png"
+			}
+		},
+		{
+			"name": "UI09",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Enchantment",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/204_UI09.png"
+			}
+		},
+		{
+			"name": "UI08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/203_UI08.png"
+			}
+		},
+		{
+			"name": "UI07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/202_UI07.png"
+			}
+		},
+		{
+			"name": "UI06",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/201_UI06.png"
+			}
+		},
+		{
+			"name": "UI05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/200_UI05.png"
+			}
+		},
+		{
+			"name": "UI04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/199_UI04.png"
+			}
+		},
+		{
+			"name": "UI03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/198_UI03.png"
+			}
+		},
+		{
+			"name": "UI02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/197_UI02.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{I}{W}",
+			"type": "",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/238_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{I}{U}",
+			"type": "",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/239_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{I}{B}",
+			"type": "",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/240_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{I}{R}",
+			"type": "",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/241_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/242_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/243_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/244_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/245_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/246_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{I}{B}",
+			"type": "",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/226_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{I}{G}",
+			"type": "",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/248_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{I}{R}",
+			"type": "",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/249_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{I}{U}",
+			"type": "",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/250_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{I}{W}",
+			"type": "",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/251_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/252_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/253_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/230_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/254_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/255_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/256_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/257_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/258_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "common",
+			"mana_cost": "{G}{U}",
+			"type": "",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/259_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/260_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "common",
+			"mana_cost": "{I}{B}",
+			"type": "",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/227_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "common",
+			"mana_cost": "{I}{G}",
+			"type": "",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/228_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "common",
+			"mana_cost": "{I}{R}",
+			"type": "",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/229_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "common",
+			"mana_cost": "{I}{U}",
+			"type": "",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/231_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "common",
+			"mana_cost": "{I}{W}",
+			"type": "",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/232_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/233_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/247_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/234_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/235_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "common",
+			"mana_cost": "{W}{B}",
+			"type": "",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/236_UM01.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/237_UM01.png"
+			}
+		},
+		{
+			"name": "The Clock",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Reminder",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/1_The Clock.png"
+			}
+		},
+		{
+			"name": "Murky Politics",
+			"rarity": "special",
+			"mana_cost": "{1}{I}",
+			"type": "Instant",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/290_Murky Politics.png"
+			}
+		},
+		{
+			"name": "RI01 Memory Restored",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/189_RI01 Memory Restored.png"
+			}
+		},
+		{
+			"name": "RG02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/160_RG02.png"
+			}
+		},
+		{
+			"name": "RI03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/191_RI03.png"
+			}
+		},
+		{
+			"name": "RG04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/162_RG04.png"
+			}
+		},
+		{
+			"name": "RI05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/193_RI05.png"
+			}
+		},
+		{
+			"name": "RI06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/194_RI06.png"
+			}
+		},
+		{
+			"name": "RG07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/165_RG07.png"
+			}
+		},
+		{
+			"name": "Triome",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/274_Triome.png"
+			}
+		},
+		{
+			"name": "Triome",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/275_Triome.png"
+			}
+		},
+		{
+			"name": "Triome",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/276_Triome.png"
+			}
+		},
+		{
+			"name": "Triome",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/277_Triome.png"
+			}
+		},
+		{
+			"name": "Triome",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/278_Triome.png"
+			}
+		},
+		{
+			"name": "Triome",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/279_Triome.png"
+			}
+		},
+		{
+			"name": "Triome",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/280_Triome.png"
+			}
+		},
+		{
+			"name": "Triome",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/281_Triome.png"
+			}
+		},
+		{
+			"name": "Triome",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/282_Triome.png"
+			}
+		},
+		{
+			"name": "Triome",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/283_Triome.png"
+			}
+		},
+		{
+			"name": "Cloudslicer Fleet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Robot Construct",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2_Cloudslicer Fleet.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 RW01
+	2 RW02
+	2 RW03
+	2 RW04
+	2 RW05
+	2 RW06
+	2 RW07
+	2 RU01
+	2 RU02
+	2 RU03
+	2 RU04
+	2 RU05
+	2 RU06
+	2 RU07
+	2 RB01
+	2 RB02
+	2 RB03
+	2 RB04
+	2 RB05
+	2 RB06
+	2 RB07
+	2 RR01
+	2 RR02
+	2 RR03
+	2 RR04
+	2 RR05
+	2 RR06
+	2 RR07
+	2 RG01
+	2 RI02
+	2 RG03
+	2 RI04
+	2 RG05
+	2 RG06
+	2 RI07
+	1 MW01
+	1 MW02
+	1 MU01
+	1 MU02
+	1 MB01
+	1 MB02
+	1 MR01
+	1 MR02
+	1 MG01
+	1 MG02
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RX01
+	2 RX02 Gilded Bar
+	2 RX03 Nightshifter Engine
+	2 RX04 Marching Clock
+	2 RX05
+	2 RX06
+	2 RX07
+	2 RX08 Veil of Hunger
+	1 MX01
+	1 MX02
+	1 MX03
+	1 MX04
+	1 MX05
+	2 RI01 Memory Restored
+	2 RG02
+	2 RI03
+	2 RG04
+	2 RI05
+	2 RI06
+	2 RG07
+[uncommon(3)]
+	4 UW01
+	4 UW02
+	4 UW03
+	4 UW04
+	4 UW05
+	4 UW06 Astral Slide
+	4 UW07
+	4 UW08
+	4 UW09
+	4 UW10
+	4 UU01
+	4 UU02
+	4 UU03
+	4 UU04
+	4 UU05
+	4 UU06
+	4 UU07
+	4 UU08
+	4 UU09
+	4 UU10
+	4 UB01
+	4 UB02
+	4 UB03
+	4 UB04
+	4 UB05
+	4 UB06
+	4 UB07
+	4 UB08
+	4 UB09
+	4 UB10
+	4 UR01
+	4 UR02
+	4 UR03
+	4 UR04
+	4 UR05
+	4 UR06
+	4 UR07
+	4 UR08
+	4 UR09
+	4 UR10
+	4 UG01
+	4 UG02
+	4 UG03
+	4 UG04
+	4 UG05
+	4 UG06
+	4 UG07
+	4 UG08
+	4 UG09
+	4 UG10
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UC01 Crystallizing Aether
+	4 UA02 Surveyor001
+	4 UA03 Gilded Viewing Room
+	4 UA04
+	4 UA05
+	4 UL01
+	4 UL02
+	4 UL03
+	4 UL04
+	4 UL05
+	4 UX01 Cloudslicer Fleet
+	4 UX02
+	4 UX03
+	4 UX04
+	4 UX05
+	4 UI01 Night Market Runner
+	4 UI10
+	4 UI09
+	4 UI08
+	4 UI07
+	4 UI06
+	4 UI05
+	4 UI04
+	4 UI03
+	4 UI02
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 UM01
+	4 Triome
+	4 Triome
+	4 Triome
+	4 Triome
+	4 Triome
+	4 Triome
+	4 Triome
+	4 Triome
+	4 Triome
+	4 Triome
+[common(7)]
+	8 CW01
+	8 CW02
+	8 CW03
+	8 CW04
+	8 CW05
+	8 CW06
+	8 CW07
+	8 CW08
+	8 CW09
+	8 CW10
+	8 CW11
+	8 CW12
+	8 CW13
+	8 CU01
+	8 CU02
+	8 CU03
+	8 CU04
+	8 CU05
+	8 CU06
+	8 CU07
+	8 CU08
+	8 CU09
+	8 CU10
+	8 CU11
+	8 CU12
+	8 CU13
+	8 CI13 more removal
+	8 CB01
+	8 CB02
+	8 CB03
+	8 CB04
+	8 CB05
+	8 CB06
+	8 CB07
+	8 CB08
+	8 CB09
+	8 CB10
+	8 CB11
+	8 CB12
+	8 CB13
+	8 CI01 Information Recovery Crew
+	8 CI03 Tepid Tamer
+	8 CI04 Striking Reflection
+	8 CI02 Exuberant Archaeologist
+	8 CR01
+	8 CR02
+	8 CR03
+	8 CR04
+	8 CR05
+	8 CR06
+	8 CR07
+	8 CR08
+	8 CR09 Crasher Mech
+	8 CR10
+	8 CR11
+	8 CR12
+	8 CR13
+	8 CI09 Back to Market
+	8 CI10 Center Mass
+	8 CI11 Murky Politics
+	8 CI12 Removal
+	8 CG01
+	8 CG02
+	8 CG03
+	8 CG04
+	8 CG05
+	8 CG06
+	8 CG07
+	8 CG08
+	8 CG09
+	8 CG10
+	8 CG11
+	8 CG12
+	8 CG13
+	8 CI05
+	8 CI06 Unbothered Alchemist
+	8 CI07 removal
+	8 CI08 Scouting Party
+	8 CA01 Ursine Temple
+	8 CA02 Citysprout Bonsai
+	8 CA03 Far Off Horizon
+	8 CA04 Digital Song
+	8 CA05 Gilded Tea Room
+	8 CL01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+[foil(1)]
+	12 CW01
+	12 CW02
+	12 CW03
+	12 CW04
+	12 CW05
+	12 CW06
+	12 CW07
+	12 CW08
+	12 CW09
+	12 CW10
+	12 CW11
+	12 CW12
+	12 CW13
+	12 CU01
+	12 CU02
+	12 CU03
+	12 CU04
+	12 CU05
+	12 CU06
+	12 CU07
+	12 CU08
+	12 CU09
+	12 CU10
+	12 CU11
+	12 CU12
+	12 CU13
+	12 CI13 more removal
+	12 CB01
+	12 CB02
+	12 CB03
+	12 CB04
+	12 CB05
+	12 CB06
+	12 CB07
+	12 CB08
+	12 CB09
+	12 CB10
+	12 CB11
+	12 CB12
+	12 CB13
+	12 CI01 Information Recovery Crew
+	12 CI03 Tepid Tamer
+	12 CI04 Striking Reflection
+	12 CI02 Exuberant Archaeologist
+	12 CR01
+	12 CR02
+	12 CR03
+	12 CR04
+	12 CR05
+	12 CR06
+	12 CR07
+	12 CR08
+	12 CR09 Crasher Mech
+	12 CR10
+	12 CR11
+	12 CR12
+	12 CR13
+	12 CI09 Back to Market
+	12 CI10 Center Mass
+	12 CI11 Murky Politics
+	12 CI12 Removal
+	12 CG01
+	12 CG02
+	12 CG03
+	12 CG04
+	12 CG05
+	12 CG06
+	12 CG07
+	12 CG08
+	12 CG09
+	12 CG10
+	12 CG11
+	12 CG12
+	12 CG13
+	12 CI05
+	12 CI06 Unbothered Alchemist
+	12 CI07 removal
+	12 CI08 Scouting Party
+	6 UW01
+	6 UW02
+	6 UW03
+	6 UW04
+	6 UW05
+	6 UW06 Astral Slide
+	6 UW07
+	6 UW08
+	6 UW09
+	6 UW10
+	6 UU01
+	6 UU02
+	6 UU03
+	6 UU04
+	6 UU05
+	6 UU06
+	6 UU07
+	6 UU08
+	6 UU09
+	6 UU10
+	6 UB01
+	6 UB02
+	6 UB03
+	6 UB04
+	6 UB05
+	6 UB06
+	6 UB07
+	6 UB08
+	6 UB09
+	6 UB10
+	6 UR01
+	6 UR02
+	6 UR03
+	6 UR04
+	6 UR05
+	6 UR06
+	6 UR07
+	6 UR08
+	6 UR09
+	6 UR10
+	6 UG01
+	6 UG02
+	6 UG03
+	6 UG04
+	6 UG05
+	6 UG06
+	6 UG07
+	6 UG08
+	6 UG09
+	6 UG10
+	2 RW01
+	2 RW02
+	2 RW03
+	2 RW04
+	2 RW05
+	2 RW06
+	2 RW07
+	2 RU01
+	2 RU02
+	2 RU03
+	2 RU04
+	2 RU05
+	2 RU06
+	2 RU07
+	2 RB01
+	2 RB02
+	2 RB03
+	2 RB04
+	2 RB05
+	2 RB06
+	2 RB07
+	2 RR01
+	2 RR02
+	2 RR03
+	2 RR04
+	2 RR05
+	2 RR06
+	2 RR07
+	2 RG01
+	2 RI02
+	2 RG03
+	2 RI04
+	2 RG05
+	2 RG06
+	2 RI07
+	1 MW01
+	1 MW02
+	1 MU01
+	1 MU02
+	1 MB01
+	1 MB02
+	1 MR01
+	1 MR02
+	1 MG01
+	1 MG02
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	12 CA01 Ursine Temple
+	12 CA02 Citysprout Bonsai
+	12 CA03 Far Off Horizon
+	12 CA04 Digital Song
+	12 CA05 Gilded Tea Room
+	6 UC01 Crystallizing Aether
+	6 UA02 Surveyor001
+	6 UA03 Gilded Viewing Room
+	6 UA04
+	6 UA05
+	12 CL01
+	6 UL01
+	6 UL02
+	6 UL03
+	6 UL04
+	6 UL05
+	6 UX01 Cloudslicer Fleet
+	6 UX02
+	6 UX03
+	6 UX04
+	6 UX05
+	2 RX01
+	2 RX02 Gilded Bar
+	2 RX03 Nightshifter Engine
+	2 RX04 Marching Clock
+	2 RX05
+	2 RX06
+	2 RX07
+	2 RX08 Veil of Hunger
+	1 MX01
+	1 MX02
+	1 MX03
+	1 MX04
+	1 MX05
+	6 UI01 Night Market Runner
+	6 UI10
+	6 UI09
+	6 UI08
+	6 UI07
+	6 UI06
+	6 UI05
+	6 UI04
+	6 UI03
+	6 UI02
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	12 UM01
+	12 UM01
+	12 UM01
+	12 UM01
+	12 UM01
+	12 UM01
+	12 UM01
+	12 UM01
+	12 UM01
+	12 UM01
+	12 UM01
+	12 UM01
+	12 UM01
+	12 UM01
+	12 UM01
+	2 RI01 Memory Restored
+	2 RG02
+	2 RI03
+	2 RG04
+	2 RI05
+	2 RI06
+	2 RG07
+	6 Triome
+	6 Triome
+	6 Triome
+	6 Triome
+	6 Triome
+	6 Triome
+	6 Triome
+	6 Triome
+	6 Triome
+	6 Triome
+[wildcard(1)]
+	6 CW01
+	6 CW02
+	6 CW03
+	6 CW04
+	6 CW05
+	6 CW06
+	6 CW07
+	6 CW08
+	6 CW09
+	6 CW10
+	6 CW11
+	6 CW12
+	6 CW13
+	6 CU01
+	6 CU02
+	6 CU03
+	6 CU04
+	6 CU05
+	6 CU06
+	6 CU07
+	6 CU08
+	6 CU09
+	6 CU10
+	6 CU11
+	6 CU12
+	6 CU13
+	6 CI13 more removal
+	6 CB01
+	6 CB02
+	6 CB03
+	6 CB04
+	6 CB05
+	6 CB06
+	6 CB07
+	6 CB08
+	6 CB09
+	6 CB10
+	6 CB11
+	6 CB12
+	6 CB13
+	6 CI01 Information Recovery Crew
+	6 CI03 Tepid Tamer
+	6 CI04 Striking Reflection
+	6 CI02 Exuberant Archaeologist
+	6 CR01
+	6 CR02
+	6 CR03
+	6 CR04
+	6 CR05
+	6 CR06
+	6 CR07
+	6 CR08
+	6 CR09 Crasher Mech
+	6 CR10
+	6 CR11
+	6 CR12
+	6 CR13
+	6 CI09 Back to Market
+	6 CI10 Center Mass
+	6 CI11 Murky Politics
+	6 CI12 Removal
+	6 CG01
+	6 CG02
+	6 CG03
+	6 CG04
+	6 CG05
+	6 CG06
+	6 CG07
+	6 CG08
+	6 CG09
+	6 CG10
+	6 CG11
+	6 CG12
+	6 CG13
+	6 CI05
+	6 CI06 Unbothered Alchemist
+	6 CI07 removal
+	6 CI08 Scouting Party
+	15 UW01
+	15 UW02
+	15 UW03
+	15 UW04
+	15 UW05
+	15 UW06 Astral Slide
+	15 UW07
+	15 UW08
+	15 UW09
+	15 UW10
+	15 UU01
+	15 UU02
+	15 UU03
+	15 UU04
+	15 UU05
+	15 UU06
+	15 UU07
+	15 UU08
+	15 UU09
+	15 UU10
+	15 UB01
+	15 UB02
+	15 UB03
+	15 UB04
+	15 UB05
+	15 UB06
+	15 UB07
+	15 UB08
+	15 UB09
+	15 UB10
+	15 UR01
+	15 UR02
+	15 UR03
+	15 UR04
+	15 UR05
+	15 UR06
+	15 UR07
+	15 UR08
+	15 UR09
+	15 UR10
+	15 UG01
+	15 UG02
+	15 UG03
+	15 UG04
+	15 UG05
+	15 UG06
+	15 UG07
+	15 UG08
+	15 UG09
+	15 UG10
+	7 RW01
+	7 RW02
+	7 RW03
+	7 RW04
+	7 RW05
+	7 RW06
+	7 RW07
+	7 RU01
+	7 RU02
+	7 RU03
+	7 RU04
+	7 RU05
+	7 RU06
+	7 RU07
+	7 RB01
+	7 RB02
+	7 RB03
+	7 RB04
+	7 RB05
+	7 RB06
+	7 RB07
+	7 RR01
+	7 RR02
+	7 RR03
+	7 RR04
+	7 RR05
+	7 RR06
+	7 RR07
+	7 RG01
+	7 RI02
+	7 RG03
+	7 RI04
+	7 RG05
+	7 RG06
+	7 RI07
+	4 MW01
+	4 MW02
+	4 MU01
+	4 MU02
+	4 MB01
+	4 MB02
+	4 MR01
+	4 MR02
+	4 MG01
+	4 MG02
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	7 RM01
+	7 RM01
+	7 RM01
+	7 RM01
+	7 RM01
+	7 RM01
+	7 RM01
+	7 RM01
+	7 RM01
+	7 RM01
+	6 CA01 Ursine Temple
+	6 CA02 Citysprout Bonsai
+	6 CA03 Far Off Horizon
+	6 CA04 Digital Song
+	6 CA05 Gilded Tea Room
+	15 UC01 Crystallizing Aether
+	15 UA02 Surveyor001
+	15 UA03 Gilded Viewing Room
+	15 UA04
+	15 UA05
+	6 CL01
+	15 UL01
+	15 UL02
+	15 UL03
+	15 UL04
+	15 UL05
+	15 UX01 Cloudslicer Fleet
+	15 UX02
+	15 UX03
+	15 UX04
+	15 UX05
+	7 RX01
+	7 RX02 Gilded Bar
+	7 RX03 Nightshifter Engine
+	7 RX04 Marching Clock
+	7 RX05
+	7 RX06
+	7 RX07
+	7 RX08 Veil of Hunger
+	4 MX01
+	4 MX02
+	4 MX03
+	4 MX04
+	4 MX05
+	15 UI01 Night Market Runner
+	15 UI10
+	15 UI09
+	15 UI08
+	15 UI07
+	15 UI06
+	15 UI05
+	15 UI04
+	15 UI03
+	15 UI02
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	15 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	6 UM01
+	7 RI01 Memory Restored
+	7 RG02
+	7 RI03
+	7 RG04
+	7 RI05
+	7 RI06
+	7 RG07
+	15 Triome
+	15 Triome
+	15 Triome
+	15 Triome
+	15 Triome
+	15 Triome
+	15 Triome
+	15 Triome
+	15 Triome
+	15 Triome

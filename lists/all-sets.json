@@ -11,6 +11,11 @@
             "formats": ""
         },
         {
+            "set_code": "TVPC",
+            "set_name": "TVP Core 2025",
+            "formats": ""
+        },
+        {
             "set_code": "VNM",
             "set_name": "Vinimroth Eternities",
             "formats": ""
