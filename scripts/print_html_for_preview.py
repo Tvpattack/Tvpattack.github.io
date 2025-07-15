@@ -119,7 +119,7 @@ def generateHTML(setCode):
 		}
 		.grid-container {
 			display: grid;
-			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 			gap: 2px;
 			padding-left: 5%;
 			padding-right: 5%;
