@@ -1,4 +1,921 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+Wurm Dragon-01 removed.
+
+Ancient Telescope
+
+Bag of Holding
+
+Book of Secret Arts
+
+Dragon Capture Jar
+
+Mental Lock
+
+Mystical Capture Chain
+
+Prismatic Bulb
+
+Rainbow Flower
+
+Temple of Skulls
+
+Ancient Jar
+
+Golgoil
+
+Bat
+
+Gradius
+
+Gradius Option
+
+Man-Eating Treasure Chest
+
+Metal Dragon
+rules_text: Fusion
+Flying
+When this creature enters, return up to one target creature card from your graveyard to your hand. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Flying
+When this creature enters, return up to one target creature card from your graveyard to your hand.
+
+Giant Mech-Soldier
+rules_text: Fusion
+Vigilance, ward {2}
+Whenever this creature attacks, you gain 3 life. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Vigilance, ward {2}
+Whenever this creature attacks, you gain 3 life.
+
+Mech Mole Zombie
+
+Steel Ogre Grotto 1
+rules_text: 6 — => 6 — 6/6
+
+Statue of Easter Island
+
+Cyber Soldier of Darkworld
+
+Giant Soldier of Stone
+
+Patrol Robo
+
+Hard Armor
+rules_text: 3W — => 3W — 3/3
+
+Beast Fangs
+
+Cyclon Laser
+
+Dragon Treasure
+
+Electro-Whip
+
+Gust Fan
+
+Laser Cannon Armor
+
+Legendary Sword
+
+Machine Conversion Factory
+
+Power of Kaishin
+
+Silver Bow and Arrow
+
+Sword of Dark Destruction
+
+Violet Crystal
+
+Happy Lover
+
+Hourglass of Courage
+rules_text: Flying
+Healing 1
+Activated abilities of cards in each player's hands cost {1} more to activate. => Flying
+Healing 1 [i](Damage dealt by this creature also causes you to gain 1 life.)[/i]
+Activated abilities of cards in each player's hands cost {1} more to activate.
+
+Hourglass of Life
+rules_text: 
+ 1II — => 
+ 1II — 2/2
+
+Petit Angel
+
+Shining Friendship
+
+Soul of the Pure
+
+Spirit of the Harp
+rules_text: 3WW — => 3WW — 2/6
+
+Meda Bat
+
+Frenzied Panda
+
+Mabarrel
+
+Beaver Warrior
+
+Skull Red Bird
+
+Punished Eagle
+rules_text: Fusion
+Flying
+Abilities you activate that aren't mana abilities cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Flying
+Abilities you activate that aren't mana abilities cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+
+Droll Bird
+
+Kurama
+rules_text: Fusion
+Flying
+When this creature enters, draw two cards, then discard a card. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Flying
+When this creature enters, draw two cards, then discard a card.
+
+Fiend Reflection 2
+
+Spirit of the Books
+
+Bolt Penguin
+
+Rare Fish
+rules_text: Fusion
+Vigilance
+When this creature enters, if you discarded a card this turn, put a +1/+1 counter on each Spirit you control. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Vigilance
+When this creature enters, if you discarded a card this turn, put a +1/+1 counter on each Spirit you control.
+
+Turtle Tiger
+
+Tiger Axe
+rules_text: Fusion
+Equipped creatures you control get +1/+1 and have ward {2}.
+{0}: Attach target equipment you control to this creature. Activate only as a sorcery and only once each turn. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Equipped creatures you control get +1/+1 and have ward {2}.
+{0}: Attach target equipment you control to this creature. Activate only as a sorcery and only once each turn.
+
+Leo Wizard
+rules_text: Ward {2}
+When this creature enters or attacks, dig 4 for a creature card with mana value 3 or less. => Ward {2}
+When this creature enters or attacks, look at the top four cards of your library. You may reveal a creature card with mana value 3 or less, put it into your hand, and put the rest on the bottom in a random order.
+
+Rabid Horseman
+rules_text: Fusion
+Tap two untapped artifacts and/or creatures you control: This creature deals 1 damage to each opponent. Activate only as a sorcery. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Tap two untapped artifacts and/or creatures you control: This creature deals 1 damage to each opponent. Activate only as a sorcery.
+
+Wood Clown
+
+Hitotsu-Me Giant
+
+Midnight Fiend
+
+Ryu-Kishin
+rules_text: 4BRG — => Flying, vigilance, haste 4BRG — 5/5
+
+Tyhone
+rules_text: 3B — => 3B — 2/2
+
+Synchar
+
+Mystic Clown
+
+Meotoko
+
+Red-Eyes Black Dragon
+rules_text: 4BBB — => 4BBB — 6/4
+
+Tri-Horned Dragon
+rules_text: 6UUU — => 6UUU — 9/9
+
+Archfiend Mirror
+
+Roaring Ocean Snake
+rules_text: Fusion
+When this creature enters, tap each nonland permanent each opponent controls. They lose all abilities until end of turn. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+When this creature enters, tap each nonland permanent each opponent controls. They lose all abilities until end of turn.
+
+Yormungarde
+
+Twin Long Rods 1
+
+Sanwitch
+rules_text: Fusion
+Whenever this creature enters or attacks, if you discarded a card this turn, exile up to one target creature card in your graveyard. Until end of turn, you may play a copy of that card. [i](Copies of permanents are tokens.)[/i] => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Whenever this creature enters or attacks, if you discarded a card this turn, exile up to one target creature card in your graveyard. Until end of turn, you may play a copy of that card. [i](Copies of permanents are tokens.)[/i]
+
+Succubus Knight
+rules_text: 6B — => 6B — 6/4
+
+Dark Plant
+rules_text: {3}{B}{B}, Exile this creature from your graveyard as a sorcery: Put a +1/+1 counter on target creature you control. That creature gains healing 3 until end of turn. => {3}{B}{B}, Exile this creature from your graveyard as a sorcery: Put a +1/+1 counter on target creature you control. That creature gains healing 3 until end of turn. [i](Damage dealt by this creature also causes you to gain 3 life.)[/i]
+
+Witty Phantom
+
+Dig Beak
+
+Shadow Who Controls the Dark
+rules_text: 3B — => Flying
+When this creature enters or becomes unbound, target player discards a card and loses 2 life. 3B — 2/2
+
+Rhaimundos of the Red Sword
+
+Megirus Light
+
+Phantom Dewan
+
+Dark King of the Abyss
+rules_text: Fusion
+When this creature enters, if you discarded a card this turn, each opponent loses 1 life for each Zombie and/or Demon you control. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+When this creature enters, if you discarded a card this turn, each opponent loses 1 life for each Zombie and/or Demon you control.
+
+Tomozaurus
+
+Two-Mouth Darkruler
+rules_text: Fusion
+{1}{R}: This creature gets +1/+0 and gains haste until end of turn. This ability costs {1} less to activate if you discard a card this turn. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+{1}{R}: This creature gets +1/+0 and gains haste until end of turn. This ability costs {1} less to activate if you discard a card this turn.
+
+Uraby
+rules_text: 6GG — => 6GG — 7/6
+
+Blue-Eyes White Dragon
+rules_text: Flying, ward {4}
+Healing 4 => Flying, ward {4}
+Healing 4 [i](Damage dealt by this creature also causes you to gain 4 life.)[/i]
+
+Curse of Dragon
+
+Lesser Dragon
+rules_text: 6GG — => 6GG — 7/5
+
+Winged Dragon, Guardian of the Fortress 1
+
+Winged Dragon, Guardian of the Fortress 2
+
+Wicked Dragon with the Ersatz Head
+
+Tripwire Beast
+rules_text: 4RR — => 4RR — 5/6
+
+Kaiser Dragon
+rules_text: Fusion
+Flying
+When this creature enters, draw a card. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Flying
+When this creature enters, draw a card.
+
+Petit Dragon
+
+That Which Feeds on Life
+
+One-Eyed Shield Dragon
+
+Monster Egg
+
+Little D
+
+Fire Eye
+rules_text: 4R — => 4R — 3/3
+
+Flame Ghost
+rules_text: Fusion
+When this creature enters, if you discarded a card this turn, create a 1/1 red Elemental creature token. It gains haste until end of turn. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+When this creature enters, if you discarded a card this turn, create a 1/1 red Elemental creature token. It gains haste until end of turn.
+
+Empress Judge
+rules_text: Fusion
+Menace
+Whenever this creature deals combat damage to an opponent, draw a card. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Menace
+Whenever this creature deals combat damage to an opponent, draw a card.
+
+Mammoth Graveyard
+
+Mystical Elf
+
+Battle Warrior
+
+Celtic Guardian
+
+Key Mace 2
+
+Fairywitch
+
+Musician King
+rules_text: Fusion
+Vigilance
+When this creature enters, creatures you control get +1/+1 and gain vigilance until end of turn. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Vigilance
+When this creature enters, creatures you control get +1/+1 and gain vigilance until end of turn.
+
+Dragoness the Wicked Knight
+rules_text: Fusion
+Flying
+When this creature enters, create two 1/1 white Dragon creature tokens with flying that can't block. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Flying
+When this creature enters, create two 1/1 white Dragon creature tokens with flying that can't block.
+
+Gaia the Dragon Champion
+rules_text: Fusion
+Flying
+As this creature enters, choose +1/+1, lifelink, menace or vigilance for each creature you sacrificed this turn. This creature enters with the chosen counters. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Flying
+As this creature enters, choose +1/+1, lifelink, menace or vigilance for each creature you sacrificed this turn. This creature enters with the chosen counters.
+
+Doriado
+
+Muse-A
+
+Gaia The Fierce Knight
+
+Armed Ninja
+rules_text: 5BB — => 5BB — 4/4
+
+Ansatsu
+
+Armaill
+
+Beautiful Headhuntress
+
+Warrior of Tradition
+rules_text: Fusion
+Changeling [i](This card is every creature type.)[/i]
+When this creature enters, draw a card. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Changeling [i](This card is every creature type.)[/i]
+When this creature enters, draw a card.
+
+Flame Swordsman
+rules_text: Fusion
+When this creature enters, you may search your library for an equipment card and reveal it. If you discarded a card this turn, put it into your hand and shuffle. Otherwise, shuffle, then put it on top of your library. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+When this creature enters, you may search your library for an equipment card and reveal it. If you discarded a card this turn, put it into your hand and shuffle. Otherwise, shuffle, then put it on top of your library.
+
+Karbonala Warrior
+rules_text: Fusion
+Vigilance
+Whenever this creature deals combat damage, draw a card. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Vigilance
+Whenever this creature deals combat damage, draw a card.
+
+Minomushi Warrior
+
+Sonic Maid
+
+St Joan
+rules_text: Fusion
+As this creature enters, if you discarded a card this turn, each opponent reveals their hand, then choose a nonland card name.
+Cards of the chosen name cost {1} more to cast and activate abilities. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+As this creature enters, if you discarded a card this turn, each opponent reveals their hand, then choose a nonland card name.
+Cards of the chosen name cost {1} more to cast and activate abilities.
+
+M-Warrior 1
+
+M-Warrior 2
+
+Dark Magician
+
+Fireyarou
+
+Flame Manipulator
+
+Vermillion Sparrow
+rules_text: Fusion
+Vigilance
+Whenever this creature enters or attacks, creatures you control gets +1/+1 until end of turn. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Vigilance
+Whenever this creature enters or attacks, creatures you control gets +1/+1 until end of turn.
+
+Kamionwizard
+rules_text: Fusion
+Whenever a permanent you control dies, each opponent loses 1 life.
+{3}, Sacrifice a nonland permanent: You gain 1 life and draw a card. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Whenever a permanent you control dies, each opponent loses 1 life.
+{3}, Sacrifice a nonland permanent: You gain 1 life and draw a card.
+
+Fiends Hand
+
+Boo Koo
+
+Alinsection
+
+Basic Insect
+
+Giant Flea
+
+Man-Eater Bug
+
+Hercules Beetle
+
+Kuwagata Alpha
+rules_text: Fusion
+Reach
+When this creature enters, if you discarded a card this turn, destroy target artifact, enchantment, or permanent with flying. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Reach
+When this creature enters, if you discarded a card this turn, destroy target artifact, enchantment, or permanent with flying.
+
+Kwagar Hercules
+rules_text: Fusion
+Vigilance
+Each other Insect and/or Warrior creature you control gets +1/+1. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Vigilance
+Each other Insect and/or Warrior creature you control gets +1/+1.
+
+Larvas
+rules_text: 5RR — => 5RR — 4/4
+
+Mon Larvas
+
+Winged Cleaver
+
+Lisark
+
+Drooling Lizard
+
+Zarigun
+
+Great White
+
+Kappa Avenger
+
+Furious Sea King
+
+Wow Warrior
+
+Enchanting Mermaid
+rules_text: 4UU — => 4UU — 4/4
+
+Root Water
+
+Terra the Terrible
+rules_text: Fusion
+Other Warriors you control get +1/+1.
+[i]Channel[/i] — {1}{R}, Discard this: This deals 1 damage to target creature for each equipment you control. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Other Warriors you control get +1/+1.
+[i]Channel[/i] — {1}{R}, Discard this: This deals 1 damage to target creature for each equipment you control.
+
+Man Eater
+
+Man-Eating Plant
+rules_text: Fusion
+Vigilance
+Other Plants you control get +1/+1. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Vigilance
+Other Plants you control get +1/+1.
+
+Abyss Flower
+
+Darkfire Dragon
+rules_text: Fusion
+Flying
+When this creature enters, draw two cards and lose 2 life. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Flying
+When this creature enters, draw two cards and lose 2 life.
+
+Rose Spectre of Dunn
+rules_text: Fusion
+Deathtouch
+When this creature enters, if you discarded a card this turn, you gain 5 life. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Deathtouch
+When this creature enters, if you discarded a card this turn, you gain 5 life.
+
+Wodan the Resident of the Forest
+
+Bean Soldier
+rules_text: The first equip ability you activate each turn costs {1} less to activate.
+{3}{I}, Exile this creature from your graveyard: Reflect. Activate only as a sorcery. => The first equip ability you activate each turn costs {1} less to activate.
+{3}{I}, Exile this creature from your graveyard: Mirror. Activate only as a sorcery. [i](Create a token thats a copy of a token you control.)[/i]
+
+Firegrass
+
+Flower Wolf
+rules_text: Fusion
+Trample
+When this creature enters, if you discarded a card this turn, return up to two target creature cards from your graveyard to your hand. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Trample
+When this creature enters, if you discarded a card this turn, return up to two target creature cards from your graveyard to your hand.
+
+Wilmee
+
+Masaki the Legendary Swordsman
+rules_text: Fusion
+First strike
+When this creature enters, if you discarded a card this turn, draw a card. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+First strike
+When this creature enters, if you discarded a card this turn, draw a card.
+
+Oscillo Hero
+
+Wattkid
+
+Nightmare Scorpion
+rules_text: Fusion
+When this creature enters, each opponent loses life equal to the highest toughness among creatures you control. You gain that much life. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+When this creature enters, each opponent loses life equal to the highest toughness among creatures you control. You gain that much life.
+
+Embryonic Beast
+
+Eyearmor
+
+Doron
+
+Misairuzame
+
+Harpie Lady
+
+Harpie Lady Sisters
+rules_text: Fusion
+This spell costs {1} less to cast for each creature you control with flying.
+Flying, ward {2} => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+This spell costs {1} less to cast for each creature you control with flying.
+Flying, ward {2}
+
+Kumootoko
+
+Reaper of the Cards
+rules_text: 4UU — => 4UU — 4/4
+
+Tao the Chanter
+
+Djinn the Watcher of the Wind
+
+Hane-Hane
+rules_text: RRR — => RRR — 5/1
+
+One Who Hunts Souls
+
+Secretarian of Secrets
+rules_text: Fusion
+Menace
+Whenever this creature attacks, you may sacrifice a creature. If you do, put a +1/+1 counter on this creature. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Menace
+Whenever this creature attacks, you may sacrifice a creature. If you do, put a +1/+1 counter on this creature.
+
+Vishwar Randi
+
+Silver Fang
+
+Pragticul
+rules_text: Fusion
+Other Zombies you control get +2/+2 and have menace.
+When this creature enters, return target nonland permanent to the top of its owner's library. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Other Zombies you control get +2/+2 and have menace.
+When this creature enters, return target nonland permanent to the top of its owner's library.
+
+Gate Deeg
+
+Skullbird
+rules_text: Fusion
+Flying
+When this creature enters, if you discarded a card this turn, create a token that's a copy of target creature card with mana value 1 or less in your graveyard. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Flying
+When this creature enters, if you discarded a card this turn, create a token that's a copy of target creature card with mana value 1 or less in your graveyard.
+
+Skelegon
+rules_text: Fusion
+Menace
+This creature enters with a +1/+1 counter on it for each card you discarded this turn. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Menace
+This creature enters with a +1/+1 counter on it for each card you discarded this turn.
+
+Drdek
+
+Akihiron
+
+Bone Mouse
+
+Spike Seadra
+
+Dark Artist
+rules_text: Fusion
+Menace
+Whenever a creature you control enters from the sanctum or dies, you gain 1 life. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Menace
+Whenever a creature you control enters from the sanctum or dies, you gain 1 life.
+
+Phantom Ghost
+
+Skull Servant
+
+Armored Starfish
+rules_text: Fusion
+Each other Zombie you control get +1/+1. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Each other Zombie you control get +1/+1.
+
+The 13th Grave
+
+Zombie Warrior
+rules_text: Fusion
+When this creature enters, if you discarded a card this turn, destroy up to one target creature that was dealt damage this turn. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+When this creature enters, if you discarded a card this turn, destroy up to one target creature that was dealt damage this turn.
+
+Fire Reaper
+
+Curtain of the Dark Ones
+
+Elegant Egotist
+
+Elfs Light
+
+Haniwa
+
+Lucky Trinket
+
+Steel Shell
+
+Tatsunootoshigo
+
+The Melting Red Shadow
+
+Trap Hole
+
+Ultimate Offering
+
+Wings of Wicked Flame
+
+Yamatano Dragon Scroll
+
+The Seal of Orichalcos
+
+LaMoon
+rules_text: Flying
+Healing 2 => Flying
+Healing 2 [i](Damage dealt by this creature also causes you to gain 2 life.)[/i]
+
+Takuhee
+
+Fusionist
+rules_text: Fusion
+Flying
+Tap two untapped creatures and/or enchantments you control: Target creature you control gains lifelink until end of turn. Activate only as a sorcery. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Flying
+Tap two untapped creatures and/or enchantments you control: Target creature you control gains lifelink until end of turn. Activate only as a sorcery.
+
+Aqua Madoor
+
+Dissolverrock
+
+Hinotama Soul
+
+Hurricail
+
+LaLa Li-oon
+
+Weather Control
+
+Mavelus
+rules_text: Fusion
+Flying, haste
+When this creature enters, draw a card, then discard a card unless you discarded a card this turn. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Flying, haste
+When this creature enters, draw a card, then discard a card unless you discarded a card this turn.
+
+Stone Ghost
+rules_text: 3RR — => 3RR — 4/2
+
+Water Element
+rules_text: 4UU — => 4UU — 4/2
+
+Charubin the Fire Knight
+rules_text: Fusion
+Haste, menace
+When this creature enters, target creature can't block this turn. If you discarded a card this turn, draw a card. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Haste, menace
+When this creature enters, target creature can't block this turn. If you discarded a card this turn, draw a card.
+
+King Fog
+rules_text: Fusion
+Flying
+When this creature enters, if you discarded a card this turn, draw a card. Otherwise draw a card, then discard a card. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Flying
+When this creature enters, if you discarded a card this turn, draw a card. Otherwise draw a card, then discard a card.
+
+Green Phantom King
+
+Kaminari Attack
+rules_text: Fusion
+Flying
+When this creature enters, tap up to one target creature and put a stun counter on it. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Flying
+When this creature enters, tap up to one target creature and put a stun counter on it.
+
+The Judgement Hand
+
+Thunder Kid
+rules_text: Insects you control have trample.
+[i]Channel[/i] — {I}, Discard this: Reflect. => Insects you control have trample.
+[i]Channel[/i] — {I}, Discard this: Mirror. [i](Create a token thats a copy of a token you control.)[/i]
+
+Nemuriko
+
+Living Vase
+
+Darkworld Thorns
+
+Mystical Sheep 2
+
+Ray and Temperature
+rules_text: Fusion
+Vigilance
+When this creature enters, target creature you control gets +2/+2 until end of turn. => Fusion [i](You may cast this card from your sanctum by also sacrificing a nonland permanent that shares a creature type with this and discarding a card.)[/i]
+Vigilance
+When this creature enters, target creature you control gets +2/+2 until end of turn.
+
+Sand Stone
+
+Invigoration
+
+Mystical Moon
+
+Vile Germs
+
+Ascent From Snakes
+
+Blue Medicine
+rules_text: If you spent {W} to cast this, create a 1/1 white Dragon creature token with flying that can't block.
+If you spent {U} to cast this, draw a card, then tap up to X target creatures.
+If you spent {I} to cast this, reflect. => If you spent {W} to cast this, create a 1/1 white Dragon creature token with flying that can't block.
+If you spent {U} to cast this, draw a card, then tap up to X target creatures.
+If you spent {I} to cast this, mirror. [i](Create a token thats a copy of a token you control.)[/i]
+
+Called by the Void
+
+Consult Eternity
+
+Corroding Shark
+
+Dark-Piercing Light
+
+Deathly Bellow
+
+Denied by Nature
+
+Discover Uncertainty
+
+Fissure
+
+Goblins Secret Remedy
+
+Gravedigger Ghoul
+
+Hinotama
+
+Into the Unknown
+
+Light of Hope
+
+Marmot of Nefariousness
+
+Monster Reborn
+rules_text: Create a token that's a copy of target creature card or planeswalker card in a graveyard, except its not legendary.
+[i]Channel[/i] — {I}{W}, Discard this: Reflect. => Create a token that's a copy of target creature card or planeswalker card in a graveyard, except its not legendary.
+[i]Channel[/i] — {I}{W}, Discard this: Mirror. [i](Create a token thats a copy of a token you control.)[/i]
+
+Nefairious Archfiend
+
+Raise Body Heat
+
+Red Medicine
+
+Reverse Trap
+rules_text: Reflect. When you do, you may exchange control of target creature you control and target spell. You may choose new targets for it. => Mirror. When you do, you may exchange control of target creature you control and target spell. You may choose new targets for it. [i](Create a token thats a copy of a token you control.)[/i]
+
+Rouge Doll
+
+Sparks
+
+Sun-Scorched Tempering
+
+Survivors Hospitality
+
+The Inexperienced Spy
+
+Trial of Nightmare
+
+Veto
+
+White Dolphin
+
+Ancient Forest
+
+Canyon
+
+Fire Prison
+
+Mystic Plasma Zone
+
+Mythical Forest
+
+Mythical Mountain
+
+Mythical Sogen
+
+Mythical Umi
+
+Mythical Wasteland
+
+Mythical Yami
+
+Shadows Light
+
+Umiiruka
+
+Right Arm of the Forbidden One
+
+Right Leg of the Forbidden One
+
+Extra Rulings for Silver
+
+Sanctum Reminder
+
+Burning Spear
+
+Candle of Fate
+
+Castle Walls
+
+Dark Energy
+
+Dark Hole
+
+Final Flame
+
+Follow Wind
+
+Graveyard and the Hand of Invitation
+
+Mystery Hand
+
+Ookazi
+
+Polymerization
+
+Pot of Greed
+
+Raigeki
+
+Raimei
+
+Reinforcements
+
+Remove Trap
+
+Stop Defense
+
+Swords of Revealing Light
+
+The Great Tear
+
+Two-Pronged Attack
+
+Yashinoki
+
+Lifelink Counter
+
+Menace Counter
+
+Plus 1 Plus 1 Counter
+
+Reach Counter
+
+Stun Counter
+
+Vigilance Counter
+
+Robot Token LOB
+
+Wall Token
+
+Demon Token
+
+Dragon Token LOB
+
+Elemental Token
+
+Insect Plant Token
+
+Shapeshifter Token LOB
+
+Shifting Obelisks
+
+Severed Precipice
+
+Sulking Fortress
+
+Mudbound Stream
+
+Carved Sward
+
+Castle Token
+
+Hitodenchak
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
