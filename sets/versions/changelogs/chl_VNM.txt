@@ -1,4 +1,1287 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Drake Wrangler
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Drakes you control get +1/+1 and have “Whenever this creature attacks, if you illuminated blue or white, draw a card then discard a card.” => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Drakes you control get +1/+1 and have “Whenever this creature attacks, as long as you've illuminated blue or white, draw a card then discard a card.”
+
+Tofnet Riftstalker
+rules_text: [i]Fracture[/i] — Once each turn, when you cast a noncreature spell, you may create a trace of target nontoken creature you control into your hand. => [i]Fracture[/i] — Once each turn, when you cast a noncreature spell, you may trace a copy of target nontoken creature you control into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+
+Passage Overseer
+
+Bruin Wanderer
+rules_text: [i][i]Fracture[/i][/i] — Whenever this creature attacks, if you cast a noncreature spell this turn, choose one —
+• You gain 2 life.
+• Create a 1/1 green Wurm creature token with reach. => [i][i]Fracture[/i][/i] — Whenever this creature attacks, choose one as long as you cast a noncreature spell this turn—
+• You gain 2 life.
+• Create a 1/1 green Wurm creature token with reach.
+
+Avakin Riftseeker
+
+Untamed Drake
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Flying, defender
+Other creatures you control with defender get +1/+1.
+If you've illuminated red or blue, creatures you control can attack as though they didn't have defender. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Flying, defender
+Other creatures you control with defender get +1/+1.
+Creatures you control can attack as though they didn't have defender as long as you've illuminated red or blue.
+
+Aeon Awakener
+
+Bulwark of the Thicket
+
+Multaphs Riftwarden
+rules_text: When this creature enters, create a trace of Voidstone Shard into your hand.
+Once each turn, when you cast an enchantment spell, you may draw a card.
+[b]Voidstone Shard[/b] {2}| [i]Enchantment[/i]
+When this enters, scry 2. => When this creature enters, trace a card named Voidstone Shard into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+Once each turn, when you cast an enchantment spell, draw a card.
+[b]Voidstone Shard[/b] {2}| [i]Enchantment[/i]
+When this enchantment enters, scry 2.
+
+Rush Down
+rules_text: Target creature gets +2/+2 until end of turn. Create a trace of Voidstone Shard into your hand.
+[b]Voidstone Shard[/b] {2}| [i]Enchantment[/i]
+When this enters, scry 2. => Target creature gets +2/+2 until end of turn. Trace a card named Voidstone Shard into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Voidstone Shard[/b] {2}| [i]Enchantment[/i]
+When this enters, scry 2.
+
+Purge the Clanless
+rules_text: Exile target creature, enchantment or planeswalker. Then create a trace of Voidstone Shard into your hand.
+[b]Voidstone Shard[/b] {2}| [i]Enchantment[/i]
+When this enters, scry 2. => Exile target creature, enchantment or planeswalker. Trace a card named Voidstone Shard into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Voidstone Shard[/b] {2}| [i]Enchantment[/i]
+When this enchantment enters, scry 2.
+
+Survivors Instinct
+
+Entrance of Hunger
+
+Prismatism
+rules_text: Create a trace of Voidstone Shard into your hand. Draw a card.
+[b]Voidstone Shard[/b] {2}| [i]Enchantment[/i]
+When this enters, scry 2. => Trace a card named Voidstone Shard into your hand, then draw a card. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Voidstone Shard[/b] {2}| [i]Enchantment[/i]
+When this enchantment enters, scry 2.
+
+Aerial Roost
+
+Soul Fire
+
+Dust to Life
+rules_text: Return target creature card from your graveyard to your hand, then create a trace of Steady Growth into your hand.
+[b]Steady Growth[/b] {BG}|[i]Enchantment
+[/i]Enchant land
+Enchanted land has “{T}: Add one mana of any color.” => Return target creature card from your graveyard to your hand. Trace a card named Steady Growth into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Steady Growth[/b] {BG}|[i]Enchantment
+[/i]Enchant land
+Enchanted land has “{T}: Add one mana of any color.”
+
+Hired Enforcer
+
+Perplexing Ray
+
+Clanless Usurper
+
+Opportunistic Scavenger
+
+Outlands Bulwark
+
+Mischievous Fox
+rules_text: {2}, {T}: Target creature can't block this turn.
+Materialize 0 [i](Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)[/i] => {T}: Target creature can't block this turn.
+Materialize 0 [i](Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)[/i]
+
+Roduth's Guard
+pt: 3/2 => 4/2
+
+Ageless History
+
+Icebound Reinforcements
+
+Blossoming Mentor
+
+Accord Mentor
+rules_text: Whenever you cast your second spell each turn, target creature gets +2/+2 until end of turn.
+{2}{I}{WU}: Exile another target creature you control. Return it to the battlefield at the beginning of the next end step. => Whenever you cast your second spell each turn, you may activate one of this creatures activated abilities without paying its costs.
+{2}{I}{WU}: Exile another target creature you control. Return it to the battlefield at the beginning of the next end step.
+
+Eternal Mentor
+rules_text: Once each turn, when a spell or ability puts a card into your hand, you may have target enchantment also becomes a 2/2 creature until end of turn.
+{T}: Target creature you control can't be blocked this turn if has power 2 or less. => Once each turn, when a spell or ability puts a card into your hand, you may have target enchantment also becomes a 2/2 creature until end of turn.
+{T}: Target creature you control can't be blocked this turn as long as it has power 2 or less.
+
+Conflict Mentor
+rules_text: [i]Fracture[/i] — At the beginning of combat on your turn, if you cast a noncreature spell this turn, create a 1/1 red Wurm creature token with haste.
+Tokens you control have menace. => [i]Fracture[/i] — At the beginning of combat on each turn, if you cast a noncreature spell this turn, create a 1/1 red Wurm creature token with haste.
+Tokens you control have menace.
+
+Outcast Mentor
+rules_text: Once each turn, when you cast a spell that targets a creature you control, you may exile a card from your graveyard with mana value less than or equal to that spell. You may cast a copy of the exiled card until end of turn.
+Creature tokens you control have haste. => Once each turn, when you cast a spell that targets a creature you control, you may exile a card from your graveyard with mana value less than or equal to that spell. You may cast a copy of the exiled card this turn.
+Creature tokens you control have haste.
+
+Fadove Initiate
+
+Fadove Trainer
+rules_text: When this creature enters, you may create a trace of its skill into your hand.
+[b]Military Training [/b]G/W| Skill Instant
+Put a +1/+1 counter on target creature you control. Cast only outside of combat. => When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Military Training [/b]G/W| Skill Instant
+Put a +1/+1 counter on target creature you control. Cast only outside of combat.
+
+Trusted Companion
+
+Fadove Tracker
+rules_text: When this creature enters, you may create a trace of its skill into your hand.
+[b]Readied Assault {2}{RW}[/b]| Skill Sorcery
+Until end of turn, creatures you control get +1/+1 and can attack as though they didn't have defender. => When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Readied Assault {2}{RW}[/b]| Skill Sorcery
+Until end of turn, creatures you control get +1/+1 and can attack as though they didn't have defender.
+
+Outlands Marauder
+
+Wandering Soul
+rules_text: [i][i]Fracture[/i][/i] — Whenever this creature attacks, if you cast a noncreature spell this turn, tap up to one target creature. => [i][i]Fracture[/i][/i] — Whenever this creature attacks, tap up to one target creature if you cast a noncreature spell this turn.
+
+Fadove Drillmaster
+rules_text: When this creature enters, you may create a trace of its skill into your hand.
+[b]Military Training[/b] {GW}| Skill Instant
+Put a +1/+1 counter on target creature you control. Cast only outside of combat. => When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Military Training[/b] {GW}| Skill Instant
+Put a +1/+1 counter on target creature you control. Cast only outside of combat.
+
+Oathkeep Wurm
+
+Drake Rider
+
+Radiant Guide
+rules_text: Vigilance
+[i][i]Fracture[/i] —[/i] Whenever this creature attacks or blocks, if you cast a noncreature spell this turn, other creatures you control get +2/+1 until end of turn. => Vigilance
+[i][i]Fracture[/i] —[/i] Whenever this creature attacks or blocks, other creatures you control get +2/+1 until end of turn as long as you cast a noncreature spell this turn.
+
+Covetous Fox
+
+Rebuke the Foul
+cost: {1}{W} => {W}
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+This spell deals 3 damage to target creature if it's attacking or blocking. If you've illuminated white, exile that creature instead. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+This spell deals 3 damage to target attacking or blocking creature. If you've illuminated white, instead exile target creature.
+
+Maddened by Hunger
+rules_text: Enchant nonland permanent
+As long as enchanted permanent is a creature, it can't attack or block.
+Enchanted permanent is colorless and has no abilities. => Enchant nonland permanent
+Enchanted permanent can't attack, block, has no abilities and is colorless.
+
+Fadove Bodyguard
+
+Combat Diviner
+
+Frostborn Sentinel
+rules_text: Flying, defender
+[i][i]Fracture[/i] — [/i]At the beginning of combat, if you cast a noncreature spell this turn, this creature gets +1/+1 and can attack as though it didn't have defender. => Flying, defender
+[i][i]Fracture[/i] — [/i]At the beginning of combat, this creature gets +1/+1 and can attack as though it didn't have defender as long as you cast a noncreature spell this turn.
+
+Respite Partisan
+rules_text: [i][i]Fracture[/i] [/i]— At the beginning of combat, if you cast a noncreature spell this turn, scry 1, then untap up to one target nonland permanent. => [i][i]Fracture[/i] [/i]— At the beginning of combat of each turn, if you cast a noncreature spell this turn, scry 1, then untap up to one target nonland permanent.
+
+Due Dismissal
+rules_text: Counter target spell unless its controller pays {2}. Then create a trace of Hollow Graze into your hand.
+[b]Hollow Graze[/b] {UB}| Skill Instant
+Target creature gets -2/-0 until end of turn. Cast only outside of combat. => Counter target spell unless its controller pays {2}. Then trace a card named Hollow Graze into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Hollow Graze[/b] {UB}| Skill Instant
+Target creature gets -2/-0 until end of turn. Cast only outside of combat.
+
+Denied by Nature
+
+Repel the Invasion
+
+Storm Bearer
+rules_text: Vigilance
+Whenever this creature attacks, create a trace of its skill into your hand.
+[b]Cut From Void[/b] {2}{U}| Skill Instant[i]
+[/i]Scry 1, then draw a card. => Vigilance
+Whenever this creature attacks, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Cut From Void[/b] {2}{U}| Skill Instant[i]
+[/i]Scry 1, then draw a card.
+
+Resolute Watcher
+rules_text: [i][i]Fracture[/i][/i] — Once each turn, when you cast a noncreature spell, draw a card, then you may put a stun counter on target creature. => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+[i][i]Fracture[/i][/i] — Once each turn, when you cast a noncreature spell, draw a card, then you may put a stun counter on target creature.
+pt: 3/2 => 3/4
+
+Avakin Sayer
+rules_text: Once each turn, when a spell or ability puts a card into your hand, put a +1+1 counter on this creature. => Once each turn, when a spell or ability puts a card into your hand, put a +1/+1 counter on this creature.
+
+Avlod Diviner
+rules_text: Flash
+Whenever you cast your second spell each turn, put a +1/+1 counter on this creature.
+{U}: Until end of turn, you may cast spells as though they had flash by tapping two untapped enchantments you control as an additional cost. => Flash
+Whenever you cast your second spell each turn, put a +1/+1 counter on this creature.
+You may cast spells as though they had flash by tapping two untapped enchantments you control as an additional cost to cast those spells.
+
+Aspiring Mount
+
+Cooing Foundling
+rules_text: Whenever a spell or ability puts a card into your hand, each opponent loses 1 life and you gain 1 life. => Whenever a spell or ability puts one or more cards into your hand, each opponent loses 1 life and you gain 1 life.
+
+Avakin Avenger
+rules_text: When this creature dies, create a trace of its skill into your hand.
+[b]Harsh Reprise [/b]{B}| Skill Instant
+Each opponent loses 2 life. => When this creature dies, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Harsh Reprise [/b]{B}| Skill Instant
+Each opponent loses 2 life.
+
+Gateway Guardian
+rules_text: When this creature enters, create a trace of its skill into your hand.
+[b]Subdued Rift[/b] {WB}| Skill Sorcery
+Create a 1/1 black and white Cat enchantment creature token. => When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Subdued Rift[/b] {WB}| Skill Sorcery
+Create a 1/1 black and white Cat enchantment creature token.
+
+Avakin Riftwalker
+
+Rift Tender
+rules_text: {WB}{WB}: Exile two target cards from your graveyard. If you do, create a trace of Subdued Rift into your hand.
+[b]Subdued Rift [/b]W/B| Skill Sorcery
+Create a 1/1 black and white Cat enchantment creature token. => {WB}{WB}: Exile two target cards from your graveyard. If you do, trace a card named Subdued Rift into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Subdued Rift [/b]W/B| Skill Sorcery
+Create a 1/1 black and white Cat enchantment creature token.
+
+Waking Words
+rules_text: Flying
+[i][i]Fracture[/i] [/i]— At the beginning of your end step, if you cast a noncreature spell this turn, each opponent loses 1 life and you gain 1 life. => Flying
+[i][i]Fracture[/i] [/i]— At the beginning of your end step, each opponent loses 1 life and you gain 1 life as long as you cast a noncreature spell this turn.
+
+Avakin Cleaner
+rules_text: {1}{B}, {T}, Sacrifice another creature or enchantment: Draw a card. If you sacrificed an enchantment this way, you lose 1 life. => {1}{B}, {T}, Sacrifice another creature or enchantment: Draw a card. You lose 1 life if you sacrificed an enchantment this way.
+
+Avakin Assaulter
+
+Scornful Pursuit
+
+Left for the Crows
+
+Weight of Betrayal
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Enchant creature
+Enchanted creature gets -1/-1. If you've illuminated black, enchanted creature gets -5/-5 instead. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Enchant creature
+Enchanted creature gets -1/-1. If you've illuminated black, instead enchanted creature gets -5/-5.
+
+Iconic Resurgence
+
+Avlod Necklace
+rules_text: Equipped creature gets +1/+0. As long as it's your turn, it has deathtouch.
+Equip {2} => Equipped creature gets +1/+0. As long as it's your turn, it has deathtouch.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Avakin Mentor
+rules_text: Whenever this creature attacks, create a trace of its skill into your hand.
+[b]Harsh Reprise [/b]{B}| Skill Instant[i]
+[/i]Each opponent loses 2 life. => Whenever this creature attacks, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Harsh Reprise [/b]{B}| Skill Instant[i]
+[/i]Each opponent loses 2 life.
+
+Shaman of Rites Lost
+rules_text: Whenever a spell or ability puts one or more cards into your hand, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Whenever a spell or ability puts one or more cards into your hand, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Exile three cards from your graveyard: Put a +1/+1 counter and a healing counter on this creature. [i](Whenever your creature with a healing counter deals damage, you gain 1 life for each healing counter on it.)[/i]
+
+Avakin Hireblade
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Menace
+As long as you've illuminated black, this creature gets +1/+1 and has “Whenever you attack, each opponent loses 2 life and you gain 2 life.” => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Menace
+This creature gets +1/+1 and gains “Whenever you attack, each opponent loses 2 life and you gain 2 life” as long as you've illuminated black.
+
+Frontline Assaulter
+rules_text: When this creature enters, create a trace of its skill into your hand.
+[b]Prepared Strike[/b] {R}| Skill Sorcery
+Target creature you control gets +1/+0 and gains first strike until end of turn. => When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Prepared Strike[/b] {R}| Skill Sorcery
+Target creature you control gets +1/+0 and gains first strike until end of turn.
+
+Minotaur Riftcaller
+
+Fervent Incandescence
+rules_text: Haste
+[i][i]Fracture[/i][/i] — At the beginning of combat, if you cast a noncreature spell this turn, up to one target creature you control gets +2/+0 until end of turn. Then you scry 1. => Haste
+[i][i]Fracture[/i][/i] — At the beginning of combat on each turn, scry 1, then up to one target creature you control gets +2/+0 until end of turn as long as you cast a noncreature spell this turn.
+
+Mordel Patrol
+rules_text: When this creature enters, create a trace of Voidstone Shard into your hand.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment
+[/i]When this enters, scry 2. => When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Voidstone Shard[/b] {2}|[i]Enchantment
+[/i]When this enchantment enters, scry 2.
+
+Tenuous Empowerment
+rules_text: Defender
+[i][i]Fracture[/i][/i] — At the beginning of combat on each turn, if you cast a noncreature spell this turn, up to one target creature you control gets +1/+0 until end of turn and can attack as though it didn't have defender. => Defender
+[i][i]Fracture[/i][/i] — At the beginning of combat on each turn, up to one target creature you control gets +1/+0 until end of turn and can attack as though it didn't have defender as long as you cast a noncreature spell this turn.
+
+Mordel Drillmaster
+rules_text: When this creature enters, you may create a trace of its skill into your hand.
+[b]In the Moment {1}{R}[/b]| Skill Sorcery
+Exile the top card of your library. You may play it this turn. => When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]In the Moment {1}{R}[/b]| Skill Sorcery
+Exile the top card of your library. You may play it this turn.
+
+Verem-Volcano Rumbler
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Reach
+As long as you've illuminated red, creatures you control get +1/+0. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Reach
+Creatures you control get +1/+0 as long as you've illuminated red.
+
+Stalking Entity
+
+Iconic Resolution
+rules_text: Put a +1/+1 counter on target creature. Until end of turn, that creature gains haste and can attack as though it didn't have defender.
+If you control an enchantment, target creature can't block until end of turn. => Put a +1/+1 counter on target creature. Until end of turn, that creature gains haste and can attack as though it didn't have defender.
+Up to one target creature can't block until end of turn as long as you control an enchantment.
+
+Conscripted by the Clanless
+
+Clanless Destruction
+
+Unexpected Discovery
+
+Brood Protector
+rules_text: Defender, menace
+[i][i]Fracture[/i] [/i]— At the beginning of combat on your turn, if you cast a noncreature spell this turn, create a 1/1 red Wurm creature token with haste. => Defender, menace
+[i][i]Fracture[/i] [/i]— At the beginning of combat on your turn, create a 1/1 red Wurm creature token with haste as long as you cast a noncreature spell this turn.
+
+Minotaur Outlander
+rules_text: Whenever this creature or another creature you control enters, create a trace of this creature's skill into your hand.
+[b]Prepared Strike[/b] {R}| Skill Sorcery
+Target creature you control gets +1/+0 and gains first strike until end of turn. => Whenever this creature or another creature you control enters, trace this creatures skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Prepared Strike[/b] {R}| Skill Sorcery
+Target creature you control gets +1/+0 and gains first strike until end of turn.
+
+Mordel Excursionist
+rules_text: Whenever this creature attacks, create a trace of its skill into your hand.
+[b]In the Moment[/b] {1}{R}| Skill Sorcery
+Exile the top card of your library. You may play it this turn. => Whenever this creature attacks, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]In the Moment[/b] {1}{R}| Skill Sorcery
+Exile the top card of your library. You may play it this turn.
+
+Lavaskimmer Wurm
+
+Burnout
+
+Farming Wurm
+
+Awakened Harmony
+rules_text: [i]Fracture[/i] — Whenever this creature attacks, as long as you've cast a noncreature spell this turn, target creature you control gets +1/+1 until end of turn. => [i]Fracture[/i] — Whenever this creature attacks, target creature you control gets +1/+1 until end of turn as long as you cast a noncreature spell this turn.
+
+Mordel Formgiver
+
+Outlands Diviner
+rules_text: Trample
+When this creature enters, create a trace of its skill into your hand.
+[b]Ever Vigilant[/b] {1}{GU}| Skill Sorcery
+Target creature gains vigilance and can't be blocked by creatures with power 2 or less until end of turn. => When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Ever Vigilant[/b] {1}{GU}| Skill Sorcery
+Target creature gains vigilance and can't be blocked by creatures with power 2 or less until end of turn.
+pt: 3/3 => 4/4
+
+Bruin Clankeeper
+
+Multaphs Watch
+
+Progeny of Mordel
+
+Iconic Altercation
+
+Boon of Roduth
+
+Ripped into Eternity
+rules_text: Destroy target artifact or enchantment.
+{1}, Discard this: Create two traces of Voidstone Shard into your hand.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enters, scry 2. => Destroy target artifact or enchantment.
+{1}, Discard this: Trace two cards named Voidstone Shard into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enchantment enters, scry 2.
+
+Rifttouched Ursine
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Creatures you control get +1/+1 if you've illuminated green. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Creatures you control get +1/+1 as long as you've illuminated green.
+
+Triumphant Riftcaller
+rules_text: When this creature enters, create a trace of Voidstone Shard into your hand.
+Whenever you cast an enchantment spell, put a +1/+1 counter on each creature you control. This ability triggers only once each turn.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enters, scry 2. => When this creature enters, trace a card named Voidstone Shard into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+Once each turn, when you cast an enchantment spell, put a +1/+1 counter on each creature you control.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enchantment enters, scry 2.
+
+Forest Assailant
+
+Progeny of Bruin
+
+Rippling Crustacean
+rules_text: When this creature dies, create a basic trace of Fault into your hand.
+[b]Fault[/b]|[i]Basic[/i] [i]Land — Fault[/i]
+[i]({T}: Add {I}.)[/i] => When this creature dies, trace a card named Fault into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Fault[/b]|[i]Basic[/i] [i]Land — Fault[/i]
+[i]({T}: Add {I}.)[/i]
+
+Starbright Entity
+rules_text: When this enchantment enters, surveil 2.
+Materialize 2 [i](Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)[/i] => When this enchantment enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Materialize 2 [i](Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)[/i]
+pt: 2/3 => 3/3
+
+Aspiring Entity
+rules_text: When this enchantment enters, search your library for a card with a basic land type, put it onto the battlefield tapped, then shuffle.
+Materialize 4 [i](Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)[/i] => When this enchantment enters, search your library for a card with a basic land type, put it onto the battlefield, then shuffle.
+Materialize 4 [i](Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)[/i]
+
+Wings of New Horizons
+rules_text: When this equipment enters, create a trace of its skill in your hand.
+Equipped creature gets +1/+1 and has flying.
+Equip {3}
+[b]Warped Exploration[/b] {2}|[i] [/i]Skill Sorcery
+Create a trace of a basic land of any type into your hand. => When this artifact enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+Equipped creature gets +1/+1 and has flying.
+Equip {3}
+[b]Warped Exploration[/b] {2}|[i] [/i]Skill Sorcery
+Trace a basic land of any type into your hand.
+
+Rip to Tomorrow
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{1}, Sacrifice this land: Create a trace of Voidstone Shard into your hand.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enters, scry 2. => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{1}, Sacrifice this land: Trace a Voidstone Shard into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enchantment enters, scry 2.
+
+Powerstone Claw
+rules_text: {T}, Tap an untapped enchantment you control: Add {I}.
+{1}, Discard this: Create two traces of Voidstone Shard into your hand.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enters, scry 2. => {T}, Tap an untapped enchantment you control: Add {I}.
+{1}, Discard this: Trace two cards named Voidstone Shard into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enchantment enters, scry 2.
+
+Wandering Entity
+
+Pinnacle Skitter
+
+Tidepool Scuttler
+
+Explorers Compass
+rules_text: Whenever equipped creature attacks, you may cast a copy of this artifact's skill or the equipped creature's skill.
+Equip {1}
+[b]Warped Exploration[/b] {2}| Skill Sorcery
+Create a trace of a basic land of any type into your hand. => Whenever equipped creature attacks, you may cast a copy of this artifact's skill or the equipped creature's skill.
+Equip {1}
+[b]Warped Exploration[/b] {2}| Skill Sorcery
+Trace a basic land card of any type into your hand.
+
+Pinnacle Wanderer
+
+Frostnip Watcher
+
+Shroud Walkers
+
+Verem-Volcano Stalker
+
+Power of Oath
+rules_text: Enchant creature
+Enchanted creature gets +1/+1 and has vigilance.
+You may cast this enchantment from your graveyard by exiling two other cards from your graveyard and paying {1}{W}. => Enchant creature
+Enchanted creature gets +1/+1 and has vigilance.
+Escape—{1}{W}, Exile two cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Iconic Absolution
+rules_text: Destroy target artifact or enchantment. If you control an enchantment, scry 1. => Destroy target artifact or enchantment. Then scry 1 if you control an enchantment.
+
+Wipe Away the Wicked
+
+Stalwart Resolution
+
+Fadove Willshaper
+rules_text: Whenever you attack, create a trace of this creature's skill into your hand.
+[b]Reshape Will[/b] {1}{WU}| Skill Instant
+Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell only outside of combat. => Whenever you attack, trace this creatures skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Reshape Will[/b] {1}{WU}| Skill Instant
+Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell only outside of combat.
+
+Returned from Beyond
+
+Rift Burn
+rules_text: This spell deals 2 damage to each creature. Create a trace of Voidstone Shard into your hand.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enters, scry 2. => This spell deals 2 damage to each creature, Trace a card named Voidstone Shard into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enchantment enters, scry 2.
+
+Windshaper Drake
+rules_text: Flying, vigilance
+When this creature enters, create a trace of its skill into your hand.
+[b]Reshape Will[/b] {1}{WU}| Skill Instant
+Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell only outside of combat. => Flying, vigilance
+When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Reshape Will[/b] {1}{WU}| Skill Instant
+Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell only outside of combat.
+
+Study the Rifts
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Scry 2, then draw two cards. If you've illuminated blue, scry 4, then draw two cards instead. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Scry 2, then draw two cards. If you've illuminated blue, instead scry 4, then draw two cards.
+
+Blessing of Uth
+
+Multaphs Resplendant
+rules_text: [i][i]Fracture[/i][/i] — The first noncreature spell you cast each turn has “Up to one target creature you control gains trample until end of turn. Untap it.”
+{T}: Add {G}. => [i][i]Fracture[/i][/i] — The first noncreature spell you cast each turn has “Up to one target creature you control gets +2/+0 and gains trample until end of turn. Untap it.”
+{T}: Add {G}.
+pt: 2/2 => 1/4
+
+Bruin Outlander
+
+Dark Lessons
+
+Chromaboon Blade
+rules_text: When this equipment enters, create a trace of its skill into your hand.
+Equipped creature gets +2/+0.
+Equip {2}
+[b]Readied Assault[/b] {2}{RW}| Skill Sorcery
+Until end of turn, creatures you control get +1/+1 and can attack as though they didn't have defender. => When this artifact enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+Equipped creature gets +2/+0.
+Equip {2}
+[b]Readied Assault[/b] {2}{RW}| Skill Sorcery
+Until end of turn, creatures you control get +1/+1 and can attack as though they didn't have defender.
+
+Towering Protector
+type: Artifact Creature — Construct => Enchantment Artifact Creature — Construct
+
+Sage of the Aeons
+
+Avakin Opportunist
+
+Sage of Truths
+rules_text: Flying 
+When this creature enters, create a trace of its skill into your hand.
+[b]Cut from Void[/b] {2}{U}| Skill Instant
+Scry 1, then draw a card. => Flying 
+When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Cut from Void[/b] {2}{U}| Skill Instant
+Scry 1, then draw a card.
+
+Stalwart Guard
+
+Outlands Wanderer
+rules_text: When this creature enters, create a trace of its skill into your hand.
+[b]Ever Vigilant {1}{GU}[/b]| [i]Skill Sorcery
+[/i]Target creature gains vigilance and can't be blocked by creatures with power 2 or less until end of turn. => When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Ever Vigilant {1}{GU}[/b]| [i]Skill Sorcery
+[/i]Target creature gains vigilance and can't be blocked by creatures with power 2 or less until end of turn.
+
+Frostborn Glimmer
+rules_text: Flying
+[i][i]Fracture[/i][/i] — Whenever this creature attacks, if you cast a noncreature spell this turn, target creature you control gains flying until end of turn. => Flying
+[i][i]Fracture[/i][/i] — Whenever this creature attacks, target creature you control gains flying until end of turn as long as you cast a noncreature spell this turn.
+
+Kaln-Ocean Cloak
+rules_text: When this equipment enters, create a trace of its skill into your hand.
+Equipped creature has flying.
+Equip {2}
+[b]Cut from Void {2}{U}| [/b]Skill Instant
+Scry 1, then draw a card. => When this artifact enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+Equipped creature has flying.
+Equip {2}
+[b]Cut from Void {2}{U}| [/b]Skill Instant
+Scry 1, then draw a card.
+
+Suffused Memories
+rules_text: Return target nonland permanent to its owners hand, then create a trace of Voidstone Shard into your hand.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enters, scry 2. => Return target nonland permanent to its owners hand, then trace a card named Voidstone Shard into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enchantment enters, scry 2.
+
+Search For Wisdom
+
+Avakin Watcher
+rules_text: When this creature enters, create a trace of a skill from among permanents you control into your hand.
+[b]Reshape Will[/b] {1}{WU}| Skill Instant
+Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell only outside of combat. => When this creature enters, trace a skill from among permanents you control into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Reshape Will[/b] {1}{WU}| Skill Instant
+Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell only outside of combat.
+
+Transient Eternity
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Flying
+As long as you've illuminated white or blue, this creature gets +1/+1. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Flying
+This creature gets +1/+1 as long as you've illuminated white or blue.
+
+Abrupt Death
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Flash
+As long as you've illuminated blue or black, this creature gets +1/+1. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Flash
+This creature gets +1/+1 as long as you've illuminated blue or black.
+
+Fleeting Ruin
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Menace
+As long as you've illuminated black or red, this creature gets +1/+1. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Menace
+This creature gets +1/+1 as long as you've illuminated black or red.
+
+Impetuous Eradication
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Trample
+As long as you've illuminated red or green, this creature gets +1/+1. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Trample
+This creature gets +1/+1 as long as you've illuminated red or green.
+
+Ephemeral Ordinance
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Vigilance
+As long as you've illuminated green or white, this creature gets +1/+1. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Vigilance
+This creature gets +1/+1 as long as you've illuminated green or white.
+
+Vanishing Resolve
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+As long as you've illuminated white or black, this creature gets +1/+1. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+This creature gets +1/+1 as long as you've illuminated white or black.
+
+Cursory Casualty
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Deathtouch
+As long as you've illuminated black or green, this creature gets +1/+1. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Deathtouch
+This creature gets +1/+1 as long as you've illuminated black or green.
+
+Transitory Refuge
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Ward {2}
+As long as you've illuminated green or blue, this creature gets +1/+1. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Ward {2}
+This creature gets +1/+1 as long as you've illuminated green or blue.
+
+Evanescent Impasse
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Defender
+As long as you've illuminated blue or red, this creature gets +1/+1 and can attack as though it didn't have defender. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Defender
+This creature gets +1/+1 and can attack as though it didn't have defender as long as you've illuminated blue or red.
+
+Sublime Liquidation
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+This creature has first strike during your turn.
+As long as you've illuminated white or red, this creature gets +1/+1. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+This creature has first strike as long as it's your turn.
+This creature gets +1/+1 as long as you've illuminated white or red.
+
+Mistblade Rogue
+rules_text: [i][i]Fracture[/i] [/i]— At the beginning of combat on your turn, if you cast a noncreature spell this turn, up to one target creature gets +1/+0 and can't be blocked by non-enchantment creatures until end of turn. => [i][i]Fracture[/i] [/i]— At the beginning of combat on your turn, up to one target creature gets +1/+0 and can't be blocked by non-enchantment creatures until end of turn as long as you cast a noncreature spell this turn.
+
+Manifesting Ardor
+rules_text: [i][i]Fracture[/i] [/i]— At the beginning of combat, if you cast a noncreature spell this turn, put a +1/+1 counter on this creature. => [i][i]Fracture[/i] [/i]— At the beginning of combat on each turn, put a +1/+1 counter on this creature as long as you cast a noncreature spell this turn.
+
+Razorshell Drake
+rules_text: {1}, Discard this: Create two traces of Voidstone Shard into your hand.
+{2}{U}{U}: Target creature gains flying until end of turn.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enters, scry 2. => {1}, Discard this: Trace two cards named Voidstone Shard into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+{2}{U}{U}: Target creature gains flying until end of turn.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enchantment enters, scry 2.
+
+Verem-Volcano Warrior
+pt: 4/5 => 5/5
+
+Outlands Protector
+rules_text: When this creature enters, create a trace of its skill into your hand.
+[b]Ever Vigilant[/b] {1}{GU}| Skill Sorcery
+Target creature gains vigilance and can't be blocked by creatures with power 2 or less until end of turn. => When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Ever Vigilant[/b] {1}{GU}| Skill Sorcery
+Target creature gains vigilance and can't be blocked by creatures with power 2 or less until end of turn.
+
+Smoldering Entity
+
+Skywatch Entity
+
+Giants Blade
+rules_text: When this equipment enters, create a trace of its skill to your hand.
+Equipped creature gets +4/+4.
+Equip {5}
+[b]Subdued Rift[/b] {WB}| Skill Sorcery
+Create a 1/1 black and white Cat enchantment creature token. => When this artifact enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+Equipped creature gets +4/+4.
+Equip {5}
+[b]Subdued Rift[/b] {WB}| Skill Sorcery
+Create a 1/1 black and white Cat enchantment creature token.
+
+Voidborn Entity
+rules_text: Menace
+When this enchantment enters, target opponent may discard a card. If they don't, this creature deals 3 damage to that player.
+Materialize 2 [i](Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)[/i] => Menace
+When this enchantment enters, target opponent may discard a card. If they don't, this enchantment deals 3 damage to that player.
+Materialize 2 [i](Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)[/i]
+
+Chittering Entity
+
+Riftborn Flames
+rules_text: This spell deals 5 damage to target permanent. Create a trace of a Voidstone Shard into your hand.
+[b]Voidstone Shard [/b]{2}|[i]Enchantment[/i]
+When this enters, scry 2. => This spell deals 5 damage to target permanent. Trace a card named Voidstone Shard into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Voidstone Shard [/b]{2}|[i]Enchantment[/i]
+When this enchantment enters, scry 2.
+
+Shining Idol
+rules_text: [i][i]Fracture[/i][/i] — Whenever this creature attacks or blocks, if you cast a noncreature spell this turn, you gain 2 life. => [i][i]Fracture[/i][/i] — Whenever this creature attacks or blocks, you gain 2 life as long as you cast a noncreature spell this turn.
+
+Triumphant Entrance
+
+Midnight Raven
+
+Outlands Riftbearer
+rules_text: Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+When this creature enters, create a trace of its skill into your hand.
+[b]Subdued Rift[/b] [b]W/B[/b]| Skill Sorcery
+Create a 1/1 black and white Cat enchantment creature token. => Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Subdued Rift[/b] [b]W/B[/b]| Skill Sorcery
+Create a 1/1 black and white Cat enchantment creature token.
+
+Mordel Clanwarden
+
+Warden of the Lost
+
+Warforged Herald
+rules_text: When this creature enters, create a trace of its skill into your hand.
+[b]Readied Assault[/b] {2}{RW}| Skill Sorcery
+Until end of turn, creatures you control get +1/+1 and can attack as though they didn't have defender. => When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Readied Assault[/b] {2}{RW}| Skill Sorcery
+Until end of turn, creatures you control get +1/+1 and can attack as though they didn't have defender.
+
+Iconic Incident
+rules_text: Target creature gets -2/-0 until end of turn. If you control an enchantment, that creature gets -6/-0 until end of turn instead.
+Draw a card. => Target creature gets -2/-0 until end of turn. If you control an enchantment, instead that creature gets -6/-0 until end of turn.
+Draw a card.
+
+Mordel Warrior
+rules_text: When this creature enters, you may create a trace of its skill into your hand.
+[b]Military Training [/b]G/W| Skill Instant[i]
+[/i]Put a +1/+1 counter on target creature you control. Cast only outside of combat. => When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Military Training [/b]G/W| Skill Instant[i]
+[/i]Put a +1/+1 counter on target creature you control. Cast only outside of combat.
+
+Keeper of Calm
+rules_text: When this creature enters, create a trace of Steady Growth into your hand.
+[b]Steady Growth[/b] {BG}|[i] [/i]Enchantment[i]
+[/i]Enchant land
+Enchanted land has “{T}: Add one mana of any color.” => When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Steady Growth[/b] {BG}|[i] [/i]Enchantment[i]
+[/i]Enchant land
+Enchanted land has “{T}: Add one mana of any color.”
+
+Avlod Bulwark
+rules_text: When this creature enters or dies, create a trace of its skill into your hand.
+[b]Subdued Rift[/b] {WB}| Skill Sorcery
+Create a 1/1 black and white Cat enchantment creature token. => When this creature enters or dies, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Subdued Rift[/b] {WB}| Skill Sorcery
+Create a 1/1 black and white Cat enchantment creature token.
+
+Faloden Thickets
+rules_text: Trample
+Tap an untapped silver or green permanent: Target creature gets +1/+1 and gains reach until end of turn.
+{1}{IG}{IG}: Target creature gets +2/+0 until end of turn. => Trample
+Tap an untapped silver or green permanent you control: Target creature gets +1/+1 and gains reach until end of turn.
+{1}{IG}{IG}: Target creature gets +2/+0 until end of turn.
+
+Faloden Tear-Warden
+
+Tofnet Predator
+
+Remnant Awakener
+rules_text: {2}, Discard this: Create a trace of Basic Fault into your hand.
+[b]Fault[/b]|[i]Basic Land — Fault[/i]
+[i]({T}: Add {I}.)[/i] => {2}, Discard this: Trace a card named Fault into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Fault[/b]|[i]Basic Land — Fault[/i]
+[i]({T}: Add {I}.)[/i]
+
+Waterspout
+rules_text: Mill three cards. Return a card from among the milled cards to your hand. Create a trace of Voidstone Shard into your hand.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment
+[/i]When this enters, scry 2. => Trace a card named Voidstone Shard into your hand, then mill three cards. You may put a card from among the cards milled this way into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Voidstone Shard[/b] {2}|[i]Enchantment
+[/i]When this enchantment enters, scry 2.
+
+Malevolent Naginata
+rules_text: When this equipment enters, create a trace of its skill into your hand.
+Equipped creature gets +1/+0 and has menace.
+Equip {1}{B}
+[b]Hollow Graze[/b] {UB}| Skill Instant[i]
+[/i]Target creature gets -2/-0 until end of turn. Cast only outside of combat. => When this artifact enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+Equipped creature gets +1/+0 and has menace.
+Equip {1}{B}
+[b]Hollow Graze[/b] {UB}| Skill Instant[i]
+[/i]Target creature gets -2/-0 until end of turn. Cast only outside of combat.
+
+Skillful Blade
+
+Tattered Entity
+
+Crowned Entity
+cost: {G}{G} => {1}{G}
+rules_text: At the beginning of combat of each turn, you may exile two target cards from a graveyard. If you exiled a creature card this way, create a 1/1 green Wurm creature token with reach.
+Materialize 5 [i](Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until your next upkeep.)[/i] => At the beginning of combat of each turn, exile up to one target card from a graveyard. If you exiled a creature card this way, create a 1/1 green Wurm creature token with reach.
+Materialize 5 [i](Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until your next upkeep.)[/i]
+pt: 6/6 => 5/5
+
+Flaming Iron
+rules_text: When this equipment enters, create a trace of its skill into your hand.
+Equipped creature gets +2/+0.
+Equip {2}
+[b]Prepared Strike[/b] {R}| Skill Sorcery
+Target creature you control gets +1/+0 and gains first strike until end of turn. => When this artifact enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+Equipped creature gets +2/+0.
+Equip {2}
+[b]Prepared Strike[/b] {R}| Skill Sorcery
+Target creature you control gets +1/+0 and gains first strike until end of turn.
+
+Usher of the Lost
+
+Voidstone Shard
+type: Trace Enchantment => Enchantment
+
+Subdued Rift
+type: Trace Skill Sorcery => Skill Sorcery
+
+Hollow Graze
+type: Trace Skill Instant => Skill Instant
+
+Ever Vigilant
+type: Trace Skill Sorcery => Skill Sorcery
+
+Steady Growth
+type: Trace Enchantment => Enchantment
+
+Prepared Strike
+type: Trace Skill Sorcery => Skill Sorcery
+
+In the Moment
+type: Trace Skill Sorcery => Skill Sorcery
+
+Reshape Will
+type: Trace Skill Instant => Skill Instant
+
+Military Training
+type: Trace Skill Instant => Skill Instant
+
+Breaking the Mold
+rules_text: Create a trace of Voidstone Shard into your hand, then choose one —
+• Destroy target artifact.
+• Target creature you control gets +3/+1 until end of turn.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment [/i]When this enters, scry 2. => Trace a card named Voidstone Shard into your hand, then choose one —
+• Destroy target artifact.
+• Target creature you control gets +3/+1 until end of turn.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment [/i]When this enters, scry 2.
+
+Warped Exploration
+type: Trace Skill Sorcery => Skill Sorcery
+rules_text: Create a trace of a basic land of any type into your hand. [i](Traces are cards that become copies when they enter a public zone.)[/i] => Trace a basic land of any type into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+
+Harsh Reprise
+type: Trace Skill Instant => Skill Instant
+
+Ruins of Multa
+
+Multaph Riftborn God
+rules_text: You may spend {I} as any color to cast this creature or activate their abilities.
+When this creature enters, create a trace of another target enchantment with mana value 4 or greater into your hand.
+{1}{I}{U}{B}, Exile two nonelk enchantments you control: Return this creature from your graveyard to the battlefield tapped. => When Multaph enters, trace another target enchantment with mana value 4 or greater into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+{1}{I}{U}{B}, Exile two non-Elk enchantments you control: Return Multaph from your graveyard to the battlefield tapped.
+
+Will of Roduth
+
+Will of Multaph
+
+Will of Destruction
+
+The Great Tear
+rules_text: Exile all creatures and planeswalkers.
+{2}{W}{W}, Discard this spell: Exile target creature or planeswalker. => Exile all creatures and planeswalkers.
+{2}{W}{W}, Discard this: Exile target creature or planeswalker.
+
+Multaph's Respite
+rules_text: When this enchantment enters, create a trace into your hand of your choice from among Subdued Rift, Warped Exploration, and Cut From Void.
+Once each turn, when you cast a noncreature spell, you may pay {2}. If you do, copy that spell. You may choose new targets for the copy. => When Multaph's Respite enters, trace a card of your choice from among Subdued Rift, Warped Exploration, and Cut From Void into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+Once each turn, when you cast a noncreature spell, you may pay {2}. If you do, copy that spell. You may choose new targets for the copy.
+
+The Wandering Cook
+
+Najael Travelling Shaman
+rules_text: When this creature enters, distribute two +1/+1 counters among any number of target enchantments you control.
+Once each turn, when an enchantment you control becomes a creature, you may draw a card. => When this creature enters, distribute two +1/+1 counters among any number of target enchantments you control.
+Once each turn, when an enchantment you control becomes a creature, draw a card.
+
+Called by the Void
+
+Ruins of Uth
+
+Will of Hunger
+
+Roduth God of Conflict
+rules_text: Reach, trample
+this creature and creature tokens you control enter the battlefield with a shield counter on them. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+{G}{RW}{RW}: Put a +1/+1 counter on each creature token you control. => Reach, trample
+Roduth and creature tokens you control enter the battlefield with a shield counter on them. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+{G}{RW}{RW}: Put a +1/+1 counter on each creature token you control.
+
+Thargle
+
+Cut from Void
+type: Trace Skill Instant => Skill Instant
+
+Bark of Tofnet Plains
+
+Kaln-Ocean Wispop
+
+Pathborn Crackle
+
+Guardian of Faloden Woods
+rules_text: Reach
+{1}{IG}, Discard this: Create two 1/1 green Wurm creature tokens with reach. Activate only as a sorcery. => Reach
+{1}{IG}, Discard this: Create two 1/1 green Wurm creature tokens with reach. Activate only if its your turn.
+
+Outlands Frostalker
+
+Fog Walker
+
+Dromencals Respite
+type: Enchantment => Enchantment Artifact
+rules_text: When this enchantment enters, create a trace of Voidstone Shard into your hand.
+Tap two nonland permanents you control: Add {C}.
+[b]Voidstone Shard [/b]{2}|[i]Enchantment[/i]
+When this enters, scry 2. => When this artifact enters, trace a card named Voidstone Shard into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+{T}: Add {C}.
+[b]Voidstone Shard [/b]{2}|[i]Enchantment[/i]
+When this enchantment enters, scry 2.
+
+Outlands Respite
+rules_text: When this enchantment enters, create a trace of Voidstone Shard into your hand.
+{T}: Target land you control also becomes a basic land type of your choice until end of turn.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enters, scry 2. => When this enchantment enters, trace a card named Voidstone Shard into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+{T}: Target land you control also becomes the basic land type of your choice until end of turn.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enchantment enters, scry 2.
+
+Melodia Voidtouched
+rules_text: When this creature enters, create a 1/1 blue Drake creature token with flying and “This creature can't block”.
+Whenever a creature token you control attacks, it gets +2/+1 until end of turn. => When Melodia enters, create a 1/1 blue Drake creature token with flying and “This creature can't block”.
+Whenever a creature token you control attacks, it gets +2/+1 until end of turn.
+
+Calia Oracle of Tofnet Plains
+
+Ola Kaln-Ocean Spellkeeper
+rules_text: Flash
+[i][i]Fracture[/i] —[/i] At the beginning of combat, if you cast a noncreature spell this turn, choose two —
+• Tap or untap target permanent.
+• Put a +1/+1 counter on this creature.
+• Draw a card, then discard a card. => Flash
+[i][i]Fracture[/i] —[/i] At the beginning of combat on each turn, choose two as long as you cast a noncreature spell this turn —
+• Tap or untap target permanent.
+• Put a +1/+1 counter on Ola.
+• Draw a card, then discard a card.
+pt: 1/1 => 2/2
+
+Kier Acolyte of Avlod Respite
+rules_text: Whenever this creature attacks or blocks, create a trace of Steady Growth into your hand and you lose 1 life.
+{5}, Discard an enchantment card: Return target creature card from your graveyard to the battlefield. Spend only different colors of mana to activate this.
+[b]Steady Growth[/b] {BG}| Enchantment
+Enchant land; Enchanted land has “{T}: Add one mana of any color.” => Whenever Kier attacks or blocks, trace a card named Steady Growth into your hand and you lose 1 life. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+{5}, Discard an enchantment: Return target creature card from your graveyard to the battlefield. Spend only different colors of mana to activate this ability.
+[b]Steady Growth[/b] {BG}| Enchantment
+Enchant land; Enchanted land has “{T}: Add one mana of any color.”
+
+Vane Verem-Volcano Scorcher
+
+Somma, Blade of Faloden Woods
+
+Khestri Fadove Clanleader
+rules_text: Vigilance
+Whenever you cast a noncreature spell, create a 1/1 white Wurm creature token.
+Whenever you attack, create a trace of a skill from among permanents you control. => Vigilance
+Whenever you cast a noncreature spell, create a 1/1 white Wurm creature token.
+Whenever you attack, trace a skill from among permanents you control. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+
+Shivta, Avlod Clanleader
+rules_text: Flash
+[i]Fracture[/i] — At the beginning of combat on your turn, if you cast a noncreature spell this turn, surveil 3, then return a card put into your graveyard this way to your hand. => Flash
+[i]Fracture[/i] — At the beginning of combat on your turn, surveil 3, then return a card put into your graveyard this way to your hand as long as you cast a noncreature spell this turn.
+
+Urkial Outlands Clanleader
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+This creature is all colors.
+Creatures you control get +1/+1 for each color you've illuminated. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+Urkial is all colors.
+Creatures you control get healing 2 as long as you've illuminated white. The same is true with vigilance and blue, menace and black, first strike and red, trample and green, haste and silver.
+
+Bruin Mentor
+rules_text: When this creature enters, or whenever this creature attacks with a creature with lesser power, create a trace of its skill to your hand.
+[b]Military Training[/b] {GW}| Skill Instant
+Put a +1/+1 counter on target creature you control. Cast only outside of combat. => When this creature enters, or whenever this creature attacks with a creature with lesser power, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Military Training[/b] {GW}| Skill Instant
+Put a +1/+1 counter on target creature you control. Cast only outside of combat.
+
+Raze the Clanless
+
+Prismatic Offense
+
+Korna, Vinimroth Historian
+rules_text: At the beginning of combat on your turn, up to one target creature gets +1/+1 until end of turn. If this enchantment is a creature, after this phase, there's an additional combat phase where only enchantment creatures you control may attack.
+Materialize 6 [i](Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)[/i] => At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. If Korna is a creature, after this phase, there's an additional combat phase where only enchantment creatures you control may attack.
+Materialize 6 [i](Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)[/i]
+
+Zoslera Mordel Clanleader
+
+Prophellos Pathborn Hunger
+rules_text: Flying
+[i]Fracture[/i] — Whenever this creature enters or attacks, if you've cast a noncreature spell this turn, each opponent sacrifices a creature.
+Escape—{5}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Flying
+[i]Fracture[/i] — Whenever this creature enters or attacks, each opponent sacrifices a creature as long as you cast a noncreature spell this turn.
+Escape—{5}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Dust for Dust
+
+Pinnacle of Vinimroth
+rules_text: Whenever this artifact enters or you attack, create a trace of its skill into your hand.
+Whenever you cast a skill, this artifact deals 1 damage to each opponent.
+[b]In the Moment[/b] {1}{R}|[i] [/i]Skill Sorcery
+Exile the top card of your library. You may play it this turn. => Whenever Pinnacle of Vinimroth enters or you attack, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+Whenever you cast a skill, Pinnacle of Vinimroth deals 1 damage to each opponent.
+[b]In the Moment[/b] {1}{R}|[i] [/i]Skill Sorcery
+Exile the top card of your library. You may play it this turn.
+
+Attuned Shimmer
+
+Bushy Shimmer
+
+Wild Shimmer
+
+Curious Shimmer
+
+Pouncing Shimmer
+
+Fadove Pathwarden
+
+Path of Insight
+
+Path of Revival
+
+Keeper of Faloden Woods
+
+Mistveil Drake
+
+Mordel Combatant
+
+Bearer of Change
+rules_text: Pathbound—{I}{U}, Exile three cards from your graveyard. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Whenever you attack, target player mills four cards. => Pathbound—{I}{U}, Exile three cards from your graveyard. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Whenever you attack, each player mills four cards.
+
+Mordel Razer
+rules_text: Pathbound—{I}{R}, Put a card from your hand into your sanctum. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Whenever this creature leaves your sanctum, you may exile cards from the top of your library equal to the number of cards you put into your sanctum this turn. Until the end of your next turn, you may play those cards. => Pathbound—{IR}, Reveal a card with haste from your hand. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Whenever you cast a noncreature spell, exile a card at random from your sanctum. Until the beginning of your next end step, you may play that card.
+
+Pathborn Aggression
+
+Eternities Weaver
+
+Guardian Roost
+rules_text: Pathbound—{IW}, Reveal two cards with flying and/or vigilance from your hand. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Flying, vigilance
+When you cast this spell, if it isn't a copy, create three traces of it into your hand. => Pathbound—{IW}, Reveal two cards with flying and/or vigilance from your hand. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Flying, vigilance
+When you cast this spell, if it isn't a copy, trace three cards named Guardian Roost into your hand.
+
+Path to Restoration
+rules_text: Pathbound—{W}{W}, Reveal two creature cards from your hand. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Return target permanent card from your graveyard to the battlefield with a finality counter on it. => Pathbound—{W}{W}, Reveal two creature cards from your hand. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Return target permanent card from your graveyard to the battlefield.
+
+Path to Ages
+cost: {1}{R}{R}{R}{R} => {1}{R}{R}{R}
+rules_text: Pathbound—{1}{I}{R}. Activate only if you have no other cards in your sanctum. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Add {I}{W}{U}{B}{R}{G}.
+Exile this spell. => Pathbound—{1}{I}{R}. Activate only if you have no other cards in your sanctum. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Add {I}{W}{U}{B}{R}{G}.
+
+Breach of Protection
+rules_text: Pathbound—{IW}, Reveal a card with lifelink or healing from your hand. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+At the beginning of your end step, if you've gained 3 or more life this turn, create a 2/2 white Drake creature token with flying. => Pathbound—{IW}, Reveal a card with lifelink or healing from your hand. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+At the beginning of your end step, create a 2/2 white Drake creature token with flying if you've gained 3 or more life this turn.
+
+Breach of Sanity
+rules_text: Pathbound {I}{U} [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+At the beginning of each end step, target player mills two cards. If a card with pathbound was put into a graveyard this way, draw a card. => Pathbound {I}{U} [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+At the beginning of each end step, target player mills two cards. If a card with Pathbound was put into a graveyard this way, draw a card.
+
+Breach of Malice
+
+Breach of Nature
+
+Breach of Mortality
+
+Path of the Grove
+
+Pathborn Drake
+
+Outlands Pathwarden
+
+Fadove Reinforcement
+rules_text: Pathbound—{I}. Activate only if you control two or more permanents with creature types. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+When this creature enters, you may return up to one other target creature or enchantment you control to its owner's hand. => Pathbound—{I}. Activate only if you control two or more permanents with creature types. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+When this creature enters, you may return up to one other target creature or enchantment you control to its owners hand.
+
+Avlod Pathshaper
+rules_text: Pathbound—{I}, Tap a creature you control. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Defender
+[i]Fracture[/i] — At the beginning of combat, if you cast a noncreature spell this turn, this creature has flying and can attack as though it didn't have defender. => Pathbound—{I}, Tap a creature you control. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Defender
+[i]Fracture[/i] — At the beginning of combat, this creature has flying and can attack as though it didn't have defender as long as you cast a noncreature spell this turn.
+
+Outlands Traveller
+
+Mordel Reinforcement
+
+Outlands Guardian
+
+Paths Strider
+
+Path of the Proud
+
+Path of the Roost
+
+Path of the Rift
+
+Path of the Brood
+
+Path of the Mighty
+
+Rip to Today
+rules_text: Pathbound {1}, Pay 2 life, then exile a multicolor card from your hand. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color. This ability costs {1} less to activate if it isn't your first, second, or third turn of the game. => Pathbound—{1}, Pay 2 life, then exile a multicolor card from your hand. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color. This ability costs {1} less to activate if it isn't your first, second, or third turn of the game.
+
+Tethers of Insanity
+
+Eternity Siphon
+rules_text: Target creature gets -2/-2 until end of turn.
+{1}{B}, Exile this card from your graveyard: Create a trace of Voidstone Shard into your hand.
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enters, scry 2. => Target creature gets -2/-2 until end of turn.
+{1}{B}, Exile this card from your graveyard: Trace a card named Voidstone Shard into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Voidstone Shard[/b] {2}|[i]Enchantment[/i]
+When this enchantment enters, scry 2.
+
+Tofnet Thrummer
+
+Faloden Scavenger
+
+Grazed by the Endless
+
+Choked Essence
+
+Avakin Hazeweaver
+rules_text: When this creature enters, create a trace of its skill into your hand.
+[b]Hollow Graze[/b] {UB}| Skill Instant[i]
+[/i]Target creature gets -2/-0 until end of turn. Cast only outside of combat. => When this creature enters, trace its skill into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Hollow Graze[/b] {UB}| Skill Instant[i]
+[/i]Target creature gets -2/-0 until end of turn. Cast only outside of combat.
+
+Verem-Volcano Keeper
+
+Ash to Hope
+rules_text: Search your library for up to two basic land cards and reveal them. If you control a token or a creature with a counter on it, put one of them onto the battlefield. Put the rest into your hand, then shuffle. => Search your library for up to three basic land cards and reveal them. If you control a token or a creature with a counter on it, put one of them onto the battlefield. Put the rest into your hand, then shuffle.
+
+Scouts Bow
+rules_text: When this equipment enters, create a trace of Steady Growth into your hand.
+Equipped creature gets +1/+0 and has reach.
+Equip {1}
+[b]Steady Growth[/b] {BG}| Enchantment
+Enchant land
+Enchanted land has “{T}: Add one mana of any color.” => When this artifact enters, trace a card named Steady Growth into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+Equipped creature gets +1/+0 and has reach.
+Equip {1}
+[b]Steady Growth[/b] {BG}| Enchantment
+Enchant land
+Enchanted land has “{T}: Add one mana of any color.”
+
+Paragon of Unknown Sights
+
+Dustfall
+rules_text: At the beginning of your end step, if you activated a nonland, nonmana ability this turn, you may sacrifice a nontoken nonenchantment permanent. If you do, create a token that's a copy of it, except it's not legendary and is an enchantment. => At the beginning of your end step, you may sacrifice a nontoken nonenchantment permanent as long as you've activated a nonland, nonmana ability this turn. If you do, create a token that's a copy of it, except it's not legendary and is an enchantment.
+
+Common Enemy
+
+Power Null
+
+Weavehorn Chimera
+rules_text: Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+When this creature enters, draw a card, then discard a card.
+This creature gets +2/+0 if you've illuminated silver. => Luminous [i](For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)[/i]
+When this creature enters, draw a card, then discard a card.
+This creature gets +2/+0 as long as you've illuminated silver.
+
+Ethereal Exposure
+
+Impunity of Souls
+
+Scars of Oil
+rules_text: When this enchantment enters, draw two cards, then discard a card.
+once each turn, when you discard a card, you may mill a card. If you do, put up to two cards in your graveyard into your sanctum. => When this enchantment enters, draw two cards, then discard a card.
+Once each turn, when you discard a card, you may mill a card. If you do, put up to one card in your graveyard into your sanctum.
+
+Splendid Genesis
+
+Volatile Visions
+
+Multaph's Respite's Spellbook
+type: Spellbook => Token Spellbook
+rules_text: [b]Subdued Rift[/b] {WB}| Skill Sorcery
+Create a 1/1 black and white Cat enchantment creature token.
+[b]Warped Exploration[/b] {2}| Skill Sorcery
+Create a trace of a basic land of any type into your hand.
+[b]Cut from Void[/b] {2}{U}| Skill Instant
+Scry 1, then draw a card. => [b]Subdued Rift[/b] {WB}| Skill Sorcery
+Create a 1/1 black and white Cat enchantment creature token.
+[b]Warped Exploration[/b] {2}| Skill Sorcery
+Trace a basic land of any type into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+[b]Cut from Void[/b] {2}{U}| Skill Instant
+Scry 1, then draw a card.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
