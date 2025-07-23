@@ -4688,7 +4688,7 @@
             "number": 235,
             "color_identity": "WR",
             "cost": "{R}{W}",
-            "rules_text": "At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. If Korna is a creature, after this phase, there's an additional combat phase where only enchantment creatures you control may attack.\nMaterialize 6 [i](Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)[/i]",
+            "rules_text": "At the beginning of combat on your turn for the first time each turn, target creature you control gets +1/+1 until end of turn. If Korna is a creature, after this phase, there's an additional combat phase where only enchantment creatures you control may attack.\nMaterialize 6 [i](Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)[/i]\n",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
