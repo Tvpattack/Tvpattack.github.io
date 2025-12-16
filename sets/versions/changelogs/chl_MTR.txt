@@ -1,4 +1,287 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Kojikocy added.
+Monstrous Bird added.
+Faith Bird added.
+Destroyer Golem added.
+Millenium Golem added.
+Lord of Zemia added.
+Baron of the Fiend Sword added.
+Sword Slasher added.
+Shadow Specter added.
+Yaranzo added.
+Madjinn Gunn added.
+The Snake Hair added.
+Wretched Ghost of the Attic added.
+Barrel Lily added.
+Torike added.
+Trakodon added.
+Monster Tamer added.
+Pendulum Machine added.
+Anthrosaurus added.
+Battle Steer added.
+Laughing Flower added.
+The Thing That Hides in the Mud added.
+Master & Expert added.
+Rock Spirit added.
+The Nordic Lights added.
+Arlownay added.
+Alpha Wolf added.
+Imaginary Arc Tower added.
+Wild Kitchen added.
+Area 33 added.
+Prison Island - Cell Block 5 & 6 added.
+Peaks of Blisstopia added.
+Supreme Marine Fortress Magnum Overbase added.
+Vegetation of Blisstopia added.
+Beast Battlefield Barrier added.
+Feverous Spirit Stadium added.
+Autumn Leaves of Blisstopia added.
+Royal Rebel's Arena added.
+Shining City Nights added.
+Silvermountain of Blisstopia added.
+Berserker Colosseum added.
+Zombie Carnival added.
+Griffore added.
+Demolition Fusegate Scrapgate added.
+
+Potential Archetypes removed.
+Sleeping Lion removed.
+Summoned Skull removed.
+
+Bonz
+rules_text: Duelist {3}{B} [i](Once per game, if this is your chosen duelist, you may cast this from your sanctum by paying {3}{B} and discarding a card.)[/i]
+Zombies and Skeletons you control get +1/+1.
+[level -2] Return up to two target creature cards that share a creature type from your graveyard to your hand.
+ => Duelist {3}{B} [i](Once per game, if this is your chosen duelist, you may cast this from your sanctum by paying {3}{B} and discarding a card.)[/i]
+Zombies, Spirits and Skeletons you control get +1/+1.
+[level -2] Until end of turn, you may cast a Zombie, Spirit, or Skeleton card from your graveyard. It costs {2} less to cast this way.
+
+
+Kingdom Token
+
+Lady of Faith
+
+Dark Shade
+rules_text: Restructure {W} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Flying
+{T}: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery. => Restructure {W} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Flying
+{T}: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery.
+
+Heavy Storm
+
+Binding Chain
+rules_text: When this enchantment enters, exile target nonland permanent until this enchantment leaves the battlefield.
+When this enchantment enters, you gain 2 life and create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => When this enchantment enters, exile target nonland permanent you don't control until this enchantment leaves the battlefield.
+When this enchantment enters, you gain 2 life and create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+
+Beaked Snake
+pt: 2/1 => 2/2
+
+Air Eater
+rules_text: Reach, first strike [i](This creature can block creatures with flying. This creature deals combat damage before creatures without first strike.)[/i]
+[i]Channel[/i] — {2}{RW}, Discard this: This creature deals 3 damage to target tapped creature. => Reach, first strike [i](This creature can block creatures with flying. This creature deals combat damage before creatures without first strike.)[/i]
+[i]Channel[/i] — {RW}, Discard this: Put a +1/+1 counter on target creature.
+
+Giga-Tech Wolf
+rules_text: Restructure {RG} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, destroy up to one target artifact. => Restructure {RG} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, destroy up to one target artifact.
+
+Cyber Commander
+rules_text: Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i]Channel[/i] — {B}, Discard this: Destroy target creature that was dealt damage this turn. => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i]Channel[/i] — {4}{B}, Discard this: Destroy target creature.
+
+Violent Rain
+rules_text: Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+This creature can't attack or block alone.
+[i]Channel[/i] — {2}{U}, Discard this: Return target creature or artifact to its owner's hand. => Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+This creature can't attack or block alone.
+
+Ocubeam
+cost: {2}{I}{W} => {1}{I}{W}
+
+Flame Viper
+rules_text: Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+[i]Channel[/i] — {2}{R}, Discard this: Up to two target creatures can't block this turn. => Moxie [i](Whenever you activate an ability of a card in hand or cast a nonpermanent spell, this creature gets +1/+1 until end of turn.)[/i]
+pt: 2/1 => 2/2
+
+Prevent Rat
+rules_text: When this creature enters, you gain life equal to the highest toughness among creatures you control.
+[i]Channel[/i] — {1}{G}, Discard this: Prevent all combat damage that would be dealt by creatures this turn. => When this creature enters, you gain life equal to the greatest toughness among creatures you control.
+[i]Channel[/i] — {X}{G}, Discard this: Target creature you control gets +X/+X and gains indestructible until end of turn. [i](Damage and effects that say “destroy” don't destroy this creature.)[/i]
+
+Invader from Another Dimension
+rules_text: Whenever this creature becomes blocked, it deals 1 damage to target creature blocking it.
+[i]Channel[/i] — {1}{I}, Discard this: Counter target creature spell with mana value 2 or less. => Whenever this creature becomes blocked, it deals 1 damage to each creature blocking it.
+[i]Channel[/i] — {1}{I}, Discard this: Counter target creature spell with mana value 2 or less.
+
+Needle Worm
+rules_text: When this creature enters, each player mills two cards. [i](They put the top two cards of their library into their graveyard.)[/i]
+[i]Channel[/i] — {3}{G}, Discard this: Target creature you control deals damage equal to its power or toughness to another target creature. => When this creature enters, each player mills two cards. [i](They put the top two cards of their library into their graveyard.)[/i]
+[i]Channel[/i] — {2}{G}, Discard this: Target creature you control deals damage equal to its power or toughness to another target creature.
+
+Eldeen
+rules_text: Healing [i](Damage dealt by this creature also causes you to gain 1 life.)[/i]
+[i]Channel[/i] — {1}{IW}, Discard this: Put a +1/+1 counter and a healing counter on target creature. => Healing [i](Damage dealt by this creature also causes you to gain 1 life.)[/i]
+[i]Channel[/i] — {1}{IW}, Discard this: Target creature gains double strike until end of turn. [i](This creature deals both first-strike and regular combat damage.)[/i]
+
+Big Eye
+rules_text: Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i]Channel[/i] — {1}{IB}, Discard this: Draw a card. Each opponent loses 1 life. Until the end of your opponents next turn, they play with top card of their library revealed. => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i]Channel[/i] — {IB}, Discard this: Draw a card. Each opponent loses 1 life. Look at the top card of each player's library.
+pt: 4/4 => 5/4
+
+Goddess With the Third Eye
+rules_text: When this creature enters, target player mills two cards, then you scry 2. [i](To mill two cards, they put the top two cards of their library into their graveyard. Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)[/i] => When this creature enters, target player mills two cards, then you scry 2. [i](To mill two cards, they put the top two cards of their library into their graveyard. To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+
+The Wicked Worm Beast
+pt: 2/3 => 3/3
+
+Change Slime
+cost: {4}{GU} => {3}{GU}{GU}
+pt: 4/4 => 5/4
+
+Zanki
+pt: 2/2 => 3/2
+
+Ryu Kishin Powered
+type: Creature — Demon Robot => Artifact Creature — Demon Robot
+cost: {1}{B}{R} => {2}{B}{R}
+rules_text: Whenever this creature becomes blocked, defending player loses 2 life. => Whenever another artifact you control enters, put a +1/+1 counter on this creature and each opponent loses 1 life.
+pt: 3/3 => 4/3
+
+Wetha
+rules_text: When this creature enters, if you control a token, you may return target creature to its owner's hand. => When this creature enters, you may return target creature to its owner's hand. If you didn't, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+pt: 3/3 => 3/2
+
+Gyakutenno Megami
+rules_text: Whenever this creature attacks, target creature can't block this turn.
+{6}{I}{R}: Up to three target creatures can't block until end of turn. => Whenever this creature attacks, target creature can't block this turn.
+{4}{I}{R}: Creatures you control get +1/+0 until end of turn. If this creature is equipped, instead those creatures get +2/+0 until end of turn.
+
+Beautiful Beast Trainer
+rules_text: Changeling [i](This card is every creature type.)[/i]
+This creature can't be blocked by creatures with toughness 2 or less. => Changeling [i](This card is every creature type.)[/i]
+This creature can't be blocked by creatures with power 2 or less.
+
+Dragon Statue
+cost: {W} => {1}{W}
+pt: 0/4 => 1/3
+
+Behegon
+rules_text: Restructure {U} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+{1}, {T}: Draw a card, then discard a card. => Restructure {U} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+{1}, {T}: Draw a card, then discard a card.
+
+Boulder Tortoise
+rules_text: Whenever this creature attacks, tap up to one target creature. If that creature has power 3 or less, untap this creature. => Whenever this creature attacks, tap up to one target creature. If that creature has power 3 or less, untap this creature.
+[i]Channel[/i] — {2}{U}, Discard this: Return target creature or artifact to its owner's hand.
+
+Hyosube
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+{8}: Up to three target creatures can't be blocked this turn. => Once each turn, whenever you discard a card, up to one target creature gets -2/-0 until end of turn.
+pt: 1/3 => 2/1
+
+Yado Karu
+rules_text: Whenever this creature attacks, you may put a card from your hand on the bottom of your library to draw a card.
+[i]Channel[/i]— {1}{U}{U}, Discard this: Counter target spell or ability unless its controller pays {3}. => Once each turn, when you discard a card, you may have this creature get +3/+0 until end of turn.
+
+Night Lizard
+rules_text: Whenever this creature attacks, up to one target creature gets -2/-0 until end of turn. => You may cast this creature from your graveyard by exiling two other cards from your graveyard in addition to its other costs. If you do, it enters with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+pt: 2/2 => 3/2
+
+Megasonic Eye
+type: Artifact Creature => Artifact Creature — Robot Eye
+cost: {3}{B} => {3}{B}{B}
+rules_text: Restructure {B} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Whenever you attack, each opponent loses 1 life. => Restructure {B} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Whenever you attack, each opponent loses 1 life.
+
+Ground Attacker Bugroth
+rules_text: Restructure {R} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+{1}, {T}: This artifact deals 1 damage to target player or planeswalker. => Restructure {R} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+{1}, {T}: This artifact deals 1 damage to target player or planeswalker.
+
+Shovel Crusher
+cost: {3}{G}{G} => {4}{G}{G}
+rules_text: Restructure {G} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+At the beginning of combat on your turn, up to one target creature you control gets +1/+0 and gains trample until end of turn. [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i] => Restructure {G} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+At the beginning of combat on your turn, up to one target creature you control gets +1/+0 and gains trample until end of turn. [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]
+
+Yaiba Robo
+cost: {3}{I} => {3}{I}{I}
+rules_text: Restructure {I} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+At the beginning of combat on your turn, up to one target creature gains first strike until end of turn. [i](That creature deals combat damage before creatures without first strike.)[/i] => Restructure {I} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+At the beginning of combat on your turn, up to one target creature gains first strike until end of turn. [i](That creature deals combat damage before creatures without first strike.)[/i]
+pt: 3/3 => 4/4
+
+Gokibore
+rules_text: When this creature dies, you may exile up to one target artifact or creature. Return it to the battlefield under its owners control at the beginning of the next upkeep. => When this creature dies, you may exile up to one target artifact or creature. Return it to the battlefield under its owners control at the beginning of the next end step.
+
+Ancient Sorcerer
+cost: {4}{I} => {3}{I}{I}
+rules_text: When this creature enters, it deals 1 damage to any target. If you control an artifact, instead this creature deals 2 damage divided as you choose among one or two targets. => When this creature enters, it deals 4 damage to each opponent. If you control an artifact, you gain 4 life.
+pt: 4/4 => 5/4
+
+Fairy's Gift
+rules_text: Look at the top five cards of your library. Put a land card from among them onto the battlefield tapped and the rest on the bottom in a random order. If you didn't put a land onto the battlefield this way, draw a card from your library or sanctum. => Reveal the top four cards of your library. Put a card with mana value 3 or less or with restructure from among them into your hand and the rest on the bottom in a random order.
+You may play an additional land this turn.
+
+D. D. Warrior
+rules_text: At the end of combat, destroy all creatures that were dealt damage this turn by this creature.
+[i]Channel[/i] — {2}, Discard this: Search your library for an Fault card, reveal it, put it into your hand, then shuffle. => Double strike [i](This creature deals both first-strike and regular combat damage.)[/i]
+[i]Channel[/i] — {2}, Discard this: Search your library for an Fault card, reveal it, put it into your hand, then shuffle.
+pt: 6/4 => 3/4
+
+Laser Cannon Insect Armor
+rules_text: Equipped creature gets +2/+0.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+[i]Channel[/i] — {1}{I}, Discard this: Target land you control becomes a 4/4 creature in addition to its other types until end of turn. When it dies this turn, return it to the battlefield tapped. => Equipped creature gets +2/+0.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+[i]Channel[/i] — {1}{I}, Discard this: Create a tapped Kingdom token, then each token you control deals 1 damage to each opponent. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i]
+
+Lightning Archfiend
+
+Supporter In the Shadows
+rules_text:  => When this creature enters, choose one or both —
+• Return up to one target artifact card from your graveyard to your hand.
+• Return up to one target artifact you control to its owner's hand.
+pt: 3/3 => 2/2
+
+Cannon Soldier
+rules_text: Restructure {1}{B} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Whenever this artifact or another nontoken artifact enters under your control, this artifact deals 1 damage to any target. => Restructure {1}{B} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Whenever this artifact or another nontoken artifact enters under your control, this artifact deals 1 damage to any target.
+
+Ring of Magnetism
+rules_text: Equipped creature gets +2/+0 and must be blocked if able.
+Equip {5} [i]({5}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+[i]Channel[/i] — {G}, Discard this: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. => Equipped creature gets +2/+0 and must be blocked if able.
+Equip {4} [i]({4}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+[i]Channel[/i] — {G}, Discard this: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+
+Mask of Darkness
+rules_text: Whenever equipped creature attacks or dies, each opponent loses 1 life and you gain 1 life.
+Equip {1} [i]({1}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+[i]Channel[/i] — {2}{B}, Discard this: Target opponent sacrifices a creature of their choice. => Equipped creature has deathtouch as long as its your turn. [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]
+Equip {1} [i]({1}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+[i]Channel[/i] — {2}{B}, Discard this: Target opponent sacrifices a creature of their choice.
+
+Holograh
+rules_text: Restructure {1} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+{1}, {T}: Scry 2. [i](Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)[/i] => Restructure {1} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+{1}, {T}: Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
