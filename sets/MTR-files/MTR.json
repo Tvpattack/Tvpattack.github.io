@@ -90,7 +90,7 @@
             "number": 3,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Restructure {W} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nFlying\n{T}: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery.",
+            "rules_text": "Restructure {W} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nFlying\n{T}: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery.",
             "flavor_text": "[i][/i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -223,7 +223,7 @@
             "number": 80,
             "color_identity": "RG",
             "cost": "{3}{RG}{RG}",
-            "rules_text": "Restructure {RG} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nWhen this creature enters, destroy up to one target artifact.",
+            "rules_text": "Restructure {RG} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nWhen this creature enters, destroy up to one target artifact.",
             "flavor_text": "[i]An iron wolf with razor-sharp fangs that can penetrate any armor.[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -470,7 +470,7 @@
             "number": 86,
             "color_identity": "WU",
             "cost": "{2}{WU}",
-            "rules_text": "Flash [i](You may cast this spell any time you could cast an instant.)[/i]\n[i]Channel[/i] \u2014 {1}{WU}, Discard this: Scry 2, then draw a card. [i](To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]",
+            "rules_text": "Flash [i](You may cast this spell any time you could cast an instant.)[/i]\n[i]Channel[/i] \u2014 {1}{WU}, Discard this: Scry 2, then draw a card. [i](Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -508,7 +508,7 @@
             "number": 82,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
-            "rules_text": "When this creature enters, target player mills two cards, then you scry 2. [i](To mill two cards, they put the top two cards of their library into their graveyard. To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]",
+            "rules_text": "When this creature enters, target player mills two cards, then you scry 2. [i](To mill two cards, they put the top two cards of their library into their graveyard. Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -919,6 +919,25 @@
             "notes": ""
         },
         {
+            "card_name": "Sleeping Lion",
+            "color": "W",
+            "rarity": "uncommon",
+            "type": "Creature \u2014 Cat Wizard",
+            "number": 13,
+            "color_identity": "W",
+            "cost": "{W}",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MTR",
+            "loyalty": "",
+            "designer": "",
+            "artist": "Konami",
+            "notes": ""
+        },
+        {
             "card_name": "Kojikocy",
             "color": "W",
             "rarity": "common",
@@ -1040,7 +1059,7 @@
             "number": 16,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Restructure {U} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nVigilance [i](Attacking doesn't cause this creature to tap.)[/i]\n{1}, {T}: Draw a card, then discard a card.",
+            "rules_text": "Restructure {U} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nVigilance [i](Attacking doesn't cause this creature to tap.)[/i]\n{1}, {T}: Draw a card, then discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -1192,7 +1211,7 @@
             "number": 33,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "Restructure {B} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nWhenever you attack, each opponent loses 1 life.",
+            "rules_text": "Restructure {B} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nWhenever you attack, each opponent loses 1 life.",
             "flavor_text": "[i]Made of mysterious metal, this monster is a doomsday machine from the edge of the universe.[/i]",
             "pt": "4/3",
             "special_text": "",
@@ -1363,7 +1382,7 @@
             "number": 44,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "Restructure {R} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nHaste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]\n{1}, {T}: This artifact deals 1 damage to target player or planeswalker.",
+            "rules_text": "Restructure {R} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nHaste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]\n{1}, {T}: This artifact deals 1 damage to target player or planeswalker.",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -1515,7 +1534,7 @@
             "number": 58,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "Restructure {G} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nAt the beginning of combat on your turn, up to one target creature you control gets +1/+0 and gains trample until end of turn. [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]",
+            "rules_text": "Restructure {G} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nAt the beginning of combat on your turn, up to one target creature you control gets +1/+0 and gains trample until end of turn. [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -1610,7 +1629,7 @@
             "number": 55,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When this enchantment enters, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.\n{2}{G}, Sacrifice this enchantment: Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]",
+            "rules_text": "When this enchantment enters, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.\n{2}{G}, Sacrifice this enchantment: Scry 2. [i](Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1686,7 +1705,7 @@
             "number": 69,
             "color_identity": "I",
             "cost": "{3}{I}{I}",
-            "rules_text": "Restructure {I} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nAt the beginning of combat on your turn, up to one target creature gains first strike until end of turn. [i](That creature deals combat damage before creatures without first strike.)[/i]",
+            "rules_text": "Restructure {I} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nAt the beginning of combat on your turn, up to one target creature gains first strike until end of turn. [i](That creature deals combat damage before creatures without first strike.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -1869,7 +1888,7 @@
             "notes": ""
         },
         {
-            "card_name": "Basic Swamp LOB",
+            "card_name": "Swamp",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
@@ -1885,10 +1904,10 @@
             "loyalty": "",
             "designer": "",
             "artist": "Dan Frazier",
-            "notes": "!centername\n!exportname Basic Swamp LOB"
+            "notes": ""
         },
         {
-            "card_name": "Basic Island LOB",
+            "card_name": "Island",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
@@ -1904,10 +1923,10 @@
             "loyalty": "",
             "designer": "",
             "artist": "Mark Poole",
-            "notes": "!centername\n!exportname Basic Island LOB"
+            "notes": ""
         },
         {
-            "card_name": "Basic Forest LOB",
+            "card_name": "Forest",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
@@ -1923,10 +1942,10 @@
             "loyalty": "",
             "designer": "",
             "artist": "Christopher Rush",
-            "notes": "!centername\n!exportname Basic Forest LOB"
+            "notes": ""
         },
         {
-            "card_name": "Basic Mountain LOB",
+            "card_name": "Mountain",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
@@ -1942,10 +1961,10 @@
             "loyalty": "",
             "designer": "",
             "artist": "Douglas Shuler",
-            "notes": "!centername\n!exportname Basic Mountain LOB"
+            "notes": ""
         },
         {
-            "card_name": "Basic Fault LOB",
+            "card_name": "Fault",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Fault",
@@ -1961,10 +1980,10 @@
             "loyalty": "",
             "designer": "",
             "artist": "Lukas Juchnelis",
-            "notes": "!centername\n!exportname Basic Fault LOB"
+            "notes": ""
         },
         {
-            "card_name": "Basic Plains LOB",
+            "card_name": "Plains",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
@@ -1980,7 +1999,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "Jesper Myrfors",
-            "notes": "!centername\n!exportname Basic Plains LOB"
+            "notes": ""
         },
         {
             "card_name": "Set Sail for the Kingdom",
@@ -2012,6 +2031,25 @@
             "rules_text": "Trample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]\n[i]Channel[/i] \u2014 {1}{RG}, Discard this: Target creature gets +2/+2 and gains trample until end of turn.",
             "flavor_text": "[i]Huge monster with a lion's mane similar to the King of Beasts.[/i]",
             "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MTR",
+            "loyalty": "",
+            "designer": "",
+            "artist": "Konami",
+            "notes": ""
+        },
+        {
+            "card_name": "Summoned Skull",
+            "color": "BR",
+            "rarity": "mythic",
+            "type": "",
+            "number": 100,
+            "color_identity": "BR",
+            "cost": "{B}{R}",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "MTR",
@@ -2066,7 +2104,7 @@
             "number": 29,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
-            "rules_text": "Restructure {1}{B} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nWhenever this artifact or another nontoken artifact enters under your control, this artifact deals 1 damage to any target.",
+            "rules_text": "Restructure {1}{B} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]\nWhenever this artifact or another nontoken artifact enters under your control, this artifact deals 1 damage to any target.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2078,7 +2116,7 @@
             "notes": ""
         },
         {
-            "card_name": "Basic Plains LOB",
+            "card_name": "Royal Decree",
             "color": "W",
             "rarity": "mythic",
             "type": "Enchantment",
@@ -2094,7 +2132,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "Konami",
-            "notes": "!centername\n!exportname Basic Plains LOB"
+            "notes": ""
         },
         {
             "card_name": "Ring of Magnetism",
@@ -2237,7 +2275,7 @@
             "number": 109,
             "color_identity": "C",
             "cost": "{7}",
-            "rules_text": "Restructure {1} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]\n{1}, {T}: Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]",
+            "rules_text": "Restructure {1} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]\n{1}, {T}: Scry 2. [i](Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
@@ -2572,5 +2610,5 @@
             "notes": "This land enters tapped if you control another land"
         }
     ],
-    "version": 2
+    "version": 3
 }

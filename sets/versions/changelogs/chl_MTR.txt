@@ -1,4 +1,78 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Sleeping Lion added.
+Summoned Skull added.
+Royal Decree added.
+
+Basic Plains LOB removed.
+
+Dark Shade
+rules_text: Restructure {W} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Flying
+{T}: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery. => Restructure {W} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Flying
+{T}: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery.
+
+Giga-Tech Wolf
+rules_text: Restructure {RG} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, destroy up to one target artifact. => Restructure {RG} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, destroy up to one target artifact.
+
+Ill Witch
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+[i]Channel[/i] — {1}{WU}, Discard this: Scry 2, then draw a card. [i](To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i] => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+[i]Channel[/i] — {1}{WU}, Discard this: Scry 2, then draw a card. [i](Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)[/i]
+
+Goddess With the Third Eye
+rules_text: When this creature enters, target player mills two cards, then you scry 2. [i](To mill two cards, they put the top two cards of their library into their graveyard. To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i] => When this creature enters, target player mills two cards, then you scry 2. [i](To mill two cards, they put the top two cards of their library into their graveyard. Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)[/i]
+
+Behegon
+rules_text: Restructure {U} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+{1}, {T}: Draw a card, then discard a card. => Restructure {U} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+{1}, {T}: Draw a card, then discard a card.
+
+Megasonic Eye
+rules_text: Restructure {B} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Whenever you attack, each opponent loses 1 life. => Restructure {B} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Whenever you attack, each opponent loses 1 life.
+
+Ground Attacker Bugroth
+rules_text: Restructure {R} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+{1}, {T}: This artifact deals 1 damage to target player or planeswalker. => Restructure {R} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+{1}, {T}: This artifact deals 1 damage to target player or planeswalker.
+
+Shovel Crusher
+rules_text: Restructure {G} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+At the beginning of combat on your turn, up to one target creature you control gets +1/+0 and gains trample until end of turn. [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i] => Restructure {G} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+At the beginning of combat on your turn, up to one target creature you control gets +1/+0 and gains trample until end of turn. [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]
+
+The Nordic Lights
+rules_text: When this enchantment enters, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+{2}{G}, Sacrifice this enchantment: Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i] => When this enchantment enters, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+{2}{G}, Sacrifice this enchantment: Scry 2. [i](Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)[/i]
+
+Yaiba Robo
+rules_text: Restructure {I} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+At the beginning of combat on your turn, up to one target creature gains first strike until end of turn. [i](That creature deals combat damage before creatures without first strike.)[/i] => Restructure {I} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+At the beginning of combat on your turn, up to one target creature gains first strike until end of turn. [i](That creature deals combat damage before creatures without first strike.)[/i]
+
+Cannon Soldier
+rules_text: Restructure {1}{B} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Whenever this artifact or another nontoken artifact enters under your control, this artifact deals 1 damage to any target. => Restructure {1}{B} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+Whenever this artifact or another nontoken artifact enters under your control, this artifact deals 1 damage to any target.
+
+Holograh
+rules_text: Restructure {1} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+{1}, {T}: Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i] => Restructure {1} [i](If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+{1}, {T}: Scry 2. [i](Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Kojikocy added.

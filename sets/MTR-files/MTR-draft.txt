@@ -481,6 +481,16 @@
 			}
 		},
 		{
+			"name": "Sleeping Lion",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat Wizard",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/13_Sleeping Lion.jpg"
+			}
+		},
+		{
 			"name": "Kojikocy",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
@@ -981,63 +991,63 @@
 			}
 		},
 		{
-			"name": "Basic Swamp LOB",
+			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/134_Basic Swamp LOB.jpg"
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/134_Swamp.jpg"
 			}
 		},
 		{
-			"name": "Basic Island LOB",
+			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/133_Basic Island LOB.jpg"
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/133_Island.jpg"
 			}
 		},
 		{
-			"name": "Basic Forest LOB",
+			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/136_Basic Forest LOB.jpg"
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/136_Forest.jpg"
 			}
 		},
 		{
-			"name": "Basic Mountain LOB",
+			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/135_Basic Mountain LOB.jpg"
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/135_Mountain.jpg"
 			}
 		},
 		{
-			"name": "Basic Fault LOB",
+			"name": "Fault",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Fault",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/137_Basic Fault LOB.jpg"
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/137_Fault.jpg"
 			}
 		},
 		{
-			"name": "Basic Plains LOB",
+			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/132_Basic Plains LOB.jpg"
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/132_Plains.jpg"
 			}
 		},
 		{
@@ -1058,6 +1068,16 @@
 			"collector_number": "88",
 			"image_uris": {
 				"en": "https://Tvpattack.github.io/sets/MTR-files/img/88_Leogun.jpg"
+			}
+		},
+		{
+			"name": "Summoned Skull",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}",
+			"type": "",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/100_Summoned Skull.jpg"
 			}
 		},
 		{
@@ -1091,13 +1111,13 @@
 			}
 		},
 		{
-			"name": "Basic Plains LOB",
+			"name": "Royal Decree",
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/12_Basic Plains LOB.jpg"
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/12_Royal Decree.jpg"
 			}
 		},
 		{
@@ -1357,14 +1377,16 @@
 	2 Heavy Storm
 	2 Mushroom Man 2
 	2 Solemn Judgment
+	1 Summoned Skull
 	2 Lightning Archfiend
 	2 Cannon Soldier
-	1 Basic Plains LOB
+	1 Royal Decree
 [uncommon(3)]
 	4 Bonz
 	4 Binding Chain
 	4 Acid Trap Hole
 	4 Giga-Tech Wolf
+	4 Sleeping Lion
 	4 Soul Release
 	4 Set Sail for the Kingdom
 	4 Demolition Fusegate Scrapgate
@@ -1533,6 +1555,7 @@
 	12 Gyakutenno Megami
 	12 Beautiful Beast Trainer
 	12 Dragon Statue
+	6 Sleeping Lion
 	12 Kojikocy
 	12 Monstrous Bird
 	12 Faith Bird
@@ -1585,10 +1608,11 @@
 	6 Soul Release
 	6 Set Sail for the Kingdom
 	12 Leogun
+	1 Summoned Skull
 	2 Lightning Archfiend
 	12 Supporter In the Shadows
 	2 Cannon Soldier
-	1 Basic Plains LOB
+	1 Royal Decree
 	12 Ring of Magnetism
 	12 Salamandra
 	12 Mask of Darkness
@@ -1663,6 +1687,7 @@
 	6 Gyakutenno Megami
 	6 Beautiful Beast Trainer
 	6 Dragon Statue
+	15 Sleeping Lion
 	6 Kojikocy
 	6 Monstrous Bird
 	6 Faith Bird
@@ -1715,10 +1740,11 @@
 	15 Soul Release
 	15 Set Sail for the Kingdom
 	6 Leogun
+	4 Summoned Skull
 	7 Lightning Archfiend
 	6 Supporter In the Shadows
 	7 Cannon Soldier
-	4 Basic Plains LOB
+	4 Royal Decree
 	6 Ring of Magnetism
 	6 Salamandra
 	6 Mask of Darkness
