@@ -1,4 +1,9 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+No changes.
+
+VERSION 3 CHANGELOG
 ====================
 
 Sleeping Lion added.
