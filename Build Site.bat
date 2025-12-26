@@ -1,7 +1,7 @@
 @ECHO OFF
-cd C:\Users\user\Documentos\Github\Tvpatttack.github.io
+cd C:\Users\user\Documents\Github\Tvpatttack.github.io
 python scripts\build_site.py
-cd C:\Users\user\Documentos\Github\Tvpattack.github.io
+cd C:\Users\user\Documents\Github\Tvpattack.github.io
 git add .
 git commit -am "Auto-Push"
 git push
