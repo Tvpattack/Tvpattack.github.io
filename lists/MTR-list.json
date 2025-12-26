@@ -1,421 +1,478 @@
 ﻿[
     {
-        "card_name": "Royal Decree",
-        "number": 12,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Solemn Judgment",
-        "number": 24,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Cannon Soldier",
-        "number": 29,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Anthrosaurus",
-        "number": 39,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Heavy Storm",
-        "number": 51,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Ancient Sorcerer",
-        "number": 60,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Lady of Faith",
-        "number": 8,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Behegon",
-        "number": 16,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Bonz",
-        "number": 28,
-        "shape": "leveler",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Barrel Lily",
-        "number": 40,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Alpha Wolf",
-        "number": 49,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "D. D. Warrior",
-        "number": 61,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Binding Chain",
+        "card_name": "Dark Shade",
         "number": 2,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Boulder Tortoise",
-        "number": 17,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Baron of the Fiend Sword",
-        "number": 27,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Battle Steer",
-        "number": 41,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Arlownay",
-        "number": 50,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Fairy's Gift",
-        "number": 62,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Sleeping Lion",
+        "card_name": "Behegon",
         "number": 13,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Hyo",
-        "number": 18,
+        "card_name": "Baron of the Fiend Sword",
+        "number": 24,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Cyber Commander",
-        "number": 30,
-        "shape": "normal",
+        "card_name": "Anthrosaurus",
+        "number": 35,
+        "shape": "adventure",
         "set": "MTR"
     },
     {
-        "card_name": "Flame Viper",
-        "number": 42,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Laughing Flower",
-        "number": 52,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Gale Dogra",
-        "number": 63,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Dark Shade",
-        "number": 3,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Hyosube",
-        "number": 19,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Lord of Zemia",
-        "number": 31,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Griffore",
-        "number": 43,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Master & Expert",
-        "number": 53,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Germ Infection",
-        "number": 64,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Destroyer Golem",
-        "number": 4,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Jellyfish",
-        "number": 20,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Madjinn Gunn",
-        "number": 32,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Ground Attacker Bugroth",
-        "number": 44,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Needle Worm",
-        "number": 54,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Gokibore",
-        "number": 65,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Dragon Statue",
-        "number": 5,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Kanikabuto",
-        "number": 21,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Megasonic Eye",
-        "number": 33,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Monster Tamer",
-        "number": 45,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "The Nordic Lights",
-        "number": 55,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Invader from Another Dimension",
-        "number": 66,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Faith Bird",
-        "number": 6,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Night Lizard",
-        "number": 22,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Shadow Specter",
-        "number": 34,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Pendulum Machine",
+        "card_name": "Alpha Wolf",
         "number": 46,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Prevent Rat",
-        "number": 56,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Killer Needle",
-        "number": 67,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Kojikocy",
-        "number": 7,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Penguin Soldier",
-        "number": 23,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "The Snake Hair",
-        "number": 35,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Torike",
-        "number": 47,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Rock Spirit",
+        "card_name": "Ancient Sorcerer",
         "number": 57,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Mooyan Curry",
-        "number": 68,
+        "card_name": "Destroyer Golem",
+        "number": 3,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Millenium Golem",
-        "number": 9,
-        "shape": "normal",
+        "card_name": "Boulder Tortoise",
+        "number": 14,
+        "shape": "adventure",
         "set": "MTR"
     },
     {
-        "card_name": "Violent Rain",
+        "card_name": "Cyber Commander",
         "number": 25,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "MTR"
     },
     {
-        "card_name": "Sword Slasher",
+        "card_name": "Barrel Lily",
         "number": 36,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Trakodon",
-        "number": 48,
+        "card_name": "Arlownay",
+        "number": 47,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Shovel Crusher",
+        "card_name": "D. D. Warrior",
         "number": 58,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Dragon Statue",
+        "number": 4,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Yaiba Robo",
-        "number": 69,
-        "shape": "normal",
+        "card_name": "Hyo",
+        "number": 15,
+        "shape": "adventure",
         "set": "MTR"
     },
     {
-        "card_name": "Monstrous Bird",
-        "number": 10,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Yado Karu",
+        "card_name": "Lord of Zemia",
         "number": 26,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Wretched Ghost of the Attic",
+        "card_name": "Battle Steer",
         "number": 37,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "e"
+        "card_name": "Laughing Flower",
+        "number": 48,
+        "shape": "normal",
+        "set": "MTR"
     },
     {
-        "card_name": "The Thing That Hides in the Mud",
+        "card_name": "Fairy's Gift",
         "number": 59,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Neo, the Magic Swordsman",
-        "number": 11,
+        "card_name": "Faith Bird",
+        "number": 5,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "e"
+        "card_name": "Hyosube",
+        "number": 16,
+        "shape": "normal",
+        "set": "MTR"
     },
     {
-        "card_name": "Yaranzo",
+        "card_name": "Madjinn Gunn",
+        "number": 27,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Flame Viper",
         "number": 38,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "e"
+        "card_name": "Master & Expert",
+        "number": 49,
+        "shape": "normal",
+        "set": "MTR"
     },
     {
-        "card_name": "e"
+        "card_name": "Gale Dogra",
+        "number": 60,
+        "shape": "normal",
+        "set": "MTR"
     },
     {
-        "card_name": "e"
+        "card_name": "Kojikocy",
+        "number": 6,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Jellyfish",
+        "number": 17,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Megasonic Eye",
+        "number": 28,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Griffore",
+        "number": 39,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Needle Worm",
+        "number": 50,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Germ Infection",
+        "number": 61,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Millenium Golem",
+        "number": 7,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Kanikabuto",
+        "number": 18,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Serpent Night Dragon",
+        "number": 29,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Ground Attacker Bugroth",
+        "number": 40,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "The Nordic Lights",
+        "number": 51,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Gokibore",
+        "number": 62,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Monstrous Bird",
+        "number": 8,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Night Lizard",
+        "number": 19,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Shadow Specter",
+        "number": 30,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Meteor Dragon",
+        "number": 41,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Parrot Dragon",
+        "number": 52,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Invader from Another Dimension",
+        "number": 63,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Neo, the Magic Swordsman",
+        "number": 9,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Penguin Soldier",
+        "number": 20,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "The Snake Hair",
+        "number": 31,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Monster Tamer",
+        "number": 42,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Prevent Rat",
+        "number": 53,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Killer Needle",
+        "number": 64,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Seiyaryu",
+        "number": 10,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Sea King Dragon",
+        "number": 21,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Sword Slasher",
+        "number": 32,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Pendulum Machine",
+        "number": 43,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Rock Spirit",
+        "number": 54,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Mikazukinoyaiba",
+        "number": 65,
+        "shape": "adventure",
+        "set": "MTR"
     },
     {
         "card_name": "Supporter In the Shadows",
-        "number": 14,
+        "number": 11,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Violent Rain",
+        "number": 22,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Wretched Ghost of the Attic",
+        "number": 33,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Torike",
+        "number": 44,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Shovel Crusher",
+        "number": 55,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Mooyan Curry",
+        "number": 66,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "True Solitude",
+        "number": 12,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Yado Karu",
+        "number": 23,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Yaranzo",
+        "number": 34,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Trakodon",
+        "number": 45,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "The Thing That Hides in the Mud",
+        "number": 56,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Yaiba Robo",
+        "number": 67,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Binding Chain",
+        "number": 132,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Solemn Judgment",
+        "number": 137,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Bonz",
+        "number": 138,
+        "shape": "leveler",
+        "set": "MTR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Heavy Storm",
+        "number": 140,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lady of Faith",
+        "number": 133,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Cannon Soldier",
+        "number": 139,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mokuba Kaiba",
+        "number": 134,
+        "shape": "leveler",
+        "set": "MTR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Royal Decree",
+        "number": 135,
         "shape": "normal",
         "set": "MTR"
     },
@@ -435,8 +492,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "True Solitude",
-        "number": 15,
+        "card_name": "Sleeping Lion",
+        "number": 136,
         "shape": "normal",
         "set": "MTR"
     },
@@ -470,262 +527,97 @@
     "a->gold",
     {
         "card_name": "Goddess With the Third Eye",
-        "number": 82,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Ice Water",
-        "number": 85,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Summoned Skull",
-        "number": 100,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Giga-Tech Wolf",
-        "number": 80,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Nekogal 1",
-        "number": 93,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Eldeen",
-        "number": 77,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Set Sail for the Kingdom",
-        "number": 97,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Big Eye",
-        "number": 74,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Ill Witch",
-        "number": 86,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Masked Sorceror",
-        "number": 91,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Lightning Archfiend",
-        "number": 89,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Garoozis",
         "number": 79,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Protector of the Throne",
-        "number": 95,
-        "shape": "normal",
+        "card_name": "Ice Water",
+        "number": 82,
+        "shape": "adventure",
         "set": "MTR"
-    },
-    {
-        "card_name": "Ocubeam",
-        "number": 94,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "The Little Swordsman of Aile",
-        "number": 90,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Shadow Ghoul",
-        "number": 98,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Goddess of Whim",
-        "number": 81,
+        "number": 78,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Garoozis",
+        "number": 77,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Leogun",
+        "card_name": "Nekogal 1",
         "number": 88,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Wetha",
-        "number": 102,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Ryu Kishin Powered",
-        "number": 96,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Soul Release",
-        "number": 99,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Aqua Snake",
-        "number": 71,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Mushroom Man 2",
-        "number": 92,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Air Eater",
-        "number": 70,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Change Slime",
-        "number": 76,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Gyakutenno Megami",
-        "number": 84,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Beautiful Beast Trainer",
-        "number": 73,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Fiend Reflection 1",
-        "number": 78,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "Bolt Escargot",
+        "card_name": "Eldeen",
         "number": 75,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "MTR"
     },
     {
-        "card_name": "Beaked Snake",
+        "card_name": "The Little Swordsman of Aile",
+        "number": 86,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Big Eye",
         "number": 72,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "MTR"
     },
     {
-        "card_name": "Kanan the Swordmistress",
+        "card_name": "Ill Witch",
+        "number": 83,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Masked Sorceror",
         "number": 87,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Grappler",
-        "number": 83,
+        "card_name": "Ryu Kishin Powered",
+        "number": 91,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Launcher Spider",
-        "number": 105,
+        "card_name": "Leogun",
+        "number": 85,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Protector of the Throne",
+        "number": 90,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Ocubeam",
+        "number": 89,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Trent",
-        "number": 101,
+        "card_name": "Wetha",
+        "number": 94,
         "shape": "normal",
         "set": "MTR"
     },
     {
-        "card_name": "Zanki",
-        "number": 104,
+        "card_name": "Shadow Ghoul",
+        "number": 92,
         "shape": "normal",
         "set": "MTR"
     },
@@ -733,8 +625,173 @@
         "card_name": "e"
     },
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lightning Archfiend",
+        "number": 142,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Giga-Tech Wolf",
+        "number": 141,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Set Sail for the Kingdom",
+        "number": 144,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Summoned Skull",
+        "number": 146,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Fiend Reflection 1",
+        "number": 76,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Aqua Snake",
+        "number": 69,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Beaked Snake",
+        "number": 70,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Air Eater",
+        "number": 68,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Change Slime",
+        "number": 74,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Gyakutenno Megami",
+        "number": 81,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Beautiful Beast Trainer",
+        "number": 71,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Zanki",
+        "number": 96,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Bolt Escargot",
+        "number": 73,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
         "card_name": "The Wicked Worm Beast",
-        "number": 103,
+        "number": 95,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Kanan the Swordmistress",
+        "number": 84,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Grappler",
+        "number": 80,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Launcher Spider",
+        "number": 97,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Trent",
+        "number": 93,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Soul Release",
+        "number": 145,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mushroom Man 2",
+        "number": 143,
         "shape": "normal",
         "set": "MTR"
     },
@@ -764,64 +821,88 @@
     },
     "a->colorless",
     {
-        "card_name": "Acid Trap Hole",
+        "card_name": "Sky Dragon",
         "number": 1,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "MTR"
     },
     {
         "card_name": "Blast Sphere",
-        "number": 106,
-        "shape": "normal",
+        "number": 98,
+        "shape": "adventure",
         "set": "MTR"
     },
     {
         "card_name": "Cyber Shield",
-        "number": 107,
-        "shape": "normal",
+        "number": 99,
+        "shape": "adventure",
         "set": "MTR"
     },
     {
         "card_name": "Fiend Sword",
-        "number": 108,
-        "shape": "normal",
+        "number": 100,
+        "shape": "adventure",
         "set": "MTR"
     },
     {
         "card_name": "Holograh",
-        "number": 109,
+        "number": 101,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Laser Cannon Insect Armor",
-        "number": 110,
-        "shape": "normal",
+        "number": 102,
+        "shape": "adventure",
         "set": "MTR"
     },
     {
         "card_name": "Mask of Darkness",
-        "number": 111,
-        "shape": "normal",
+        "number": 103,
+        "shape": "adventure",
         "set": "MTR"
     },
     {
         "card_name": "Mystic Lamp",
-        "number": 112,
-        "shape": "normal",
+        "number": 104,
+        "shape": "adventure",
         "set": "MTR"
     },
     {
         "card_name": "Ring of Magnetism",
-        "number": 113,
-        "shape": "normal",
+        "number": 105,
+        "shape": "adventure",
         "set": "MTR"
     },
     {
         "card_name": "Salamandra",
-        "number": 114,
+        "number": 106,
+        "shape": "adventure",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Acid Trap Hole",
+        "number": 130,
         "shape": "normal",
         "set": "MTR"
+    },
+    {
+        "card_name": "Metal Raiders",
+        "number": 131,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Mox Amethyst",
+        "number": 147,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -840,49 +921,49 @@
     },
     {
         "card_name": "Silvermountain of Blisstopia",
-        "number": 127,
+        "number": 118,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Prison Island - Cell Block 5 & 6",
-        "number": 124,
+        "number": 115,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Zombie Carnival",
-        "number": 131,
+        "number": 123,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Autumn Leaves of Blisstopia",
-        "number": 116,
+        "number": 108,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Feverous Spirit Stadium",
-        "number": 120,
+        "number": 112,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Beast Battlefield Barrier",
-        "number": 117,
+        "number": 109,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Imaginary Arc Tower",
-        "number": 121,
+        "number": 113,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Shining City Nights",
-        "number": 126,
+        "number": 117,
         "shape": "normal",
         "set": "MTR"
     },
@@ -903,43 +984,43 @@
     },
     {
         "card_name": "Royal Rebel's Arena",
-        "number": 125,
+        "number": 116,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Supreme Marine Fortress Magnum Overbase",
-        "number": 128,
+        "number": 119,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Berserker Colosseum",
-        "number": 118,
+        "number": 110,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Area 33",
-        "number": 115,
+        "number": 107,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Vegetation of Blisstopia",
-        "number": 129,
+        "number": 121,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Wild Kitchen",
-        "number": 130,
+        "number": 122,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Peaks of Blisstopia",
-        "number": 123,
+        "number": 114,
         "shape": "normal",
         "set": "MTR"
     },
@@ -960,18 +1041,21 @@
     },
     {
         "card_name": "Demolition Fusegate Scrapgate",
-        "number": 119,
+        "number": 111,
+        "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "Terraforming",
+        "number": 120,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Kingdom Token",
-        "number": 122,
+        "number": 148,
         "shape": "normal",
         "set": "MTR"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -996,38 +1080,69 @@
     },
     {
         "card_name": "Swamp",
-        "number": 134,
+        "number": 126,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Island",
-        "number": 133,
+        "number": 125,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Forest",
-        "number": 136,
+        "number": 128,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Mountain",
-        "number": 135,
+        "number": 127,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Fault",
-        "number": 137,
+        "number": 129,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Plains",
-        "number": 132,
+        "number": 124,
         "shape": "normal",
+        "set": "MTR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "breakdown breakdown breakdown breakdown",
+        "number": 1,
+        "shape": "token",
         "set": "MTR"
     },
     {
