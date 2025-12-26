@@ -1,4 +1,15 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Mikazukinoyaiba
+rules_text:  => When you cast this spell, Exile up to one target artifact or creature, then return it to the battlefield tapped or untapped.
+Flying
+pt:  => 4/4
+
+
+VERSION 6 CHANGELOG
 ====================
 
 
