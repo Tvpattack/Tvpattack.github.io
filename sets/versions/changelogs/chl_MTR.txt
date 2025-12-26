@@ -1,4 +1,23 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Yaranzo
+rules_text: When this creature enters, each opponent loses 2 life and you gain 2 life. If this creature wasn't cast, instead each opponent loses 3 life and you gain 3 life. => You may cast this creature from your graveyard by exiling two other cards from your graveyard in addition to its other costs. If you do, it enters with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+pt: 2/3 => 3/2a
+
+Madjinn Gunn
+rules_text: When this creature enters, it deals 1 damage to any target.
+{2}{B}, Sacrifice a creature: Draw a card. Each opponent loses 1 life and you gain 1 life. => When this creature enters, it deals 1 damage to any target.
+{2}{B}, Sacrifice a creature or artifact: Draw a card. Each opponent loses 1 life and you gain 1 life.
+
+Leogun
+
+Fiend Sword
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Mokuba Kaiba added.

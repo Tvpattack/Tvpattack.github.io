@@ -1526,9 +1526,9 @@
             "number": 34,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this creature enters, each opponent loses 2 life and you gain 2 life. If this creature wasn't cast, instead each opponent loses 3 life and you gain 3 life.",
+            "rules_text": "You may cast this creature from your graveyard by exiling two other cards from your graveyard in addition to its other costs. If you do, it enters with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/3",
+            "pt": "3/2a",
             "special_text": "",
             "shape": "normal",
             "set": "MTR",
@@ -1545,7 +1545,7 @@
             "number": 27,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "When this creature enters, it deals 1 damage to any target.\n{2}{B}, Sacrifice a creature: Draw a card. Each opponent loses 1 life and you gain 1 life.",
+            "rules_text": "When this creature enters, it deals 1 damage to any target.\n{2}{B}, Sacrifice a creature or artifact: Draw a card. Each opponent loses 1 life and you gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2301,7 +2301,7 @@
             "color2": "RG",
             "type2": "Instant \u2014 Chain",
             "cost2": "{1}{RG}",
-            "rules_text2": "Target creature gets +2/+2 and gains trample until end of turn. [i](Then put this card into your graveyard.)[/i] [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]",
+            "rules_text2": "Target creature gets +2/+2 and gains trample until end of turn. [i](Then put this card into your graveyard.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -2599,7 +2599,7 @@
             "color2": "",
             "type2": "Instant \u2014 Chain",
             "cost2": "{3}",
-            "rules_text2": "deals 2 damage to target creature. [i](Then put this card into your graveyard.)[/i]",
+            "rules_text2": "Burning Blood deals 2 damage to target creature. [i](Then put this card into your graveyard.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -3248,5 +3248,5 @@
             "notes": ""
         }
     ],
-    "version": 5
+    "version": 6
 }
