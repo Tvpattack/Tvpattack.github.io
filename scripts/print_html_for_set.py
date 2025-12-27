@@ -146,7 +146,7 @@ def generateHTML(code):
 	}
 	.image-grid-container {
 		display: grid;
-		grid-template-columns: 1fr 1fr 1fr 1fr;
+		grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 		width: 70%;
 		max-width: 1200px;
 		margin: auto;
