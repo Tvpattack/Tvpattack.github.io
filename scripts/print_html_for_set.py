@@ -40,6 +40,7 @@ def generateHTML(code):
 		overscroll-behavior: none;
 		margin: 0px;
 		background-color: #f3f3f3;
+		background-attachment: fixed;
 	}
 	.banner {
 		width: 100%;
