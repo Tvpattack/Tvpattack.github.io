@@ -239,7 +239,7 @@ def generateHTML():
 							break
 
 				html_content += '''<div class="set-icon-container">
-									<a href="previews/''' + code + '''"><div class="set-icon"><img src="sets/''' + code + '''-files/icon.png" title="''' + set_name + '''"></img></div>
+									<a href="sets/''' + code + '''"><div class="set-icon"><img src="sets/''' + code + '''-files/icon.png" title="''' + set_name + '''"></img></div>
 									<div class="set-icon-name">''' + set_name + '''</div></a>
 								</div>
 				'''

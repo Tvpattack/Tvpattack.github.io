@@ -297,7 +297,9 @@
 			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
 		</div>
-	</div>
+	</div><img class="preload-hidden" id="bg" src="/sets/FOE-files/bg.png" />
+
+		
 	<div class="banner">
 		<div class="banner-container">
 			<div class="set-banner" id="set-banner">
@@ -375,7 +377,7 @@
 				}
 			}
 			
-		setCardView();
+		setCardView();document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';
 		});
 
 		document.getElementById("sort-by").onchange = displayChangeListener;

@@ -315,6 +315,11 @@ def generateHTML(code):
 		snippet = f.read()
 		html_content += snippet
 
+	if os.path.exists(os.path.join('sets', code + '-files', 'bg.png')):
+		html_content +='''<img class="preload-hidden" id="bg" src="/sets/''' + code + '''-files/bg.png" />
+
+		'''
+
 	html_content += '''
 	<div class="banner">
 		<div class="banner-container">
@@ -425,6 +430,9 @@ def generateHTML(code):
 	else:
 		html_content += '''
 		setCardView();'''
+
+	if os.path.exists(os.path.join('sets', code + '-files', 'bg.png')):
+		html_content += '''document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';'''
 
 	html_content += '''
 		});
