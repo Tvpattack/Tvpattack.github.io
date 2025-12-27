@@ -1,4 +1,56 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Neo, the Magic Swordsman
+rules_text: When this creature enters, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => When this creature enters, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast permanent spells.”)[/i]
+
+Kingdom Token
+rules_text: {T}: Add {C}. This mana can't be spent to cast spells from your hand. => {T}: Add {C}. This mana can't be spent to cast permanent spells.
+
+Binding Chain
+rules_text: When this enchantment enters, exile target nonland permanent you don't control until this enchantment leaves the battlefield.
+When this enchantment enters, you gain 2 life and create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => When this enchantment enters, exile target nonland permanent you don't control until this enchantment leaves the battlefield.
+When this enchantment enters, you gain 2 life and create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast permanent spells.”)[/i]
+
+Protector of the Throne
+rules_text: When this creature enters, create a tapped Kingdom token. You gain 2 life. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => When this creature enters, create a tapped Kingdom token. You gain 2 life. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast permanent spells.”)[/i]
+
+Launcher Spider
+rules_text: Reach [i](This creature can block creatures with flying.)[/i]
+When this creature dies, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => Reach [i](This creature can block creatures with flying.)[/i]
+When this creature dies, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast permanent spells.”)[/i]
+
+Wetha
+rules_text: When this creature enters, you may return target creature to its owner's hand. If you didn't, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => When this creature enters, you may return target creature to its owner's hand. If you didn't, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast permanent spells.”)[/i]
+
+Penguin Soldier
+rules_text: When this creature dies, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => When this creature dies, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast permanent spells.”)[/i]
+
+Lord of Zemia
+rules_text: Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+When this creature enters, you may pay 1 life. If you do, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+When this creature enters, you may pay 1 life. If you do, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast permanent spells.”)[/i]
+
+Yaranzo
+pt: 3/2a => 3/2
+
+Rock Spirit
+rules_text: When this creature enters, create a tapped kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => When this creature enters, create a tapped kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast permanent spells.”)[/i]
+
+Set Sail for the Kingdom
+rules_text: Until end of turn, you may cast the Chain of target permanent card in your graveyard.
+{3}, Exile this card from your hand: Create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast spells from your hand.”)[/i] => Until end of turn, you may cast the Chain of target permanent card in your graveyard.
+{3}, Exile this card from your hand: Create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast permanent spells.”)[/i]
+
+Holograh
+rules_text: Restructure {1} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+{1}, {T}: Scry 2. [i](Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)[/i] => Restructure {1} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+{1}, {T}: Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
