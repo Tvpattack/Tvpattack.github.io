@@ -41,6 +41,7 @@ def generateHTML(code):
 		margin: 0px;
 		background-color: #f3f3f3;
 		background-attachment: fixed;
+		background-size: cover;
 	}
 	.banner {
 		width: 100%;
