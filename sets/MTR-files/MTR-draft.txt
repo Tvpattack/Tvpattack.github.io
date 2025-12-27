@@ -5,9 +5,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Planeswalker — Kozuka",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/138_Bonz.jpg"
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/137_Bonz.jpg"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Land",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/148_Kingdom Token.jpg"
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/147_Kingdom Token.jpg"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant — Trap",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/137_Solemn Judgment.jpg"
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/136_Solemn Judgment.jpg"
 			}
 		},
 		{
@@ -478,16 +478,6 @@
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://Tvpattack.github.io/sets/MTR-files/img/4_Dragon Statue.jpg"
-			}
-		},
-		{
-			"name": "Sleeping Lion",
-			"rarity": "special",
-			"mana_cost": "{W}",
-			"type": "Creature — Cat Wizard",
-			"collector_number": "136",
-			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/136_Sleeping Lion.jpg"
 			}
 		},
 		{
@@ -1105,9 +1095,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/139_Cannon Soldier.jpg"
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/138_Cannon Soldier.jpg"
 			}
 		},
 		{
@@ -1461,16 +1451,6 @@
 			}
 		},
 		{
-			"name": "Mox Amethyst",
-			"rarity": "special",
-			"mana_cost": "{0}",
-			"type": "Artifact",
-			"collector_number": "147",
-			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/147_Mox Amethyst.jpg"
-			}
-		},
-		{
 			"name": "Terraforming",
 			"rarity": "common",
 			"mana_cost": "",
@@ -1488,6 +1468,16 @@
 			"collector_number": "131",
 			"image_uris": {
 				"en": "https://Tvpattack.github.io/sets/MTR-files/img/131_Metal Raiders.jpg"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "special",
+			"mana_cost": "{7}{G}",
+			"type": "Creature",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/139_.jpg"
 			}
 		}
 	]

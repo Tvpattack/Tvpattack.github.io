@@ -1,4 +1,125 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+Sleeping Lion removed.
+Mox Amethyst removed.
+
+Bonz
+
+Kingdom Token
+
+Beaked Snake
+
+Fiend Reflection 1
+rules_text: Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i] => Flying
+
+Prevent Rat
+
+Solemn Judgment
+
+Launcher Spider
+rules_text: Reach [i](This creature can block creatures with flying.)[/i]
+When this creature dies, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast permanent spells.”)[/i] => Reach
+When this creature dies, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast permanent spells.”)[/i]
+
+Kojikocy
+
+Faith Bird
+
+Destroyer Golem
+
+Millenium Golem
+
+Shadow Specter
+
+Yaranzo
+
+Madjinn Gunn
+rules_text: When this creature enters, it deals 1 damage to any target.
+{2}{B}, Sacrifice a creature or artifact: Draw a card. Each opponent loses 1 life and you gain 1 life. => When this creature enters, it deals 1 damage to any target.
+
+The Snake Hair
+
+Battle Steer
+
+Laughing Flower
+
+Alpha Wolf
+rules_text: When this creature enters, until end of turn, target creature you control gains vigilance and gets +X/+X, where X is the number of creatures you control. [i](Attacking doesn't cause this creature to tap.)[/i] => When this creature enters, until end of turn, target creature you control gains vigilance and gets +X/+X, where X is the number of creatures you control.
+
+Killer Needle
+rules_text: This spell deals 2 damage to any target. Then, for each card in your graveyard named Killer Needle, this spell deals an additional 1 damage to that target. => Killer Needle deals 2 damage to any target. Then, for each card in your graveyard named Killer Needle, Kill Needle deals an additional 1 damage to that target
+
+Cannon Soldier
+
+Royal Decree
+rules_text: Triggered abilities of enchantments can't be triggered. => Triggered abilities of enchantments don't trigger.
+
+Salamandra
+
+Blast Sphere
+
+Holograh
+rules_text: Restructure {1} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+{1}, {T}: Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i] => Restructure {1} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+{1}, {T}: Scry 2. [i](Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)[/i]
+
+breakdown breakdown breakdown breakdown
+
+Seiyaryu
+rules_text: When you cast this spell, tap up to one target creature. Draw a card.
+Flying => When this creature enters, if you cast it, tap up to two target creatures.
+Flying
+pt: 4/7 => 4/4
+
+Sky Dragon
+rules_text: When you cast this spell, draw a card.
+Flying => When this creature enters, if you cast it, draw a card.
+Flying
+pt: 5/5 => 5/4
+
+Sea King Dragon
+rules_text: When you cast this spell, up to one target creature gets -3/-0 until end of turn. Draw a card.
+Flying => When this creature enters, if you cast it, each creature you don't control gets -3/-0 until end of turn.
+Flying
+pt: 6/4 => 4/4
+
+Serpent Night Dragon
+rules_text: When you cast this spell, creatures your opponent control get -2/-2 until end of turn.
+Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i] => When this creature enters, if you cast it, creatures your opponent control get -2/-2 until end of turn.
+Flying
+pt: 4/3 => 4/4
+
+Meteor Dragon
+rules_text: When you cast this spell, destroy all token lands.
+This creature has first strike as long as its your turn. [i](This creature deals combat damage before creatures without first strike.)[/i]
+Flying => When this creature enters, if you cast it, creatures you control get +1/+0 and gains first strike until end of turn.
+Flying
+pt: 4/1 => 4/4
+
+Parrot Dragon
+rules_text: When you cast this spell, destroy up to one target artifact or enchantment.
+Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i] => When this creature enters, if you cast it, destroy up to one target artifact or enchantment.
+Flying
+pt: 4/5 => 4/4
+
+Mikazukinoyaiba
+rules_text: When you cast this spell, Exile up to one target artifact or creature, then return it to the battlefield tapped or untapped.
+Flying => When this creature enters, if you cast it, exile up to one target artifact or creature, then return it to the battlefield tapped or untapped.
+Flying
+
+
+type: Legendary Planeswalker — Kozuka => Creature
+cost: {2}{B} => {7}{G}
+rules_text: Duelist {3}{B} [i](Once per game, if this is your chosen duelist, you may cast this from your sanctum by paying {3}{B} and discarding a card.)[/i]
+Zombies, Spirits and Skeletons you control get +1/+1.
+[level -2] Until end of turn, you may cast a Zombie, Spirit, or Skeleton card from your graveyard. It costs {2} less to cast this way.
+ => 
+loyalty: 3 => 
+
+
+VERSION 8 CHANGELOG
 ====================
 
 

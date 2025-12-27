@@ -92,7 +92,7 @@
     {
         "card_name": "Battle Steer",
         "number": 37,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "MTR"
     },
     {
@@ -122,7 +122,7 @@
     {
         "card_name": "Madjinn Gunn",
         "number": 27,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "MTR"
     },
     {
@@ -403,13 +403,13 @@
     },
     {
         "card_name": "Solemn Judgment",
-        "number": 137,
+        "number": 136,
         "shape": "normal",
         "set": "MTR"
     },
     {
         "card_name": "Bonz",
-        "number": 138,
+        "number": 137,
         "shape": "leveler",
         "set": "MTR"
     },
@@ -417,9 +417,9 @@
         "card_name": "e"
     },
     {
-        "card_name": "Heavy Storm",
-        "number": 140,
-        "shape": "normal",
+        "card_name": "",
+        "number": 139,
+        "shape": "adventure",
         "set": "MTR"
     },
     {
@@ -436,7 +436,7 @@
     },
     {
         "card_name": "Cannon Soldier",
-        "number": 139,
+        "number": 138,
         "shape": "normal",
         "set": "MTR"
     },
@@ -444,7 +444,10 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Heavy Storm",
+        "number": 140,
+        "shape": "normal",
+        "set": "MTR"
     },
     {
         "card_name": "e"
@@ -473,27 +476,6 @@
     {
         "card_name": "Royal Decree",
         "number": 135,
-        "shape": "normal",
-        "set": "MTR"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Sleeping Lion",
-        "number": 136,
         "shape": "normal",
         "set": "MTR"
     },
@@ -893,10 +875,7 @@
         "set": "MTR"
     },
     {
-        "card_name": "Mox Amethyst",
-        "number": 147,
-        "shape": "normal",
-        "set": "MTR"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1053,7 +1032,7 @@
     },
     {
         "card_name": "Kingdom Token",
-        "number": 148,
+        "number": 147,
         "shape": "normal",
         "set": "MTR"
     },
