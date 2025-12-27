@@ -68,6 +68,9 @@ def generateHTML(code):
 		width: 100%;
 		white-space: nowrap;
 	}
+	.preload-hidden {
+		display: none;
+	}
 	.set-banner img {
 		width: 50px;
 		padding-right: 8px;
