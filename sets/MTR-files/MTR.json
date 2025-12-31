@@ -33,7 +33,7 @@
             "number": 9,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "When this creature enters, create a tapped Kingdom token. [i](It's a land with \u201c{T}: Add {C}. This mana can't be spent to cast permanent spells.\u201d)[/i]",
+            "rules_text": "When this creature dies, create a tapped Kingdom token. [i](It's a land with \u201c{T}: Add {C}. This mana can't be spent to cast permanent spells.\u201d)[/i]",
             "flavor_text": "[i]A dimensional drifter who not only practices sorcery, but is also a sword and martial arts master.[/i]",
             "pt": "1/4",
             "special_text": "",
@@ -2041,7 +2041,7 @@
             "number": 60,
             "color_identity": "I",
             "cost": "{2}{I}",
-            "rules_text": "Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]\nWhenever this creature attacks sift 1. [i](Look at the top card of your library. You may put it into your sanctum. )[/i]\nWhen this creature dies, you may put a card from your sanctum into your graveyard.",
+            "rules_text": "Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]\nWhenever this creature attacks sift 1. [i](Look at the top card of your library. You may put that card into your sanctum.)[/i]\nWhen this creature dies, you may put a card from your sanctum into your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3259,5 +3259,5 @@
             "notes": ""
         }
     ],
-    "version": 9
+    "version": 10
 }

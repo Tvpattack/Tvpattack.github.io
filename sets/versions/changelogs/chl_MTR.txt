@@ -1,4 +1,29 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Neo, the Magic Swordsman
+rules_text: When this creature enters, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast permanent spells.”)[/i] => When this creature dies, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast permanent spells.”)[/i]
+
+Gale Dogra
+rules_text: Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+Whenever this creature attacks sift 1. [i](Look at the top card of your library. You may put it into your sanctum. )[/i]
+When this creature dies, you may put a card from your sanctum into your graveyard. => Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+Whenever this creature attacks sift 1. [i](Look at the top card of your library. You may put that card into your sanctum.)[/i]
+When this creature dies, you may put a card from your sanctum into your graveyard.
+
+
+type: Legendary Planeswalker — Kozuka => Creature
+cost: {2}{B} => {7}{G}
+rules_text: Duelist {3}{B} [i](Once per game, if this is your chosen duelist, you may cast this from your sanctum by paying {3}{B} and discarding a card.)[/i]
+Zombies, Spirits and Skeletons you control get +1/+1.
+[level -2] Until end of turn, you may cast a Zombie, Spirit, or Skeleton card from your graveyard. It costs {2} less to cast this way.
+ => 
+loyalty: 3 => 
+
+
+VERSION 9 CHANGELOG
 ====================
 
 
