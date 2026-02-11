@@ -2470,7 +2470,7 @@
             "number": 48,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Tremendous Fire deals 4 damage to target creature.",
+            "rules_text": "Tremendous Fire deals 2 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.",
             "flavor_text": "[i]From flames our life is made, and from flames our life is taken.[/i]",
             "pt": "",
             "special_text": "",
