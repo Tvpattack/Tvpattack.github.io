@@ -1,4 +1,285 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Tremendous Fire added.
+Just Desserts added.
+Water Omotics added.
+Armored Zombie added.
+Mystic Horseman added.
+Genin added.
+Needle Ball added.
+Moon Envoy added.
+Claw Reacher added.
+Metal Guardian added.
+Ancient Brain added.
+Ancient Tool added.
+Eternal Drought added.
+Bio Plant added.
+
+Bonz removed.
+Kingdom Token removed.
+Lady of Faith removed.
+Heavy Storm removed.
+Binding Chain removed.
+Acid Trap Hole removed.
+Giga-Tech Wolf removed.
+Mushroom Man 2 removed.
+Solemn Judgment removed.
+Millenium Golem removed.
+Trakodon removed.
+Laser Cannon Insect Armor removed.
+Soul Release removed.
+Set Sail for the Kingdom removed.
+Summoned Skull removed.
+Lightning Archfiend removed.
+Cannon Soldier removed.
+Royal Decree removed.
+Ring of Magnetism removed.
+Salamandra removed.
+Mask of Darkness removed.
+Mystic Lamp removed.
+Cyber Shield removed.
+Mokuba Kaiba removed.
+breakdown breakdown breakdown breakdown removed.
+Seiyaryu removed.
+Sky Dragon removed.
+Sea King Dragon removed.
+Serpent Night Dragon removed.
+Meteor Dragon removed.
+Parrot Dragon removed.
+Mikazukinoyaiba removed.
+Metal Raiders removed.
+
+Neo, the Magic Swordsman
+
+Dark Shade
+
+Beaked Snake
+
+Fiend Reflection 1
+
+Air Eater
+
+Cyber Commander
+
+Ocubeam
+
+Flame Viper
+
+Prevent Rat
+
+Invader from Another Dimension
+
+Needle Worm
+
+Eldeen
+
+Big Eye
+
+Ill Witch
+
+Protector of the Throne
+
+Goddess With the Third Eye
+
+Kanan the Swordmistress
+
+Nekogal 1
+
+The Wicked Worm Beast
+
+Goddess of Whim
+
+Ice Water
+
+Aqua Snake
+
+Change Slime
+
+The Little Swordsman of Aile
+
+Launcher Spider
+
+Trent
+
+Zanki
+
+Masked Sorceror
+
+Ryu Kishin Powered
+
+Shadow Ghoul
+
+Bolt Escargot
+
+Grappler
+
+Wetha
+
+Garoozis
+
+Gyakutenno Megami
+
+Beautiful Beast Trainer
+
+Dragon Statue
+
+Faith Bird
+
+Destroyer Golem
+
+Hyo
+rules_text: This creature has flying as long as you've discarded a card or cast a noncreature spell this turn. => This creature has flying as long as you've cast a noncreature spell this turn.
+
+Behegon
+
+Penguin Soldier
+
+Kanikabuto
+
+Boulder Tortoise
+
+Hyosube
+
+Yado Karu
+rules_text: Once each turn, when you discard a card, you may have this creature get +3/+0 until end of turn. => This creature gets +3/+0 as long as you've cast a noncreature spell this turn.
+
+Jellyfish
+
+Night Lizard
+
+Megasonic Eye
+
+Lord of Zemia
+
+Baron of the Fiend Sword
+
+Sword Slasher
+
+Shadow Specter
+
+Yaranzo
+
+Madjinn Gunn
+
+The Snake Hair
+
+Wretched Ghost of the Attic
+
+Ground Attacker Bugroth
+
+Barrel Lily
+
+Torike
+
+Monster Tamer
+rules_text: Moxie [i](Whenever you activate an ability of a card in hand or cast a nonpermanent spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever this creature becomes blocked, it deals 1 damage to the blocking creature. => Moxie [i](Whenever you activate an ability of a card in hand or cast a nonpermanent spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever this creature becomes blocked, it deals 1 damage to up to one target blocking creature.
+
+Pendulum Machine
+
+Anthrosaurus
+
+Battle Steer
+
+Shovel Crusher
+
+Laughing Flower
+
+The Thing That Hides in the Mud
+
+Master & Expert
+
+Rock Spirit
+rules_text: When this creature enters, create a tapped kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast permanent spells.”)[/i] => When this creature enters, create a tapped Kingdom token. [i](It's a land with “{T}: Add {C}. This mana can't be spent to cast permanent spells.”)[/i]
+
+The Nordic Lights
+
+Arlownay
+
+Alpha Wolf
+
+Germ Infection
+
+Yaiba Robo
+
+Gokibore
+
+Mooyan Curry
+
+Ancient Sorcerer
+
+Fairy's Gift
+
+Gale Dogra
+rules_text: Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+Whenever this creature attacks sift 1. [i](Look at the top card of your library. You may put that card into your sanctum.)[/i]
+When this creature dies, you may put a card from your sanctum into your graveyard. => Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+Whenever this creature attacks sift 1. [i](Look at the top card of your library. You may put it into your sanctum. )[/i]
+When this creature dies, you may put a card from your sanctum into your graveyard.
+
+D. D. Warrior
+
+Killer Needle
+rules_text: Killer Needle deals 2 damage to any target. Then, for each card in your graveyard named Killer Needle, Kill Needle deals an additional 1 damage to that target => Killer Needle deals 2 damage to any target. Then, for each card in your graveyard named Killer Needle, Kill Needle deals an additional 1 damage to that target.
+
+Leogun
+
+Blast Sphere
+
+Fiend Sword
+
+Holograh
+rules_text: Restructure {1} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+{1}, {T}: Scry 2. [i](Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)[/i] => Restructure {1} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+At the beginning of your end step, if you attacked, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Imaginary Arc Tower
+
+Wild Kitchen
+
+Area 33
+
+Prison Island - Cell Block 5 & 6
+
+Peaks of Blisstopia
+
+Supreme Marine Fortress Magnum Overbase
+
+Vegetation of Blisstopia
+
+Beast Battlefield Barrier
+
+Feverous Spirit Stadium
+
+Autumn Leaves of Blisstopia
+
+Royal Rebel's Arena
+
+Shining City Nights
+
+Silvermountain of Blisstopia
+
+Berserker Colosseum
+
+Zombie Carnival
+
+Griffore
+type: Creature — Beast => Artifact Creature — Beast
+cost: {2}{R}{R} => {5}{R}{R}
+rules_text: This creature can't attack or block alone.
+Whenever this creature attacks, exile the top card of your library. You may play it this turn. => Restructure {3}{R} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, mill a card. You may play that card until end of turn. [i](To mill a cards, put the top card of your library into your graveyard.)[/i]
+{T}: Add {R}.
+pt: 4/4 => 5/4
+
+Demolition Fusegate Scrapgate
+
+Terraforming
+
+
+VERSION 10 CHANGELOG
 ====================
 
 

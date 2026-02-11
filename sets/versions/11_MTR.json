@@ -1,7 +1,7 @@
 ﻿{
     "name": "Metal Raiders",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "play booster",
     "designer": "",
@@ -2728,6 +2728,5 @@
             "artist": "Konami",
             "notes": ""
         }
-    ],
-    "version": 11
+    ]
 }
