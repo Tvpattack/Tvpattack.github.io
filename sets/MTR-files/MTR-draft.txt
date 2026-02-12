@@ -625,9 +625,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Plant",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/38_Barrel Lily.jpg"
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/37_Barrel Lily.jpg"
 			}
 		},
 		{
@@ -661,13 +661,13 @@
 			}
 		},
 		{
-			"name": "Anthrosaurus",
+			"name": "Burglar",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Dinosaur",
-			"collector_number": "37",
+			"type": "Creature — Rat Rogue",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/37_Anthrosaurus.jpg"
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/39_Burglar.jpg"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Minotaur Warrior",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/MTR-files/img/39_Battle Steer.jpg"
+				"en": "https://Tvpattack.github.io/sets/MTR-files/img/38_Battle Steer.jpg"
 			}
 		},
 		{
@@ -1351,7 +1351,7 @@
 	8 Torike
 	8 Monster Tamer
 	8 Pendulum Machine
-	8 Anthrosaurus
+	8 Burglar
 	8 Battle Steer
 	8 Shovel Crusher
 	8 Laughing Flower
@@ -1474,7 +1474,7 @@
 	12 Torike
 	12 Monster Tamer
 	12 Pendulum Machine
-	12 Anthrosaurus
+	12 Burglar
 	12 Battle Steer
 	12 Shovel Crusher
 	12 Laughing Flower
@@ -1597,7 +1597,7 @@
 	6 Torike
 	6 Monster Tamer
 	6 Pendulum Machine
-	6 Anthrosaurus
+	6 Burglar
 	6 Battle Steer
 	6 Shovel Crusher
 	6 Laughing Flower

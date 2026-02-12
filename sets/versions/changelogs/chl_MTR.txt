@@ -1,4 +1,16 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Burglar added.
+
+Anthrosaurus removed.
+
+Barrel Lily
+
+Battle Steer
+
+
+VERSION 12 CHANGELOG
 ====================
 
 

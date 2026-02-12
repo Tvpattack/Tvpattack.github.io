@@ -18,9 +18,9 @@
         "set": "MTR"
     },
     {
-        "card_name": "Anthrosaurus",
+        "card_name": "Barrel Lily",
         "number": 37,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "MTR"
     },
     {
@@ -54,9 +54,9 @@
         "set": "MTR"
     },
     {
-        "card_name": "Barrel Lily",
+        "card_name": "Battle Steer",
         "number": 38,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "MTR"
     },
     {
@@ -90,7 +90,7 @@
         "set": "MTR"
     },
     {
-        "card_name": "Battle Steer",
+        "card_name": "Burglar",
         "number": 39,
         "shape": "adventure",
         "set": "MTR"
