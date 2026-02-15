@@ -59,7 +59,7 @@ def generateFile(code):
 						if ('!' + slot_name) in card['notes']:
 							booster[slot_name].append(card)
 
-			foil = "true" if suffix == "_foil" else false
+			foil = "true" if suffix == "_foil" else "false"
 
 			draft_string += '''	{
 				"name": "''' + card['card_name'] + suffix + '''",
@@ -67,7 +67,7 @@ def generateFile(code):
 				"mana_cost": "''' + re.sub(h_pattern, h_replace, card['cost']) + '''",
 				"type": "''' + card['type'] + '''",
 				"collector_number": "''' + str(card['number']) + '''",
-				"foil": "''' + foil + '''",
+				"foil": ''' + foil + ''',
 
 		'''
 
