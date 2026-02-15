@@ -1,7 +1,13 @@
 ﻿[CustomCards]
 	[
-	false",
-				
+		{
+				"name": "CW01",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "16",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/16_CW01.png"
 				}
@@ -12,12 +18,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "16",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/16_CW01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CW02",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "17",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/17_CW02.png"
 				}
@@ -28,12 +42,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "17",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/17_CW02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CW03",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "18",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/18_CW03.png"
 				}
@@ -44,12 +66,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "18",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/18_CW03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CW04",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "19",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/19_CW04.png"
 				}
@@ -60,12 +90,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "19",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/19_CW04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CW05",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "20",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/20_CW05.png"
 				}
@@ -76,12 +114,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "20",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/20_CW05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CW06",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "21",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/21_CW06.png"
 				}
@@ -92,12 +138,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "21",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/21_CW06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CW07",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "22",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/22_CW07.png"
 				}
@@ -108,12 +162,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "22",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/22_CW07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CW08",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "23",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/23_CW08.png"
 				}
@@ -124,12 +186,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "23",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/23_CW08.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CW09",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "24",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/24_CW09.png"
 				}
@@ -140,12 +210,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "24",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/24_CW09.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CW10",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "25",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/25_CW10.png"
 				}
@@ -156,12 +234,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "25",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/25_CW10.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CW11",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "26",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/26_CW11.png"
 				}
@@ -172,12 +258,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "26",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/26_CW11.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CW12",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "27",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/27_CW12.png"
 				}
@@ -188,12 +282,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "27",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/27_CW12.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CW13",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "28",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/28_CW13.png"
 				}
@@ -204,12 +306,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "28",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/28_CW13.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CU01",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "48",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/48_CU01.png"
 				}
@@ -220,12 +330,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "48",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/48_CU01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CU02",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "49",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/49_CU02.png"
 				}
@@ -236,12 +354,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "49",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/49_CU02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CU03",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "50",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/50_CU03.png"
 				}
@@ -252,12 +378,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "50",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/50_CU03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CU04",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "51",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/51_CU04.png"
 				}
@@ -268,12 +402,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "51",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/51_CU04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CU05",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "52",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/52_CU05.png"
 				}
@@ -284,12 +426,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "52",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/52_CU05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CU06",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "53",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/53_CU06.png"
 				}
@@ -300,12 +450,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "53",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/53_CU06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CU07",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "54",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/54_CU07.png"
 				}
@@ -316,12 +474,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "54",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/54_CU07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CU08",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "55",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/55_CU08.png"
 				}
@@ -332,12 +498,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "55",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/55_CU08.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CU09",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "56",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/56_CU09.png"
 				}
@@ -348,12 +522,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "56",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/56_CU09.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CU10",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "57",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/57_CU10.png"
 				}
@@ -364,12 +546,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "57",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/57_CU10.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CU11",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "58",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/58_CU11.png"
 				}
@@ -380,12 +570,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "58",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/58_CU11.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CU12",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "59",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/59_CU12.png"
 				}
@@ -396,12 +594,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "59",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/59_CU12.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CU13",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "60",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/60_CU13.png"
 				}
@@ -412,12 +618,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "60",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/60_CU13.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CI13 more removal",
+				"rarity": "common",
+				"mana_cost": "{1}{C}",
+				"type": "Sorcery",
+				"collector_number": "188",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/188_CI13 more removal.png"
 				}
@@ -428,12 +642,20 @@
 				"mana_cost": "{1}{C}",
 				"type": "Sorcery",
 				"collector_number": "188",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/188_CI13 more removal.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CB01",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "80",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/80_CB01.png"
 				}
@@ -444,12 +666,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "80",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/80_CB01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CB02",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "81",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/81_CB02.png"
 				}
@@ -460,12 +690,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "81",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/81_CB02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CB03",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "82",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/82_CB03.png"
 				}
@@ -476,12 +714,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "82",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/82_CB03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CB04",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "83",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/83_CB04.png"
 				}
@@ -492,12 +738,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "83",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/83_CB04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CB05",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "84",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/84_CB05.png"
 				}
@@ -508,12 +762,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "84",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/84_CB05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CB06",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "85",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/85_CB06.png"
 				}
@@ -524,12 +786,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "85",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/85_CB06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CB07",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "86",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/86_CB07.png"
 				}
@@ -540,12 +810,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "86",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/86_CB07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CB08",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "87",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/87_CB08.png"
 				}
@@ -556,12 +834,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "87",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/87_CB08.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CB09",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "88",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/88_CB09.png"
 				}
@@ -572,12 +858,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "88",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/88_CB09.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CB10",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "89",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/89_CB10.png"
 				}
@@ -588,12 +882,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "89",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/89_CB10.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CB11",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "90",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/90_CB11.png"
 				}
@@ -604,12 +906,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "90",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/90_CB11.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CB12",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "91",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/91_CB12.png"
 				}
@@ -620,12 +930,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "91",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/91_CB12.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CB13",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "92",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/92_CB13.png"
 				}
@@ -636,12 +954,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "92",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/92_CB13.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CI01 Information Recovery Crew",
+				"rarity": "common",
+				"mana_cost": "{C}",
+				"type": "Creature — Human Scout",
+				"collector_number": "176",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/176_CI01 Information Recovery Crew.png"
 				}
@@ -652,12 +978,20 @@
 				"mana_cost": "{C}",
 				"type": "Creature — Human Scout",
 				"collector_number": "176",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/176_CI01 Information Recovery Crew.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CI03 Tepid Tamer",
+				"rarity": "common",
+				"mana_cost": "{1}{C}",
+				"type": "Creature — Human Warrior",
+				"collector_number": "178",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/178_CI03 Tepid Tamer.png"
 				}
@@ -668,12 +1002,20 @@
 				"mana_cost": "{1}{C}",
 				"type": "Creature — Human Warrior",
 				"collector_number": "178",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/178_CI03 Tepid Tamer.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CI04 Striking Reflection",
+				"rarity": "common",
+				"mana_cost": "{2}{C}",
+				"type": "Creature — Reflection",
+				"collector_number": "179",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/179_CI04 Striking Reflection.png"
 				}
@@ -684,12 +1026,20 @@
 				"mana_cost": "{2}{C}",
 				"type": "Creature — Reflection",
 				"collector_number": "179",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/179_CI04 Striking Reflection.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CI02 Exuberant Archaeologist",
+				"rarity": "common",
+				"mana_cost": "{1}{C}",
+				"type": "Creature — Human Scout",
+				"collector_number": "177",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/177_CI02 Exuberant Archaeologist.png"
 				}
@@ -700,12 +1050,20 @@
 				"mana_cost": "{1}{C}",
 				"type": "Creature — Human Scout",
 				"collector_number": "177",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/177_CI02 Exuberant Archaeologist.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CR01",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "112",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/112_CR01.png"
 				}
@@ -716,12 +1074,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "112",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/112_CR01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CR02",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "113",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/113_CR02.png"
 				}
@@ -732,12 +1098,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "113",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/113_CR02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CR03",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "114",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/114_CR03.png"
 				}
@@ -748,12 +1122,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "114",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/114_CR03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CR04",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "115",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/115_CR04.png"
 				}
@@ -764,12 +1146,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "115",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/115_CR04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CR05",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "116",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/116_CR05.png"
 				}
@@ -780,12 +1170,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "116",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/116_CR05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CR06",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "117",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/117_CR06.png"
 				}
@@ -796,12 +1194,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "117",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/117_CR06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CR07",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "118",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/118_CR07.png"
 				}
@@ -812,12 +1218,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "118",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/118_CR07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CR08",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "119",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/119_CR08.png"
 				}
@@ -828,12 +1242,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "119",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/119_CR08.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CR09 Crasher Mech",
+				"rarity": "common",
+				"mana_cost": "{2}{R}{R}",
+				"type": "Artifact Creature — Construct",
+				"collector_number": "120",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/120_CR09 Crasher Mech.png"
 				}
@@ -844,12 +1266,20 @@
 				"mana_cost": "{2}{R}{R}",
 				"type": "Artifact Creature — Construct",
 				"collector_number": "120",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/120_CR09 Crasher Mech.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CR10",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "121",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/121_CR10.png"
 				}
@@ -860,12 +1290,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "121",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/121_CR10.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CR11",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "122",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/122_CR11.png"
 				}
@@ -876,12 +1314,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "122",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/122_CR11.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CR12",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "123",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/123_CR12.png"
 				}
@@ -892,12 +1338,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "123",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/123_CR12.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CR13",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "124",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/124_CR13.png"
 				}
@@ -908,12 +1362,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "124",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/124_CR13.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CI09 Back to Market",
+				"rarity": "common",
+				"mana_cost": "{C}",
+				"type": "Sorcery",
+				"collector_number": "184",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/184_CI09 Back to Market.png"
 				}
@@ -924,12 +1386,20 @@
 				"mana_cost": "{C}",
 				"type": "Sorcery",
 				"collector_number": "184",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/184_CI09 Back to Market.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CI10 Center Mass",
+				"rarity": "common",
+				"mana_cost": "{C}",
+				"type": "Instant",
+				"collector_number": "185",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/185_CI10 Center Mass.png"
 				}
@@ -940,12 +1410,20 @@
 				"mana_cost": "{C}",
 				"type": "Instant",
 				"collector_number": "185",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/185_CI10 Center Mass.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CI11 Murky Politics",
+				"rarity": "common",
+				"mana_cost": "{1}{C}",
+				"type": "Instant",
+				"collector_number": "186",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/186_CI11 Murky Politics.png"
 				}
@@ -956,12 +1434,20 @@
 				"mana_cost": "{1}{C}",
 				"type": "Instant",
 				"collector_number": "186",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/186_CI11 Murky Politics.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CI12 Removal",
+				"rarity": "common",
+				"mana_cost": "{1}{C}",
+				"type": "Instant",
+				"collector_number": "187",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/187_CI12 Removal.png"
 				}
@@ -972,12 +1458,20 @@
 				"mana_cost": "{1}{C}",
 				"type": "Instant",
 				"collector_number": "187",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/187_CI12 Removal.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CG01",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "144",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/144_CG01.png"
 				}
@@ -988,12 +1482,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "144",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/144_CG01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CG02",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "145",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/145_CG02.png"
 				}
@@ -1004,12 +1506,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "145",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/145_CG02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CG03",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "146",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/146_CG03.png"
 				}
@@ -1020,12 +1530,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "146",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/146_CG03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CG04",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "147",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/147_CG04.png"
 				}
@@ -1036,12 +1554,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "147",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/147_CG04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CG05",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "148",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/148_CG05.png"
 				}
@@ -1052,12 +1578,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "148",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/148_CG05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CG06",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "149",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/149_CG06.png"
 				}
@@ -1068,12 +1602,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "149",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/149_CG06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CG07",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "150",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/150_CG07.png"
 				}
@@ -1084,12 +1626,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "150",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/150_CG07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CG08",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "151",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/151_CG08.png"
 				}
@@ -1100,12 +1650,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "151",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/151_CG08.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CG09",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "152",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/152_CG09.png"
 				}
@@ -1116,12 +1674,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "152",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/152_CG09.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CG10",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "153",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/153_CG10.png"
 				}
@@ -1132,12 +1698,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "153",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/153_CG10.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CG11",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "154",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/154_CG11.png"
 				}
@@ -1148,12 +1722,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "154",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/154_CG11.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CG12",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "155",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/155_CG12.png"
 				}
@@ -1164,12 +1746,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "155",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/155_CG12.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CG13",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "156",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/156_CG13.png"
 				}
@@ -1180,12 +1770,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "156",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/156_CG13.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CI05",
+				"rarity": "common",
+				"mana_cost": "{2}{C}",
+				"type": "Creature",
+				"collector_number": "180",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/180_CI05.png"
 				}
@@ -1196,12 +1794,20 @@
 				"mana_cost": "{2}{C}",
 				"type": "Creature",
 				"collector_number": "180",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/180_CI05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CI06 Unbothered Alchemist",
+				"rarity": "common",
+				"mana_cost": "{3}{C}",
+				"type": "Creature — Human Wizard",
+				"collector_number": "181",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/181_CI06 Unbothered Alchemist.png"
 				}
@@ -1212,12 +1818,20 @@
 				"mana_cost": "{3}{C}",
 				"type": "Creature — Human Wizard",
 				"collector_number": "181",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/181_CI06 Unbothered Alchemist.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CI07 removal",
+				"rarity": "common",
+				"mana_cost": "{3}{C}",
+				"type": "Sorcery",
+				"collector_number": "182",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/182_CI07 removal.png"
 				}
@@ -1228,12 +1842,20 @@
 				"mana_cost": "{3}{C}",
 				"type": "Sorcery",
 				"collector_number": "182",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/182_CI07 removal.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CI08 Scouting Party",
+				"rarity": "common",
+				"mana_cost": "{3}{C}{C}",
+				"type": "Creature — Rabbit Soldier Scout",
+				"collector_number": "183",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/183_CI08 Scouting Party.png"
 				}
@@ -1244,12 +1866,20 @@
 				"mana_cost": "{3}{C}{C}",
 				"type": "Creature — Rabbit Soldier Scout",
 				"collector_number": "183",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/183_CI08 Scouting Party.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UW01",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "38",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/38_UW01.png"
 				}
@@ -1260,12 +1890,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "38",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/38_UW01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UW02",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "39",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/39_UW02.png"
 				}
@@ -1276,12 +1914,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "39",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/39_UW02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UW03",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "40",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/40_UW03.png"
 				}
@@ -1292,12 +1938,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "40",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/40_UW03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UW04",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "41",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/41_UW04.png"
 				}
@@ -1308,12 +1962,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "41",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/41_UW04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UW05",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "42",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/42_UW05.png"
 				}
@@ -1324,12 +1986,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "42",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/42_UW05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UW06 Astral Slide",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{W}",
+				"type": "Enchantment",
+				"collector_number": "43",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/43_UW06 Astral Slide.png"
 				}
@@ -1340,12 +2010,20 @@
 				"mana_cost": "{2}{W}",
 				"type": "Enchantment",
 				"collector_number": "43",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/43_UW06 Astral Slide.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UW07",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "44",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/44_UW07.png"
 				}
@@ -1356,12 +2034,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "44",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/44_UW07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UW08",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "45",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/45_UW08.png"
 				}
@@ -1372,12 +2058,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "45",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/45_UW08.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UW09",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "46",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/46_UW09.png"
 				}
@@ -1388,12 +2082,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "46",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/46_UW09.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UW10",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "47",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/47_UW10.png"
 				}
@@ -1404,12 +2106,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "47",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/47_UW10.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UU01",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "70",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/70_UU01.png"
 				}
@@ -1420,12 +2130,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "70",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/70_UU01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UU02",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "71",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/71_UU02.png"
 				}
@@ -1436,12 +2154,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "71",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/71_UU02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UU03",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "72",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/72_UU03.png"
 				}
@@ -1452,12 +2178,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "72",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/72_UU03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UU04",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "73",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/73_UU04.png"
 				}
@@ -1468,12 +2202,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "73",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/73_UU04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UU05",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "74",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/74_UU05.png"
 				}
@@ -1484,12 +2226,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "74",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/74_UU05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UU06",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "75",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/75_UU06.png"
 				}
@@ -1500,12 +2250,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "75",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/75_UU06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UU07",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "76",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/76_UU07.png"
 				}
@@ -1516,12 +2274,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "76",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/76_UU07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UU08",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "77",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/77_UU08.png"
 				}
@@ -1532,12 +2298,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "77",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/77_UU08.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UU09",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "78",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/78_UU09.png"
 				}
@@ -1548,12 +2322,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "78",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/78_UU09.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UU10",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "79",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/79_UU10.png"
 				}
@@ -1564,12 +2346,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "79",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/79_UU10.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UB01",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "102",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/102_UB01.png"
 				}
@@ -1580,12 +2370,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "102",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/102_UB01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UB02",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "103",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/103_UB02.png"
 				}
@@ -1596,12 +2394,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "103",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/103_UB02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UB03",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "104",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/104_UB03.png"
 				}
@@ -1612,12 +2418,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "104",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/104_UB03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UB04",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "105",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/105_UB04.png"
 				}
@@ -1628,12 +2442,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "105",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/105_UB04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UB05",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "106",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/106_UB05.png"
 				}
@@ -1644,12 +2466,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "106",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/106_UB05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UB06",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "107",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/107_UB06.png"
 				}
@@ -1660,12 +2490,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "107",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/107_UB06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UB07",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "108",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/108_UB07.png"
 				}
@@ -1676,12 +2514,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "108",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/108_UB07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UB08",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "109",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/109_UB08.png"
 				}
@@ -1692,12 +2538,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "109",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/109_UB08.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UB09",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "110",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/110_UB09.png"
 				}
@@ -1708,12 +2562,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "110",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/110_UB09.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UB10",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "111",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/111_UB10.png"
 				}
@@ -1724,12 +2586,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "111",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/111_UB10.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UR01",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "134",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/134_UR01.png"
 				}
@@ -1740,12 +2610,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "134",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/134_UR01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UR02",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "135",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/135_UR02.png"
 				}
@@ -1756,12 +2634,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "135",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/135_UR02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UR03",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "136",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/136_UR03.png"
 				}
@@ -1772,12 +2658,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "136",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/136_UR03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UR04",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "137",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/137_UR04.png"
 				}
@@ -1788,12 +2682,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "137",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/137_UR04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UR05",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "138",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/138_UR05.png"
 				}
@@ -1804,12 +2706,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "138",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/138_UR05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UR06",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "139",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/139_UR06.png"
 				}
@@ -1820,12 +2730,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "139",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/139_UR06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UR07",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "140",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/140_UR07.png"
 				}
@@ -1836,12 +2754,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "140",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/140_UR07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UR08",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "141",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/141_UR08.png"
 				}
@@ -1852,12 +2778,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "141",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/141_UR08.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UR09",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "142",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/142_UR09.png"
 				}
@@ -1868,12 +2802,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "142",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/142_UR09.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UR10",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "143",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/143_UR10.png"
 				}
@@ -1884,12 +2826,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "143",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/143_UR10.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UG01",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "166",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/166_UG01.png"
 				}
@@ -1900,12 +2850,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "166",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/166_UG01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UG02",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "167",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/167_UG02.png"
 				}
@@ -1916,12 +2874,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "167",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/167_UG02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UG03",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "168",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/168_UG03.png"
 				}
@@ -1932,12 +2898,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "168",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/168_UG03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UG04",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "169",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/169_UG04.png"
 				}
@@ -1948,12 +2922,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "169",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/169_UG04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UG05",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "170",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/170_UG05.png"
 				}
@@ -1964,12 +2946,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "170",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/170_UG05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UG06",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "171",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/171_UG06.png"
 				}
@@ -1980,12 +2970,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "171",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/171_UG06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UG07",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "172",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/172_UG07.png"
 				}
@@ -1996,12 +2994,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "172",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/172_UG07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UG08",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "173",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/173_UG08.png"
 				}
@@ -2012,12 +3018,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "173",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/173_UG08.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UG09",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "174",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/174_UG09.png"
 				}
@@ -2028,12 +3042,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "174",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/174_UG09.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UG10",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "175",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/175_UG10.png"
 				}
@@ -2044,12 +3066,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "175",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/175_UG10.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RW01",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "31",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/31_RW01.png"
 				}
@@ -2060,12 +3090,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "31",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/31_RW01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RW02",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "32",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/32_RW02.png"
 				}
@@ -2076,12 +3114,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "32",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/32_RW02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RW03",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "33",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/33_RW03.png"
 				}
@@ -2092,12 +3138,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "33",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/33_RW03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RW04",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "34",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/34_RW04.png"
 				}
@@ -2108,12 +3162,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "34",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/34_RW04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RW05",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "35",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/35_RW05.png"
 				}
@@ -2124,12 +3186,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "35",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/35_RW05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RW06",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "36",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/36_RW06.png"
 				}
@@ -2140,12 +3210,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "36",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/36_RW06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RW07",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "37",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/37_RW07.png"
 				}
@@ -2156,12 +3234,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "37",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/37_RW07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RU01",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "63",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/63_RU01.png"
 				}
@@ -2172,12 +3258,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "63",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/63_RU01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RU02",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "64",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/64_RU02.png"
 				}
@@ -2188,12 +3282,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "64",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/64_RU02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RU03",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "65",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/65_RU03.png"
 				}
@@ -2204,12 +3306,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "65",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/65_RU03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RU04",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "66",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/66_RU04.png"
 				}
@@ -2220,12 +3330,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "66",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/66_RU04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RU05",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "67",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/67_RU05.png"
 				}
@@ -2236,12 +3354,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "67",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/67_RU05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RU06",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "68",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/68_RU06.png"
 				}
@@ -2252,12 +3378,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "68",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/68_RU06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RU07",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "69",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/69_RU07.png"
 				}
@@ -2268,12 +3402,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "69",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/69_RU07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RB01",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "95",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/95_RB01.png"
 				}
@@ -2284,12 +3426,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "95",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/95_RB01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RB02",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "96",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/96_RB02.png"
 				}
@@ -2300,12 +3450,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "96",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/96_RB02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RB03",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "97",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/97_RB03.png"
 				}
@@ -2316,12 +3474,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "97",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/97_RB03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RB04",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "98",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/98_RB04.png"
 				}
@@ -2332,12 +3498,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "98",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/98_RB04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RB05",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "99",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/99_RB05.png"
 				}
@@ -2348,12 +3522,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "99",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/99_RB05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RB06",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "100",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/100_RB06.png"
 				}
@@ -2364,12 +3546,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "100",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/100_RB06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RB07",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "101",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/101_RB07.png"
 				}
@@ -2380,12 +3570,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "101",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/101_RB07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RR01",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "127",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/127_RR01.png"
 				}
@@ -2396,12 +3594,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "127",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/127_RR01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RR02",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "128",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/128_RR02.png"
 				}
@@ -2412,12 +3618,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "128",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/128_RR02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RR03",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "129",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/129_RR03.png"
 				}
@@ -2428,12 +3642,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "129",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/129_RR03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RR04",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "130",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/130_RR04.png"
 				}
@@ -2444,12 +3666,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "130",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/130_RR04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RR05",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "131",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/131_RR05.png"
 				}
@@ -2460,12 +3690,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "131",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/131_RR05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RR06",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "132",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/132_RR06.png"
 				}
@@ -2476,12 +3714,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "132",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/132_RR06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RR07",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "133",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/133_RR07.png"
 				}
@@ -2492,12 +3738,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "133",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/133_RR07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RG01",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "159",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/159_RG01.png"
 				}
@@ -2508,12 +3762,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "159",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/159_RG01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RI02",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "190",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/190_RI02.png"
 				}
@@ -2524,12 +3786,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "190",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/190_RI02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RG03",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "161",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/161_RG03.png"
 				}
@@ -2540,12 +3810,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "161",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/161_RG03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RI04",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "192",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/192_RI04.png"
 				}
@@ -2556,12 +3834,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "192",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/192_RI04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RG05",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "163",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/163_RG05.png"
 				}
@@ -2572,12 +3858,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "163",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/163_RG05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RG06",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "164",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/164_RG06.png"
 				}
@@ -2588,12 +3882,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "164",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/164_RG06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RI07",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "195",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/195_RI07.png"
 				}
@@ -2604,12 +3906,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "195",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/195_RI07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "MW01",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "29",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/29_MW01.png"
 				}
@@ -2620,12 +3930,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "29",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/29_MW01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "MW02",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "30",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/30_MW02.png"
 				}
@@ -2636,12 +3954,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "30",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/30_MW02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "MU01",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "61",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/61_MU01.png"
 				}
@@ -2652,12 +3978,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "61",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/61_MU01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "MU02",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "62",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/62_MU02.png"
 				}
@@ -2668,12 +4002,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "62",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/62_MU02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "MB01",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "93",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/93_MB01.png"
 				}
@@ -2684,12 +4026,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "93",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/93_MB01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "MB02",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "94",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/94_MB02.png"
 				}
@@ -2700,12 +4050,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "94",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/94_MB02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "MR01",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "125",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/125_MR01.png"
 				}
@@ -2716,12 +4074,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "125",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/125_MR01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "MR02",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "126",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/126_MR02.png"
 				}
@@ -2732,12 +4098,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "126",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/126_MR02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "MG01",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "157",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/157_MG01.png"
 				}
@@ -2748,12 +4122,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "157",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/157_MG01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "MG02",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "158",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/158_MG02.png"
 				}
@@ -2764,12 +4146,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "158",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/158_MG02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{C}{G}",
+				"type": "",
+				"collector_number": "216",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/216_UM01.png"
 				}
@@ -2780,12 +4170,20 @@
 				"mana_cost": "{C}{G}",
 				"type": "",
 				"collector_number": "216",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/216_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{U}{B}",
+				"type": "",
+				"collector_number": "217",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/217_UM01.png"
 				}
@@ -2796,12 +4194,20 @@
 				"mana_cost": "{U}{B}",
 				"type": "",
 				"collector_number": "217",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/217_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{R}",
+				"type": "",
+				"collector_number": "218",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/218_UM01.png"
 				}
@@ -2812,12 +4218,20 @@
 				"mana_cost": "{B}{R}",
 				"type": "",
 				"collector_number": "218",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/218_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{G}",
+				"type": "",
+				"collector_number": "219",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/219_UM01.png"
 				}
@@ -2828,12 +4242,20 @@
 				"mana_cost": "{R}{G}",
 				"type": "",
 				"collector_number": "219",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/219_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{W}",
+				"type": "",
+				"collector_number": "220",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/220_UM01.png"
 				}
@@ -2844,12 +4266,20 @@
 				"mana_cost": "{G}{W}",
 				"type": "",
 				"collector_number": "220",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/220_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{B}",
+				"type": "",
+				"collector_number": "221",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/221_UM01.png"
 				}
@@ -2860,12 +4290,20 @@
 				"mana_cost": "{W}{B}",
 				"type": "",
 				"collector_number": "221",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/221_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{U}{R}",
+				"type": "",
+				"collector_number": "222",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/222_UM01.png"
 				}
@@ -2876,12 +4314,20 @@
 				"mana_cost": "{U}{R}",
 				"type": "",
 				"collector_number": "222",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/222_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{G}",
+				"type": "",
+				"collector_number": "223",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/223_UM01.png"
 				}
@@ -2892,12 +4338,20 @@
 				"mana_cost": "{B}{G}",
 				"type": "",
 				"collector_number": "223",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/223_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{W}",
+				"type": "",
+				"collector_number": "224",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/224_UM01.png"
 				}
@@ -2908,12 +4362,20 @@
 				"mana_cost": "{R}{W}",
 				"type": "",
 				"collector_number": "224",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/224_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{U}",
+				"type": "",
+				"collector_number": "225",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/225_UM01.png"
 				}
@@ -2924,12 +4386,20 @@
 				"mana_cost": "{G}{U}",
 				"type": "",
 				"collector_number": "225",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/225_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RM01",
+				"rarity": "rare",
+				"mana_cost": "{W}{U}",
+				"type": "",
+				"collector_number": "213",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/213_RM01.png"
 				}
@@ -2940,12 +4410,20 @@
 				"mana_cost": "{W}{U}",
 				"type": "",
 				"collector_number": "213",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/213_RM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RM01",
+				"rarity": "rare",
+				"mana_cost": "{U}{B}",
+				"type": "",
+				"collector_number": "214",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/214_RM01.png"
 				}
@@ -2956,12 +4434,20 @@
 				"mana_cost": "{U}{B}",
 				"type": "",
 				"collector_number": "214",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/214_RM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RM01",
+				"rarity": "rare",
+				"mana_cost": "{B}{R}",
+				"type": "",
+				"collector_number": "210",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/210_RM01.png"
 				}
@@ -2972,12 +4458,20 @@
 				"mana_cost": "{B}{R}",
 				"type": "",
 				"collector_number": "210",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/210_RM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RM01",
+				"rarity": "rare",
+				"mana_cost": "{R}{G}",
+				"type": "",
+				"collector_number": "215",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/215_RM01.png"
 				}
@@ -2988,12 +4482,20 @@
 				"mana_cost": "{R}{G}",
 				"type": "",
 				"collector_number": "215",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/215_RM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RM01",
+				"rarity": "rare",
+				"mana_cost": "{G}{W}",
+				"type": "",
+				"collector_number": "206",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/206_RM01.png"
 				}
@@ -3004,12 +4506,20 @@
 				"mana_cost": "{G}{W}",
 				"type": "",
 				"collector_number": "206",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/206_RM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RM01",
+				"rarity": "rare",
+				"mana_cost": "{W}{B}",
+				"type": "",
+				"collector_number": "207",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/207_RM01.png"
 				}
@@ -3020,12 +4530,20 @@
 				"mana_cost": "{W}{B}",
 				"type": "",
 				"collector_number": "207",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/207_RM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RM01",
+				"rarity": "rare",
+				"mana_cost": "{U}{R}",
+				"type": "",
+				"collector_number": "208",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/208_RM01.png"
 				}
@@ -3036,12 +4554,20 @@
 				"mana_cost": "{U}{R}",
 				"type": "",
 				"collector_number": "208",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/208_RM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RM01",
+				"rarity": "rare",
+				"mana_cost": "{B}{G}",
+				"type": "",
+				"collector_number": "209",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/209_RM01.png"
 				}
@@ -3052,12 +4578,20 @@
 				"mana_cost": "{B}{G}",
 				"type": "",
 				"collector_number": "209",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/209_RM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RM01",
+				"rarity": "rare",
+				"mana_cost": "{R}{W}",
+				"type": "",
+				"collector_number": "212",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/212_RM01.png"
 				}
@@ -3068,12 +4602,20 @@
 				"mana_cost": "{R}{W}",
 				"type": "",
 				"collector_number": "212",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/212_RM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RM01",
+				"rarity": "rare",
+				"mana_cost": "{G}{U}",
+				"type": "",
+				"collector_number": "211",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/211_RM01.png"
 				}
@@ -3084,12 +4626,20 @@
 				"mana_cost": "{G}{U}",
 				"type": "",
 				"collector_number": "211",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/211_RM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CA01 Ursine Temple",
+				"rarity": "common",
+				"mana_cost": "{3}",
+				"type": "Artifact",
+				"collector_number": "261",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/261_CA01 Ursine Temple.png"
 				}
@@ -3100,12 +4650,20 @@
 				"mana_cost": "{3}",
 				"type": "Artifact",
 				"collector_number": "261",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/261_CA01 Ursine Temple.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CA02 Citysprout Bonsai",
+				"rarity": "common",
+				"mana_cost": "{2}",
+				"type": "Artifact",
+				"collector_number": "262",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/262_CA02 Citysprout Bonsai.png"
 				}
@@ -3116,12 +4674,20 @@
 				"mana_cost": "{2}",
 				"type": "Artifact",
 				"collector_number": "262",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/262_CA02 Citysprout Bonsai.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CA03 Far Off Horizon",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "270",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/270_CA03 Far Off Horizon.png"
 				}
@@ -3132,12 +4698,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "270",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/270_CA03 Far Off Horizon.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CA04 Digital Song",
+				"rarity": "common",
+				"mana_cost": "{2}",
+				"type": "Creature — Bird",
+				"collector_number": "1",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/1_CA04 Digital Song.png"
 				}
@@ -3148,12 +4722,20 @@
 				"mana_cost": "{2}",
 				"type": "Creature — Bird",
 				"collector_number": "1",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/1_CA04 Digital Song.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CA05 Gilded Tea Room",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "271",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/271_CA05 Gilded Tea Room.png"
 				}
@@ -3164,12 +4746,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "271",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/271_CA05 Gilded Tea Room.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UC01 Crystallizing Aether",
+				"rarity": "uncommon",
+				"mana_cost": "{2}",
+				"type": "Sorcery",
+				"collector_number": "11",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/11_UC01 Crystallizing Aether.png"
 				}
@@ -3180,12 +4770,20 @@
 				"mana_cost": "{2}",
 				"type": "Sorcery",
 				"collector_number": "11",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/11_UC01 Crystallizing Aether.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UA02 Surveyor001",
+				"rarity": "uncommon",
+				"mana_cost": "{3}",
+				"type": "Artifact — Construct",
+				"collector_number": "266",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/266_UA02 Surveyor001.png"
 				}
@@ -3196,12 +4794,20 @@
 				"mana_cost": "{3}",
 				"type": "Artifact — Construct",
 				"collector_number": "266",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/266_UA02 Surveyor001.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UA03 Gilded Viewing Room",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "284",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/284_UA03 Gilded Viewing Room.png"
 				}
@@ -3212,12 +4818,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "284",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/284_UA03 Gilded Viewing Room.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UA04",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Artifact",
+				"collector_number": "267",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/267_UA04.png"
 				}
@@ -3228,12 +4842,20 @@
 				"mana_cost": "",
 				"type": "Artifact",
 				"collector_number": "267",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/267_UA04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UA05",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Artifact",
+				"collector_number": "268",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/268_UA05.png"
 				}
@@ -3244,12 +4866,20 @@
 				"mana_cost": "",
 				"type": "Artifact",
 				"collector_number": "268",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/268_UA05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "CL01",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "272",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/272_CL01.png"
 				}
@@ -3260,12 +4890,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "272",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/272_CL01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UL01",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "285",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/285_UL01.png"
 				}
@@ -3276,12 +4914,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "285",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/285_UL01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UL02",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "286",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/286_UL02.png"
 				}
@@ -3292,12 +4938,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "286",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/286_UL02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UL03",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "287",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/287_UL03.png"
 				}
@@ -3308,12 +4962,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "287",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/287_UL03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UL04",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "288",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/288_UL04.png"
 				}
@@ -3324,12 +4986,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "288",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/288_UL04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UL05",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "289",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/289_UL05.png"
 				}
@@ -3340,12 +5010,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "289",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/289_UL05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UX01 Cloudslicer Fleet",
+				"rarity": "uncommon",
+				"mana_cost": "{2}",
+				"type": "Artifact Creature — Robot Construct",
+				"collector_number": "269",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/269_UX01 Cloudslicer Fleet.png"
 				}
@@ -3356,12 +5034,20 @@
 				"mana_cost": "{2}",
 				"type": "Artifact Creature — Robot Construct",
 				"collector_number": "269",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/269_UX01 Cloudslicer Fleet.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UX02",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "12",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/12_UX02.png"
 				}
@@ -3372,12 +5058,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "12",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/12_UX02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UX03",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "13",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/13_UX03.png"
 				}
@@ -3388,12 +5082,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "13",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/13_UX03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UX04",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "14",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/14_UX04.png"
 				}
@@ -3404,12 +5106,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "14",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/14_UX04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UX05",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "15",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/15_UX05.png"
 				}
@@ -3420,12 +5130,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "15",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/15_UX05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RX01",
+				"rarity": "rare",
+				"mana_cost": "{3}",
+				"type": "Artifact",
+				"collector_number": "263",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/263_RX01.png"
 				}
@@ -3436,12 +5154,20 @@
 				"mana_cost": "{3}",
 				"type": "Artifact",
 				"collector_number": "263",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/263_RX01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RX02 Gilded Bar",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "273",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/273_RX02 Gilded Bar.png"
 				}
@@ -3452,12 +5178,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "273",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/273_RX02 Gilded Bar.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RX03 Nightshifter Engine",
+				"rarity": "rare",
+				"mana_cost": "{3}",
+				"type": "Artifact — Vehicle",
+				"collector_number": "264",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/264_RX03 Nightshifter Engine.png"
 				}
@@ -3468,12 +5202,20 @@
 				"mana_cost": "{3}",
 				"type": "Artifact — Vehicle",
 				"collector_number": "264",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/264_RX03 Nightshifter Engine.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RX04 Marching Clock",
+				"rarity": "rare",
+				"mana_cost": "{4}",
+				"type": "Artifact",
+				"collector_number": "265",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/265_RX04 Marching Clock.png"
 				}
@@ -3484,12 +5226,20 @@
 				"mana_cost": "{4}",
 				"type": "Artifact",
 				"collector_number": "265",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/265_RX04 Marching Clock.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RX05",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "7",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/7_RX05.png"
 				}
@@ -3500,12 +5250,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "7",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/7_RX05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RX06",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "8",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/8_RX06.png"
 				}
@@ -3516,12 +5274,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "8",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/8_RX06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RX07",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "9",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/9_RX07.png"
 				}
@@ -3532,12 +5298,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "9",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/9_RX07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RX08 Veil of Hunger",
+				"rarity": "rare",
+				"mana_cost": "{8}",
+				"type": "Legendary Planeswalker — Prophellos",
+				"collector_number": "10",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/10_RX08 Veil of Hunger.png"
 				}
@@ -3548,12 +5322,20 @@
 				"mana_cost": "{8}",
 				"type": "Legendary Planeswalker — Prophellos",
 				"collector_number": "10",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/10_RX08 Veil of Hunger.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "MX01",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "2",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2_MX01.png"
 				}
@@ -3564,12 +5346,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "2",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2_MX01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "MX02",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "3",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/3_MX02.png"
 				}
@@ -3580,12 +5370,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "3",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/3_MX02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "MX03",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "4",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/4_MX03.png"
 				}
@@ -3596,12 +5394,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "4",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/4_MX03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "MX04",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "5",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/5_MX04.png"
 				}
@@ -3612,12 +5418,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "5",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/5_MX04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "MX05",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "6",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/6_MX05.png"
 				}
@@ -3628,12 +5442,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "6",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/6_MX05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UI01 Night Market Runner",
+				"rarity": "uncommon",
+				"mana_cost": "{C}",
+				"type": "Creature — Human Scout",
+				"collector_number": "196",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/196_UI01 Night Market Runner.png"
 				}
@@ -3644,12 +5466,20 @@
 				"mana_cost": "{C}",
 				"type": "Creature — Human Scout",
 				"collector_number": "196",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/196_UI01 Night Market Runner.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UI10",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{C}",
+				"type": "Sorcery",
+				"collector_number": "205",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/205_UI10.png"
 				}
@@ -3660,12 +5490,20 @@
 				"mana_cost": "{1}{C}",
 				"type": "Sorcery",
 				"collector_number": "205",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/205_UI10.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UI09",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{C}",
+				"type": "Enchantment",
+				"collector_number": "204",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/204_UI09.png"
 				}
@@ -3676,12 +5514,20 @@
 				"mana_cost": "{1}{C}",
 				"type": "Enchantment",
 				"collector_number": "204",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/204_UI09.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UI08",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "203",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/203_UI08.png"
 				}
@@ -3692,12 +5538,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "203",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/203_UI08.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UI07",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "202",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/202_UI07.png"
 				}
@@ -3708,12 +5562,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "202",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/202_UI07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UI06",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "201",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/201_UI06.png"
 				}
@@ -3724,12 +5586,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "201",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/201_UI06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UI05",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "200",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/200_UI05.png"
 				}
@@ -3740,12 +5610,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "200",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/200_UI05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UI04",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "199",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/199_UI04.png"
 				}
@@ -3756,12 +5634,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "199",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/199_UI04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UI03",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "198",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/198_UI03.png"
 				}
@@ -3772,12 +5658,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "198",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/198_UI03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UI02",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "197",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/197_UI02.png"
 				}
@@ -3788,12 +5682,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "197",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/197_UI02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{C}{W}",
+				"type": "",
+				"collector_number": "238",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/238_UM01.png"
 				}
@@ -3804,12 +5706,20 @@
 				"mana_cost": "{C}{W}",
 				"type": "",
 				"collector_number": "238",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/238_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{C}{U}",
+				"type": "",
+				"collector_number": "239",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/239_UM01.png"
 				}
@@ -3820,12 +5730,20 @@
 				"mana_cost": "{C}{U}",
 				"type": "",
 				"collector_number": "239",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/239_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{C}{B}",
+				"type": "",
+				"collector_number": "240",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/240_UM01.png"
 				}
@@ -3836,12 +5754,20 @@
 				"mana_cost": "{C}{B}",
 				"type": "",
 				"collector_number": "240",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/240_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{C}{R}",
+				"type": "",
+				"collector_number": "241",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/241_UM01.png"
 				}
@@ -3852,12 +5778,20 @@
 				"mana_cost": "{C}{R}",
 				"type": "",
 				"collector_number": "241",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/241_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{U}",
+				"type": "",
+				"collector_number": "242",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/242_UM01.png"
 				}
@@ -3868,12 +5802,20 @@
 				"mana_cost": "{W}{U}",
 				"type": "",
 				"collector_number": "242",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/242_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{G}",
+				"type": "",
+				"collector_number": "243",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/243_UM01.png"
 				}
@@ -3884,12 +5826,20 @@
 				"mana_cost": "{B}{G}",
 				"type": "",
 				"collector_number": "243",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/243_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{R}",
+				"type": "Sorcery",
+				"collector_number": "244",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/244_UM01.png"
 				}
@@ -3900,12 +5850,20 @@
 				"mana_cost": "{B}{R}",
 				"type": "Sorcery",
 				"collector_number": "244",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/244_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{U}",
+				"type": "",
+				"collector_number": "245",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/245_UM01.png"
 				}
@@ -3916,12 +5874,20 @@
 				"mana_cost": "{G}{U}",
 				"type": "",
 				"collector_number": "245",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/245_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{W}",
+				"type": "",
+				"collector_number": "246",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/246_UM01.png"
 				}
@@ -3932,12 +5898,20 @@
 				"mana_cost": "{G}{W}",
 				"type": "",
 				"collector_number": "246",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/246_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{C}{B}",
+				"type": "",
+				"collector_number": "226",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/226_UM01.png"
 				}
@@ -3948,12 +5922,20 @@
 				"mana_cost": "{C}{B}",
 				"type": "",
 				"collector_number": "226",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/226_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{C}{G}",
+				"type": "",
+				"collector_number": "248",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/248_UM01.png"
 				}
@@ -3964,12 +5946,20 @@
 				"mana_cost": "{C}{G}",
 				"type": "",
 				"collector_number": "248",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/248_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{C}{R}",
+				"type": "",
+				"collector_number": "249",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/249_UM01.png"
 				}
@@ -3980,12 +5970,20 @@
 				"mana_cost": "{C}{R}",
 				"type": "",
 				"collector_number": "249",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/249_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{C}{U}",
+				"type": "",
+				"collector_number": "250",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/250_UM01.png"
 				}
@@ -3996,12 +5994,20 @@
 				"mana_cost": "{C}{U}",
 				"type": "",
 				"collector_number": "250",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/250_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{C}{W}",
+				"type": "",
+				"collector_number": "251",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/251_UM01.png"
 				}
@@ -4012,12 +6018,20 @@
 				"mana_cost": "{C}{W}",
 				"type": "",
 				"collector_number": "251",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/251_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{G}",
+				"type": "",
+				"collector_number": "252",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/252_UM01.png"
 				}
@@ -4028,12 +6042,20 @@
 				"mana_cost": "{R}{G}",
 				"type": "",
 				"collector_number": "252",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/252_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{W}",
+				"type": "",
+				"collector_number": "253",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/253_UM01.png"
 				}
@@ -4044,12 +6066,20 @@
 				"mana_cost": "{R}{W}",
 				"type": "",
 				"collector_number": "253",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/253_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{U}{B}",
+				"type": "",
+				"collector_number": "230",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/230_UM01.png"
 				}
@@ -4060,12 +6090,20 @@
 				"mana_cost": "{U}{B}",
 				"type": "",
 				"collector_number": "230",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/230_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{U}{R}",
+				"type": "",
+				"collector_number": "254",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/254_UM01.png"
 				}
@@ -4076,12 +6114,20 @@
 				"mana_cost": "{U}{R}",
 				"type": "",
 				"collector_number": "254",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/254_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{B}",
+				"type": "",
+				"collector_number": "255",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/255_UM01.png"
 				}
@@ -4092,12 +6138,20 @@
 				"mana_cost": "{W}{B}",
 				"type": "",
 				"collector_number": "255",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/255_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{U}",
+				"type": "",
+				"collector_number": "256",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/256_UM01.png"
 				}
@@ -4108,12 +6162,20 @@
 				"mana_cost": "{W}{U}",
 				"type": "",
 				"collector_number": "256",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/256_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "common",
+				"mana_cost": "{B}{G}",
+				"type": "",
+				"collector_number": "257",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/257_UM01.png"
 				}
@@ -4124,12 +6186,20 @@
 				"mana_cost": "{B}{G}",
 				"type": "",
 				"collector_number": "257",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/257_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "common",
+				"mana_cost": "{B}{R}",
+				"type": "",
+				"collector_number": "258",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/258_UM01.png"
 				}
@@ -4140,12 +6210,20 @@
 				"mana_cost": "{B}{R}",
 				"type": "",
 				"collector_number": "258",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/258_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "common",
+				"mana_cost": "{G}{U}",
+				"type": "",
+				"collector_number": "259",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/259_UM01.png"
 				}
@@ -4156,12 +6234,20 @@
 				"mana_cost": "{G}{U}",
 				"type": "",
 				"collector_number": "259",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/259_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "common",
+				"mana_cost": "{G}{W}",
+				"type": "",
+				"collector_number": "260",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/260_UM01.png"
 				}
@@ -4172,12 +6258,20 @@
 				"mana_cost": "{G}{W}",
 				"type": "",
 				"collector_number": "260",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/260_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "common",
+				"mana_cost": "{C}{B}",
+				"type": "",
+				"collector_number": "227",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/227_UM01.png"
 				}
@@ -4188,12 +6282,20 @@
 				"mana_cost": "{C}{B}",
 				"type": "",
 				"collector_number": "227",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/227_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "common",
+				"mana_cost": "{C}{G}",
+				"type": "",
+				"collector_number": "228",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/228_UM01.png"
 				}
@@ -4204,12 +6306,20 @@
 				"mana_cost": "{C}{G}",
 				"type": "",
 				"collector_number": "228",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/228_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "common",
+				"mana_cost": "{C}{R}",
+				"type": "",
+				"collector_number": "229",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/229_UM01.png"
 				}
@@ -4220,12 +6330,20 @@
 				"mana_cost": "{C}{R}",
 				"type": "",
 				"collector_number": "229",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/229_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "common",
+				"mana_cost": "{C}{U}",
+				"type": "",
+				"collector_number": "231",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/231_UM01.png"
 				}
@@ -4236,12 +6354,20 @@
 				"mana_cost": "{C}{U}",
 				"type": "",
 				"collector_number": "231",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/231_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "common",
+				"mana_cost": "{C}{W}",
+				"type": "",
+				"collector_number": "232",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/232_UM01.png"
 				}
@@ -4252,12 +6378,20 @@
 				"mana_cost": "{C}{W}",
 				"type": "",
 				"collector_number": "232",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/232_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "common",
+				"mana_cost": "{R}{G}",
+				"type": "",
+				"collector_number": "233",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/233_UM01.png"
 				}
@@ -4268,12 +6402,20 @@
 				"mana_cost": "{R}{G}",
 				"type": "",
 				"collector_number": "233",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/233_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "common",
+				"mana_cost": "{R}{W}",
+				"type": "",
+				"collector_number": "247",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/247_UM01.png"
 				}
@@ -4284,12 +6426,20 @@
 				"mana_cost": "{R}{W}",
 				"type": "",
 				"collector_number": "247",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/247_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "common",
+				"mana_cost": "{U}{B}",
+				"type": "",
+				"collector_number": "234",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/234_UM01.png"
 				}
@@ -4300,12 +6450,20 @@
 				"mana_cost": "{U}{B}",
 				"type": "",
 				"collector_number": "234",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/234_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "common",
+				"mana_cost": "{U}{R}",
+				"type": "",
+				"collector_number": "235",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/235_UM01.png"
 				}
@@ -4316,12 +6474,20 @@
 				"mana_cost": "{U}{R}",
 				"type": "",
 				"collector_number": "235",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/235_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "common",
+				"mana_cost": "{W}{B}",
+				"type": "",
+				"collector_number": "236",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/236_UM01.png"
 				}
@@ -4332,12 +6498,20 @@
 				"mana_cost": "{W}{B}",
 				"type": "",
 				"collector_number": "236",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/236_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "UM01",
+				"rarity": "common",
+				"mana_cost": "{W}{U}",
+				"type": "",
+				"collector_number": "237",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/237_UM01.png"
 				}
@@ -4348,12 +6522,20 @@
 				"mana_cost": "{W}{U}",
 				"type": "",
 				"collector_number": "237",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/237_UM01.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "The Clock",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Reminder",
+				"collector_number": "1",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/1t_The Clock.png"
 				}
@@ -4364,12 +6546,20 @@
 				"mana_cost": "",
 				"type": "Reminder",
 				"collector_number": "1",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/1t_The Clock.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "Murky Politics",
+				"rarity": "special",
+				"mana_cost": "{1}{C}",
+				"type": "Instant",
+				"collector_number": "290",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/290_Murky Politics.png"
 				}
@@ -4380,12 +6570,20 @@
 				"mana_cost": "{1}{C}",
 				"type": "Instant",
 				"collector_number": "290",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/290_Murky Politics.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RI01 Memory Restored",
+				"rarity": "rare",
+				"mana_cost": "{2}{C}",
+				"type": "Sorcery",
+				"collector_number": "189",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/189_RI01 Memory Restored.png"
 				}
@@ -4396,12 +6594,20 @@
 				"mana_cost": "{2}{C}",
 				"type": "Sorcery",
 				"collector_number": "189",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/189_RI01 Memory Restored.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RG02",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "160",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/160_RG02.png"
 				}
@@ -4412,12 +6618,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "160",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/160_RG02.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RI03",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "191",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/191_RI03.png"
 				}
@@ -4428,12 +6642,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "191",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/191_RI03.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RG04",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "162",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/162_RG04.png"
 				}
@@ -4444,12 +6666,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "162",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/162_RG04.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RI05",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "193",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/193_RI05.png"
 				}
@@ -4460,12 +6690,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "193",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/193_RI05.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RI06",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "194",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/194_RI06.png"
 				}
@@ -4476,12 +6714,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "194",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/194_RI06.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "RG07",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "",
+				"collector_number": "165",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/165_RG07.png"
 				}
@@ -4492,12 +6738,20 @@
 				"mana_cost": "",
 				"type": "",
 				"collector_number": "165",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/165_RG07.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "Triome",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "274",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/274_Triome.png"
 				}
@@ -4508,12 +6762,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "274",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/274_Triome.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "Triome",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "275",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/275_Triome.png"
 				}
@@ -4524,12 +6786,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "275",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/275_Triome.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "Triome",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "276",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/276_Triome.png"
 				}
@@ -4540,12 +6810,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "276",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/276_Triome.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "Triome",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "277",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/277_Triome.png"
 				}
@@ -4556,12 +6834,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "277",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/277_Triome.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "Triome",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "278",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/278_Triome.png"
 				}
@@ -4572,12 +6858,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "278",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/278_Triome.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "Triome",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "279",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/279_Triome.png"
 				}
@@ -4588,12 +6882,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "279",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/279_Triome.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "Triome",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "280",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/280_Triome.png"
 				}
@@ -4604,12 +6906,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "280",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/280_Triome.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "Triome",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "281",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/281_Triome.png"
 				}
@@ -4620,12 +6930,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "281",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/281_Triome.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "Triome",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "282",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/282_Triome.png"
 				}
@@ -4636,12 +6954,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "282",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/282_Triome.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "Triome",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "283",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/283_Triome.png"
 				}
@@ -4652,12 +6978,20 @@
 				"mana_cost": "",
 				"type": "Land",
 				"collector_number": "283",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/283_Triome.png"
 				}
 			},
-		false",
-				
+			{
+				"name": "Cloudslicer Fleet",
+				"rarity": "common",
+				"mana_cost": "{2}",
+				"type": "Artifact Creature — Robot Construct",
+				"collector_number": "2",
+				"foil": "false",
+
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2t_Cloudslicer Fleet.png"
 				}
@@ -4668,7 +7002,9 @@
 				"mana_cost": "{2}",
 				"type": "Artifact Creature — Robot Construct",
 				"collector_number": "2",
-				"foil": "true		"image_uris": {
+				"foil": "true",
+
+				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2t_Cloudslicer Fleet.png"
 				}
 			}
