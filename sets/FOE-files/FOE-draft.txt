@@ -11,7 +11,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/334_Rustic Cultivator.png"
 				}
-			},
+			}
 			{
 				"name": "Rustic Cultivator_foil",
 				"rarity": "common",
@@ -73,7 +73,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/35_Light of Hope.png"
 				}
-			},
+			}
 			{
 				"name": "Light of Hope_foil",
 				"rarity": "common",
@@ -97,7 +97,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/31_History's Weave.png"
 				}
-			},
+			}
 			{
 				"name": "History's Weave_foil",
 				"rarity": "common",
@@ -121,7 +121,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/26_Fall Through Reality.png"
 				}
-			},
+			}
 			{
 				"name": "Fall Through Reality_foil",
 				"rarity": "common",
@@ -145,7 +145,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/39_Meirel Pathwalker.png"
 				}
-			},
+			}
 			{
 				"name": "Meirel Pathwalker_foil",
 				"rarity": "common",
@@ -207,7 +207,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/47_Pathfinder Wurm.png"
 				}
-			},
+			}
 			{
 				"name": "Pathfinder Wurm_foil",
 				"rarity": "common",
@@ -231,7 +231,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/50_Rising Haze.png"
 				}
-			},
+			}
 			{
 				"name": "Rising Haze_foil",
 				"rarity": "common",
@@ -255,7 +255,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/38_Meirel Caretaker.png"
 				}
-			},
+			}
 			{
 				"name": "Meirel Caretaker_foil",
 				"rarity": "common",
@@ -279,7 +279,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/46_Outlands Rescinder.png"
 				}
-			},
+			}
 			{
 				"name": "Outlands Rescinder_foil",
 				"rarity": "common",
@@ -303,7 +303,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/44_Outlander Mercenary.png"
 				}
-			},
+			}
 			{
 				"name": "Outlander Mercenary_foil",
 				"rarity": "common",
@@ -327,7 +327,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/25_Fadove Lawkeeper.png"
 				}
-			},
+			}
 			{
 				"name": "Fadove Lawkeeper_foil",
 				"rarity": "common",
@@ -351,7 +351,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/24_Fadove Air Supplier.png"
 				}
-			},
+			}
 			{
 				"name": "Fadove Air Supplier_foil",
 				"rarity": "common",
@@ -375,7 +375,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/55_Veteran Party.png"
 				}
-			},
+			}
 			{
 				"name": "Veteran Party_foil",
 				"rarity": "common",
@@ -399,7 +399,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/21_Cleric of the Dawn.png"
 				}
-			},
+			}
 			{
 				"name": "Cleric of the Dawn_foil",
 				"rarity": "common",
@@ -423,7 +423,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/28_Focus of Fadove.png"
 				}
-			},
+			}
 			{
 				"name": "Focus of Fadove_foil",
 				"rarity": "common",
@@ -447,7 +447,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/42_Outfoxed.png"
 				}
-			},
+			}
 			{
 				"name": "Outfoxed_foil",
 				"rarity": "common",
@@ -471,7 +471,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/59_Apprentices Drake.png"
 				}
-			},
+			}
 			{
 				"name": "Apprentices Drake_foil",
 				"rarity": "common",
@@ -495,7 +495,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/66_Crystalline Cover.png"
 				}
-			},
+			}
 			{
 				"name": "Crystalline Cover_foil",
 				"rarity": "common",
@@ -557,7 +557,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/70_Fold the Truth.png"
 				}
-			},
+			}
 			{
 				"name": "Fold the Truth_foil",
 				"rarity": "common",
@@ -581,7 +581,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/63_Consult Eternity.png"
 				}
-			},
+			}
 			{
 				"name": "Consult Eternity_foil",
 				"rarity": "common",
@@ -605,7 +605,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/81_Pristine Denial.png"
 				}
-			},
+			}
 			{
 				"name": "Pristine Denial_foil",
 				"rarity": "common",
@@ -629,7 +629,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/83_Reshape Eternity.png"
 				}
-			},
+			}
 			{
 				"name": "Reshape Eternity_foil",
 				"rarity": "common",
@@ -653,7 +653,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/79_Pathwrought Overseer.png"
 				}
-			},
+			}
 			{
 				"name": "Pathwrought Overseer_foil",
 				"rarity": "common",
@@ -677,7 +677,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/94_Veneer Walker.png"
 				}
-			},
+			}
 			{
 				"name": "Veneer Walker_foil",
 				"rarity": "common",
@@ -701,7 +701,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/78_Outlands Trailblazer.png"
 				}
-			},
+			}
 			{
 				"name": "Outlands Trailblazer_foil",
 				"rarity": "common",
@@ -725,7 +725,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/96_Vestige Prowler.png"
 				}
-			},
+			}
 			{
 				"name": "Vestige Prowler_foil",
 				"rarity": "common",
@@ -749,7 +749,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/85_Ridgeback Dragonturtle.png"
 				}
-			},
+			}
 			{
 				"name": "Ridgeback Dragonturtle_foil",
 				"rarity": "common",
@@ -773,7 +773,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/61_Bropheria.png"
 				}
-			},
+			}
 			{
 				"name": "Bropheria_foil",
 				"rarity": "common",
@@ -797,7 +797,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/71_Gripping Truths.png"
 				}
-			},
+			}
 			{
 				"name": "Gripping Truths_foil",
 				"rarity": "common",
@@ -821,7 +821,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/76_Migratory Flotilla.png"
 				}
-			},
+			}
 			{
 				"name": "Migratory Flotilla_foil",
 				"rarity": "common",
@@ -845,7 +845,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/69_Fly Away With Me.png"
 				}
-			},
+			}
 			{
 				"name": "Fly Away With Me_foil",
 				"rarity": "common",
@@ -869,7 +869,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/100_Aspect of Moth.png"
 				}
-			},
+			}
 			{
 				"name": "Aspect of Moth_foil",
 				"rarity": "common",
@@ -893,7 +893,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/138_You Cant Face Me.png"
 				}
-			},
+			}
 			{
 				"name": "You Cant Face Me_foil",
 				"rarity": "common",
@@ -917,7 +917,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/109_Duskcharm Drake.png"
 				}
-			},
+			}
 			{
 				"name": "Duskcharm Drake_foil",
 				"rarity": "common",
@@ -979,7 +979,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/111_Foolish Footing.png"
 				}
-			},
+			}
 			{
 				"name": "Foolish Footing_foil",
 				"rarity": "common",
@@ -1003,7 +1003,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/133_Smogborn Pilferer.png"
 				}
-			},
+			}
 			{
 				"name": "Smogborn Pilferer_foil",
 				"rarity": "common",
@@ -1027,7 +1027,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/102_Avakin Trapper.png"
 				}
-			},
+			}
 			{
 				"name": "Avakin Trapper_foil",
 				"rarity": "common",
@@ -1051,7 +1051,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/113_Hedgecrow.png"
 				}
-			},
+			}
 			{
 				"name": "Hedgecrow_foil",
 				"rarity": "common",
@@ -1075,7 +1075,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/132_Scaled Rippler.png"
 				}
-			},
+			}
 			{
 				"name": "Scaled Rippler_foil",
 				"rarity": "common",
@@ -1099,7 +1099,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/117_Left for the Crows.png"
 				}
-			},
+			}
 			{
 				"name": "Left for the Crows_foil",
 				"rarity": "common",
@@ -1123,7 +1123,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/130_Relentless Truthseeker.png"
 				}
-			},
+			}
 			{
 				"name": "Relentless Truthseeker_foil",
 				"rarity": "common",
@@ -1147,7 +1147,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/125_Otherworldly Entrance.png"
 				}
-			},
+			}
 			{
 				"name": "Otherworldly Entrance_foil",
 				"rarity": "common",
@@ -1171,7 +1171,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/127_Pathborn Stinger.png"
 				}
-			},
+			}
 			{
 				"name": "Pathborn Stinger_foil",
 				"rarity": "common",
@@ -1195,7 +1195,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/137_Voidborn Horror.png"
 				}
-			},
+			}
 			{
 				"name": "Voidborn Horror_foil",
 				"rarity": "common",
@@ -1219,7 +1219,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/101_Avakin Devotee.png"
 				}
-			},
+			}
 			{
 				"name": "Avakin Devotee_foil",
 				"rarity": "common",
@@ -1243,7 +1243,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/128_Pioneer's Premonition.png"
 				}
-			},
+			}
 			{
 				"name": "Pioneer's Premonition_foil",
 				"rarity": "common",
@@ -1267,7 +1267,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/141_Basalt Hammer.png"
 				}
-			},
+			}
 			{
 				"name": "Basalt Hammer_foil",
 				"rarity": "common",
@@ -1291,7 +1291,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/145_Clanless Combatant.png"
 				}
-			},
+			}
 			{
 				"name": "Clanless Combatant_foil",
 				"rarity": "common",
@@ -1315,7 +1315,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/177_Willbournes Flame.png"
 				}
-			},
+			}
 			{
 				"name": "Willbournes Flame_foil",
 				"rarity": "common",
@@ -1339,7 +1339,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/153_Fiery Absolver.png"
 				}
-			},
+			}
 			{
 				"name": "Fiery Absolver_foil",
 				"rarity": "common",
@@ -1363,7 +1363,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/150_Drougth Adventurer.png"
 				}
-			},
+			}
 			{
 				"name": "Drougth Adventurer_foil",
 				"rarity": "common",
@@ -1387,7 +1387,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/175_Warforged Pair.png"
 				}
-			},
+			}
 			{
 				"name": "Warforged Pair_foil",
 				"rarity": "common",
@@ -1411,7 +1411,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/161_Mordel Hammer.png"
 				}
-			},
+			}
 			{
 				"name": "Mordel Hammer_foil",
 				"rarity": "common",
@@ -1435,7 +1435,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/165_Pathborn Spitter.png"
 				}
-			},
+			}
 			{
 				"name": "Pathborn Spitter_foil",
 				"rarity": "common",
@@ -1459,7 +1459,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/160_Mordel Flamespeaker.png"
 				}
-			},
+			}
 			{
 				"name": "Mordel Flamespeaker_foil",
 				"rarity": "common",
@@ -1483,7 +1483,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/149_Drakes Intuition.png"
 				}
-			},
+			}
 			{
 				"name": "Drakes Intuition_foil",
 				"rarity": "common",
@@ -1507,7 +1507,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/172_Smelt Corruption.png"
 				}
-			},
+			}
 			{
 				"name": "Smelt Corruption_foil",
 				"rarity": "common",
@@ -1531,7 +1531,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/162_Mordel Shaper.png"
 				}
-			},
+			}
 			{
 				"name": "Mordel Shaper_foil",
 				"rarity": "common",
@@ -1555,7 +1555,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/170_Shifting Landscape.png"
 				}
-			},
+			}
 			{
 				"name": "Shifting Landscape_foil",
 				"rarity": "common",
@@ -1579,7 +1579,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/187_Depthscout.png"
 				}
-			},
+			}
 			{
 				"name": "Depthscout_foil",
 				"rarity": "common",
@@ -1603,7 +1603,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/188_Disciple of the Thicket.png"
 				}
-			},
+			}
 			{
 				"name": "Disciple of the Thicket_foil",
 				"rarity": "common",
@@ -1665,7 +1665,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/215_Surubim Harpoon.png"
 				}
-			},
+			}
 			{
 				"name": "Surubim Harpoon_foil",
 				"rarity": "common",
@@ -1689,7 +1689,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/199_Meirel Traveller.png"
 				}
-			},
+			}
 			{
 				"name": "Meirel Traveller_foil",
 				"rarity": "common",
@@ -1713,7 +1713,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/211_Shard Bearer.png"
 				}
-			},
+			}
 			{
 				"name": "Shard Bearer_foil",
 				"rarity": "common",
@@ -1737,7 +1737,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/183_Clanless Weaver.png"
 				}
-			},
+			}
 			{
 				"name": "Clanless Weaver_foil",
 				"rarity": "common",
@@ -1761,7 +1761,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/195_Illusion Reamer.png"
 				}
-			},
+			}
 			{
 				"name": "Illusion Reamer_foil",
 				"rarity": "common",
@@ -1785,7 +1785,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/221_Voice of the Thicket.png"
 				}
-			},
+			}
 			{
 				"name": "Voice of the Thicket_foil",
 				"rarity": "common",
@@ -1809,7 +1809,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/157_Inspiring Recruit.png"
 				}
-			},
+			}
 			{
 				"name": "Inspiring Recruit_foil",
 				"rarity": "common",
@@ -1833,7 +1833,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/147_Dance of Discovery.png"
 				}
-			},
+			}
 			{
 				"name": "Dance of Discovery_foil",
 				"rarity": "common",
@@ -1857,7 +1857,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/204_Outland Pair.png"
 				}
-			},
+			}
 			{
 				"name": "Outland Pair_foil",
 				"rarity": "common",
@@ -1881,7 +1881,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/206_Outlands Rescuer.png"
 				}
-			},
+			}
 			{
 				"name": "Outlands Rescuer_foil",
 				"rarity": "common",
@@ -1905,7 +1905,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/213_Stand Your Ground.png"
 				}
-			},
+			}
 			{
 				"name": "Stand Your Ground_foil",
 				"rarity": "common",
@@ -1929,7 +1929,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/193_Guide With and Through.png"
 				}
-			},
+			}
 			{
 				"name": "Guide With and Through_foil",
 				"rarity": "common",
@@ -1953,7 +1953,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/216_Teachings of the Coiled.png"
 				}
-			},
+			}
 			{
 				"name": "Teachings of the Coiled_foil",
 				"rarity": "common",
@@ -1977,7 +1977,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/214_The Strength to Overcome.png"
 				}
-			},
+			}
 			{
 				"name": "The Strength to Overcome_foil",
 				"rarity": "common",
@@ -2001,7 +2001,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/218_Turbulent Aether.png"
 				}
-			},
+			}
 			{
 				"name": "Turbulent Aether_foil",
 				"rarity": "common",
@@ -2025,7 +2025,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/237_Dust Converter.png"
 				}
-			},
+			}
 			{
 				"name": "Dust Converter_foil",
 				"rarity": "common",
@@ -2049,7 +2049,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/226_Avakin Adventurer.png"
 				}
-			},
+			}
 			{
 				"name": "Avakin Adventurer_foil",
 				"rarity": "common",
@@ -2073,7 +2073,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/255_Meirel Drifter.png"
 				}
-			},
+			}
 			{
 				"name": "Meirel Drifter_foil",
 				"rarity": "common",
@@ -2097,7 +2097,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/262_Pathworn Blade.png"
 				}
-			},
+			}
 			{
 				"name": "Pathworn Blade_foil",
 				"rarity": "common",
@@ -2121,7 +2121,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/264_Power from Beyond.png"
 				}
-			},
+			}
 			{
 				"name": "Power from Beyond_foil",
 				"rarity": "common",
@@ -2145,7 +2145,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/228_Calign.png"
 				}
-			},
+			}
 			{
 				"name": "Calign_foil",
 				"rarity": "common",
@@ -2169,7 +2169,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/230_Captivate.png"
 				}
-			},
+			}
 			{
 				"name": "Captivate_foil",
 				"rarity": "common",
@@ -2193,7 +2193,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/223_Adventurous Pair.png"
 				}
-			},
+			}
 			{
 				"name": "Adventurous Pair_foil",
 				"rarity": "common",
@@ -2217,7 +2217,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/235_Drougth Attuner.png"
 				}
-			},
+			}
 			{
 				"name": "Drougth Attuner_foil",
 				"rarity": "common",
@@ -2241,7 +2241,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/263_Perspective Shift.png"
 				}
-			},
+			}
 			{
 				"name": "Perspective Shift_foil",
 				"rarity": "uncommon",
@@ -2265,7 +2265,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/240_Enlisted Arms.png"
 				}
-			},
+			}
 			{
 				"name": "Enlisted Arms_foil",
 				"rarity": "common",
@@ -2289,7 +2289,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/238_Emigrating Pilgrim.png"
 				}
-			},
+			}
 			{
 				"name": "Emigrating Pilgrim_foil",
 				"rarity": "common",
@@ -2313,7 +2313,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/253_Mana Compression.png"
 				}
-			},
+			}
 			{
 				"name": "Mana Compression_foil",
 				"rarity": "common",
@@ -2337,7 +2337,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/236_Drougth Oracle.png"
 				}
-			},
+			}
 			{
 				"name": "Drougth Oracle_foil",
 				"rarity": "common",
@@ -2399,7 +2399,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/258_Mutated Pioneer.png"
 				}
-			},
+			}
 			{
 				"name": "Mutated Pioneer_foil",
 				"rarity": "common",
@@ -2423,7 +2423,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Somber Marsh.png"
 				}
-			},
+			}
 			{
 				"name": "Somber Marsh_foil",
 				"rarity": "common",
@@ -2447,7 +2447,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Fiery Chasm.png"
 				}
-			},
+			}
 			{
 				"name": "Fiery Chasm_foil",
 				"rarity": "common",
@@ -2471,7 +2471,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Barren Fissure.png"
 				}
-			},
+			}
 			{
 				"name": "Barren Fissure_foil",
 				"rarity": "common",
@@ -2495,7 +2495,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Sodden Cavern.png"
 				}
-			},
+			}
 			{
 				"name": "Sodden Cavern_foil",
 				"rarity": "common",
@@ -2519,7 +2519,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Rainforest Spring.png"
 				}
-			},
+			}
 			{
 				"name": "Rainforest Spring_foil",
 				"rarity": "common",
@@ -2543,7 +2543,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Roaring Cascade.png"
 				}
-			},
+			}
 			{
 				"name": "Roaring Cascade_foil",
 				"rarity": "common",
@@ -2567,7 +2567,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Cleft River.png"
 				}
-			},
+			}
 			{
 				"name": "Cleft River_foil",
 				"rarity": "common",
@@ -2591,7 +2591,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Splintered Thicket.png"
 				}
-			},
+			}
 			{
 				"name": "Splintered Thicket_foil",
 				"rarity": "common",
@@ -2615,7 +2615,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Carrigol Spires.png"
 				}
-			},
+			}
 			{
 				"name": "Carrigol Spires_foil",
 				"rarity": "common",
@@ -2639,7 +2639,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Dawnshroud Castle.png"
 				}
-			},
+			}
 			{
 				"name": "Dawnshroud Castle_foil",
 				"rarity": "common",
@@ -2663,7 +2663,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Formless Frontier.png"
 				}
-			},
+			}
 			{
 				"name": "Formless Frontier_foil",
 				"rarity": "common",
@@ -2687,7 +2687,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Glittering Vale.png"
 				}
-			},
+			}
 			{
 				"name": "Glittering Vale_foil",
 				"rarity": "common",
@@ -2711,7 +2711,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Sainard Boneyard.png"
 				}
-			},
+			}
 			{
 				"name": "Sainard Boneyard_foil",
 				"rarity": "common",
@@ -2735,7 +2735,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Soarwing Coast.png"
 				}
-			},
+			}
 			{
 				"name": "Soarwing Coast_foil",
 				"rarity": "common",
@@ -2759,7 +2759,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Highland Vale.png"
 				}
-			},
+			}
 			{
 				"name": "Highland Vale_foil",
 				"rarity": "common",
@@ -2783,7 +2783,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Tectonic Rime.png"
 				}
-			},
+			}
 			{
 				"name": "Tectonic Rime_foil",
 				"rarity": "common",
@@ -2807,7 +2807,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Desolate Barrens.png"
 				}
-			},
+			}
 			{
 				"name": "Desolate Barrens_foil",
 				"rarity": "common",
@@ -2831,7 +2831,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Tranquil Stream.png"
 				}
-			},
+			}
 			{
 				"name": "Tranquil Stream_foil",
 				"rarity": "common",
@@ -2855,7 +2855,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Alpine Meadow.png"
 				}
-			},
+			}
 			{
 				"name": "Alpine Meadow_foil",
 				"rarity": "common",
@@ -2879,7 +2879,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Jagged Crag.png"
 				}
-			},
+			}
 			{
 				"name": "Jagged Crag_foil",
 				"rarity": "common",
@@ -2903,7 +2903,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Crackling Expanse.png"
 				}
-			},
+			}
 			{
 				"name": "Crackling Expanse_foil",
 				"rarity": "common",
@@ -2927,7 +2927,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/36t_Aubrey.png"
 				}
-			},
+			}
 			{
 				"name": "Aubrey_foil",
 				"rarity": "common",
@@ -2951,7 +2951,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/25t_Beast-01.png"
 				}
-			},
+			}
 			{
 				"name": "Beast-01_foil",
 				"rarity": "common",
@@ -2975,7 +2975,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/17t_Bird-01.png"
 				}
-			},
+			}
 			{
 				"name": "Bird-01_foil",
 				"rarity": "common",
@@ -2999,7 +2999,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/2t_Bird-03.png"
 				}
-			},
+			}
 			{
 				"name": "Bird-03_foil",
 				"rarity": "common",
@@ -3023,7 +3023,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/40t_Butterfly-01.png"
 				}
-			},
+			}
 			{
 				"name": "Butterfly-01_foil",
 				"rarity": "common",
@@ -3047,7 +3047,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/26t_Cat-01.png"
 				}
-			},
+			}
 			{
 				"name": "Cat-01_foil",
 				"rarity": "common",
@@ -3071,7 +3071,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/31t_Crab-01.png"
 				}
-			},
+			}
 			{
 				"name": "Crab-01_foil",
 				"rarity": "common",
@@ -3095,7 +3095,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/12t_Draft Archetypes.png"
 				}
-			},
+			}
 			{
 				"name": "Draft Archetypes_foil",
 				"rarity": "common",
@@ -3119,7 +3119,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/13t_Dragon Eye-01.png"
 				}
-			},
+			}
 			{
 				"name": "Dragon Eye-01_foil",
 				"rarity": "common",
@@ -3143,7 +3143,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/15t_Drake-05.png"
 				}
-			},
+			}
 			{
 				"name": "Drake-05_foil",
 				"rarity": "common",
@@ -3167,7 +3167,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/3t_Drake-04.png"
 				}
-			},
+			}
 			{
 				"name": "Drake-04_foil",
 				"rarity": "common",
@@ -3191,7 +3191,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/14t_Drake-02.png"
 				}
-			},
+			}
 			{
 				"name": "Drake-02_foil",
 				"rarity": "common",
@@ -3215,7 +3215,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/18t_Drake-01.png"
 				}
-			},
+			}
 			{
 				"name": "Drake-01_foil",
 				"rarity": "common",
@@ -3239,7 +3239,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/32t_Drake-03.png"
 				}
-			},
+			}
 			{
 				"name": "Drake-03_foil",
 				"rarity": "common",
@@ -3263,7 +3263,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/37t_Elemental Demon-01.png"
 				}
-			},
+			}
 			{
 				"name": "Elemental Demon-01_foil",
 				"rarity": "common",
@@ -3287,7 +3287,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/28t_Elk Plant-01.png"
 				}
-			},
+			}
 			{
 				"name": "Elk Plant-01_foil",
 				"rarity": "common",
@@ -3311,7 +3311,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/29t_Fish-01.png"
 				}
-			},
+			}
 			{
 				"name": "Fish-01_foil",
 				"rarity": "common",
@@ -3335,7 +3335,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/4t_Fox-01.png"
 				}
-			},
+			}
 			{
 				"name": "Fox-01_foil",
 				"rarity": "common",
@@ -3359,7 +3359,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/5t_Fox-02.png"
 				}
-			},
+			}
 			{
 				"name": "Fox-02_foil",
 				"rarity": "common",
@@ -3383,7 +3383,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/20t_Lizard-01.png"
 				}
-			},
+			}
 			{
 				"name": "Lizard-01_foil",
 				"rarity": "common",
@@ -3407,7 +3407,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/21t_Lizard-02.png"
 				}
-			},
+			}
 			{
 				"name": "Lizard-02_foil",
 				"rarity": "common",
@@ -3431,7 +3431,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/35t_Mongoose-01.png"
 				}
-			},
+			}
 			{
 				"name": "Mongoose-01_foil",
 				"rarity": "common",
@@ -3455,7 +3455,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/48t_Orb-01.png"
 				}
-			},
+			}
 			{
 				"name": "Orb-01_foil",
 				"rarity": "common",
@@ -3479,7 +3479,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/8t_Shark-01.png"
 				}
-			},
+			}
 			{
 				"name": "Shark-01_foil",
 				"rarity": "common",
@@ -3503,7 +3503,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/43t_Whale-01.png"
 				}
-			},
+			}
 			{
 				"name": "Whale-01_foil",
 				"rarity": "common",
@@ -3527,7 +3527,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/24t_Wurm-01.png"
 				}
-			},
+			}
 			{
 				"name": "Wurm-01_foil",
 				"rarity": "common",
@@ -3551,7 +3551,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/10t_Wurm-02.png"
 				}
-			},
+			}
 			{
 				"name": "Wurm-02_foil",
 				"rarity": "common",
@@ -3575,7 +3575,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/11t_Wurm-03.png"
 				}
-			},
+			}
 			{
 				"name": "Wurm-03_foil",
 				"rarity": "common",
@@ -3599,7 +3599,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/9t_Wurm Dragon-02.png"
 				}
-			},
+			}
 			{
 				"name": "Wurm Dragon-02_foil",
 				"rarity": "common",
@@ -3623,7 +3623,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/1t_Wurm Dragon-01.png"
 				}
-			},
+			}
 			{
 				"name": "Wurm Dragon-01_foil",
 				"rarity": "common",
@@ -3647,7 +3647,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/310_Morraire Shimmer Patrol.png"
 				}
-			},
+			}
 			{
 				"name": "Morraire Shimmer Patrol_foil",
 				"rarity": "uncommon",
@@ -3671,7 +3671,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/282_Coiling Jailer.png"
 				}
-			},
+			}
 			{
 				"name": "Coiling Jailer_foil",
 				"rarity": "uncommon",
@@ -3695,7 +3695,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/322_Sisters in Sorrow.png"
 				}
-			},
+			}
 			{
 				"name": "Sisters in Sorrow_foil",
 				"rarity": "uncommon",
@@ -3719,7 +3719,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/289_Feather Piper.png"
 				}
-			},
+			}
 			{
 				"name": "Feather Piper_foil",
 				"rarity": "uncommon",
@@ -3743,7 +3743,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/327_Whisperer of the Paths.png"
 				}
-			},
+			}
 			{
 				"name": "Whisperer of the Paths_foil",
 				"rarity": "uncommon",
@@ -3767,7 +3767,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/324_Sunlace Panthera.png"
 				}
-			},
+			}
 			{
 				"name": "Sunlace Panthera_foil",
 				"rarity": "uncommon",
@@ -3791,7 +3791,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/320_Shadow of Grace.png"
 				}
-			},
+			}
 			{
 				"name": "Shadow of Grace_foil",
 				"rarity": "uncommon",
@@ -3815,7 +3815,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/302_Latent Powerstone.png"
 				}
-			},
+			}
 			{
 				"name": "Latent Powerstone_foil",
 				"rarity": "uncommon",
@@ -3839,7 +3839,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/316_Pathward Riftcalling.png"
 				}
-			},
+			}
 			{
 				"name": "Pathward Riftcalling_foil",
 				"rarity": "uncommon",
@@ -3863,7 +3863,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/306_Menithel Demon.png"
 				}
-			},
+			}
 			{
 				"name": "Menithel Demon_foil",
 				"rarity": "uncommon",
@@ -3887,7 +3887,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/283_Cydina Storm Drake.png"
 				}
-			},
+			}
 			{
 				"name": "Cydina Storm Drake_foil",
 				"rarity": "uncommon",
@@ -3911,7 +3911,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/290_Flowsnail.png"
 				}
-			},
+			}
 			{
 				"name": "Flowsnail_foil",
 				"rarity": "uncommon",
@@ -3935,7 +3935,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/309_Mordel Spiritcaller.png"
 				}
-			},
+			}
 			{
 				"name": "Mordel Spiritcaller_foil",
 				"rarity": "uncommon",
@@ -3959,7 +3959,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/296_Ignelscor Frontliner.png"
 				}
-			},
+			}
 			{
 				"name": "Ignelscor Frontliner_foil",
 				"rarity": "uncommon",
@@ -3983,7 +3983,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/318_Promise of Hunger.png"
 				}
-			},
+			}
 			{
 				"name": "Promise of Hunger_foil",
 				"rarity": "uncommon",
@@ -4007,7 +4007,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/277_Balutr Runners.png"
 				}
-			},
+			}
 			{
 				"name": "Balutr Runners_foil",
 				"rarity": "uncommon",
@@ -4031,7 +4031,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/42t_Sanctum Reminder.png"
 				}
-			},
+			}
 			{
 				"name": "Sanctum Reminder_foil",
 				"rarity": "special",
@@ -4055,7 +4055,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/285_Drake Mentor.png"
 				}
-			},
+			}
 			{
 				"name": "Drake Mentor_foil",
 				"rarity": "uncommon",
@@ -4079,7 +4079,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/279_Boundless Flight.png"
 				}
-			},
+			}
 			{
 				"name": "Boundless Flight_foil",
 				"rarity": "uncommon",
@@ -4103,7 +4103,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/326_Upsurge Nemato-Gnathi.png"
 				}
-			},
+			}
 			{
 				"name": "Upsurge Nemato-Gnathi_foil",
 				"rarity": "uncommon",
@@ -4127,7 +4127,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/286_Duraval Starmapper.png"
 				}
-			},
+			}
 			{
 				"name": "Duraval Starmapper_foil",
 				"rarity": "uncommon",
@@ -4151,7 +4151,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/300_Kaln-Ocean Harmonizer.png"
 				}
-			},
+			}
 			{
 				"name": "Kaln-Ocean Harmonizer_foil",
 				"rarity": "uncommon",
@@ -4175,7 +4175,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/315_Outlands Duelists.png"
 				}
-			},
+			}
 			{
 				"name": "Outlands Duelists_foil",
 				"rarity": "uncommon",
@@ -4199,7 +4199,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/305_Meirel Pathrunner.png"
 				}
-			},
+			}
 			{
 				"name": "Meirel Pathrunner_foil",
 				"rarity": "uncommon",
@@ -4223,7 +4223,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/325_Those Lost in the Paths.png"
 				}
-			},
+			}
 			{
 				"name": "Those Lost in the Paths_foil",
 				"rarity": "uncommon",
@@ -4247,7 +4247,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/280_Calamitous Koi.png"
 				}
-			},
+			}
 			{
 				"name": "Calamitous Koi_foil",
 				"rarity": "uncommon",
@@ -4271,7 +4271,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/313_Omen of Hunger.png"
 				}
-			},
+			}
 			{
 				"name": "Omen of Hunger_foil",
 				"rarity": "uncommon",
@@ -4295,7 +4295,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/274_Ardent Grief.png"
 				}
-			},
+			}
 			{
 				"name": "Ardent Grief_foil",
 				"rarity": "uncommon",
@@ -4319,7 +4319,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/297_Ignelscor Weaver.png"
 				}
-			},
+			}
 			{
 				"name": "Ignelscor Weaver_foil",
 				"rarity": "uncommon",
@@ -4343,7 +4343,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/39t_Guardian of the Cinders.png"
 				}
-			},
+			}
 			{
 				"name": "Guardian of the Cinders_foil",
 				"rarity": "uncommon",
@@ -4367,7 +4367,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/311_Mourncast Disciple.png"
 				}
-			},
+			}
 			{
 				"name": "Mourncast Disciple_foil",
 				"rarity": "uncommon",
@@ -4391,7 +4391,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/319_Remnants of the War.png"
 				}
-			},
+			}
 			{
 				"name": "Remnants of the War_foil",
 				"rarity": "uncommon",
@@ -4415,7 +4415,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/11_Monument to Forever.png"
 				}
-			},
+			}
 			{
 				"name": "Monument to Forever_foil",
 				"rarity": "uncommon",
@@ -4439,7 +4439,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/7_Kilnhart Smoghorn.png"
 				}
-			},
+			}
 			{
 				"name": "Kilnhart Smoghorn_foil",
 				"rarity": "uncommon",
@@ -4463,7 +4463,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/1_Ambitious Haze.png"
 				}
-			},
+			}
 			{
 				"name": "Ambitious Haze_foil",
 				"rarity": "uncommon",
@@ -4487,7 +4487,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/331_Drakesteel Effigy.png"
 				}
-			},
+			}
 			{
 				"name": "Drakesteel Effigy_foil",
 				"rarity": "uncommon",
@@ -4511,7 +4511,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/330_Clerics Claymore.png"
 				}
-			},
+			}
 			{
 				"name": "Clerics Claymore_foil",
 				"rarity": "uncommon",
@@ -4535,7 +4535,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/4_Crystalline Refraction.png"
 				}
-			},
+			}
 			{
 				"name": "Crystalline Refraction_foil",
 				"rarity": "uncommon",
@@ -4559,7 +4559,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/242_Homestead Pair.png"
 				}
-			},
+			}
 			{
 				"name": "Homestead Pair_foil",
 				"rarity": "uncommon",
@@ -4583,7 +4583,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/14_Parading Terrain.png"
 				}
-			},
+			}
 			{
 				"name": "Parading Terrain_foil",
 				"rarity": "common",
@@ -4607,7 +4607,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/27t_Depthscout Token.png"
 				}
-			},
+			}
 			{
 				"name": "Depthscout Token_foil",
 				"rarity": "common",
@@ -4631,7 +4631,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/234_Discover Uncertainty.png"
 				}
-			},
+			}
 			{
 				"name": "Discover Uncertainty_foil",
 				"rarity": "uncommon",
@@ -4655,7 +4655,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/273_When Words Dont Work.png"
 				}
-			},
+			}
 			{
 				"name": "When Words Dont Work_foil",
 				"rarity": "common",
@@ -4679,7 +4679,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/19t_Illuminated black.png"
 				}
-			},
+			}
 			{
 				"name": "Illuminated black_foil",
 				"rarity": "special",
@@ -4703,7 +4703,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/16t_Illuminated Blue.png"
 				}
-			},
+			}
 			{
 				"name": "Illuminated Blue_foil",
 				"rarity": "special",
@@ -4727,7 +4727,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/30t_Illuminated Green.png"
 				}
-			},
+			}
 			{
 				"name": "Illuminated Green_foil",
 				"rarity": "special",
@@ -4751,7 +4751,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/22t_Illuminated Red.png"
 				}
-			},
+			}
 			{
 				"name": "Illuminated Red_foil",
 				"rarity": "special",
@@ -4775,7 +4775,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/33t_Illuminated Silver.png"
 				}
-			},
+			}
 			{
 				"name": "Illuminated Silver_foil",
 				"rarity": "special",
@@ -4799,7 +4799,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/6t_Illuminated White.png"
 				}
-			},
+			}
 			{
 				"name": "Illuminated White_foil",
 				"rarity": "special",
@@ -4823,7 +4823,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/372_Fault-01.png"
 				}
-			},
+			}
 			{
 				"name": "Fault-01_foil",
 				"rarity": "common",
@@ -4847,7 +4847,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/374_Fault-03.png"
 				}
-			},
+			}
 			{
 				"name": "Fault-03_foil",
 				"rarity": "common",
@@ -4871,7 +4871,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/373_Fault-02.png"
 				}
-			},
+			}
 			{
 				"name": "Fault-02_foil",
 				"rarity": "common",
@@ -4895,7 +4895,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/375_Fault-04.png"
 				}
-			},
+			}
 			{
 				"name": "Fault-04_foil",
 				"rarity": "common",
@@ -4919,7 +4919,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/368_Forest-01.png"
 				}
-			},
+			}
 			{
 				"name": "Forest-01_foil",
 				"rarity": "common",
@@ -4943,7 +4943,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/370_Forest-03.png"
 				}
-			},
+			}
 			{
 				"name": "Forest-03_foil",
 				"rarity": "common",
@@ -4967,7 +4967,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/369_Forest-02.png"
 				}
-			},
+			}
 			{
 				"name": "Forest-02_foil",
 				"rarity": "common",
@@ -4991,7 +4991,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/371_Forest-04.png"
 				}
-			},
+			}
 			{
 				"name": "Forest-04_foil",
 				"rarity": "common",
@@ -5015,7 +5015,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/356_Island-01.png"
 				}
-			},
+			}
 			{
 				"name": "Island-01_foil",
 				"rarity": "common",
@@ -5039,7 +5039,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/358_Island-03.png"
 				}
-			},
+			}
 			{
 				"name": "Island-03_foil",
 				"rarity": "common",
@@ -5063,7 +5063,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/357_Island-02.png"
 				}
-			},
+			}
 			{
 				"name": "Island-02_foil",
 				"rarity": "common",
@@ -5087,7 +5087,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/359_Island-04.png"
 				}
-			},
+			}
 			{
 				"name": "Island-04_foil",
 				"rarity": "common",
@@ -5111,7 +5111,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/364_Mountain-01.png"
 				}
-			},
+			}
 			{
 				"name": "Mountain-01_foil",
 				"rarity": "common",
@@ -5135,7 +5135,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/365_Mountain-02.png"
 				}
-			},
+			}
 			{
 				"name": "Mountain-02_foil",
 				"rarity": "common",
@@ -5159,7 +5159,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/366_Mountain-03.png"
 				}
-			},
+			}
 			{
 				"name": "Mountain-03_foil",
 				"rarity": "common",
@@ -5183,7 +5183,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/367_Mountain-04.png"
 				}
-			},
+			}
 			{
 				"name": "Mountain-04_foil",
 				"rarity": "common",
@@ -5207,7 +5207,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/355_Plains-04.png"
 				}
-			},
+			}
 			{
 				"name": "Plains-04_foil",
 				"rarity": "common",
@@ -5231,7 +5231,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/352_Plains-01.png"
 				}
-			},
+			}
 			{
 				"name": "Plains-01_foil",
 				"rarity": "common",
@@ -5255,7 +5255,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/354_Plains-03.png"
 				}
-			},
+			}
 			{
 				"name": "Plains-03_foil",
 				"rarity": "common",
@@ -5279,7 +5279,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/353_Plains-02.png"
 				}
-			},
+			}
 			{
 				"name": "Plains-02_foil",
 				"rarity": "common",
@@ -5303,7 +5303,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/360_Swamp-01.png"
 				}
-			},
+			}
 			{
 				"name": "Swamp-01_foil",
 				"rarity": "common",
@@ -5327,7 +5327,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/362_Swamp-03.png"
 				}
-			},
+			}
 			{
 				"name": "Swamp-03_foil",
 				"rarity": "common",
@@ -5351,7 +5351,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/361_Swamp-02.png"
 				}
-			},
+			}
 			{
 				"name": "Swamp-02_foil",
 				"rarity": "common",
@@ -5375,7 +5375,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/363_Swamp-04.png"
 				}
-			},
+			}
 			{
 				"name": "Swamp-04_foil",
 				"rarity": "common",
@@ -5399,7 +5399,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/377_Healing Counter.png"
 				}
-			},
+			}
 			{
 				"name": "Healing Counter_foil",
 				"rarity": "special",
@@ -5423,7 +5423,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/376_Stun Counter.png"
 				}
-			},
+			}
 			{
 				"name": "Stun Counter_foil",
 				"rarity": "special",
@@ -5447,7 +5447,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/378_plus one plus one counter.png"
 				}
-			},
+			}
 			{
 				"name": "plus one plus one counter_foil",
 				"rarity": "special",
@@ -5471,7 +5471,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/244_Iconic Challenger.png"
 				}
-			},
+			}
 			{
 				"name": "Iconic Challenger_foil",
 				"rarity": "uncommon",
@@ -5495,7 +5495,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/271_Unweave.png"
 				}
-			},
+			}
 			{
 				"name": "Unweave_foil",
 				"rarity": "uncommon",
@@ -5557,7 +5557,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/227_Blade Reifier.png"
 				}
-			},
+			}
 			{
 				"name": "Blade Reifier_foil",
 				"rarity": "uncommon",
@@ -5581,7 +5581,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/245_Ignelscor Witch.png"
 				}
-			},
+			}
 			{
 				"name": "Ignelscor Witch_foil",
 				"rarity": "uncommon",
@@ -5605,7 +5605,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/250_Kornas Forward.png"
 				}
-			},
+			}
 			{
 				"name": "Kornas Forward_foil",
 				"rarity": "uncommon",
@@ -5629,7 +5629,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/256_Meirel Evacuator.png"
 				}
-			},
+			}
 			{
 				"name": "Meirel Evacuator_foil",
 				"rarity": "uncommon",
@@ -5653,7 +5653,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/270_Unending Exploration.png"
 				}
-			},
+			}
 			{
 				"name": "Unending Exploration_foil",
 				"rarity": "uncommon",
@@ -5677,7 +5677,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Cascading Cleave.png"
 				}
-			},
+			}
 			{
 				"name": "Cascading Cleave_foil",
 				"rarity": "uncommon",
@@ -5701,7 +5701,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Persisting Timepiece.png"
 				}
-			},
+			}
 			{
 				"name": "Persisting Timepiece_foil",
 				"rarity": "uncommon",
@@ -5725,7 +5725,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Vineglare Enclave.png"
 				}
-			},
+			}
 			{
 				"name": "Vineglare Enclave_foil",
 				"rarity": "uncommon",
@@ -5749,7 +5749,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/246_Inkblot Artist.png"
 				}
-			},
+			}
 			{
 				"name": "Inkblot Artist_foil",
 				"rarity": "uncommon",
@@ -5773,7 +5773,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/266_Reflected Inclination.png"
 				}
-			},
+			}
 			{
 				"name": "Reflected Inclination_foil",
 				"rarity": "uncommon",
@@ -5797,7 +5797,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/272_Wandering Travellers.png"
 				}
-			},
+			}
 			{
 				"name": "Wandering Travellers_foil",
 				"rarity": "uncommon",
@@ -5821,7 +5821,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Bloomrock Enclave.png"
 				}
-			},
+			}
 			{
 				"name": "Bloomrock Enclave_foil",
 				"rarity": "uncommon",
@@ -5845,7 +5845,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Brightblossom Enclave.png"
 				}
-			},
+			}
 			{
 				"name": "Brightblossom Enclave_foil",
 				"rarity": "uncommon",
@@ -5869,7 +5869,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Dawnbreak Resort.png"
 				}
-			},
+			}
 			{
 				"name": "Dawnbreak Resort_foil",
 				"rarity": "uncommon",
@@ -5893,7 +5893,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Devoted Riftpike.png"
 				}
-			},
+			}
 			{
 				"name": "Devoted Riftpike_foil",
 				"rarity": "uncommon",
@@ -5917,7 +5917,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Errant Pillar.png"
 				}
-			},
+			}
 			{
 				"name": "Errant Pillar_foil",
 				"rarity": "uncommon",
@@ -5941,7 +5941,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Exhausting Foundation.png"
 				}
-			},
+			}
 			{
 				"name": "Exhausting Foundation_foil",
 				"rarity": "uncommon",
@@ -5965,7 +5965,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Glowspore Enclave.png"
 				}
-			},
+			}
 			{
 				"name": "Glowspore Enclave_foil",
 				"rarity": "uncommon",
@@ -5989,7 +5989,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Hostile Pillars.png"
 				}
-			},
+			}
 			{
 				"name": "Hostile Pillars_foil",
 				"rarity": "uncommon",
@@ -6013,7 +6013,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Listless Monument.png"
 				}
-			},
+			}
 			{
 				"name": "Listless Monument_foil",
 				"rarity": "uncommon",
@@ -6037,7 +6037,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Mistlake Enclave.png"
 				}
-			},
+			}
 			{
 				"name": "Mistlake Enclave_foil",
 				"rarity": "uncommon",
@@ -6061,7 +6061,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Moonglow Enclave.png"
 				}
-			},
+			}
 			{
 				"name": "Moonglow Enclave_foil",
 				"rarity": "uncommon",
@@ -6085,7 +6085,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Ominous Temple.png"
 				}
-			},
+			}
 			{
 				"name": "Ominous Temple_foil",
 				"rarity": "uncommon",
@@ -6109,7 +6109,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Roaming Ruins.png"
 				}
-			},
+			}
 			{
 				"name": "Roaming Ruins_foil",
 				"rarity": "uncommon",
@@ -6133,7 +6133,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Soaring Tethers.png"
 				}
-			},
+			}
 			{
 				"name": "Soaring Tethers_foil",
 				"rarity": "uncommon",
@@ -6157,7 +6157,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Sunswept Prairie.png"
 				}
-			},
+			}
 			{
 				"name": "Sunswept Prairie_foil",
 				"rarity": "uncommon",
@@ -6181,7 +6181,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Thyrsine Way.png"
 				}
-			},
+			}
 			{
 				"name": "Thyrsine Way_foil",
 				"rarity": "uncommon",
@@ -6205,7 +6205,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Vibrant Knoll.png"
 				}
-			},
+			}
 			{
 				"name": "Vibrant Knoll_foil",
 				"rarity": "uncommon",
@@ -6229,7 +6229,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Windy Weft.png"
 				}
-			},
+			}
 			{
 				"name": "Windy Weft_foil",
 				"rarity": "uncommon",
@@ -6253,7 +6253,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Binding Pools.png"
 				}
-			},
+			}
 			{
 				"name": "Binding Pools_foil",
 				"rarity": "rare",
@@ -6277,7 +6277,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Frontier Sanctuary.png"
 				}
-			},
+			}
 			{
 				"name": "Frontier Sanctuary_foil",
 				"rarity": "rare",
@@ -6301,7 +6301,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Mirdrim Summit.png"
 				}
-			},
+			}
 			{
 				"name": "Mirdrim Summit_foil",
 				"rarity": "rare",
@@ -6325,7 +6325,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Splitting Caldera.png"
 				}
-			},
+			}
 			{
 				"name": "Splitting Caldera_foil",
 				"rarity": "rare",
@@ -6349,7 +6349,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/0_Winnowing Tower.png"
 				}
-			},
+			}
 			{
 				"name": "Winnowing Tower_foil",
 				"rarity": "rare",
@@ -6373,7 +6373,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/351_Tavern Sanctum.png"
 				}
-			},
+			}
 			{
 				"name": "Tavern Sanctum_foil",
 				"rarity": "mythic",
@@ -6435,7 +6435,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/47t_Orb Wizard.png"
 				}
-			},
+			}
 			{
 				"name": "Orb Wizard_foil",
 				"rarity": "common",
@@ -6459,7 +6459,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/45_Outlands Recruiter.png"
 				}
-			},
+			}
 			{
 				"name": "Outlands Recruiter_foil",
 				"rarity": "uncommon",
@@ -6483,7 +6483,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/34_Julius Skyknight of Morriare.png"
 				}
-			},
+			}
 			{
 				"name": "Julius Skyknight of Morriare_foil",
 				"rarity": "uncommon",
@@ -6507,7 +6507,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/57_Yearn for the Sky.png"
 				}
-			},
+			}
 			{
 				"name": "Yearn for the Sky_foil",
 				"rarity": "uncommon",
@@ -6531,7 +6531,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/37_Marching Partisan.png"
 				}
-			},
+			}
 			{
 				"name": "Marching Partisan_foil",
 				"rarity": "uncommon",
@@ -6555,7 +6555,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/43_Outland Riftsower.png"
 				}
-			},
+			}
 			{
 				"name": "Outland Riftsower_foil",
 				"rarity": "uncommon",
@@ -6579,7 +6579,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/20_Clanless Tunneler.png"
 				}
-			},
+			}
 			{
 				"name": "Clanless Tunneler_foil",
 				"rarity": "uncommon",
@@ -6603,7 +6603,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/22_Coalesced Company.png"
 				}
-			},
+			}
 			{
 				"name": "Coalesced Company_foil",
 				"rarity": "uncommon",
@@ -6627,7 +6627,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/32_Inspiring Dunes.png"
 				}
-			},
+			}
 			{
 				"name": "Inspiring Dunes_foil",
 				"rarity": "uncommon",
@@ -6651,7 +6651,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/29_Hengs Intercession.png"
 				}
-			},
+			}
 			{
 				"name": "Hengs Intercession_foil",
 				"rarity": "uncommon",
@@ -6675,7 +6675,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/40_Mentor of Engagement.png"
 				}
-			},
+			}
 			{
 				"name": "Mentor of Engagement_foil",
 				"rarity": "uncommon",
@@ -6699,7 +6699,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/56_Winding Guide.png"
 				}
-			},
+			}
 			{
 				"name": "Winding Guide_foil",
 				"rarity": "uncommon",
@@ -6723,7 +6723,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/51_Safeguarded Pair.png"
 				}
-			},
+			}
 			{
 				"name": "Safeguarded Pair_foil",
 				"rarity": "uncommon",
@@ -6747,7 +6747,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/48_Peacewarden.png"
 				}
-			},
+			}
 			{
 				"name": "Peacewarden_foil",
 				"rarity": "uncommon",
@@ -6847,7 +6847,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/90_Storm Striker.png"
 				}
-			},
+			}
 			{
 				"name": "Storm Striker_foil",
 				"rarity": "uncommon",
@@ -6871,7 +6871,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/67_Dreamgill Salamander.png"
 				}
-			},
+			}
 			{
 				"name": "Dreamgill Salamander_foil",
 				"rarity": "uncommon",
@@ -6895,7 +6895,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/68_Embracing Intonation.png"
 				}
-			},
+			}
 			{
 				"name": "Embracing Intonation_foil",
 				"rarity": "uncommon",
@@ -6919,7 +6919,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/77_Moonscale Koi.png"
 				}
-			},
+			}
 			{
 				"name": "Moonscale Koi_foil",
 				"rarity": "uncommon",
@@ -6943,7 +6943,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/95_Vertical Shift.png"
 				}
-			},
+			}
 			{
 				"name": "Vertical Shift_foil",
 				"rarity": "uncommon",
@@ -6967,7 +6967,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/97_Waterscape Mystic.png"
 				}
-			},
+			}
 			{
 				"name": "Waterscape Mystic_foil",
 				"rarity": "uncommon",
@@ -6991,7 +6991,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/72_I Know What You Mean to Me.png"
 				}
-			},
+			}
 			{
 				"name": "I Know What You Mean to Me_foil",
 				"rarity": "uncommon",
@@ -7015,7 +7015,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/84_Rest For a New World.png"
 				}
-			},
+			}
 			{
 				"name": "Rest For a New World_foil",
 				"rarity": "uncommon",
@@ -7039,7 +7039,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/82_Relentless Spellseeker.png"
 				}
-			},
+			}
 			{
 				"name": "Relentless Spellseeker_foil",
 				"rarity": "uncommon",
@@ -7063,7 +7063,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/62_Cliffside Surveyor.png"
 				}
-			},
+			}
 			{
 				"name": "Cliffside Surveyor_foil",
 				"rarity": "uncommon",
@@ -7125,7 +7125,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/88_Slipstream Cyprinus.png"
 				}
-			},
+			}
 			{
 				"name": "Slipstream Cyprinus_foil",
 				"rarity": "uncommon",
@@ -7149,7 +7149,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/75_Mesmeric Peaks.png"
 				}
-			},
+			}
 			{
 				"name": "Mesmeric Peaks_foil",
 				"rarity": "uncommon",
@@ -7173,7 +7173,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/126_Parasitic Roots.png"
 				}
-			},
+			}
 			{
 				"name": "Parasitic Roots_foil",
 				"rarity": "uncommon",
@@ -7197,7 +7197,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/114_Howling Gasp.png"
 				}
-			},
+			}
 			{
 				"name": "Howling Gasp_foil",
 				"rarity": "uncommon",
@@ -7221,7 +7221,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/115_I Wont Stand Alone.png"
 				}
-			},
+			}
 			{
 				"name": "I Wont Stand Alone_foil",
 				"rarity": "uncommon",
@@ -7245,7 +7245,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/108_Ditto Dagger.png"
 				}
-			},
+			}
 			{
 				"name": "Ditto Dagger_foil",
 				"rarity": "uncommon",
@@ -7269,7 +7269,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/120_Lizturbance.png"
 				}
-			},
+			}
 			{
 				"name": "Lizturbance_foil",
 				"rarity": "uncommon",
@@ -7293,7 +7293,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/107_Dissenting Experience.png"
 				}
-			},
+			}
 			{
 				"name": "Dissenting Experience_foil",
 				"rarity": "uncommon",
@@ -7317,7 +7317,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/124_Omenspeaker Avakin.png"
 				}
-			},
+			}
 			{
 				"name": "Omenspeaker Avakin_foil",
 				"rarity": "uncommon",
@@ -7341,7 +7341,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/139_Your Strength is Fading.png"
 				}
-			},
+			}
 			{
 				"name": "Your Strength is Fading_foil",
 				"rarity": "uncommon",
@@ -7403,7 +7403,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/135_Spire of Rebirth.png"
 				}
-			},
+			}
 			{
 				"name": "Spire of Rebirth_foil",
 				"rarity": "uncommon",
@@ -7427,7 +7427,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/123_Murkross Spiritcaller.png"
 				}
-			},
+			}
 			{
 				"name": "Murkross Spiritcaller_foil",
 				"rarity": "uncommon",
@@ -7527,7 +7527,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/116_Ignelscor Jidiao.png"
 				}
-			},
+			}
 			{
 				"name": "Ignelscor Jidiao_foil",
 				"rarity": "uncommon",
@@ -7551,7 +7551,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/105_Boundless Hollow.png"
 				}
-			},
+			}
 			{
 				"name": "Boundless Hollow_foil",
 				"rarity": "uncommon",
@@ -7575,7 +7575,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/131_Rend Hope.png"
 				}
-			},
+			}
 			{
 				"name": "Rend Hope_foil",
 				"rarity": "uncommon",
@@ -7599,7 +7599,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/103_Awakened Wurm.png"
 				}
-			},
+			}
 			{
 				"name": "Awakened Wurm_foil",
 				"rarity": "uncommon",
@@ -7661,7 +7661,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/140_Bare Your Fangs.png"
 				}
-			},
+			}
 			{
 				"name": "Bare Your Fangs_foil",
 				"rarity": "uncommon",
@@ -7685,7 +7685,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/158_Lost Sunset.png"
 				}
-			},
+			}
 			{
 				"name": "Lost Sunset_foil",
 				"rarity": "uncommon",
@@ -7709,7 +7709,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/146_Counterinsurgency.png"
 				}
-			},
+			}
 			{
 				"name": "Counterinsurgency_foil",
 				"rarity": "uncommon",
@@ -7733,7 +7733,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/156_Haphazard and Unbound.png"
 				}
-			},
+			}
 			{
 				"name": "Haphazard and Unbound_foil",
 				"rarity": "uncommon",
@@ -7757,7 +7757,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/163_New Mordel Fireweaver.png"
 				}
-			},
+			}
 			{
 				"name": "New Mordel Fireweaver_foil",
 				"rarity": "uncommon",
@@ -7781,7 +7781,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/169_Seasoned Flamefinder.png"
 				}
-			},
+			}
 			{
 				"name": "Seasoned Flamefinder_foil",
 				"rarity": "uncommon",
@@ -7805,7 +7805,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/143_Broodmages Furor.png"
 				}
-			},
+			}
 			{
 				"name": "Broodmages Furor_foil",
 				"rarity": "uncommon",
@@ -7829,7 +7829,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/164_Our March Wont End.png"
 				}
-			},
+			}
 			{
 				"name": "Our March Wont End_foil",
 				"rarity": "uncommon",
@@ -7853,7 +7853,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/144_Call to Revolution.png"
 				}
-			},
+			}
 			{
 				"name": "Call to Revolution_foil",
 				"rarity": "uncommon",
@@ -7877,7 +7877,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/171_Shimmer From Beyond.png"
 				}
-			},
+			}
 			{
 				"name": "Shimmer From Beyond_foil",
 				"rarity": "uncommon",
@@ -7901,7 +7901,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/151_Encouraging Passage.png"
 				}
-			},
+			}
 			{
 				"name": "Encouraging Passage_foil",
 				"rarity": "uncommon",
@@ -7925,7 +7925,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/155_Fritter Skitter.png"
 				}
-			},
+			}
 			{
 				"name": "Fritter Skitter_foil",
 				"rarity": "uncommon",
@@ -7949,7 +7949,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/148_Dawncoil Burnisher.png"
 				}
-			},
+			}
 			{
 				"name": "Dawncoil Burnisher_foil",
 				"rarity": "uncommon",
@@ -7973,7 +7973,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/208_Ranging Symbiote.png"
 				}
-			},
+			}
 			{
 				"name": "Ranging Symbiote_foil",
 				"rarity": "uncommon",
@@ -7997,7 +7997,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/198_Leyline Weaver.png"
 				}
-			},
+			}
 			{
 				"name": "Leyline Weaver_foil",
 				"rarity": "uncommon",
@@ -8021,7 +8021,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/201_Murkross Shaman.png"
 				}
-			},
+			}
 			{
 				"name": "Murkross Shaman_foil",
 				"rarity": "uncommon",
@@ -8045,7 +8045,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/220_Virulent Attendant.png"
 				}
-			},
+			}
 			{
 				"name": "Virulent Attendant_foil",
 				"rarity": "uncommon",
@@ -8069,7 +8069,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/182_Cervus Sprouting.png"
 				}
-			},
+			}
 			{
 				"name": "Cervus Sprouting_foil",
 				"rarity": "uncommon",
@@ -8093,7 +8093,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/219_Unexpected Predator.png"
 				}
-			},
+			}
 			{
 				"name": "Unexpected Predator_foil",
 				"rarity": "uncommon",
@@ -8117,7 +8117,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/181_Cartographers Survey.png"
 				}
-			},
+			}
 			{
 				"name": "Cartographers Survey_foil",
 				"rarity": "uncommon",
@@ -8141,7 +8141,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/194_Hunters Strength.png"
 				}
-			},
+			}
 			{
 				"name": "Hunters Strength_foil",
 				"rarity": "uncommon",
@@ -8165,7 +8165,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/196_Keras Appointed.png"
 				}
-			},
+			}
 			{
 				"name": "Keras Appointed_foil",
 				"rarity": "uncommon",
@@ -8189,7 +8189,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/203_Nurtured Landscape.png"
 				}
-			},
+			}
 			{
 				"name": "Nurtured Landscape_foil",
 				"rarity": "uncommon",
@@ -8213,7 +8213,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/205_Outlands Caretaker.png"
 				}
-			},
+			}
 			{
 				"name": "Outlands Caretaker_foil",
 				"rarity": "uncommon",
@@ -8237,7 +8237,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/212_Snowscaper Bakunawa.png"
 				}
-			},
+			}
 			{
 				"name": "Snowscaper Bakunawa_foil",
 				"rarity": "uncommon",
@@ -8261,7 +8261,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/178_Awakened Reactionary.png"
 				}
-			},
+			}
 			{
 				"name": "Awakened Reactionary_foil",
 				"rarity": "uncommon",
@@ -8285,7 +8285,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/184_Crustacean Surge.png"
 				}
-			},
+			}
 			{
 				"name": "Crustacean Surge_foil",
 				"rarity": "uncommon",
@@ -8309,7 +8309,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/332_Extraplanar Portal.png"
 				}
-			},
+			}
 			{
 				"name": "Extraplanar Portal_foil",
 				"rarity": "rare",
@@ -8333,7 +8333,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/134_Soul Shatter.png"
 				}
-			},
+			}
 			{
 				"name": "Soul Shatter_foil",
 				"rarity": "rare",
@@ -8357,7 +8357,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/301_Korna Adventuring Historian.png"
 				}
-			},
+			}
 			{
 				"name": "Korna Adventuring Historian_foil",
 				"rarity": "rare",
@@ -8381,7 +8381,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/328_Zoslera Exiled Visionary.png"
 				}
-			},
+			}
 			{
 				"name": "Zoslera Exiled Visionary_foil",
 				"rarity": "rare",
@@ -8405,7 +8405,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/92_Trade Routes.png"
 				}
-			},
+			}
 			{
 				"name": "Trade Routes_foil",
 				"rarity": "rare",
@@ -8429,7 +8429,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/222_Where Our Paths Meet.png"
 				}
-			},
+			}
 			{
 				"name": "Where Our Paths Meet_foil",
 				"rarity": "rare",
@@ -8453,7 +8453,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/275_Aurel Born Through Discord.png"
 				}
-			},
+			}
 			{
 				"name": "Aurel Born Through Discord_foil",
 				"rarity": "rare",
@@ -8477,7 +8477,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/52_Sonnet Meirel Lancer.png"
 				}
-			},
+			}
 			{
 				"name": "Sonnet Meirel Lancer_foil",
 				"rarity": "rare",
@@ -8501,7 +8501,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/10_Marie Hungerbound.png"
 				}
-			},
+			}
 			{
 				"name": "Marie Hungerbound_foil",
 				"rarity": "mythic",
@@ -8525,7 +8525,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/323_Skyskif Flying Fish.png"
 				}
-			},
+			}
 			{
 				"name": "Skyskif Flying Fish_foil",
 				"rarity": "rare",
@@ -8549,7 +8549,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/292_Gael Spiteflame Phoenix.png"
 				}
-			},
+			}
 			{
 				"name": "Gael Spiteflame Phoenix_foil",
 				"rarity": "rare",
@@ -8573,7 +8573,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/299_Jothi Awakened Flock.png"
 				}
-			},
+			}
 			{
 				"name": "Jothi Awakened Flock_foil",
 				"rarity": "rare",
@@ -8597,7 +8597,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/33_Jothi.png"
 				}
-			},
+			}
 			{
 				"name": "Jothi_foil",
 				"rarity": "rare",
@@ -8621,7 +8621,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/217_Tofnet Ranger.png"
 				}
-			},
+			}
 			{
 				"name": "Tofnet Ranger_foil",
 				"rarity": "rare",
@@ -8645,7 +8645,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/180_Axoladen Adventurer.png"
 				}
-			},
+			}
 			{
 				"name": "Axoladen Adventurer_foil",
 				"rarity": "rare",
@@ -8669,7 +8669,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/8_Lasting Discovery.png"
 				}
-			},
+			}
 			{
 				"name": "Lasting Discovery_foil",
 				"rarity": "rare",
@@ -8693,7 +8693,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/93_Trailing Tethers.png"
 				}
-			},
+			}
 			{
 				"name": "Trailing Tethers_foil",
 				"rarity": "rare",
@@ -8717,7 +8717,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/80_Prismatic Drake.png"
 				}
-			},
+			}
 			{
 				"name": "Prismatic Drake_foil",
 				"rarity": "rare",
@@ -8741,7 +8741,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/298_Ikorian Skyshark.png"
 				}
-			},
+			}
 			{
 				"name": "Ikorian Skyshark_foil",
 				"rarity": "rare",
@@ -8765,7 +8765,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/12_Nirvanha Bloom.png"
 				}
-			},
+			}
 			{
 				"name": "Nirvanha Bloom_foil",
 				"rarity": "rare",
@@ -8789,7 +8789,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/6_Forgiving Monument.png"
 				}
-			},
+			}
 			{
 				"name": "Forgiving Monument_foil",
 				"rarity": "mythic",
@@ -8813,7 +8813,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/243_I Will Walk My Own Path.png"
 				}
-			},
+			}
 			{
 				"name": "I Will Walk My Own Path_foil",
 				"rarity": "mythic",
@@ -8837,7 +8837,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/261_Pathshaping.png"
 				}
-			},
+			}
 			{
 				"name": "Pathshaping_foil",
 				"rarity": "rare",
@@ -8861,7 +8861,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/248_Kaln-Ocean Streamliner.png"
 				}
-			},
+			}
 			{
 				"name": "Kaln-Ocean Streamliner_foil",
 				"rarity": "rare",
@@ -8885,7 +8885,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/268_Soaring Chorus.png"
 				}
-			},
+			}
 			{
 				"name": "Soaring Chorus_foil",
 				"rarity": "rare",
@@ -8909,7 +8909,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/267_Shrouded Pathcensor.png"
 				}
-			},
+			}
 			{
 				"name": "Shrouded Pathcensor_foil",
 				"rarity": "rare",
@@ -8933,7 +8933,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/232_Chirps Spice Seeker.png"
 				}
-			},
+			}
 			{
 				"name": "Chirps Spice Seeker_foil",
 				"rarity": "rare",
@@ -8957,7 +8957,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/257_Melodia Explorer at Heart.png"
 				}
-			},
+			}
 			{
 				"name": "Melodia Explorer at Heart_foil",
 				"rarity": "rare",
@@ -8981,7 +8981,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/259_Outlands Chimera.png"
 				}
-			},
+			}
 			{
 				"name": "Outlands Chimera_foil",
 				"rarity": "mythic",
@@ -9005,7 +9005,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/118_Lisse Bound by the King.png"
 				}
-			},
+			}
 			{
 				"name": "Lisse Bound by the King_foil",
 				"rarity": "rare",
@@ -9029,7 +9029,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/74_Lorenz Ascendant King of Alira.png"
 				}
-			},
+			}
 			{
 				"name": "Lorenz Ascendant King of Alira_foil",
 				"rarity": "rare",
@@ -9053,7 +9053,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/17_Soul of Vinimroth.png"
 				}
-			},
+			}
 			{
 				"name": "Soul of Vinimroth_foil",
 				"rarity": "rare",
@@ -9077,7 +9077,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/269_Starling.png"
 				}
-			},
+			}
 			{
 				"name": "Starling_foil",
 				"rarity": "rare",
@@ -9101,7 +9101,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/281_Cerise Auger of Flow.png"
 				}
-			},
+			}
 			{
 				"name": "Cerise Auger of Flow_foil",
 				"rarity": "rare",
@@ -9125,7 +9125,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/333_Realmshaper.png"
 				}
-			},
+			}
 			{
 				"name": "Realmshaper_foil",
 				"rarity": "rare",
@@ -9149,7 +9149,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/329_Campsite.png"
 				}
-			},
+			}
 			{
 				"name": "Campsite_foil",
 				"rarity": "rare",
@@ -9173,7 +9173,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/89_Starfall Outlook.png"
 				}
-			},
+			}
 			{
 				"name": "Starfall Outlook_foil",
 				"rarity": "rare",
@@ -9197,7 +9197,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/3_The Calm Belt.png"
 				}
-			},
+			}
 			{
 				"name": "The Calm Belt_foil",
 				"rarity": "rare",
@@ -9221,7 +9221,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/98_Wavehorn, Great Winding Wizard.png"
 				}
-			},
+			}
 			{
 				"name": "Wavehorn, Great Winding Wizard_foil",
 				"rarity": "rare",
@@ -9245,7 +9245,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/293_Heng Hien Reifer of Justice.png"
 				}
-			},
+			}
 			{
 				"name": "Heng Hien Reifer of Justice_foil",
 				"rarity": "rare",
@@ -9269,7 +9269,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/23t_Kera, Mordel's New Hope.png"
 				}
-			},
+			}
 			{
 				"name": "Kera, Mordel's New Hope_foil",
 				"rarity": "rare",
@@ -9293,7 +9293,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/159_Mordel Civil War.png"
 				}
-			},
+			}
 			{
 				"name": "Mordel Civil War_foil",
 				"rarity": "rare",
@@ -9317,7 +9317,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/49_Resurrection Pools.png"
 				}
-			},
+			}
 			{
 				"name": "Resurrection Pools_foil",
 				"rarity": "rare",
@@ -9569,7 +9569,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/15_Prophellos, Hungering Manipulator.png"
 				}
-			},
+			}
 			{
 				"name": "Prophellos, Hungering Manipulator_foil",
 				"rarity": "mythic",
@@ -9631,7 +9631,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/16_The Shattering of Meirel.png"
 				}
-			},
+			}
 			{
 				"name": "The Shattering of Meirel_foil",
 				"rarity": "mythic",
@@ -9655,7 +9655,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/41t_Luminous in All Colors.png"
 				}
-			},
+			}
 			{
 				"name": "Luminous in All Colors_foil",
 				"rarity": "special",
@@ -9679,7 +9679,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/167_Sanctum Trader.png"
 				}
-			},
+			}
 			{
 				"name": "Sanctum Trader_foil",
 				"rarity": "rare",
@@ -9703,7 +9703,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/254_Mass Mutation.png"
 				}
-			},
+			}
 			{
 				"name": "Mass Mutation_foil",
 				"rarity": "rare",
@@ -9727,7 +9727,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/224_Ancient Interference.png"
 				}
-			},
+			}
 			{
 				"name": "Ancient Interference_foil",
 				"rarity": "rare",
@@ -9751,7 +9751,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/265_Probe the Veil.png"
 				}
-			},
+			}
 			{
 				"name": "Probe the Veil_foil",
 				"rarity": "rare",
@@ -9775,7 +9775,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/252_Lithify.png"
 				}
-			},
+			}
 			{
 				"name": "Lithify_foil",
 				"rarity": "rare",
@@ -9799,7 +9799,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/231_Cascading Reflections.png"
 				}
-			},
+			}
 			{
 				"name": "Cascading Reflections_foil",
 				"rarity": "rare",
@@ -9823,7 +9823,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/350_Shifting Spire.png"
 				}
-			},
+			}
 			{
 				"name": "Shifting Spire_foil",
 				"rarity": "mythic",
@@ -9847,7 +9847,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/249_Kindred Spirits.png"
 				}
-			},
+			}
 			{
 				"name": "Kindred Spirits_foil",
 				"rarity": "rare",
@@ -9871,7 +9871,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/251_Liminal Ambiguity.png"
 				}
-			},
+			}
 			{
 				"name": "Liminal Ambiguity_foil",
 				"rarity": "rare",
@@ -9895,7 +9895,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/287_Experience Cultivator.png"
 				}
-			},
+			}
 			{
 				"name": "Experience Cultivator_foil",
 				"rarity": "common",
@@ -9919,7 +9919,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/207_Podinaetremata.png"
 				}
-			},
+			}
 			{
 				"name": "Podinaetremata_foil",
 				"rarity": "rare",
@@ -9943,7 +9943,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/5_A Flock is Born.png"
 				}
-			},
+			}
 			{
 				"name": "A Flock is Born_foil",
 				"rarity": "rare",
@@ -9967,7 +9967,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/60_Branching Paths.png"
 				}
-			},
+			}
 			{
 				"name": "Branching Paths_foil",
 				"rarity": "rare",
@@ -9991,7 +9991,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/41_Meso Meso.png"
 				}
-			},
+			}
 			{
 				"name": "Meso Meso_foil",
 				"rarity": "rare",
@@ -10015,7 +10015,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/186_Defector of Mordel.png"
 				}
-			},
+			}
 			{
 				"name": "Defector of Mordel_foil",
 				"rarity": "rare",
@@ -10039,7 +10039,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/7t_Jothi-01.png"
 				}
-			},
+			}
 			{
 				"name": "Jothi-01_foil",
 				"rarity": "common",
@@ -10063,7 +10063,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/191_Exhuberant Genesis.png"
 				}
-			},
+			}
 			{
 				"name": "Exhuberant Genesis_foil",
 				"rarity": "rare",
@@ -10087,7 +10087,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/34t_Meirel Drifter (Luminous).png"
 				}
-			},
+			}
 			{
 				"name": "Meirel Drifter (Luminous)_foil",
 				"rarity": "common",
@@ -10111,7 +10111,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/189_Emergent Parasitism.png"
 				}
-			},
+			}
 			{
 				"name": "Emergent Parasitism_foil",
 				"rarity": "rare",
@@ -10135,7 +10135,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/200_Mordel Peacekeeper.png"
 				}
-			},
+			}
 			{
 				"name": "Mordel Peacekeeper_foil",
 				"rarity": "rare",
@@ -10159,7 +10159,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/294_Idol of Reconstruction.png"
 				}
-			},
+			}
 			{
 				"name": "Idol of Reconstruction_foil",
 				"rarity": "rare",
@@ -10183,7 +10183,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/229_Called to Eternity.png"
 				}
-			},
+			}
 			{
 				"name": "Called to Eternity_foil",
 				"rarity": "rare",
@@ -10207,7 +10207,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/86_Shifting Dream.png"
 				}
-			},
+			}
 			{
 				"name": "Shifting Dream_foil",
 				"rarity": "rare",
@@ -10231,7 +10231,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/335_Abandoned Sanctum.png"
 				}
-			},
+			}
 			{
 				"name": "Abandoned Sanctum_foil",
 				"rarity": "uncommon",
@@ -10255,7 +10255,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/260_Parallellism.png"
 				}
-			},
+			}
 			{
 				"name": "Parallellism_foil",
 				"rarity": "rare",
@@ -10279,7 +10279,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/247_Kalim, Shivta's Ear.png"
 				}
-			},
+			}
 			{
 				"name": "Kalim, Shivta's Ear_foil",
 				"rarity": "rare",
@@ -10303,7 +10303,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/276_Avlod Charm.png"
 				}
-			},
+			}
 			{
 				"name": "Avlod Charm_foil",
 				"rarity": "rare",
@@ -10327,7 +10327,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/241_Gluttony.png"
 				}
-			},
+			}
 			{
 				"name": "Gluttony_foil",
 				"rarity": "rare",
@@ -10351,7 +10351,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/317_Personal Sins.png"
 				}
-			},
+			}
 			{
 				"name": "Personal Sins_foil",
 				"rarity": "rare",
@@ -10375,7 +10375,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/278_Bone Salesman.png"
 				}
-			},
+			}
 			{
 				"name": "Bone Salesman_foil",
 				"rarity": "rare",
@@ -10399,7 +10399,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/308_Mordel Charm.png"
 				}
-			},
+			}
 			{
 				"name": "Mordel Charm_foil",
 				"rarity": "rare",
@@ -10423,7 +10423,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/288_Fadove Charm.png"
 				}
-			},
+			}
 			{
 				"name": "Fadove Charm_foil",
 				"rarity": "rare",
@@ -10447,7 +10447,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/303_Longneck Marketwatch.png"
 				}
-			},
+			}
 			{
 				"name": "Longneck Marketwatch_foil",
 				"rarity": "rare",
@@ -10471,7 +10471,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/112_Fossil Laundering.png"
 				}
-			},
+			}
 			{
 				"name": "Fossil Laundering_foil",
 				"rarity": "rare",
@@ -10495,7 +10495,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/64_Continuity Gap.png"
 				}
-			},
+			}
 			{
 				"name": "Continuity Gap_foil",
 				"rarity": "rare",
@@ -10519,7 +10519,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/304_Market Negotiator.png"
 				}
-			},
+			}
 			{
 				"name": "Market Negotiator_foil",
 				"rarity": "rare",
@@ -10543,7 +10543,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/46t_Food.png"
 				}
-			},
+			}
 			{
 				"name": "Food_foil",
 				"rarity": "common",
@@ -10567,7 +10567,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/44t_Blood.png"
 				}
-			},
+			}
 			{
 				"name": "Blood_foil",
 				"rarity": "common",
@@ -10591,7 +10591,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/45t_Clue.png"
 				}
-			},
+			}
 			{
 				"name": "Clue_foil",
 				"rarity": "common",
@@ -10615,7 +10615,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/342_Burgeoning Town.png"
 				}
-			},
+			}
 			{
 				"name": "Burgeoning Town_foil",
 				"rarity": "rare",
@@ -10639,7 +10639,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/337_Burgeoning Mindscape.png"
 				}
-			},
+			}
 			{
 				"name": "Burgeoning Mindscape_foil",
 				"rarity": "rare",
@@ -10663,7 +10663,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/340_Burgeoning Pith.png"
 				}
-			},
+			}
 			{
 				"name": "Burgeoning Pith_foil",
 				"rarity": "rare",
@@ -10687,7 +10687,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/341_Burgeoning Rockfall.png"
 				}
-			},
+			}
 			{
 				"name": "Burgeoning Rockfall_foil",
 				"rarity": "rare",
@@ -10711,7 +10711,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/336_Burgeoning Jungle.png"
 				}
-			},
+			}
 			{
 				"name": "Burgeoning Jungle_foil",
 				"rarity": "rare",
@@ -10735,7 +10735,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/339_Burgeoning Peaks.png"
 				}
-			},
+			}
 			{
 				"name": "Burgeoning Peaks_foil",
 				"rarity": "rare",
@@ -10759,7 +10759,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/338_Burgeoning Path.png"
 				}
-			},
+			}
 			{
 				"name": "Burgeoning Path_foil",
 				"rarity": "rare",
@@ -10783,7 +10783,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/343_Drifting Crevasse.png"
 				}
-			},
+			}
 			{
 				"name": "Drifting Crevasse_foil",
 				"rarity": "common",
@@ -10807,7 +10807,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/344_Drifting Field.png"
 				}
-			},
+			}
 			{
 				"name": "Drifting Field_foil",
 				"rarity": "common",
@@ -10831,7 +10831,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/345_Drifting Isle.png"
 				}
-			},
+			}
 			{
 				"name": "Drifting Isle_foil",
 				"rarity": "common",
@@ -10855,7 +10855,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/346_Drifting Jungle.png"
 				}
-			},
+			}
 			{
 				"name": "Drifting Jungle_foil",
 				"rarity": "common",
@@ -10879,7 +10879,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/347_Drifting Mire.png"
 				}
-			},
+			}
 			{
 				"name": "Drifting Mire_foil",
 				"rarity": "common",
@@ -10903,7 +10903,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/348_Drifting Peak.png"
 				}
-			},
+			}
 			{
 				"name": "Drifting Peak_foil",
 				"rarity": "common",
@@ -10927,7 +10927,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/349_Drifting Sands.png"
 				}
-			},
+			}
 			{
 				"name": "Drifting Sands_foil",
 				"rarity": "common",
@@ -10951,7 +10951,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/13_Outlands Charm.png"
 				}
-			},
+			}
 			{
 				"name": "Outlands Charm_foil",
 				"rarity": "rare",
@@ -10975,7 +10975,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/284_Deino Charm.png"
 				}
-			},
+			}
 			{
 				"name": "Deino Charm_foil",
 				"rarity": "rare",
@@ -10999,7 +10999,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/295_Ignelscor Charm.png"
 				}
-			},
+			}
 			{
 				"name": "Ignelscor Charm_foil",
 				"rarity": "rare",
@@ -11023,7 +11023,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/121_Magic of Ignelscor.png"
 				}
-			},
+			}
 			{
 				"name": "Magic of Ignelscor_foil",
 				"rarity": "rare",
@@ -11085,7 +11085,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/321_Shivta, Vinimroth's Blade.png"
 				}
-			},
+			}
 			{
 				"name": "Shivta, Vinimroth's Blade_foil",
 				"rarity": "rare",
@@ -11109,7 +11109,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/291_Flying Counter.png"
 				}
-			},
+			}
 			{
 				"name": "Flying Counter_foil",
 				"rarity": "common",
@@ -11133,7 +11133,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/136_Tangled Heart.png"
 				}
-			},
+			}
 			{
 				"name": "Tangled Heart_foil",
 				"rarity": "rare",
@@ -11157,7 +11157,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/312_Numa, On Hope's Trail.png"
 				}
-			},
+			}
 			{
 				"name": "Numa, On Hope's Trail_foil",
 				"rarity": "rare",
@@ -11181,7 +11181,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/38t_Goat Token.png"
 				}
-			},
+			}
 			{
 				"name": "Goat Token_foil",
 				"rarity": "common",
@@ -11205,7 +11205,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/106_Carrigol Tender.png"
 				}
-			},
+			}
 			{
 				"name": "Carrigol Tender_foil",
 				"rarity": "rare",
@@ -11229,7 +11229,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/30_Heron Drake.png"
 				}
-			},
+			}
 			{
 				"name": "Heron Drake_foil",
 				"rarity": "rare",
@@ -11253,7 +11253,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/210_Reid, Unrelenting Dias.png"
 				}
-			},
+			}
 			{
 				"name": "Reid, Unrelenting Dias_foil",
 				"rarity": "rare",
@@ -11277,7 +11277,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/202_Murkross's Hold.png"
 				}
-			},
+			}
 			{
 				"name": "Murkross's Hold_foil",
 				"rarity": "rare",
@@ -11301,7 +11301,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/197_Late-Leaf Elk.png"
 				}
-			},
+			}
 			{
 				"name": "Late-Leaf Elk_foil",
 				"rarity": "rare",
@@ -11325,7 +11325,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/185_Deeplost Traveller.png"
 				}
-			},
+			}
 			{
 				"name": "Deeplost Traveller_foil",
 				"rarity": "rare",
@@ -11349,7 +11349,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/179_Awakened Titan.png"
 				}
-			},
+			}
 			{
 				"name": "Awakened Titan_foil",
 				"rarity": "rare",
@@ -11373,7 +11373,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/49t_Jura.png"
 				}
-			},
+			}
 			{
 				"name": "Jura_foil",
 				"rarity": "common",
@@ -11397,7 +11397,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/36_Marblewrought Titan.png"
 				}
-			},
+			}
 			{
 				"name": "Marblewrought Titan_foil",
 				"rarity": "rare",
@@ -11421,7 +11421,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/23_Coven of the Black Sun.png"
 				}
-			},
+			}
 			{
 				"name": "Coven of the Black Sun_foil",
 				"rarity": "rare",
@@ -11445,7 +11445,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/129_Poison Pincher.png"
 				}
-			},
+			}
 			{
 				"name": "Poison Pincher_foil",
 				"rarity": "rare",
@@ -11469,7 +11469,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/166_Radioactive Rumna.png"
 				}
-			},
+			}
 			{
 				"name": "Radioactive Rumna_foil",
 				"rarity": "rare",
@@ -11493,7 +11493,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/314_Oracle of Multaph.png"
 				}
-			},
+			}
 			{
 				"name": "Oracle of Multaph_foil",
 				"rarity": "rare",
@@ -11517,7 +11517,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/27_Faloden Barrier Scout.png"
 				}
-			},
+			}
 			{
 				"name": "Faloden Barrier Scout_foil",
 				"rarity": "rare",
@@ -11541,7 +11541,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/73_Kaln-Ocean Seahorse.png"
 				}
-			},
+			}
 			{
 				"name": "Kaln-Ocean Seahorse_foil",
 				"rarity": "rare",
@@ -11565,7 +11565,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/65_Coralwisp Entity.png"
 				}
-			},
+			}
 			{
 				"name": "Coralwisp Entity_foil",
 				"rarity": "rare",
@@ -11589,7 +11589,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/176_Warpath Wurm.png"
 				}
-			},
+			}
 			{
 				"name": "Warpath Wurm_foil",
 				"rarity": "rare",
@@ -11613,7 +11613,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/307_Miori, Outlands Future.png"
 				}
-			},
+			}
 			{
 				"name": "Miori, Outlands Future_foil",
 				"rarity": "rare",
@@ -11637,7 +11637,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/174_Terramorphic Singularity.png"
 				}
-			},
+			}
 			{
 				"name": "Terramorphic Singularity_foil",
 				"rarity": "rare",
@@ -11661,7 +11661,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/FOE-files/img/154_Form of the Paths.png"
 				}
-			},
+			}
 			{
 				"name": "Form of the Paths_foil",
 				"rarity": "rare",
