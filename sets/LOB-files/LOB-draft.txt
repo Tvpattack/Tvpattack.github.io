@@ -93,7 +93,7 @@
 		{
 			"name": "Ancient Jar",
 			"rarity": "uncommon",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Artifact Creature — Demon Wizard",
 			"collector_number": "174",
 			"image_uris": {
@@ -103,7 +103,7 @@
 		{
 			"name": "Golgoil",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{I}{I}",
+			"mana_cost": "{4}{C}{C}",
 			"type": "Artifact Creature — Robot",
 			"collector_number": "184",
 			"image_uris": {
@@ -123,7 +123,7 @@
 		{
 			"name": "Gradius",
 			"rarity": "special",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Artifact Creature — Robot Construct",
 			"collector_number": "289",
 			"image_uris": {
@@ -133,7 +133,7 @@
 		{
 			"name": "Gradius Option",
 			"rarity": "special",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Artifact Creature — Robot Construct",
 			"collector_number": "290",
 			"image_uris": {
@@ -213,7 +213,7 @@
 		{
 			"name": "Giant Soldier of Stone",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Artifact Creature — Robot Warrior",
 			"collector_number": "183",
 			"image_uris": {
@@ -223,7 +223,7 @@
 		{
 			"name": "Patrol Robo",
 			"rarity": "common",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Artifact Creature — Robot Warrior",
 			"collector_number": "194",
 			"image_uris": {
@@ -253,7 +253,7 @@
 		{
 			"name": "Cyclon Laser",
 			"rarity": "special",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Artifact — Equipment",
 			"collector_number": "287",
 			"image_uris": {
@@ -283,7 +283,7 @@
 		{
 			"name": "Gust Fan",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Artifact — Equipment",
 			"collector_number": "185",
 			"image_uris": {
@@ -333,7 +333,7 @@
 		{
 			"name": "Silver Bow and Arrow",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Artifact — Equipment",
 			"collector_number": "197",
 			"image_uris": {
@@ -443,7 +443,7 @@
 		{
 			"name": "Hourglass of Life",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Creature — Angel Spirit",
 			"collector_number": "186",
 			"image_uris": {
@@ -553,7 +553,7 @@
 		{
 			"name": "Droll Bird",
 			"rarity": "common",
-			"mana_cost": "{4}{I}",
+			"mana_cost": "{4}{C}",
 			"type": "Creature — Bird Spirit",
 			"collector_number": "181",
 			"image_uris": {
@@ -593,7 +593,7 @@
 		{
 			"name": "Bolt Penguin",
 			"rarity": "uncommon",
-			"mana_cost": "{I}{U}",
+			"mana_cost": "{C}{U}",
 			"type": "Creature — Bird Wizard",
 			"collector_number": "209",
 			"image_uris": {
@@ -703,7 +703,7 @@
 		{
 			"name": "Synchar",
 			"rarity": "common",
-			"mana_cost": "{1}{I}{I}",
+			"mana_cost": "{1}{C}{C}",
 			"type": "Creature — Demon Beast",
 			"collector_number": "200",
 			"image_uris": {
@@ -723,7 +723,7 @@
 		{
 			"name": "Meotoko",
 			"rarity": "common",
-			"mana_cost": "{3}{I}",
+			"mana_cost": "{3}{C}",
 			"type": "Creature — Demon Warrior",
 			"collector_number": "190",
 			"image_uris": {
@@ -753,7 +753,7 @@
 		{
 			"name": "Archfiend Mirror",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Demon Dragon Reflection",
 			"collector_number": "175",
 			"image_uris": {
@@ -763,7 +763,7 @@
 		{
 			"name": "Roaring Ocean Snake",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{I}{U}",
+			"mana_cost": "{3}{C}{U}",
 			"type": "Creature — Demon Dragon Serpent",
 			"collector_number": "231",
 			"image_uris": {
@@ -793,7 +793,7 @@
 		{
 			"name": "Sanwitch",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}{B}",
+			"mana_cost": "{1}{C}{B}",
 			"type": "Creature — Demon Imp Wizard",
 			"collector_number": "233",
 			"image_uris": {
@@ -833,7 +833,7 @@
 		{
 			"name": "Dig Beak",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Demon Snake",
 			"collector_number": "179",
 			"image_uris": {
@@ -863,7 +863,7 @@
 		{
 			"name": "Megirus Light",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{I}{B}",
+			"mana_cost": "{3}{C}{B}",
 			"type": "Creature — Demon Wizard",
 			"collector_number": "226",
 			"image_uris": {
@@ -873,7 +873,7 @@
 		{
 			"name": "Phantom Dewan",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Demon Wizard",
 			"collector_number": "195",
 			"image_uris": {
@@ -993,7 +993,7 @@
 		{
 			"name": "Kaiser Dragon",
 			"rarity": "common",
-			"mana_cost": "{3}{I}",
+			"mana_cost": "{3}{C}",
 			"type": "Creature — Dragon Spirit",
 			"collector_number": "188",
 			"image_uris": {
@@ -1133,7 +1133,7 @@
 		{
 			"name": "Fairywitch",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{I}{R}",
+			"mana_cost": "{3}{C}{R}",
 			"type": "Creature — Faerie Demon Wizard",
 			"collector_number": "214",
 			"image_uris": {
@@ -1233,7 +1233,7 @@
 		{
 			"name": "Beautiful Headhuntress",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}{G}",
+			"mana_cost": "{1}{C}{G}",
 			"type": "Creature — Human Shapeshifter",
 			"collector_number": "207",
 			"image_uris": {
@@ -1243,7 +1243,7 @@
 		{
 			"name": "Warrior of Tradition",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}{G}",
+			"mana_cost": "{2}{C}{G}",
 			"type": "Creature — Human Shapeshifter",
 			"collector_number": "238",
 			"image_uris": {
@@ -1283,7 +1283,7 @@
 		{
 			"name": "Minomushi Warrior",
 			"rarity": "uncommon",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "191",
 			"image_uris": {
@@ -1363,7 +1363,7 @@
 		{
 			"name": "Vermillion Sparrow",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}{R}",
+			"mana_cost": "{1}{C}{R}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "237",
 			"image_uris": {
@@ -1393,7 +1393,7 @@
 		{
 			"name": "Boo Koo",
 			"rarity": "rare",
-			"mana_cost": "{4}{I}",
+			"mana_cost": "{4}{C}",
 			"type": "Creature — Illusion Wizard",
 			"collector_number": "177",
 			"image_uris": {
@@ -1403,7 +1403,7 @@
 		{
 			"name": "Alinsection",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Insect",
 			"collector_number": "173",
 			"image_uris": {
@@ -1483,7 +1483,7 @@
 		{
 			"name": "Mon Larvas",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature — Insect Warrior",
 			"collector_number": "192",
 			"image_uris": {
@@ -1663,7 +1663,7 @@
 		{
 			"name": "Bean Soldier",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Plant Warrior",
 			"collector_number": "176",
 			"image_uris": {
@@ -1693,7 +1693,7 @@
 		{
 			"name": "Wilmee",
 			"rarity": "common",
-			"mana_cost": "{6}{I}",
+			"mana_cost": "{6}{C}",
 			"type": "Creature — Rabbit Warrior",
 			"collector_number": "204",
 			"image_uris": {
@@ -1733,7 +1733,7 @@
 		{
 			"name": "Nightmare Scorpion",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{I}{I}",
+			"mana_cost": "{4}{C}{C}",
 			"type": "Creature — Scorpion Insect",
 			"collector_number": "193",
 			"image_uris": {
@@ -1763,7 +1763,7 @@
 		{
 			"name": "Eyearmor",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}{I}",
+			"mana_cost": "{2}{C}{C}",
 			"type": "Creature — Shapeshifter",
 			"collector_number": "182",
 			"image_uris": {
@@ -1833,7 +1833,7 @@
 		{
 			"name": "Tao the Chanter",
 			"rarity": "rare",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Spirit",
 			"collector_number": "201",
 			"image_uris": {
@@ -1873,7 +1873,7 @@
 		{
 			"name": "Secretarian of Secrets",
 			"rarity": "common",
-			"mana_cost": "{3}{I}",
+			"mana_cost": "{3}{C}",
 			"type": "Creature — Spirit Wizard",
 			"collector_number": "196",
 			"image_uris": {
@@ -1883,7 +1883,7 @@
 		{
 			"name": "Vishwar Randi",
 			"rarity": "special",
-			"mana_cost": "{I}{B}{R}",
+			"mana_cost": "{C}{B}{R}",
 			"type": "Creature — Vampire Warrior",
 			"collector_number": "311",
 			"image_uris": {
@@ -1923,7 +1923,7 @@
 		{
 			"name": "Skullbird",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}{I}",
+			"mana_cost": "{1}{C}{C}",
 			"type": "Creature — Zombie Demon Bird",
 			"collector_number": "198",
 			"image_uris": {
@@ -1943,7 +1943,7 @@
 		{
 			"name": "Drdek",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Zombie Eye Wizard",
 			"collector_number": "180",
 			"image_uris": {
@@ -1993,7 +1993,7 @@
 		{
 			"name": "Phantom Ghost",
 			"rarity": "special",
-			"mana_cost": "{2}{I}{B}",
+			"mana_cost": "{2}{C}{B}",
 			"type": "Creature — Zombie Spirit",
 			"collector_number": "305",
 			"image_uris": {
@@ -2113,7 +2113,7 @@
 		{
 			"name": "Tatsunootoshigo",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Enchantment",
 			"collector_number": "202",
 			"image_uris": {
@@ -2133,7 +2133,7 @@
 		{
 			"name": "Trap Hole",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}{W}",
+			"mana_cost": "{2}{C}{W}",
 			"type": "Enchantment",
 			"collector_number": "236",
 			"image_uris": {
@@ -2163,7 +2163,7 @@
 		{
 			"name": "Yamatano Dragon Scroll",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Enchantment",
 			"collector_number": "205",
 			"image_uris": {
@@ -2193,7 +2193,7 @@
 		{
 			"name": "Takuhee",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{I}{W}",
+			"mana_cost": "{3}{C}{W}",
 			"type": "Enchantment Creature — Bird Spirit",
 			"collector_number": "235",
 			"image_uris": {
@@ -2253,7 +2253,7 @@
 		{
 			"name": "LaLa Li-oon",
 			"rarity": "common",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Enchantment Creature — Elemental",
 			"collector_number": "189",
 			"image_uris": {
@@ -2263,7 +2263,7 @@
 		{
 			"name": "Weather Control",
 			"rarity": "rare",
-			"mana_cost": "{I}{W}",
+			"mana_cost": "{C}{W}",
 			"type": "Enchantment Creature — Elemental",
 			"collector_number": "240",
 			"image_uris": {
@@ -2333,7 +2333,7 @@
 		{
 			"name": "Kaminari Attack",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}{W}",
+			"mana_cost": "{1}{C}{W}",
 			"type": "Enchantment Creature — Human Spirit",
 			"collector_number": "221",
 			"image_uris": {
@@ -2353,7 +2353,7 @@
 		{
 			"name": "Thunder Kid",
 			"rarity": "common",
-			"mana_cost": "{3}{I}{I}",
+			"mana_cost": "{3}{C}{C}",
 			"type": "Enchantment Creature — Insect",
 			"collector_number": "203",
 			"image_uris": {
@@ -2423,7 +2423,7 @@
 		{
 			"name": "Invigoration",
 			"rarity": "rare",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Enchantment — Aura",
 			"collector_number": "187",
 			"image_uris": {
@@ -2503,7 +2503,7 @@
 		{
 			"name": "Dark-Piercing Light",
 			"rarity": "special",
-			"mana_cost": "{1}{I}{W}",
+			"mana_cost": "{1}{C}{W}",
 			"type": "Instant",
 			"collector_number": "292",
 			"image_uris": {
@@ -2533,7 +2533,7 @@
 		{
 			"name": "Discover Uncertainty",
 			"rarity": "special",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "288",
 			"image_uris": {
@@ -2613,7 +2613,7 @@
 		{
 			"name": "Monster Reborn",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}{W}",
+			"mana_cost": "{2}{C}{W}",
 			"type": "Sorcery",
 			"collector_number": "227",
 			"image_uris": {
@@ -2623,7 +2623,7 @@
 		{
 			"name": "Nefairious Archfiend",
 			"rarity": "special",
-			"mana_cost": "{I/B}",
+			"mana_cost": "{C/B}",
 			"type": "Instant",
 			"collector_number": "304",
 			"image_uris": {
@@ -2653,7 +2653,7 @@
 		{
 			"name": "Reverse Trap",
 			"rarity": "special",
-			"mana_cost": "{1}{I}{G}",
+			"mana_cost": "{1}{C}{G}",
 			"type": "Instant",
 			"collector_number": "307",
 			"image_uris": {
@@ -2703,7 +2703,7 @@
 		{
 			"name": "The Inexperienced Spy",
 			"rarity": "special",
-			"mana_cost": "{I}{U}",
+			"mana_cost": "{C}{U}",
 			"type": "Instant",
 			"collector_number": "299",
 			"image_uris": {
@@ -2953,7 +2953,7 @@
 		{
 			"name": "Castle Walls",
 			"rarity": "common",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Sorcery",
 			"collector_number": "178",
 			"image_uris": {
@@ -3063,7 +3063,7 @@
 		{
 			"name": "Raimei",
 			"rarity": "special",
-			"mana_cost": "{X}{1}{I}{R}",
+			"mana_cost": "{X}{1}{C}{R}",
 			"type": "Sorcery",
 			"collector_number": "306",
 			"image_uris": {
@@ -3103,7 +3103,7 @@
 		{
 			"name": "Swords of Revealing Light",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}{I}",
+			"mana_cost": "{2}{C}{C}",
 			"type": "Sorcery",
 			"collector_number": "199",
 			"image_uris": {

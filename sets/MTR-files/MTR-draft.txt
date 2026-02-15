@@ -83,7 +83,7 @@
 		{
 			"name": "Ocubeam",
 			"rarity": "common",
-			"mana_cost": "{1}{I}{W}",
+			"mana_cost": "{1}{C}{W}",
 			"type": "Creature — Angel Eye",
 			"collector_number": "94",
 			"image_uris": {
@@ -113,7 +113,7 @@
 		{
 			"name": "Invader from Another Dimension",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Creature — Insect Warrior",
 			"collector_number": "68",
 			"image_uris": {
@@ -133,7 +133,7 @@
 		{
 			"name": "Eldeen",
 			"rarity": "common",
-			"mana_cost": "{1}{I/W}",
+			"mana_cost": "{1}{C/W}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "80",
 			"image_uris": {
@@ -143,7 +143,7 @@
 		{
 			"name": "Big Eye",
 			"rarity": "common",
-			"mana_cost": "{4}{I/B}{I/B}",
+			"mana_cost": "{4}{C/B}{C/B}",
 			"type": "Creature — Demon Eye",
 			"collector_number": "77",
 			"image_uris": {
@@ -253,7 +253,7 @@
 		{
 			"name": "The Little Swordsman of Aile",
 			"rarity": "common",
-			"mana_cost": "{1}{I/U}",
+			"mana_cost": "{1}{C/U}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "91",
 			"image_uris": {
@@ -263,7 +263,7 @@
 		{
 			"name": "Launcher Spider",
 			"rarity": "common",
-			"mana_cost": "{2}{I/R}{I/R}",
+			"mana_cost": "{2}{C/R}{C/R}",
 			"type": "Artifact Creature — Robot Spider",
 			"collector_number": "102",
 			"image_uris": {
@@ -273,7 +273,7 @@
 		{
 			"name": "Trent",
 			"rarity": "common",
-			"mana_cost": "{2}{I/G}",
+			"mana_cost": "{2}{C/G}",
 			"type": "Creature — Treefolk",
 			"collector_number": "98",
 			"image_uris": {
@@ -313,7 +313,7 @@
 		{
 			"name": "Shadow Ghoul",
 			"rarity": "common",
-			"mana_cost": "{X}{I}{B}",
+			"mana_cost": "{X}{C}{B}",
 			"type": "Creature — Zombie Spirit",
 			"collector_number": "97",
 			"image_uris": {
@@ -343,7 +343,7 @@
 		{
 			"name": "Wetha",
 			"rarity": "common",
-			"mana_cost": "{2}{I}{U}",
+			"mana_cost": "{2}{C}{U}",
 			"type": "Creature — Spirit Wizard",
 			"collector_number": "99",
 			"image_uris": {
@@ -363,7 +363,7 @@
 		{
 			"name": "Gyakutenno Megami",
 			"rarity": "common",
-			"mana_cost": "{1}{I}{R}",
+			"mana_cost": "{1}{C}{R}",
 			"type": "Creature — Faerie Wizard",
 			"collector_number": "86",
 			"image_uris": {
@@ -373,7 +373,7 @@
 		{
 			"name": "Beautiful Beast Trainer",
 			"rarity": "common",
-			"mana_cost": "{1}{I}{G}",
+			"mana_cost": "{1}{C}{G}",
 			"type": "Creature — Human Shapeshifter",
 			"collector_number": "76",
 			"image_uris": {
@@ -763,7 +763,7 @@
 		{
 			"name": "Germ Infection",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Enchantment — Aura",
 			"collector_number": "66",
 			"image_uris": {
@@ -773,7 +773,7 @@
 		{
 			"name": "Yaiba Robo",
 			"rarity": "common",
-			"mana_cost": "{3}{I}{I}",
+			"mana_cost": "{3}{C}{C}",
 			"type": "Artifact Creature — Robot",
 			"collector_number": "72",
 			"image_uris": {
@@ -783,7 +783,7 @@
 		{
 			"name": "Gokibore",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Insect",
 			"collector_number": "67",
 			"image_uris": {
@@ -793,7 +793,7 @@
 		{
 			"name": "Mooyan Curry",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Instant",
 			"collector_number": "70",
 			"image_uris": {
@@ -803,7 +803,7 @@
 		{
 			"name": "Ancient Sorcerer",
 			"rarity": "common",
-			"mana_cost": "{3}{I}{I}",
+			"mana_cost": "{3}{C}{C}",
 			"type": "Creature — Wizard",
 			"collector_number": "61",
 			"image_uris": {
@@ -813,7 +813,7 @@
 		{
 			"name": "Fairy's Gift",
 			"rarity": "common",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Sorcery",
 			"collector_number": "64",
 			"image_uris": {
@@ -823,7 +823,7 @@
 		{
 			"name": "Gale Dogra",
 			"rarity": "common",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature — Insect",
 			"collector_number": "65",
 			"image_uris": {
@@ -833,7 +833,7 @@
 		{
 			"name": "D. D. Warrior",
 			"rarity": "common",
-			"mana_cost": "{4}{I}{I}",
+			"mana_cost": "{4}{C}{C}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "63",
 			"image_uris": {
@@ -843,7 +843,7 @@
 		{
 			"name": "Killer Needle",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "69",
 			"image_uris": {
@@ -1113,7 +1113,7 @@
 		{
 			"name": "Griffore",
 			"rarity": "common",
-			"mana_cost": "{5}{R}{R}",
+			"mana_cost": "{4}{R}{R}",
 			"type": "Artifact Creature — Beast",
 			"collector_number": "42",
 			"image_uris": {
@@ -1134,7 +1134,7 @@
 			"name": "Terraforming",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — Field",
 			"collector_number": "119",
 			"image_uris": {
 				"en": "https://Tvpattack.github.io/sets/MTR-files/img/119_Terraforming.jpg"
@@ -1203,7 +1203,7 @@
 		{
 			"name": "Needle Ball",
 			"rarity": "common",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature — Orb",
 			"collector_number": "71",
 			"image_uris": {
@@ -1223,7 +1223,7 @@
 		{
 			"name": "Claw Reacher",
 			"rarity": "common",
-			"mana_cost": "{5}{I}{I}",
+			"mana_cost": "{4}{C}{C}",
 			"type": "Artifact Creature — Demon",
 			"collector_number": "62",
 			"image_uris": {
@@ -1233,7 +1233,7 @@
 		{
 			"name": "Metal Guardian",
 			"rarity": "common",
-			"mana_cost": "{5}{W}{W}",
+			"mana_cost": "{4}{W}{W}",
 			"type": "Artifact Creature — Robot",
 			"collector_number": "7",
 			"image_uris": {
@@ -1243,7 +1243,7 @@
 		{
 			"name": "Ancient Brain",
 			"rarity": "common",
-			"mana_cost": "{5}{U}{U}",
+			"mana_cost": "{4}{U}{U}",
 			"type": "Artifact Creature — Horror Wizard",
 			"collector_number": "13",
 			"image_uris": {
@@ -1253,7 +1253,7 @@
 		{
 			"name": "Ancient Tool",
 			"rarity": "common",
-			"mana_cost": "{5}{B}{B}",
+			"mana_cost": "{4}{B}{B}",
 			"type": "Artifact Creature — Robot",
 			"collector_number": "25",
 			"image_uris": {
@@ -1273,7 +1273,7 @@
 		{
 			"name": "Bio Plant",
 			"rarity": "common",
-			"mana_cost": "{5}{G}{G}",
+			"mana_cost": "{4}{G}{G}",
 			"type": "Artifact Creature — Plant",
 			"collector_number": "51",
 			"image_uris": {

@@ -363,7 +363,7 @@ Create a tapped Kingdom token. You gain 2 life. (Then put this card into your gr
 				<cmc>3</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
-				<pt>2/3</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -422,9 +422,7 @@ At the end of combat on your turn, if this creature attacked this turn, you may 
 		</card>
 		<card>
 			<name>Goddess of Whim // Power Now</name>
-			<text>Whenever this creature deals combat damage to a player, discard a card, then draw a card.
-
----
+			<text>---
 
 Return target creature card from your graveyard to the battlefield tapped. At the beginning of your next end step, sacrifice a creature if you still control it. (Then put this card into your graveyard.)</text>
 			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/83_Goddess of Whim.jpg" num="83">MTR</set>
@@ -554,7 +552,7 @@ Up to one target creature gets +2/-2 until end of turn. (Then put this card into
 
 ---
 
-Put target artifact, battle, or planeswalker from a graveyard on top of its owners library. (Then put this card into your graveyard.)</text>
+Put target artifact, battle, or planeswalker card from a graveyard on top of its owners library. (Then put this card into your graveyard.)</text>
 			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/98_Trent.jpg" num="98">MTR</set>
 			<prop>
 				<layout>adventure</layout>
@@ -2025,8 +2023,8 @@ At the beginning of your end step, if you attacked, surveil 1. (Look at the top 
 		</card>
 		<card>
 			<name>Griffore</name>
-			<text>Restructure {3}{R} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
-When this creature enters, mill a card. You may play that card until end of turn. (To mill a cards, put the top card of your library into your graveyard.)
+			<text>Restructure {2}{R} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+When this creature enters, exile the top card of your library. You may play it during your next turn.
 {T}: Add {R}.</text>
 			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/42_Griffore.jpg" num="42">MTR</set>
 			<prop>
@@ -2034,8 +2032,8 @@ When this creature enters, mill a card. You may play that card until end of turn
 				<side>front</side>
 				<type>Artifact Creature — Beast</type>
 				<maintype>Creature</maintype>
-				<manacost>5RR</manacost>
-				<cmc>7</cmc>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 				<pt>5/4</pt>
@@ -2059,12 +2057,13 @@ When this creature enters, mill a card. You may play that card until end of turn
 		</card>
 		<card>
 			<name>Terraforming</name>
-			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{4}, Discard this: Search your library for a Land card, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/119_Terraforming.jpg" num="119">MTR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land</type>
+				<type>Land — Field</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -2214,7 +2213,7 @@ When this creature enters, sacrifice it unless you return an artifact or token y
 		</card>
 		<card>
 			<name>Claw Reacher</name>
-			<text>Restructure {3}{I} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+			<text>Restructure {2}{I} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
 When this creature enters, look at the top two cards of your library. Put one into your hand and the other back on top.
 {T}: Add {I}.</text>
 			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/62_Claw Reacher.jpg" num="62">MTR</set>
@@ -2223,17 +2222,17 @@ When this creature enters, look at the top two cards of your library. Put one in
 				<side>front</side>
 				<type>Artifact Creature — Demon</type>
 				<maintype>Creature</maintype>
-				<manacost>5II</manacost>
-				<cmc>7</cmc>
+				<manacost>4II</manacost>
+				<cmc>6</cmc>
 				<colors>I</colors>
 				<coloridentity>I</coloridentity>
-				<pt>4/3</pt>
+				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Metal Guardian</name>
-			<text>Restructure {3}{W} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+			<text>Restructure {2}{W} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
 When this creature enters, return up to one target permanent card with mana value 3 or less from your graveyard to your hand.
 {T}: Add {W}.</text>
 			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/7_Metal Guardian.jpg" num="7">MTR</set>
@@ -2242,18 +2241,18 @@ When this creature enters, return up to one target permanent card with mana valu
 				<side>front</side>
 				<type>Artifact Creature — Robot</type>
 				<maintype>Creature</maintype>
-				<manacost>5WW</manacost>
-				<cmc>7</cmc>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Ancient Brain</name>
-			<text>Restructure {3}{U} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
-When this creature enters, draw a card, then mill a card. (Put the top card of your library into your graveyard.)
+			<text>Restructure {2}{U} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+When this creature enters, scry 1, then draw a card. (Look at the top card of your library. You may put it on the bottom of your library.)
 {T}: Add {U}.</text>
 			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/13_Ancient Brain.jpg" num="13">MTR</set>
 			<prop>
@@ -2261,17 +2260,17 @@ When this creature enters, draw a card, then mill a card. (Put the top card of y
 				<side>front</side>
 				<type>Artifact Creature — Horror Wizard</type>
 				<maintype>Creature</maintype>
-				<manacost>5UU</manacost>
-				<cmc>7</cmc>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>3/4</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Ancient Tool</name>
-			<text>Restructure {3}{B} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+			<text>Restructure {2}{B} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
 When this creature enters, mill two cards. You may put a card milled this way into your hand. (To mill two cards, put the top two cards of your library into your graveyard.)
 {T}: Add {B}.</text>
 			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/25_Ancient Tool.jpg" num="25">MTR</set>
@@ -2280,11 +2279,11 @@ When this creature enters, mill two cards. You may put a card milled this way in
 				<side>front</side>
 				<type>Artifact Creature — Robot</type>
 				<maintype>Creature</maintype>
-				<manacost>5BB</manacost>
-				<cmc>7</cmc>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2307,7 +2306,7 @@ When this creature enters, mill two cards. You may put a card milled this way in
 		</card>
 		<card>
 			<name>Bio Plant</name>
-			<text>Restructure {3}{G} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+			<text>Restructure {2}{G} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
 When this creature enters, return up to one target creature or land card from your graveyard to your hand.
 {T}: Add {G}.</text>
 			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/51_Bio Plant.jpg" num="51">MTR</set>
@@ -2316,8 +2315,8 @@ When this creature enters, return up to one target creature or land card from yo
 				<side>front</side>
 				<type>Artifact Creature — Plant</type>
 				<maintype>Creature</maintype>
-				<manacost>5GG</manacost>
-				<cmc>7</cmc>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 				<pt>6/6</pt>

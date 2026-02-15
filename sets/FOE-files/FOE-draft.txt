@@ -848,7 +848,7 @@
 		{
 			"name": "Dust Converter",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Bird",
 			"collector_number": "237",
 			"image_uris": {
@@ -858,7 +858,7 @@
 		{
 			"name": "Avakin Adventurer",
 			"rarity": "common",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature — Bird Scout",
 			"collector_number": "226",
 			"image_uris": {
@@ -868,7 +868,7 @@
 		{
 			"name": "Meirel Drifter",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Creature — Fox Scout",
 			"collector_number": "255",
 			"image_uris": {
@@ -878,7 +878,7 @@
 		{
 			"name": "Pathworn Blade",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Artifact — Equipment",
 			"collector_number": "262",
 			"image_uris": {
@@ -888,7 +888,7 @@
 		{
 			"name": "Power from Beyond",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Instant",
 			"collector_number": "264",
 			"image_uris": {
@@ -898,7 +898,7 @@
 		{
 			"name": "Calign",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Drake Horror",
 			"collector_number": "228",
 			"image_uris": {
@@ -908,7 +908,7 @@
 		{
 			"name": "Captivate",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "230",
 			"image_uris": {
@@ -918,7 +918,7 @@
 		{
 			"name": "Adventurous Pair",
 			"rarity": "common",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature — Human",
 			"collector_number": "223",
 			"image_uris": {
@@ -928,7 +928,7 @@
 		{
 			"name": "Drougth Attuner",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Cat Wizard",
 			"collector_number": "235",
 			"image_uris": {
@@ -938,7 +938,7 @@
 		{
 			"name": "Perspective Shift",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Instant",
 			"collector_number": "263",
 			"image_uris": {
@@ -948,7 +948,7 @@
 		{
 			"name": "Enlisted Arms",
 			"rarity": "common",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Enchantment Creature — Wolf Mercenary",
 			"collector_number": "240",
 			"image_uris": {
@@ -958,7 +958,7 @@
 		{
 			"name": "Emigrating Pilgrim",
 			"rarity": "common",
-			"mana_cost": "{3}{I}",
+			"mana_cost": "{3}{C}",
 			"type": "Enchantment Creature — Icon Knight",
 			"collector_number": "238",
 			"image_uris": {
@@ -968,7 +968,7 @@
 		{
 			"name": "Mana Compression",
 			"rarity": "common",
-			"mana_cost": "{3}{I}",
+			"mana_cost": "{3}{C}",
 			"type": "Sorcery",
 			"collector_number": "253",
 			"image_uris": {
@@ -978,7 +978,7 @@
 		{
 			"name": "Drougth Oracle",
 			"rarity": "common",
-			"mana_cost": "{6}{I}",
+			"mana_cost": "{6}{C}",
 			"type": "Creature — Cat Shaman",
 			"collector_number": "236",
 			"image_uris": {
@@ -988,7 +988,7 @@
 		{
 			"name": "Enlightening Crescents",
 			"rarity": "common",
-			"mana_cost": "{3}{I}",
+			"mana_cost": "{3}{C}",
 			"type": "Enchantment — Realm",
 			"collector_number": "239",
 			"back": {
@@ -1005,7 +1005,7 @@
 		{
 			"name": "Mutated Pioneer",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Creature — Wurm Crab Scout",
 			"collector_number": "258",
 			"image_uris": {
@@ -1525,7 +1525,7 @@
 		{
 			"name": "Morraire Shimmer Patrol",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}{W}",
+			"mana_cost": "{2}{C}{W}",
 			"type": "Creature — Faerie Dog",
 			"collector_number": "310",
 			"image_uris": {
@@ -1535,7 +1535,7 @@
 		{
 			"name": "Coiling Jailer",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{I}{W}",
+			"mana_cost": "{4}{C}{W}",
 			"type": "Creature — Wurm Cleric",
 			"collector_number": "282",
 			"image_uris": {
@@ -1625,7 +1625,7 @@
 		{
 			"name": "Cydina Storm Drake",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{I}{R}",
+			"mana_cost": "{3}{C}{R}",
 			"type": "Creature — Drake",
 			"collector_number": "283",
 			"image_uris": {
@@ -1635,7 +1635,7 @@
 		{
 			"name": "Flowsnail",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}{R}",
+			"mana_cost": "{1}{C}{R}",
 			"type": "Creature — Jellyfish Snail",
 			"collector_number": "290",
 			"image_uris": {
@@ -1665,7 +1665,7 @@
 		{
 			"name": "Promise of Hunger",
 			"rarity": "uncommon",
-			"mana_cost": "{I}{G}",
+			"mana_cost": "{C}{G}",
 			"type": "Enchantment",
 			"collector_number": "318",
 			"image_uris": {
@@ -1675,7 +1675,7 @@
 		{
 			"name": "Balutr Runners",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}{G}",
+			"mana_cost": "{2}{C}{G}",
 			"type": "Creature — Human Wolf Scout",
 			"collector_number": "277",
 			"image_uris": {
@@ -1695,7 +1695,7 @@
 		{
 			"name": "Drake Mentor",
 			"rarity": "uncommon",
-			"mana_cost": "{I}{U}",
+			"mana_cost": "{C}{U}",
 			"type": "Creature — Human Noble",
 			"collector_number": "285",
 			"image_uris": {
@@ -1705,7 +1705,7 @@
 		{
 			"name": "Boundless Flight",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}{U}",
+			"mana_cost": "{2}{C}{U}",
 			"type": "Creature — Chimera",
 			"collector_number": "279",
 			"image_uris": {
@@ -1775,7 +1775,7 @@
 		{
 			"name": "Calamitous Koi",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}{B}",
+			"mana_cost": "{2}{C}{B}",
 			"type": "Creature — Fish Spirit",
 			"collector_number": "280",
 			"image_uris": {
@@ -1785,7 +1785,7 @@
 		{
 			"name": "Omen of Hunger",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{I}{B}",
+			"mana_cost": "{3}{C}{B}",
 			"type": "Creature — Angel Reflection",
 			"collector_number": "313",
 			"image_uris": {
@@ -1905,7 +1905,7 @@
 		{
 			"name": "Homestead Pair",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Human Elf",
 			"collector_number": "242",
 			"image_uris": {
@@ -1935,7 +1935,7 @@
 		{
 			"name": "Discover Uncertainty",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "234",
 			"image_uris": {
@@ -1945,7 +1945,7 @@
 		{
 			"name": "When Words Dont Work",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "273",
 			"image_uris": {
@@ -2285,7 +2285,7 @@
 		{
 			"name": "Iconic Challenger",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Enchantment Creature — Icon Warrior",
 			"collector_number": "244",
 			"image_uris": {
@@ -2295,7 +2295,7 @@
 		{
 			"name": "Unweave",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "271",
 			"image_uris": {
@@ -2305,7 +2305,7 @@
 		{
 			"name": "Concealing Ruins",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Enchantment — Realm",
 			"collector_number": "233",
 			"back": {
@@ -2322,7 +2322,7 @@
 		{
 			"name": "Blade Reifier",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature — Cat Wizard",
 			"collector_number": "227",
 			"image_uris": {
@@ -2332,7 +2332,7 @@
 		{
 			"name": "Ignelscor Witch",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "245",
 			"image_uris": {
@@ -2342,7 +2342,7 @@
 		{
 			"name": "Kornas Forward",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature — Wurm Scout",
 			"collector_number": "250",
 			"image_uris": {
@@ -2352,7 +2352,7 @@
 		{
 			"name": "Meirel Evacuator",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}{I}",
+			"mana_cost": "{1}{C}{C}",
 			"type": "Creature — Hyena Scout",
 			"collector_number": "256",
 			"image_uris": {
@@ -2362,7 +2362,7 @@
 		{
 			"name": "Unending Exploration",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}{I}",
+			"mana_cost": "{2}{C}{C}",
 			"type": "Enchantment",
 			"collector_number": "270",
 			"image_uris": {
@@ -2402,7 +2402,7 @@
 		{
 			"name": "Inkblot Artist",
 			"rarity": "uncommon",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "246",
 			"image_uris": {
@@ -2412,7 +2412,7 @@
 		{
 			"name": "Reflected Inclination",
 			"rarity": "uncommon",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Creature — Elemental",
 			"collector_number": "266",
 			"image_uris": {
@@ -2422,7 +2422,7 @@
 		{
 			"name": "Wandering Travellers",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Human",
 			"collector_number": "272",
 			"image_uris": {
@@ -3688,7 +3688,7 @@
 		{
 			"name": "I Will Walk My Own Path",
 			"rarity": "mythic",
-			"mana_cost": "{4}{I}{I}",
+			"mana_cost": "{4}{C}{C}",
 			"type": "Enchantment",
 			"collector_number": "243",
 			"image_uris": {
@@ -3698,7 +3698,7 @@
 		{
 			"name": "Pathshaping",
 			"rarity": "rare",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Sorcery",
 			"collector_number": "261",
 			"image_uris": {
@@ -3708,7 +3708,7 @@
 		{
 			"name": "Kaln-Ocean Streamliner",
 			"rarity": "rare",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Merfolk Rogue",
 			"collector_number": "248",
 			"image_uris": {
@@ -3718,7 +3718,7 @@
 		{
 			"name": "Soaring Chorus",
 			"rarity": "rare",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Enchamtment Creature — Icon Wizard",
 			"collector_number": "268",
 			"image_uris": {
@@ -3728,7 +3728,7 @@
 		{
 			"name": "Shrouded Pathcensor",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature — Bird Wizard",
 			"collector_number": "267",
 			"image_uris": {
@@ -3738,7 +3738,7 @@
 		{
 			"name": "Chirps Spice Seeker",
 			"rarity": "rare",
-			"mana_cost": "{3}{I}",
+			"mana_cost": "{3}{C}",
 			"type": "Legendary Enchantment Creature — Bird",
 			"collector_number": "232",
 			"image_uris": {
@@ -3748,7 +3748,7 @@
 		{
 			"name": "Melodia Explorer at Heart",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}{I}",
+			"mana_cost": "{2}{C}{C}",
 			"type": "Legendary Enchantment Creature — Human Wizard",
 			"collector_number": "257",
 			"image_uris": {
@@ -3758,7 +3758,7 @@
 		{
 			"name": "Outlands Chimera",
 			"rarity": "mythic",
-			"mana_cost": "{3}{I}{I}",
+			"mana_cost": "{3}{C}{C}",
 			"type": "Creature — Chimera",
 			"collector_number": "259",
 			"image_uris": {
@@ -3798,7 +3798,7 @@
 		{
 			"name": "Starling",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}{I}",
+			"mana_cost": "{2}{C}{C}",
 			"type": "Creature — Shapeshifter",
 			"collector_number": "269",
 			"image_uris": {
@@ -3808,7 +3808,7 @@
 		{
 			"name": "Cerise Auger of Flow",
 			"rarity": "rare",
-			"mana_cost": "{1}{I}{W}{U}",
+			"mana_cost": "{1}{C}{W}{U}",
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "281",
 			"image_uris": {
@@ -3959,7 +3959,7 @@
 		{
 			"name": "Argent, Flash of Mirdrim",
 			"rarity": "mythic",
-			"mana_cost": "{4}{I}{I}",
+			"mana_cost": "{4}{C}{C}",
 			"type": "Legendary Creature — Drake",
 			"collector_number": "225",
 			"back": {
@@ -4067,7 +4067,7 @@
 		{
 			"name": "Mass Mutation",
 			"rarity": "rare",
-			"mana_cost": "{1}{I}{I}",
+			"mana_cost": "{1}{C}{C}",
 			"type": "Sorcery",
 			"collector_number": "254",
 			"image_uris": {
@@ -4077,7 +4077,7 @@
 		{
 			"name": "Ancient Interference",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}{I}",
+			"mana_cost": "{2}{C}{C}",
 			"type": "Instant",
 			"collector_number": "224",
 			"image_uris": {
@@ -4087,7 +4087,7 @@
 		{
 			"name": "Probe the Veil",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Sorcery",
 			"collector_number": "265",
 			"image_uris": {
@@ -4097,7 +4097,7 @@
 		{
 			"name": "Lithify",
 			"rarity": "rare",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Enchantment — Aura",
 			"collector_number": "252",
 			"image_uris": {
@@ -4107,7 +4107,7 @@
 		{
 			"name": "Cascading Reflections",
 			"rarity": "rare",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Instant",
 			"collector_number": "231",
 			"image_uris": {
@@ -4127,7 +4127,7 @@
 		{
 			"name": "Kindred Spirits",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Enchantment",
 			"collector_number": "249",
 			"image_uris": {
@@ -4137,7 +4137,7 @@
 		{
 			"name": "Liminal Ambiguity",
 			"rarity": "rare",
-			"mana_cost": "{X}{I}",
+			"mana_cost": "{X}{C}",
 			"type": "Instant",
 			"collector_number": "251",
 			"image_uris": {
@@ -4147,7 +4147,7 @@
 		{
 			"name": "Experience Cultivator",
 			"rarity": "common",
-			"mana_cost": "{2}{I/G}",
+			"mana_cost": "{2}{C/G}",
 			"type": "Creature — Plant",
 			"collector_number": "287",
 			"image_uris": {
@@ -4227,7 +4227,7 @@
 		{
 			"name": "Meirel Drifter (Luminous)",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Creature — Fox Scout",
 			"collector_number": "34",
 			"image_uris": {
@@ -4267,7 +4267,7 @@
 		{
 			"name": "Called to Eternity",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Enchantment",
 			"collector_number": "229",
 			"image_uris": {
@@ -4297,7 +4297,7 @@
 		{
 			"name": "Parallellism",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Enchantment",
 			"collector_number": "260",
 			"image_uris": {
@@ -4307,7 +4307,7 @@
 		{
 			"name": "Kalim, Shivta's Ear",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}{I}",
+			"mana_cost": "{2}{C}{C}",
 			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "247",
 			"image_uris": {
@@ -4317,7 +4317,7 @@
 		{
 			"name": "Avlod Charm",
 			"rarity": "rare",
-			"mana_cost": "{I}{U}{B}",
+			"mana_cost": "{C}{U}{B}",
 			"type": "Instant",
 			"collector_number": "276",
 			"image_uris": {
@@ -4327,7 +4327,7 @@
 		{
 			"name": "Gluttony",
 			"rarity": "rare",
-			"mana_cost": "{3}{I}",
+			"mana_cost": "{3}{C}",
 			"type": "Creature — Eye Incarnation",
 			"collector_number": "241",
 			"image_uris": {
@@ -4337,7 +4337,7 @@
 		{
 			"name": "Personal Sins",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}{G}{U}",
+			"mana_cost": "{2}{C}{G}{U}",
 			"type": "Enchantment",
 			"collector_number": "317",
 			"image_uris": {
@@ -4357,7 +4357,7 @@
 		{
 			"name": "Mordel Charm",
 			"rarity": "rare",
-			"mana_cost": "{I}{R}{G}",
+			"mana_cost": "{C}{R}{G}",
 			"type": "Instant",
 			"collector_number": "308",
 			"image_uris": {
@@ -4367,7 +4367,7 @@
 		{
 			"name": "Fadove Charm",
 			"rarity": "rare",
-			"mana_cost": "{I}{W}{U}",
+			"mana_cost": "{C}{W}{U}",
 			"type": "Instant",
 			"collector_number": "288",
 			"image_uris": {
@@ -4597,7 +4597,7 @@
 		{
 			"name": "Deino Charm",
 			"rarity": "rare",
-			"mana_cost": "{I}{G}{W}",
+			"mana_cost": "{C}{G}{W}",
 			"type": "Instant",
 			"collector_number": "284",
 			"image_uris": {
@@ -4607,7 +4607,7 @@
 		{
 			"name": "Ignelscor Charm",
 			"rarity": "rare",
-			"mana_cost": "{I}{B}{R}",
+			"mana_cost": "{C}{B}{R}",
 			"type": "Instant",
 			"collector_number": "295",
 			"image_uris": {
@@ -4814,7 +4814,7 @@
 		{
 			"name": "Oracle of Multaph",
 			"rarity": "rare",
-			"mana_cost": "{I}{U}{B}",
+			"mana_cost": "{C}{U}{B}",
 			"type": "Legendary Planeswalker — Pramma",
 			"collector_number": "314",
 			"image_uris": {

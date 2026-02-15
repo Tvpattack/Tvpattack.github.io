@@ -148,6 +148,7 @@ def generateFile(code):
 		for x in range(slot['count']):
 			p1p1.append(slot_list)
 
+	draft_string = draft_string.replace("{I","{C")
 	with open(os.path.join('sets', code + '-files', code + '-draft.txt'), 'w', encoding='utf-8-sig') as f:
 		f.write(draft_string)
 

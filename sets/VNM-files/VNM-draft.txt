@@ -1043,7 +1043,7 @@
 		{
 			"name": "Starbright Entity",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Kindred Enchantment — Cat Entity",
 			"collector_number": "195",
 			"image_uris": {
@@ -1103,7 +1103,7 @@
 		{
 			"name": "Pinnacle Skitter",
 			"rarity": "common",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature — Snake",
 			"collector_number": "193",
 			"image_uris": {
@@ -1133,7 +1133,7 @@
 		{
 			"name": "Pinnacle Wanderer",
 			"rarity": "uncommon",
-			"mana_cost": "{I/W}{I/W}",
+			"mana_cost": "{C/W}{C/W}",
 			"type": "Enchantment Creature — Incarnation Icon",
 			"collector_number": "249",
 			"image_uris": {
@@ -1143,7 +1143,7 @@
 		{
 			"name": "Frostnip Watcher",
 			"rarity": "uncommon",
-			"mana_cost": "{I/U}{I/U}",
+			"mana_cost": "{C/U}{C/U}",
 			"type": "Enchantment Creature — Incarnation Icon",
 			"collector_number": "228",
 			"image_uris": {
@@ -1153,7 +1153,7 @@
 		{
 			"name": "Shroud Walkers",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I/B}{I/B}",
+			"mana_cost": "{1}{C/B}{C/B}",
 			"type": "Enchantment Creature — Incarnation Icon",
 			"collector_number": "260",
 			"image_uris": {
@@ -1163,7 +1163,7 @@
 		{
 			"name": "Verem-Volcano Stalker",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I/R}{I/R}",
+			"mana_cost": "{1}{C/R}{C/R}",
 			"type": "Enchantment Creature — Incarnation Icon",
 			"collector_number": "272",
 			"image_uris": {
@@ -1753,7 +1753,7 @@
 		{
 			"name": "Faloden Thickets",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I/G}{I/G}",
+			"mana_cost": "{1}{C/G}{C/G}",
 			"type": "Enchantment Creature — Incarnation Icon",
 			"collector_number": "226",
 			"image_uris": {
@@ -1773,7 +1773,7 @@
 		{
 			"name": "Tofnet Predator",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature — Insect",
 			"collector_number": "196",
 			"image_uris": {
@@ -2163,7 +2163,7 @@
 		{
 			"name": "Multaph's Respite",
 			"rarity": "rare",
-			"mana_cost": "{I/U}{I/R}{I/W}",
+			"mana_cost": "{C/U}{C/R}{C/W}",
 			"type": "Legendary Enchantment",
 			"collector_number": "239",
 			"image_uris": {
@@ -2173,7 +2173,7 @@
 		{
 			"name": "The Wandering Cook",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Legendary Enchantment Creature — Bird",
 			"collector_number": "198",
 			"image_uris": {
@@ -2263,7 +2263,7 @@
 		{
 			"name": "Bark of Tofnet Plains",
 			"rarity": "common",
-			"mana_cost": "{3}{I/W}{I/W}",
+			"mana_cost": "{3}{C/W}{C/W}",
 			"type": "Creature — Plant",
 			"collector_number": "207",
 			"image_uris": {
@@ -2273,7 +2273,7 @@
 		{
 			"name": "Kaln-Ocean Wispop",
 			"rarity": "common",
-			"mana_cost": "{1}{I/U}",
+			"mana_cost": "{1}{C/U}",
 			"type": "Creature — Jellyfish",
 			"collector_number": "234",
 			"image_uris": {
@@ -2283,7 +2283,7 @@
 		{
 			"name": "Pathborn Crackle",
 			"rarity": "common",
-			"mana_cost": "{I/R}",
+			"mana_cost": "{C/R}",
 			"type": "Creature — Elemental",
 			"collector_number": "247",
 			"image_uris": {
@@ -2293,7 +2293,7 @@
 		{
 			"name": "Guardian of Faloden Woods",
 			"rarity": "common",
-			"mana_cost": "{2}{I/G}{I/G}",
+			"mana_cost": "{2}{C/G}{C/G}",
 			"type": "Creature — Beast",
 			"collector_number": "229",
 			"image_uris": {
@@ -2303,7 +2303,7 @@
 		{
 			"name": "Outlands Frostalker",
 			"rarity": "common",
-			"mana_cost": "{1}{I/B}{I/B}",
+			"mana_cost": "{1}{C/B}{C/B}",
 			"type": "Creature — Cat Beast",
 			"collector_number": "245",
 			"image_uris": {
@@ -2313,7 +2313,7 @@
 		{
 			"name": "Fog Walker",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Creature — Insect",
 			"collector_number": "189",
 			"image_uris": {
@@ -2343,7 +2343,7 @@
 		{
 			"name": "Melodia Voidtouched",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}{I}",
+			"mana_cost": "{2}{C}{C}",
 			"type": "Legendary Enchantment Creature — Human Wizard",
 			"collector_number": "191",
 			"image_uris": {
@@ -3153,7 +3153,7 @@
 		{
 			"name": "Tofnet Thrummer",
 			"rarity": "uncommon",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Creature — Bird",
 			"collector_number": "197",
 			"image_uris": {
@@ -3163,7 +3163,7 @@
 		{
 			"name": "Faloden Scavenger",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature — Fox",
 			"collector_number": "188",
 			"image_uris": {
@@ -3173,7 +3173,7 @@
 		{
 			"name": "Grazed by the Endless",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "190",
 			"image_uris": {
@@ -3183,7 +3183,7 @@
 		{
 			"name": "Choked Essence",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "185",
 			"image_uris": {
@@ -3283,7 +3283,7 @@
 		{
 			"name": "Paragon of Unknown Sights",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{I}",
+			"mana_cost": "{3}{C}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "192",
 			"image_uris": {
@@ -3293,7 +3293,7 @@
 		{
 			"name": "Dustfall",
 			"rarity": "rare",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Enchantment",
 			"collector_number": "187",
 			"image_uris": {
@@ -3303,7 +3303,7 @@
 		{
 			"name": "Common Enemy",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "186",
 			"image_uris": {
@@ -3313,7 +3313,7 @@
 		{
 			"name": "Power Null",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "194",
 			"image_uris": {
@@ -3323,7 +3323,7 @@
 		{
 			"name": "Weavehorn Chimera",
 			"rarity": "rare",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Creature — Unicorn Chimera",
 			"collector_number": "199",
 			"image_uris": {
@@ -3333,7 +3333,7 @@
 		{
 			"name": "Ethereal Exposure",
 			"rarity": "common",
-			"mana_cost": "{2}{I/W}",
+			"mana_cost": "{2}{C/W}",
 			"type": "Instant",
 			"collector_number": "224",
 			"image_uris": {
@@ -3343,7 +3343,7 @@
 		{
 			"name": "Impunity of Souls",
 			"rarity": "common",
-			"mana_cost": "{I/B}",
+			"mana_cost": "{C/B}",
 			"type": "Instant",
 			"collector_number": "233",
 			"image_uris": {
@@ -3353,7 +3353,7 @@
 		{
 			"name": "Scars of Oil",
 			"rarity": "common",
-			"mana_cost": "{1}{I/U}",
+			"mana_cost": "{1}{C/U}",
 			"type": "Enchantment",
 			"collector_number": "258",
 			"image_uris": {
@@ -3363,7 +3363,7 @@
 		{
 			"name": "Splendid Genesis",
 			"rarity": "common",
-			"mana_cost": "{X}{I/G}",
+			"mana_cost": "{X}{C/G}",
 			"type": "Sorcery",
 			"collector_number": "262",
 			"image_uris": {
@@ -3383,7 +3383,7 @@
 		{
 			"name": "Volatile Visions",
 			"rarity": "common",
-			"mana_cost": "{1}{I/R}",
+			"mana_cost": "{1}{C/R}",
 			"type": "Sorcery",
 			"collector_number": "274",
 			"image_uris": {

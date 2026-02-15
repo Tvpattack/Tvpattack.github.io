@@ -1,4 +1,75 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+
+
+Goddess With the Third Eye
+pt: 2/3 => 3/3
+
+Goddess of Whim
+rules_text: Whenever this creature deals combat damage to a player, discard a card, then draw a card. => 
+
+Trent
+
+Griffore
+cost: {5}{R}{R} => {4}{R}{R}
+rules_text: Restructure {3}{R} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, mill a card. You may play that card until end of turn. [i](To mill a cards, put the top card of your library into your graveyard.)[/i]
+{T}: Add {R}. => Restructure {2}{R} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, exile the top card of your library. You may play it during your next turn.
+{T}: Add {R}.
+
+Terraforming
+type: Land => Land — Field
+rules_text: {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{4}, Discard this: Search your library for a Land card, reveal it, put it into your hand, then shuffle.
+
+Claw Reacher
+cost: {5}{I}{I} => {4}{I}{I}
+rules_text: Restructure {3}{I} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, look at the top two cards of your library. Put one into your hand and the other back on top.
+{T}: Add {I}. => Restructure {2}{I} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, look at the top two cards of your library. Put one into your hand and the other back on top.
+{T}: Add {I}.
+pt: 4/3 => 4/5
+
+Metal Guardian
+cost: {5}{W}{W} => {4}{W}{W}
+rules_text: Restructure {3}{W} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, return up to one target permanent card with mana value 3 or less from your graveyard to your hand.
+{T}: Add {W}. => Restructure {2}{W} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, return up to one target permanent card with mana value 3 or less from your graveyard to your hand.
+{T}: Add {W}.
+pt: 4/4 => 5/5
+
+Ancient Brain
+cost: {5}{U}{U} => {4}{U}{U}
+rules_text: Restructure {3}{U} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, draw a card, then mill a card. [i](Put the top card of your library into your graveyard.)[/i]
+{T}: Add {U}. => Restructure {2}{U} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, scry 1, then draw a card. [i](Look at the top card of your library. You may put it on the bottom of your library.)[/i]
+{T}: Add {U}.
+pt: 3/4 => 4/4
+
+Ancient Tool
+cost: {5}{B}{B} => {4}{B}{B}
+rules_text: Restructure {3}{B} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, mill two cards. You may put a card milled this way into your hand. [i](To mill two cards, put the top two cards of your library into your graveyard.)[/i]
+{T}: Add {B}. => Restructure {2}{B} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, mill two cards. You may put a card milled this way into your hand. [i](To mill two cards, put the top two cards of your library into your graveyard.)[/i]
+{T}: Add {B}.
+pt: 4/4 => 5/3
+
+Bio Plant
+cost: {5}{G}{G} => {4}{G}{G}
+rules_text: Restructure {3}{G} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, return up to one target creature or land card from your graveyard to your hand.
+{T}: Add {G}. => Restructure {2}{G} [i](If you cast this for its restructure cost, it's a kindred artifact until you pay its mana cost as a sorcery.)[/i]
+When this creature enters, return up to one target creature or land card from your graveyard to your hand.
+{T}: Add {G}.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Burglar added.

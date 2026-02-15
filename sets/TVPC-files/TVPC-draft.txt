@@ -263,7 +263,7 @@
 		{
 			"name": "CI13 more removal",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Sorcery",
 			"collector_number": "188",
 			"image_uris": {
@@ -403,7 +403,7 @@
 		{
 			"name": "CI01 Information Recovery Crew",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Creature — Human Scout",
 			"collector_number": "176",
 			"image_uris": {
@@ -413,7 +413,7 @@
 		{
 			"name": "CI03 Tepid Tamer",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "178",
 			"image_uris": {
@@ -423,7 +423,7 @@
 		{
 			"name": "CI04 Striking Reflection",
 			"rarity": "common",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature — Reflection",
 			"collector_number": "179",
 			"image_uris": {
@@ -433,7 +433,7 @@
 		{
 			"name": "CI02 Exuberant Archaeologist",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Human Scout",
 			"collector_number": "177",
 			"image_uris": {
@@ -573,7 +573,7 @@
 		{
 			"name": "CI09 Back to Market",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Sorcery",
 			"collector_number": "184",
 			"image_uris": {
@@ -583,7 +583,7 @@
 		{
 			"name": "CI10 Center Mass",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Instant",
 			"collector_number": "185",
 			"image_uris": {
@@ -593,7 +593,7 @@
 		{
 			"name": "CI11 Murky Politics",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "186",
 			"image_uris": {
@@ -603,7 +603,7 @@
 		{
 			"name": "CI12 Removal",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "187",
 			"image_uris": {
@@ -743,7 +743,7 @@
 		{
 			"name": "CI05",
 			"rarity": "common",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature",
 			"collector_number": "180",
 			"image_uris": {
@@ -753,7 +753,7 @@
 		{
 			"name": "CI06 Unbothered Alchemist",
 			"rarity": "common",
-			"mana_cost": "{3}{I}",
+			"mana_cost": "{3}{C}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "181",
 			"image_uris": {
@@ -763,7 +763,7 @@
 		{
 			"name": "CI07 removal",
 			"rarity": "common",
-			"mana_cost": "{3}{I}",
+			"mana_cost": "{3}{C}",
 			"type": "Sorcery",
 			"collector_number": "182",
 			"image_uris": {
@@ -773,7 +773,7 @@
 		{
 			"name": "CI08 Scouting Party",
 			"rarity": "common",
-			"mana_cost": "{3}{I}{I}",
+			"mana_cost": "{3}{C}{C}",
 			"type": "Creature — Rabbit Soldier Scout",
 			"collector_number": "183",
 			"image_uris": {
@@ -1733,7 +1733,7 @@
 		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{I}{G}",
+			"mana_cost": "{C}{G}",
 			"type": "",
 			"collector_number": "216",
 			"image_uris": {
@@ -2273,7 +2273,7 @@
 		{
 			"name": "UI01 Night Market Runner",
 			"rarity": "uncommon",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Creature — Human Scout",
 			"collector_number": "196",
 			"image_uris": {
@@ -2283,7 +2283,7 @@
 		{
 			"name": "UI10",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Sorcery",
 			"collector_number": "205",
 			"image_uris": {
@@ -2293,7 +2293,7 @@
 		{
 			"name": "UI09",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Enchantment",
 			"collector_number": "204",
 			"image_uris": {
@@ -2373,7 +2373,7 @@
 		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{I}{W}",
+			"mana_cost": "{C}{W}",
 			"type": "",
 			"collector_number": "238",
 			"image_uris": {
@@ -2383,7 +2383,7 @@
 		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{I}{U}",
+			"mana_cost": "{C}{U}",
 			"type": "",
 			"collector_number": "239",
 			"image_uris": {
@@ -2393,7 +2393,7 @@
 		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{I}{B}",
+			"mana_cost": "{C}{B}",
 			"type": "",
 			"collector_number": "240",
 			"image_uris": {
@@ -2403,7 +2403,7 @@
 		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{I}{R}",
+			"mana_cost": "{C}{R}",
 			"type": "",
 			"collector_number": "241",
 			"image_uris": {
@@ -2463,7 +2463,7 @@
 		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{I}{B}",
+			"mana_cost": "{C}{B}",
 			"type": "",
 			"collector_number": "226",
 			"image_uris": {
@@ -2473,7 +2473,7 @@
 		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{I}{G}",
+			"mana_cost": "{C}{G}",
 			"type": "",
 			"collector_number": "248",
 			"image_uris": {
@@ -2483,7 +2483,7 @@
 		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{I}{R}",
+			"mana_cost": "{C}{R}",
 			"type": "",
 			"collector_number": "249",
 			"image_uris": {
@@ -2493,7 +2493,7 @@
 		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{I}{U}",
+			"mana_cost": "{C}{U}",
 			"type": "",
 			"collector_number": "250",
 			"image_uris": {
@@ -2503,7 +2503,7 @@
 		{
 			"name": "UM01",
 			"rarity": "uncommon",
-			"mana_cost": "{I}{W}",
+			"mana_cost": "{C}{W}",
 			"type": "",
 			"collector_number": "251",
 			"image_uris": {
@@ -2613,7 +2613,7 @@
 		{
 			"name": "UM01",
 			"rarity": "common",
-			"mana_cost": "{I}{B}",
+			"mana_cost": "{C}{B}",
 			"type": "",
 			"collector_number": "227",
 			"image_uris": {
@@ -2623,7 +2623,7 @@
 		{
 			"name": "UM01",
 			"rarity": "common",
-			"mana_cost": "{I}{G}",
+			"mana_cost": "{C}{G}",
 			"type": "",
 			"collector_number": "228",
 			"image_uris": {
@@ -2633,7 +2633,7 @@
 		{
 			"name": "UM01",
 			"rarity": "common",
-			"mana_cost": "{I}{R}",
+			"mana_cost": "{C}{R}",
 			"type": "",
 			"collector_number": "229",
 			"image_uris": {
@@ -2643,7 +2643,7 @@
 		{
 			"name": "UM01",
 			"rarity": "common",
-			"mana_cost": "{I}{U}",
+			"mana_cost": "{C}{U}",
 			"type": "",
 			"collector_number": "231",
 			"image_uris": {
@@ -2653,7 +2653,7 @@
 		{
 			"name": "UM01",
 			"rarity": "common",
-			"mana_cost": "{I}{W}",
+			"mana_cost": "{C}{W}",
 			"type": "",
 			"collector_number": "232",
 			"image_uris": {
@@ -2733,7 +2733,7 @@
 		{
 			"name": "Murky Politics",
 			"rarity": "special",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "290",
 			"image_uris": {
@@ -2743,7 +2743,7 @@
 		{
 			"name": "RI01 Memory Restored",
 			"rarity": "rare",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Sorcery",
 			"collector_number": "189",
 			"image_uris": {
