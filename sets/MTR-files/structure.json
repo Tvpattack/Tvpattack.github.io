@@ -1,0 +1,5 @@
+[
+	{ "name": "common", "count": 14, "balanced": "b", "custom": false, "filtered": false },
+	{ "name": "foil", "count": 1, "balanced": "f", "custom": false, "filtered": false },
+	{ "name": "wildcard", "count": 1, "balanced": "w", "custom": false, "filtered": false }
+]
