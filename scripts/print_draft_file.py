@@ -47,16 +47,17 @@ def generateFile(code):
 			h_pattern = r'\{([A-Z0-9])([A-Z])\}'
 			h_replace = r'{\1/\2}'
 
-			for slot in structure:
-				slot_name = slot['name']
-				if slot_name in [ 'wildcard', 'foil' ] and not filtered(card, filters) and not 'Basic' in card['type'] and not 'token' in card['shape']:
-					booster[slot_name].append(card)
-				elif not slot['custom']:
-					if ((card['rarity'] in ['common', 'masterpiece'] and slot_name == 'common | masterpiece') or (card['rarity'] == 'mythic' and slot_name == 'rare') or card['rarity'] == slot_name) and not filtered(card, filters) and not 'Basic' in card['type'] and not 'token' in card['shape']:
+			if suffix != "_foil":
+				for slot in structure:
+					slot_name = slot['name']
+					if slot_name in [ 'wildcard', 'foil' ] and not filtered(card, filters) and not 'Basic' in card['type'] and not 'token' in card['shape']:
 						booster[slot_name].append(card)
-				else:
-					if ('!' + slot_name) in card['notes']:
-						booster[slot_name].append(card)
+					elif not slot['custom']:
+						if ((card['rarity'] in ['common', 'masterpiece'] and slot_name == 'common | masterpiece') or (card['rarity'] == 'mythic' and slot_name == 'rare') or card['rarity'] == slot_name) and not filtered(card, filters) and not 'Basic' in card['type'] and not 'token' in card['shape']:
+							booster[slot_name].append(card)
+					else:
+						if ('!' + slot_name) in card['notes']:
+							booster[slot_name].append(card)
 
 			foil = "true" if suffix == "_foil" else "false"
 

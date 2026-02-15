@@ -7012,105 +7012,50 @@
 
 [rare(1)]
 	2 RW01
-	2 RW01
-	2 RW02
 	2 RW02
 	2 RW03
-	2 RW03
-	2 RW04
 	2 RW04
 	2 RW05
-	2 RW05
-	2 RW06
 	2 RW06
 	2 RW07
-	2 RW07
-	2 RU01
 	2 RU01
 	2 RU02
-	2 RU02
-	2 RU03
 	2 RU03
 	2 RU04
-	2 RU04
-	2 RU05
 	2 RU05
 	2 RU06
-	2 RU06
-	2 RU07
 	2 RU07
 	2 RB01
-	2 RB01
-	2 RB02
 	2 RB02
 	2 RB03
-	2 RB03
-	2 RB04
 	2 RB04
 	2 RB05
-	2 RB05
-	2 RB06
 	2 RB06
 	2 RB07
-	2 RB07
-	2 RR01
 	2 RR01
 	2 RR02
-	2 RR02
-	2 RR03
 	2 RR03
 	2 RR04
-	2 RR04
-	2 RR05
 	2 RR05
 	2 RR06
-	2 RR06
-	2 RR07
 	2 RR07
 	2 RG01
-	2 RG01
-	2 RI02
 	2 RI02
 	2 RG03
-	2 RG03
-	2 RI04
 	2 RI04
 	2 RG05
-	2 RG05
-	2 RG06
 	2 RG06
 	2 RI07
-	2 RI07
-	1 MW01
 	1 MW01
 	1 MW02
-	1 MW02
-	1 MU01
 	1 MU01
 	1 MU02
-	1 MU02
-	1 MB01
 	1 MB01
 	1 MB02
-	1 MB02
-	1 MR01
 	1 MR01
 	1 MR02
-	1 MR02
-	1 MG01
 	1 MG01
 	1 MG02
-	1 MG02
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
 	2 RM01
 	2 RM01
 	2 RM01
@@ -7122,145 +7067,75 @@
 	2 RM01
 	2 RM01
 	2 RX01
-	2 RX01
-	2 RX02 Gilded Bar
 	2 RX02 Gilded Bar
 	2 RX03 Nightshifter Engine
-	2 RX03 Nightshifter Engine
-	2 RX04 Marching Clock
 	2 RX04 Marching Clock
 	2 RX05
-	2 RX05
-	2 RX06
 	2 RX06
 	2 RX07
-	2 RX07
-	2 RX08 Veil of Hunger
 	2 RX08 Veil of Hunger
 	1 MX01
-	1 MX01
-	1 MX02
 	1 MX02
 	1 MX03
-	1 MX03
-	1 MX04
 	1 MX04
 	1 MX05
-	1 MX05
-	2 RI01 Memory Restored
 	2 RI01 Memory Restored
 	2 RG02
-	2 RG02
-	2 RI03
 	2 RI03
 	2 RG04
-	2 RG04
-	2 RI05
 	2 RI05
 	2 RI06
-	2 RI06
-	2 RG07
 	2 RG07
 [uncommon(3)]
 	4 UW01
-	4 UW01
-	4 UW02
 	4 UW02
 	4 UW03
-	4 UW03
-	4 UW04
 	4 UW04
 	4 UW05
-	4 UW05
-	4 UW06 Astral Slide
 	4 UW06 Astral Slide
 	4 UW07
-	4 UW07
-	4 UW08
 	4 UW08
 	4 UW09
-	4 UW09
-	4 UW10
 	4 UW10
 	4 UU01
-	4 UU01
-	4 UU02
 	4 UU02
 	4 UU03
-	4 UU03
-	4 UU04
 	4 UU04
 	4 UU05
-	4 UU05
-	4 UU06
 	4 UU06
 	4 UU07
-	4 UU07
-	4 UU08
 	4 UU08
 	4 UU09
-	4 UU09
-	4 UU10
 	4 UU10
 	4 UB01
-	4 UB01
-	4 UB02
 	4 UB02
 	4 UB03
-	4 UB03
-	4 UB04
 	4 UB04
 	4 UB05
-	4 UB05
-	4 UB06
 	4 UB06
 	4 UB07
-	4 UB07
-	4 UB08
 	4 UB08
 	4 UB09
-	4 UB09
-	4 UB10
 	4 UB10
 	4 UR01
-	4 UR01
-	4 UR02
 	4 UR02
 	4 UR03
-	4 UR03
-	4 UR04
 	4 UR04
 	4 UR05
-	4 UR05
-	4 UR06
 	4 UR06
 	4 UR07
-	4 UR07
-	4 UR08
 	4 UR08
 	4 UR09
-	4 UR09
-	4 UR10
 	4 UR10
 	4 UG01
-	4 UG01
-	4 UG02
 	4 UG02
 	4 UG03
-	4 UG03
-	4 UG04
 	4 UG04
 	4 UG05
-	4 UG05
-	4 UG06
 	4 UG06
 	4 UG07
-	4 UG07
-	4 UG08
 	4 UG08
 	4 UG09
-	4 UG09
-	4 UG10
 	4 UG10
 	4 UM01
 	4 UM01
@@ -7272,65 +7147,30 @@
 	4 UM01
 	4 UM01
 	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UC01 Crystallizing Aether
 	4 UC01 Crystallizing Aether
 	4 UA02 Surveyor001
-	4 UA02 Surveyor001
-	4 UA03 Gilded Viewing Room
 	4 UA03 Gilded Viewing Room
 	4 UA04
-	4 UA04
-	4 UA05
 	4 UA05
 	4 UL01
-	4 UL01
-	4 UL02
 	4 UL02
 	4 UL03
-	4 UL03
-	4 UL04
 	4 UL04
 	4 UL05
-	4 UL05
-	4 UX01 Cloudslicer Fleet
 	4 UX01 Cloudslicer Fleet
 	4 UX02
-	4 UX02
-	4 UX03
 	4 UX03
 	4 UX04
-	4 UX04
-	4 UX05
 	4 UX05
 	4 UI01 Night Market Runner
-	4 UI01 Night Market Runner
-	4 UI10
 	4 UI10
 	4 UI09
-	4 UI09
-	4 UI08
 	4 UI08
 	4 UI07
-	4 UI07
-	4 UI06
 	4 UI06
 	4 UI05
-	4 UI05
-	4 UI04
 	4 UI04
 	4 UI03
-	4 UI03
-	4 UI02
 	4 UI02
 	4 UM01
 	4 UM01
@@ -7352,36 +7192,6 @@
 	4 UM01
 	4 UM01
 	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 UM01
-	4 Triome
-	4 Triome
-	4 Triome
-	4 Triome
-	4 Triome
-	4 Triome
-	4 Triome
-	4 Triome
-	4 Triome
-	4 Triome
 	4 Triome
 	4 Triome
 	4 Triome
@@ -7394,188 +7204,89 @@
 	4 Triome
 [common(6)]
 	8 CW01
-	8 CW01
-	8 CW02
 	8 CW02
 	8 CW03
-	8 CW03
-	8 CW04
 	8 CW04
 	8 CW05
-	8 CW05
-	8 CW06
 	8 CW06
 	8 CW07
-	8 CW07
-	8 CW08
 	8 CW08
 	8 CW09
-	8 CW09
-	8 CW10
 	8 CW10
 	8 CW11
-	8 CW11
-	8 CW12
 	8 CW12
 	8 CW13
-	8 CW13
-	8 CU01
 	8 CU01
 	8 CU02
-	8 CU02
-	8 CU03
 	8 CU03
 	8 CU04
-	8 CU04
-	8 CU05
 	8 CU05
 	8 CU06
-	8 CU06
-	8 CU07
 	8 CU07
 	8 CU08
-	8 CU08
-	8 CU09
 	8 CU09
 	8 CU10
-	8 CU10
-	8 CU11
 	8 CU11
 	8 CU12
-	8 CU12
-	8 CU13
 	8 CU13
 	8 CI13 more removal
-	8 CI13 more removal
-	8 CB01
 	8 CB01
 	8 CB02
-	8 CB02
-	8 CB03
 	8 CB03
 	8 CB04
-	8 CB04
-	8 CB05
 	8 CB05
 	8 CB06
-	8 CB06
-	8 CB07
 	8 CB07
 	8 CB08
-	8 CB08
-	8 CB09
 	8 CB09
 	8 CB10
-	8 CB10
-	8 CB11
 	8 CB11
 	8 CB12
-	8 CB12
-	8 CB13
 	8 CB13
 	8 CI01 Information Recovery Crew
-	8 CI01 Information Recovery Crew
-	8 CI03 Tepid Tamer
 	8 CI03 Tepid Tamer
 	8 CI04 Striking Reflection
-	8 CI04 Striking Reflection
-	8 CI02 Exuberant Archaeologist
 	8 CI02 Exuberant Archaeologist
 	8 CR01
-	8 CR01
-	8 CR02
 	8 CR02
 	8 CR03
-	8 CR03
-	8 CR04
 	8 CR04
 	8 CR05
-	8 CR05
-	8 CR06
 	8 CR06
 	8 CR07
-	8 CR07
-	8 CR08
 	8 CR08
 	8 CR09 Crasher Mech
-	8 CR09 Crasher Mech
-	8 CR10
 	8 CR10
 	8 CR11
-	8 CR11
-	8 CR12
 	8 CR12
 	8 CR13
-	8 CR13
-	8 CI09 Back to Market
 	8 CI09 Back to Market
 	8 CI10 Center Mass
-	8 CI10 Center Mass
-	8 CI11 Murky Politics
 	8 CI11 Murky Politics
 	8 CI12 Removal
-	8 CI12 Removal
-	8 CG01
 	8 CG01
 	8 CG02
-	8 CG02
-	8 CG03
 	8 CG03
 	8 CG04
-	8 CG04
-	8 CG05
 	8 CG05
 	8 CG06
-	8 CG06
-	8 CG07
 	8 CG07
 	8 CG08
-	8 CG08
-	8 CG09
 	8 CG09
 	8 CG10
-	8 CG10
-	8 CG11
 	8 CG11
 	8 CG12
-	8 CG12
-	8 CG13
 	8 CG13
 	8 CI05
-	8 CI05
-	8 CI06 Unbothered Alchemist
 	8 CI06 Unbothered Alchemist
 	8 CI07 removal
-	8 CI07 removal
-	8 CI08 Scouting Party
 	8 CI08 Scouting Party
 	8 CA01 Ursine Temple
-	8 CA01 Ursine Temple
-	8 CA02 Citysprout Bonsai
 	8 CA02 Citysprout Bonsai
 	8 CA03 Far Off Horizon
-	8 CA03 Far Off Horizon
-	8 CA04 Digital Song
 	8 CA04 Digital Song
 	8 CA05 Gilded Tea Room
-	8 CA05 Gilded Tea Room
 	8 CL01
-	8 CL01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
 	8 UM01
 	8 UM01
 	8 UM01
@@ -7593,188 +7304,89 @@
 	8 UM01
 [common | masterpiece(1)]
 	8 CW01
-	8 CW01
-	8 CW02
 	8 CW02
 	8 CW03
-	8 CW03
-	8 CW04
 	8 CW04
 	8 CW05
-	8 CW05
-	8 CW06
 	8 CW06
 	8 CW07
-	8 CW07
-	8 CW08
 	8 CW08
 	8 CW09
-	8 CW09
-	8 CW10
 	8 CW10
 	8 CW11
-	8 CW11
-	8 CW12
 	8 CW12
 	8 CW13
-	8 CW13
-	8 CU01
 	8 CU01
 	8 CU02
-	8 CU02
-	8 CU03
 	8 CU03
 	8 CU04
-	8 CU04
-	8 CU05
 	8 CU05
 	8 CU06
-	8 CU06
-	8 CU07
 	8 CU07
 	8 CU08
-	8 CU08
-	8 CU09
 	8 CU09
 	8 CU10
-	8 CU10
-	8 CU11
 	8 CU11
 	8 CU12
-	8 CU12
-	8 CU13
 	8 CU13
 	8 CI13 more removal
-	8 CI13 more removal
-	8 CB01
 	8 CB01
 	8 CB02
-	8 CB02
-	8 CB03
 	8 CB03
 	8 CB04
-	8 CB04
-	8 CB05
 	8 CB05
 	8 CB06
-	8 CB06
-	8 CB07
 	8 CB07
 	8 CB08
-	8 CB08
-	8 CB09
 	8 CB09
 	8 CB10
-	8 CB10
-	8 CB11
 	8 CB11
 	8 CB12
-	8 CB12
-	8 CB13
 	8 CB13
 	8 CI01 Information Recovery Crew
-	8 CI01 Information Recovery Crew
-	8 CI03 Tepid Tamer
 	8 CI03 Tepid Tamer
 	8 CI04 Striking Reflection
-	8 CI04 Striking Reflection
-	8 CI02 Exuberant Archaeologist
 	8 CI02 Exuberant Archaeologist
 	8 CR01
-	8 CR01
-	8 CR02
 	8 CR02
 	8 CR03
-	8 CR03
-	8 CR04
 	8 CR04
 	8 CR05
-	8 CR05
-	8 CR06
 	8 CR06
 	8 CR07
-	8 CR07
-	8 CR08
 	8 CR08
 	8 CR09 Crasher Mech
-	8 CR09 Crasher Mech
-	8 CR10
 	8 CR10
 	8 CR11
-	8 CR11
-	8 CR12
 	8 CR12
 	8 CR13
-	8 CR13
-	8 CI09 Back to Market
 	8 CI09 Back to Market
 	8 CI10 Center Mass
-	8 CI10 Center Mass
-	8 CI11 Murky Politics
 	8 CI11 Murky Politics
 	8 CI12 Removal
-	8 CI12 Removal
-	8 CG01
 	8 CG01
 	8 CG02
-	8 CG02
-	8 CG03
 	8 CG03
 	8 CG04
-	8 CG04
-	8 CG05
 	8 CG05
 	8 CG06
-	8 CG06
-	8 CG07
 	8 CG07
 	8 CG08
-	8 CG08
-	8 CG09
 	8 CG09
 	8 CG10
-	8 CG10
-	8 CG11
 	8 CG11
 	8 CG12
-	8 CG12
-	8 CG13
 	8 CG13
 	8 CI05
-	8 CI05
-	8 CI06 Unbothered Alchemist
 	8 CI06 Unbothered Alchemist
 	8 CI07 removal
-	8 CI07 removal
-	8 CI08 Scouting Party
 	8 CI08 Scouting Party
 	8 CA01 Ursine Temple
-	8 CA01 Ursine Temple
-	8 CA02 Citysprout Bonsai
 	8 CA02 Citysprout Bonsai
 	8 CA03 Far Off Horizon
-	8 CA03 Far Off Horizon
-	8 CA04 Digital Song
 	8 CA04 Digital Song
 	8 CA05 Gilded Tea Room
-	8 CA05 Gilded Tea Room
 	8 CL01
-	8 CL01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
 	8 UM01
 	8 UM01
 	8 UM01
@@ -7792,351 +7404,178 @@
 	8 UM01
 [foil(1)]
 	12 CW01
-	12 CW01
-	12 CW02
 	12 CW02
 	12 CW03
-	12 CW03
-	12 CW04
 	12 CW04
 	12 CW05
-	12 CW05
-	12 CW06
 	12 CW06
 	12 CW07
-	12 CW07
-	12 CW08
 	12 CW08
 	12 CW09
-	12 CW09
-	12 CW10
 	12 CW10
 	12 CW11
-	12 CW11
-	12 CW12
 	12 CW12
 	12 CW13
-	12 CW13
-	12 CU01
 	12 CU01
 	12 CU02
-	12 CU02
-	12 CU03
 	12 CU03
 	12 CU04
-	12 CU04
-	12 CU05
 	12 CU05
 	12 CU06
-	12 CU06
-	12 CU07
 	12 CU07
 	12 CU08
-	12 CU08
-	12 CU09
 	12 CU09
 	12 CU10
-	12 CU10
-	12 CU11
 	12 CU11
 	12 CU12
-	12 CU12
-	12 CU13
 	12 CU13
 	12 CI13 more removal
-	12 CI13 more removal
-	12 CB01
 	12 CB01
 	12 CB02
-	12 CB02
-	12 CB03
 	12 CB03
 	12 CB04
-	12 CB04
-	12 CB05
 	12 CB05
 	12 CB06
-	12 CB06
-	12 CB07
 	12 CB07
 	12 CB08
-	12 CB08
-	12 CB09
 	12 CB09
 	12 CB10
-	12 CB10
-	12 CB11
 	12 CB11
 	12 CB12
-	12 CB12
-	12 CB13
 	12 CB13
 	12 CI01 Information Recovery Crew
-	12 CI01 Information Recovery Crew
-	12 CI03 Tepid Tamer
 	12 CI03 Tepid Tamer
 	12 CI04 Striking Reflection
-	12 CI04 Striking Reflection
-	12 CI02 Exuberant Archaeologist
 	12 CI02 Exuberant Archaeologist
 	12 CR01
-	12 CR01
-	12 CR02
 	12 CR02
 	12 CR03
-	12 CR03
-	12 CR04
 	12 CR04
 	12 CR05
-	12 CR05
-	12 CR06
 	12 CR06
 	12 CR07
-	12 CR07
-	12 CR08
 	12 CR08
 	12 CR09 Crasher Mech
-	12 CR09 Crasher Mech
-	12 CR10
 	12 CR10
 	12 CR11
-	12 CR11
-	12 CR12
 	12 CR12
 	12 CR13
-	12 CR13
-	12 CI09 Back to Market
 	12 CI09 Back to Market
 	12 CI10 Center Mass
-	12 CI10 Center Mass
-	12 CI11 Murky Politics
 	12 CI11 Murky Politics
 	12 CI12 Removal
-	12 CI12 Removal
-	12 CG01
 	12 CG01
 	12 CG02
-	12 CG02
-	12 CG03
 	12 CG03
 	12 CG04
-	12 CG04
-	12 CG05
 	12 CG05
 	12 CG06
-	12 CG06
-	12 CG07
 	12 CG07
 	12 CG08
-	12 CG08
-	12 CG09
 	12 CG09
 	12 CG10
-	12 CG10
-	12 CG11
 	12 CG11
 	12 CG12
-	12 CG12
-	12 CG13
 	12 CG13
 	12 CI05
-	12 CI05
-	12 CI06 Unbothered Alchemist
 	12 CI06 Unbothered Alchemist
 	12 CI07 removal
-	12 CI07 removal
-	12 CI08 Scouting Party
 	12 CI08 Scouting Party
 	6 UW01
-	6 UW01
-	6 UW02
 	6 UW02
 	6 UW03
-	6 UW03
-	6 UW04
 	6 UW04
 	6 UW05
-	6 UW05
-	6 UW06 Astral Slide
 	6 UW06 Astral Slide
 	6 UW07
-	6 UW07
-	6 UW08
 	6 UW08
 	6 UW09
-	6 UW09
-	6 UW10
 	6 UW10
 	6 UU01
-	6 UU01
-	6 UU02
 	6 UU02
 	6 UU03
-	6 UU03
-	6 UU04
 	6 UU04
 	6 UU05
-	6 UU05
-	6 UU06
 	6 UU06
 	6 UU07
-	6 UU07
-	6 UU08
 	6 UU08
 	6 UU09
-	6 UU09
-	6 UU10
 	6 UU10
 	6 UB01
-	6 UB01
-	6 UB02
 	6 UB02
 	6 UB03
-	6 UB03
-	6 UB04
 	6 UB04
 	6 UB05
-	6 UB05
-	6 UB06
 	6 UB06
 	6 UB07
-	6 UB07
-	6 UB08
 	6 UB08
 	6 UB09
-	6 UB09
-	6 UB10
 	6 UB10
 	6 UR01
-	6 UR01
-	6 UR02
 	6 UR02
 	6 UR03
-	6 UR03
-	6 UR04
 	6 UR04
 	6 UR05
-	6 UR05
-	6 UR06
 	6 UR06
 	6 UR07
-	6 UR07
-	6 UR08
 	6 UR08
 	6 UR09
-	6 UR09
-	6 UR10
 	6 UR10
 	6 UG01
-	6 UG01
-	6 UG02
 	6 UG02
 	6 UG03
-	6 UG03
-	6 UG04
 	6 UG04
 	6 UG05
-	6 UG05
-	6 UG06
 	6 UG06
 	6 UG07
-	6 UG07
-	6 UG08
 	6 UG08
 	6 UG09
-	6 UG09
-	6 UG10
 	6 UG10
 	2 RW01
-	2 RW01
-	2 RW02
 	2 RW02
 	2 RW03
-	2 RW03
-	2 RW04
 	2 RW04
 	2 RW05
-	2 RW05
-	2 RW06
 	2 RW06
 	2 RW07
-	2 RW07
-	2 RU01
 	2 RU01
 	2 RU02
-	2 RU02
-	2 RU03
 	2 RU03
 	2 RU04
-	2 RU04
-	2 RU05
 	2 RU05
 	2 RU06
-	2 RU06
-	2 RU07
 	2 RU07
 	2 RB01
-	2 RB01
-	2 RB02
 	2 RB02
 	2 RB03
-	2 RB03
-	2 RB04
 	2 RB04
 	2 RB05
-	2 RB05
-	2 RB06
 	2 RB06
 	2 RB07
-	2 RB07
-	2 RR01
 	2 RR01
 	2 RR02
-	2 RR02
-	2 RR03
 	2 RR03
 	2 RR04
-	2 RR04
-	2 RR05
 	2 RR05
 	2 RR06
-	2 RR06
-	2 RR07
 	2 RR07
 	2 RG01
-	2 RG01
-	2 RI02
 	2 RI02
 	2 RG03
-	2 RG03
-	2 RI04
 	2 RI04
 	2 RG05
-	2 RG05
-	2 RG06
 	2 RG06
 	2 RI07
-	2 RI07
-	1 MW01
 	1 MW01
 	1 MW02
-	1 MW02
-	1 MU01
 	1 MU01
 	1 MU02
-	1 MU02
-	1 MB01
 	1 MB01
 	1 MB02
-	1 MB02
-	1 MR01
 	1 MR01
 	1 MR02
-	1 MR02
-	1 MG01
 	1 MG01
 	1 MG02
-	1 MG02
 	6 UM01
 	6 UM01
 	6 UM01
@@ -8147,26 +7586,6 @@
 	6 UM01
 	6 UM01
 	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
 	2 RM01
 	2 RM01
 	2 RM01
@@ -8178,92 +7597,48 @@
 	2 RM01
 	2 RM01
 	12 CA01 Ursine Temple
-	12 CA01 Ursine Temple
-	12 CA02 Citysprout Bonsai
 	12 CA02 Citysprout Bonsai
 	12 CA03 Far Off Horizon
-	12 CA03 Far Off Horizon
-	12 CA04 Digital Song
 	12 CA04 Digital Song
 	12 CA05 Gilded Tea Room
-	12 CA05 Gilded Tea Room
-	6 UC01 Crystallizing Aether
 	6 UC01 Crystallizing Aether
 	6 UA02 Surveyor001
-	6 UA02 Surveyor001
-	6 UA03 Gilded Viewing Room
 	6 UA03 Gilded Viewing Room
 	6 UA04
-	6 UA04
-	6 UA05
 	6 UA05
 	12 CL01
-	12 CL01
-	6 UL01
 	6 UL01
 	6 UL02
-	6 UL02
-	6 UL03
 	6 UL03
 	6 UL04
-	6 UL04
-	6 UL05
 	6 UL05
 	6 UX01 Cloudslicer Fleet
-	6 UX01 Cloudslicer Fleet
-	6 UX02
 	6 UX02
 	6 UX03
-	6 UX03
-	6 UX04
 	6 UX04
 	6 UX05
-	6 UX05
-	2 RX01
 	2 RX01
 	2 RX02 Gilded Bar
-	2 RX02 Gilded Bar
-	2 RX03 Nightshifter Engine
 	2 RX03 Nightshifter Engine
 	2 RX04 Marching Clock
-	2 RX04 Marching Clock
-	2 RX05
 	2 RX05
 	2 RX06
-	2 RX06
-	2 RX07
 	2 RX07
 	2 RX08 Veil of Hunger
-	2 RX08 Veil of Hunger
-	1 MX01
 	1 MX01
 	1 MX02
-	1 MX02
-	1 MX03
 	1 MX03
 	1 MX04
-	1 MX04
-	1 MX05
 	1 MX05
 	6 UI01 Night Market Runner
-	6 UI01 Night Market Runner
-	6 UI10
 	6 UI10
 	6 UI09
-	6 UI09
-	6 UI08
 	6 UI08
 	6 UI07
-	6 UI07
-	6 UI06
 	6 UI06
 	6 UI05
-	6 UI05
-	6 UI04
 	6 UI04
 	6 UI03
-	6 UI03
-	6 UI02
 	6 UI02
 	6 UM01
 	6 UM01
@@ -8285,41 +7660,6 @@
 	6 UM01
 	6 UM01
 	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
 	12 UM01
 	12 UM01
 	12 UM01
@@ -8336,29 +7676,12 @@
 	12 UM01
 	12 UM01
 	2 RI01 Memory Restored
-	2 RI01 Memory Restored
-	2 RG02
 	2 RG02
 	2 RI03
-	2 RI03
-	2 RG04
 	2 RG04
 	2 RI05
-	2 RI05
-	2 RI06
 	2 RI06
 	2 RG07
-	2 RG07
-	6 Triome
-	6 Triome
-	6 Triome
-	6 Triome
-	6 Triome
-	6 Triome
-	6 Triome
-	6 Triome
-	6 Triome
-	6 Triome
 	6 Triome
 	6 Triome
 	6 Triome
@@ -8371,351 +7694,178 @@
 	6 Triome
 [wildcard(1)]
 	6 CW01
-	6 CW01
-	6 CW02
 	6 CW02
 	6 CW03
-	6 CW03
-	6 CW04
 	6 CW04
 	6 CW05
-	6 CW05
-	6 CW06
 	6 CW06
 	6 CW07
-	6 CW07
-	6 CW08
 	6 CW08
 	6 CW09
-	6 CW09
-	6 CW10
 	6 CW10
 	6 CW11
-	6 CW11
-	6 CW12
 	6 CW12
 	6 CW13
-	6 CW13
-	6 CU01
 	6 CU01
 	6 CU02
-	6 CU02
-	6 CU03
 	6 CU03
 	6 CU04
-	6 CU04
-	6 CU05
 	6 CU05
 	6 CU06
-	6 CU06
-	6 CU07
 	6 CU07
 	6 CU08
-	6 CU08
-	6 CU09
 	6 CU09
 	6 CU10
-	6 CU10
-	6 CU11
 	6 CU11
 	6 CU12
-	6 CU12
-	6 CU13
 	6 CU13
 	6 CI13 more removal
-	6 CI13 more removal
-	6 CB01
 	6 CB01
 	6 CB02
-	6 CB02
-	6 CB03
 	6 CB03
 	6 CB04
-	6 CB04
-	6 CB05
 	6 CB05
 	6 CB06
-	6 CB06
-	6 CB07
 	6 CB07
 	6 CB08
-	6 CB08
-	6 CB09
 	6 CB09
 	6 CB10
-	6 CB10
-	6 CB11
 	6 CB11
 	6 CB12
-	6 CB12
-	6 CB13
 	6 CB13
 	6 CI01 Information Recovery Crew
-	6 CI01 Information Recovery Crew
-	6 CI03 Tepid Tamer
 	6 CI03 Tepid Tamer
 	6 CI04 Striking Reflection
-	6 CI04 Striking Reflection
-	6 CI02 Exuberant Archaeologist
 	6 CI02 Exuberant Archaeologist
 	6 CR01
-	6 CR01
-	6 CR02
 	6 CR02
 	6 CR03
-	6 CR03
-	6 CR04
 	6 CR04
 	6 CR05
-	6 CR05
-	6 CR06
 	6 CR06
 	6 CR07
-	6 CR07
-	6 CR08
 	6 CR08
 	6 CR09 Crasher Mech
-	6 CR09 Crasher Mech
-	6 CR10
 	6 CR10
 	6 CR11
-	6 CR11
-	6 CR12
 	6 CR12
 	6 CR13
-	6 CR13
-	6 CI09 Back to Market
 	6 CI09 Back to Market
 	6 CI10 Center Mass
-	6 CI10 Center Mass
-	6 CI11 Murky Politics
 	6 CI11 Murky Politics
 	6 CI12 Removal
-	6 CI12 Removal
-	6 CG01
 	6 CG01
 	6 CG02
-	6 CG02
-	6 CG03
 	6 CG03
 	6 CG04
-	6 CG04
-	6 CG05
 	6 CG05
 	6 CG06
-	6 CG06
-	6 CG07
 	6 CG07
 	6 CG08
-	6 CG08
-	6 CG09
 	6 CG09
 	6 CG10
-	6 CG10
-	6 CG11
 	6 CG11
 	6 CG12
-	6 CG12
-	6 CG13
 	6 CG13
 	6 CI05
-	6 CI05
-	6 CI06 Unbothered Alchemist
 	6 CI06 Unbothered Alchemist
 	6 CI07 removal
-	6 CI07 removal
-	6 CI08 Scouting Party
 	6 CI08 Scouting Party
 	15 UW01
-	15 UW01
-	15 UW02
 	15 UW02
 	15 UW03
-	15 UW03
-	15 UW04
 	15 UW04
 	15 UW05
-	15 UW05
-	15 UW06 Astral Slide
 	15 UW06 Astral Slide
 	15 UW07
-	15 UW07
-	15 UW08
 	15 UW08
 	15 UW09
-	15 UW09
-	15 UW10
 	15 UW10
 	15 UU01
-	15 UU01
-	15 UU02
 	15 UU02
 	15 UU03
-	15 UU03
-	15 UU04
 	15 UU04
 	15 UU05
-	15 UU05
-	15 UU06
 	15 UU06
 	15 UU07
-	15 UU07
-	15 UU08
 	15 UU08
 	15 UU09
-	15 UU09
-	15 UU10
 	15 UU10
 	15 UB01
-	15 UB01
-	15 UB02
 	15 UB02
 	15 UB03
-	15 UB03
-	15 UB04
 	15 UB04
 	15 UB05
-	15 UB05
-	15 UB06
 	15 UB06
 	15 UB07
-	15 UB07
-	15 UB08
 	15 UB08
 	15 UB09
-	15 UB09
-	15 UB10
 	15 UB10
 	15 UR01
-	15 UR01
-	15 UR02
 	15 UR02
 	15 UR03
-	15 UR03
-	15 UR04
 	15 UR04
 	15 UR05
-	15 UR05
-	15 UR06
 	15 UR06
 	15 UR07
-	15 UR07
-	15 UR08
 	15 UR08
 	15 UR09
-	15 UR09
-	15 UR10
 	15 UR10
 	15 UG01
-	15 UG01
-	15 UG02
 	15 UG02
 	15 UG03
-	15 UG03
-	15 UG04
 	15 UG04
 	15 UG05
-	15 UG05
-	15 UG06
 	15 UG06
 	15 UG07
-	15 UG07
-	15 UG08
 	15 UG08
 	15 UG09
-	15 UG09
-	15 UG10
 	15 UG10
 	7 RW01
-	7 RW01
-	7 RW02
 	7 RW02
 	7 RW03
-	7 RW03
-	7 RW04
 	7 RW04
 	7 RW05
-	7 RW05
-	7 RW06
 	7 RW06
 	7 RW07
-	7 RW07
-	7 RU01
 	7 RU01
 	7 RU02
-	7 RU02
-	7 RU03
 	7 RU03
 	7 RU04
-	7 RU04
-	7 RU05
 	7 RU05
 	7 RU06
-	7 RU06
-	7 RU07
 	7 RU07
 	7 RB01
-	7 RB01
-	7 RB02
 	7 RB02
 	7 RB03
-	7 RB03
-	7 RB04
 	7 RB04
 	7 RB05
-	7 RB05
-	7 RB06
 	7 RB06
 	7 RB07
-	7 RB07
-	7 RR01
 	7 RR01
 	7 RR02
-	7 RR02
-	7 RR03
 	7 RR03
 	7 RR04
-	7 RR04
-	7 RR05
 	7 RR05
 	7 RR06
-	7 RR06
-	7 RR07
 	7 RR07
 	7 RG01
-	7 RG01
-	7 RI02
 	7 RI02
 	7 RG03
-	7 RG03
-	7 RI04
 	7 RI04
 	7 RG05
-	7 RG05
-	7 RG06
 	7 RG06
 	7 RI07
-	7 RI07
-	4 MW01
 	4 MW01
 	4 MW02
-	4 MW02
-	4 MU01
 	4 MU01
 	4 MU02
-	4 MU02
-	4 MB01
 	4 MB01
 	4 MB02
-	4 MB02
-	4 MR01
 	4 MR01
 	4 MR02
-	4 MR02
-	4 MG01
 	4 MG01
 	4 MG02
-	4 MG02
 	15 UM01
 	15 UM01
 	15 UM01
@@ -8726,26 +7876,6 @@
 	15 UM01
 	15 UM01
 	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	7 RM01
-	7 RM01
-	7 RM01
-	7 RM01
-	7 RM01
-	7 RM01
-	7 RM01
-	7 RM01
-	7 RM01
-	7 RM01
 	7 RM01
 	7 RM01
 	7 RM01
@@ -8757,92 +7887,48 @@
 	7 RM01
 	7 RM01
 	6 CA01 Ursine Temple
-	6 CA01 Ursine Temple
-	6 CA02 Citysprout Bonsai
 	6 CA02 Citysprout Bonsai
 	6 CA03 Far Off Horizon
-	6 CA03 Far Off Horizon
-	6 CA04 Digital Song
 	6 CA04 Digital Song
 	6 CA05 Gilded Tea Room
-	6 CA05 Gilded Tea Room
-	15 UC01 Crystallizing Aether
 	15 UC01 Crystallizing Aether
 	15 UA02 Surveyor001
-	15 UA02 Surveyor001
-	15 UA03 Gilded Viewing Room
 	15 UA03 Gilded Viewing Room
 	15 UA04
-	15 UA04
-	15 UA05
 	15 UA05
 	6 CL01
-	6 CL01
-	15 UL01
 	15 UL01
 	15 UL02
-	15 UL02
-	15 UL03
 	15 UL03
 	15 UL04
-	15 UL04
-	15 UL05
 	15 UL05
 	15 UX01 Cloudslicer Fleet
-	15 UX01 Cloudslicer Fleet
-	15 UX02
 	15 UX02
 	15 UX03
-	15 UX03
-	15 UX04
 	15 UX04
 	15 UX05
-	15 UX05
-	7 RX01
 	7 RX01
 	7 RX02 Gilded Bar
-	7 RX02 Gilded Bar
-	7 RX03 Nightshifter Engine
 	7 RX03 Nightshifter Engine
 	7 RX04 Marching Clock
-	7 RX04 Marching Clock
-	7 RX05
 	7 RX05
 	7 RX06
-	7 RX06
-	7 RX07
 	7 RX07
 	7 RX08 Veil of Hunger
-	7 RX08 Veil of Hunger
-	4 MX01
 	4 MX01
 	4 MX02
-	4 MX02
-	4 MX03
 	4 MX03
 	4 MX04
-	4 MX04
-	4 MX05
 	4 MX05
 	15 UI01 Night Market Runner
-	15 UI01 Night Market Runner
-	15 UI10
 	15 UI10
 	15 UI09
-	15 UI09
-	15 UI08
 	15 UI08
 	15 UI07
-	15 UI07
-	15 UI06
 	15 UI06
 	15 UI05
-	15 UI05
-	15 UI04
 	15 UI04
 	15 UI03
-	15 UI03
-	15 UI02
 	15 UI02
 	15 UM01
 	15 UM01
@@ -8864,41 +7950,6 @@
 	15 UM01
 	15 UM01
 	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	15 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
 	6 UM01
 	6 UM01
 	6 UM01
@@ -8915,29 +7966,12 @@
 	6 UM01
 	6 UM01
 	7 RI01 Memory Restored
-	7 RI01 Memory Restored
-	7 RG02
 	7 RG02
 	7 RI03
-	7 RI03
-	7 RG04
 	7 RG04
 	7 RI05
-	7 RI05
-	7 RI06
 	7 RI06
 	7 RG07
-	7 RG07
-	15 Triome
-	15 Triome
-	15 Triome
-	15 Triome
-	15 Triome
-	15 Triome
-	15 Triome
-	15 Triome
-	15 Triome
-	15 Triome
 	15 Triome
 	15 Triome
 	15 Triome

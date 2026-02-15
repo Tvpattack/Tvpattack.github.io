@@ -8020,1835 +8020,921 @@
 
 [rare(1)]
 	2 Dragon Capture Jar
-	2 Dragon Capture Jar
-	2 Giant Mech-Soldier
 	2 Giant Mech-Soldier
 	2 Cyber Soldier of Darkworld
-	2 Cyber Soldier of Darkworld
-	2 Giant Soldier of Stone
 	2 Giant Soldier of Stone
 	2 Ryu-Kishin
-	2 Ryu-Kishin
-	2 Red-Eyes Black Dragon
 	2 Red-Eyes Black Dragon
 	2 Yormungarde
-	2 Yormungarde
-	2 Blue-Eyes White Dragon
 	2 Blue-Eyes White Dragon
 	2 Winged Dragon, Guardian of the Fortress 1
-	2 Winged Dragon, Guardian of the Fortress 1
-	2 Winged Dragon, Guardian of the Fortress 2
 	2 Winged Dragon, Guardian of the Fortress 2
 	2 Battle Warrior
-	2 Battle Warrior
-	2 Celtic Guardian
 	2 Celtic Guardian
 	2 Gaia the Dragon Champion
-	2 Gaia the Dragon Champion
-	2 Gaia The Fierce Knight
 	2 Gaia The Fierce Knight
 	2 Armed Ninja
-	2 Armed Ninja
-	2 Dark Magician
 	2 Dark Magician
 	2 Boo Koo
-	2 Boo Koo
-	2 Winged Cleaver
 	2 Winged Cleaver
 	2 Wow Warrior
-	2 Wow Warrior
-	2 Wodan the Resident of the Forest
 	2 Wodan the Resident of the Forest
 	2 Reaper of the Cards
-	2 Reaper of the Cards
-	2 Tao the Chanter
 	2 Tao the Chanter
 	2 Hane-Hane
-	2 Hane-Hane
-	2 Trap Hole
 	2 Trap Hole
 	2 The Seal of Orichalcos
-	2 The Seal of Orichalcos
-	2 Aqua Madoor
 	2 Aqua Madoor
 	2 Weather Control
-	2 Weather Control
-	2 Invigoration
 	2 Invigoration
 	2 Blue Medicine
-	2 Blue Medicine
-	2 Fissure
 	2 Fissure
 	2 Goblins Secret Remedy
-	2 Goblins Secret Remedy
-	2 Monster Reborn
 	2 Monster Reborn
 	2 Red Medicine
-	2 Red Medicine
-	2 Exodia the Forbidden One
 	2 Exodia the Forbidden One
 	2 Left Arm of the Forbidden One
-	2 Left Arm of the Forbidden One
-	2 Left Leg of the Forbidden One
 	2 Left Leg of the Forbidden One
 	2 Right Arm of the Forbidden One
-	2 Right Arm of the Forbidden One
-	2 Right Leg of the Forbidden One
 	2 Right Leg of the Forbidden One
 	2 Dark Hole
-	2 Dark Hole
-	2 Final Flame
 	2 Final Flame
 	2 Polymerization
-	2 Polymerization
-	2 Raigeki
 	2 Raigeki
 	2 Reinforcements
-	2 Reinforcements
-	2 Stop Defense
 	2 Stop Defense
 	2 Swords of Revealing Light
-	2 Swords of Revealing Light
-	2 Two-Pronged Attack
 	2 Two-Pronged Attack
 [uncommon(3)]
 	4 Book of Secret Arts
-	4 Book of Secret Arts
-	4 Temple of Skulls
 	4 Temple of Skulls
 	4 Ancient Jar
-	4 Ancient Jar
-	4 Golgoil
 	4 Golgoil
 	4 Bat
-	4 Bat
-	4 Metal Dragon
 	4 Metal Dragon
 	4 Mech Mole Zombie
-	4 Mech Mole Zombie
-	4 Steel Ogre Grotto 1
 	4 Steel Ogre Grotto 1
 	4 Statue of Easter Island
-	4 Statue of Easter Island
-	4 Electro-Whip
 	4 Electro-Whip
 	4 Laser Cannon Armor
-	4 Laser Cannon Armor
-	4 Silver Bow and Arrow
 	4 Silver Bow and Arrow
 	4 Hourglass of Courage
-	4 Hourglass of Courage
-	4 Spirit of the Harp
 	4 Spirit of the Harp
 	4 Meda Bat
-	4 Meda Bat
-	4 Frenzied Panda
 	4 Frenzied Panda
 	4 Beaver Warrior
-	4 Beaver Warrior
-	4 Skull Red Bird
 	4 Skull Red Bird
 	4 Punished Eagle
-	4 Punished Eagle
-	4 Bolt Penguin
 	4 Bolt Penguin
 	4 Tiger Axe
-	4 Tiger Axe
-	4 Wood Clown
 	4 Wood Clown
 	4 Tri-Horned Dragon
-	4 Tri-Horned Dragon
-	4 Roaring Ocean Snake
 	4 Roaring Ocean Snake
 	4 Twin Long Rods 1
-	4 Twin Long Rods 1
-	4 Sanwitch
 	4 Sanwitch
 	4 Succubus Knight
-	4 Succubus Knight
-	4 Witty Phantom
 	4 Witty Phantom
 	4 Dig Beak
-	4 Dig Beak
-	4 Shadow Who Controls the Dark
 	4 Shadow Who Controls the Dark
 	4 Megirus Light
-	4 Megirus Light
-	4 Tomozaurus
 	4 Tomozaurus
 	4 Curse of Dragon
-	4 Curse of Dragon
-	4 Lesser Dragon
 	4 Lesser Dragon
 	4 Wicked Dragon with the Ersatz Head
-	4 Wicked Dragon with the Ersatz Head
-	4 Tripwire Beast
 	4 Tripwire Beast
 	4 One-Eyed Shield Dragon
-	4 One-Eyed Shield Dragon
-	4 Flame Ghost
 	4 Flame Ghost
 	4 Empress Judge
-	4 Empress Judge
-	4 Mystical Elf
 	4 Mystical Elf
 	4 Fairywitch
-	4 Fairywitch
-	4 Dragoness the Wicked Knight
 	4 Dragoness the Wicked Knight
 	4 Armaill
-	4 Armaill
-	4 Beautiful Headhuntress
 	4 Beautiful Headhuntress
 	4 Warrior of Tradition
-	4 Warrior of Tradition
-	4 Flame Swordsman
 	4 Flame Swordsman
 	4 Karbonala Warrior
-	4 Karbonala Warrior
-	4 Minomushi Warrior
 	4 Minomushi Warrior
 	4 St Joan
-	4 St Joan
-	4 M-Warrior 1
 	4 M-Warrior 1
 	4 M-Warrior 2
-	4 M-Warrior 2
-	4 Fireyarou
 	4 Fireyarou
 	4 Vermillion Sparrow
-	4 Vermillion Sparrow
-	4 Kamionwizard
 	4 Kamionwizard
 	4 Alinsection
-	4 Alinsection
-	4 Giant Flea
 	4 Giant Flea
 	4 Man-Eater Bug
-	4 Man-Eater Bug
-	4 Kwagar Hercules
 	4 Kwagar Hercules
 	4 Mon Larvas
-	4 Mon Larvas
-	4 Terra the Terrible
 	4 Terra the Terrible
 	4 Man-Eating Plant
-	4 Man-Eating Plant
-	4 Abyss Flower
 	4 Abyss Flower
 	4 Darkfire Dragon
-	4 Darkfire Dragon
-	4 Flower Wolf
 	4 Flower Wolf
 	4 Oscillo Hero
-	4 Oscillo Hero
-	4 Wattkid
 	4 Wattkid
 	4 Nightmare Scorpion
-	4 Nightmare Scorpion
-	4 Eyearmor
 	4 Eyearmor
 	4 Doron
-	4 Doron
-	4 Misairuzame
 	4 Misairuzame
 	4 Harpie Lady
-	4 Harpie Lady
-	4 Kumootoko
 	4 Kumootoko
 	4 Djinn the Watcher of the Wind
-	4 Djinn the Watcher of the Wind
-	4 One Who Hunts Souls
 	4 One Who Hunts Souls
 	4 Pragticul
-	4 Pragticul
-	4 Gate Deeg
 	4 Gate Deeg
 	4 Skullbird
-	4 Skullbird
-	4 Akihiron
 	4 Akihiron
 	4 Dark Artist
-	4 Dark Artist
-	4 Armored Starfish
 	4 Armored Starfish
 	4 Fire Reaper
-	4 Fire Reaper
-	4 Steel Shell
 	4 Steel Shell
 	4 Yamatano Dragon Scroll
-	4 Yamatano Dragon Scroll
-	4 Takuhee
 	4 Takuhee
 	4 Fusionist
-	4 Fusionist
-	4 Hurricail
 	4 Hurricail
 	4 Mavelus
-	4 Mavelus
-	4 Stone Ghost
 	4 Stone Ghost
 	4 Charubin the Fire Knight
-	4 Charubin the Fire Knight
-	4 Kaminari Attack
 	4 Kaminari Attack
 	4 Darkworld Thorns
-	4 Darkworld Thorns
-	4 Sand Stone
 	4 Sand Stone
 	4 Gravedigger Ghoul
-	4 Gravedigger Ghoul
-	4 Mythical Forest
 	4 Mythical Forest
 	4 Mythical Mountain
-	4 Mythical Mountain
-	4 Mythical Sogen
 	4 Mythical Sogen
 	4 Mythical Umi
-	4 Mythical Umi
-	4 Mythical Wasteland
 	4 Mythical Wasteland
 	4 Mythical Yami
-	4 Mythical Yami
-	4 Dark Energy
 	4 Dark Energy
 	4 Ookazi
-	4 Ookazi
-	4 Pot of Greed
 	4 Pot of Greed
 	4 Yashinoki
-	4 Yashinoki
-	4 Shifting Obelisks
 	4 Shifting Obelisks
 [common(6)]
 	8 Mystical Capture Chain
-	8 Mystical Capture Chain
-	8 Prismatic Bulb
 	8 Prismatic Bulb
 	8 Rainbow Flower
-	8 Rainbow Flower
-	8 Man-Eating Treasure Chest
 	8 Man-Eating Treasure Chest
 	8 Patrol Robo
-	8 Patrol Robo
-	8 Hard Armor
 	8 Hard Armor
 	8 Beast Fangs
-	8 Beast Fangs
-	8 Dragon Treasure
 	8 Dragon Treasure
 	8 Gust Fan
-	8 Gust Fan
-	8 Legendary Sword
 	8 Legendary Sword
 	8 Machine Conversion Factory
-	8 Machine Conversion Factory
-	8 Power of Kaishin
 	8 Power of Kaishin
 	8 Violet Crystal
-	8 Violet Crystal
-	8 Happy Lover
 	8 Happy Lover
 	8 Hourglass of Life
-	8 Hourglass of Life
-	8 Petit Angel
 	8 Petit Angel
 	8 Shining Friendship
-	8 Shining Friendship
-	8 Mabarrel
 	8 Mabarrel
 	8 Droll Bird
-	8 Droll Bird
-	8 Kurama
 	8 Kurama
 	8 Fiend Reflection 2
-	8 Fiend Reflection 2
-	8 Spirit of the Books
 	8 Spirit of the Books
 	8 Rare Fish
-	8 Rare Fish
-	8 Turtle Tiger
 	8 Turtle Tiger
 	8 Rabid Horseman
-	8 Rabid Horseman
-	8 Hitotsu-Me Giant
 	8 Hitotsu-Me Giant
 	8 Midnight Fiend
-	8 Midnight Fiend
-	8 Tyhone
 	8 Tyhone
 	8 Synchar
-	8 Synchar
-	8 Meotoko
 	8 Meotoko
 	8 Archfiend Mirror
-	8 Archfiend Mirror
-	8 Dark Plant
 	8 Dark Plant
 	8 Rhaimundos of the Red Sword
-	8 Rhaimundos of the Red Sword
-	8 Phantom Dewan
 	8 Phantom Dewan
 	8 Dark King of the Abyss
-	8 Dark King of the Abyss
-	8 Two-Mouth Darkruler
 	8 Two-Mouth Darkruler
 	8 Uraby
-	8 Uraby
-	8 Kaiser Dragon
 	8 Kaiser Dragon
 	8 Petit Dragon
-	8 Petit Dragon
-	8 That Which Feeds on Life
 	8 That Which Feeds on Life
 	8 Monster Egg
-	8 Monster Egg
-	8 Little D
 	8 Little D
 	8 Fire Eye
-	8 Fire Eye
-	8 Mammoth Graveyard
 	8 Mammoth Graveyard
 	8 Musician King
-	8 Musician King
-	8 Doriado
 	8 Doriado
 	8 Muse-A
-	8 Muse-A
-	8 Kagemusha of the Blue Flame
 	8 Kagemusha of the Blue Flame
 	8 Flame Manipulator
-	8 Flame Manipulator
-	8 Basic Insect
 	8 Basic Insect
 	8 Hercules Beetle
-	8 Hercules Beetle
-	8 Kuwagata Alpha
 	8 Kuwagata Alpha
 	8 Larvas
-	8 Larvas
-	8 Drooling Lizard
 	8 Drooling Lizard
 	8 Zarigun
-	8 Zarigun
-	8 Furious Sea King
 	8 Furious Sea King
 	8 Enchanting Mermaid
-	8 Enchanting Mermaid
-	8 Root Water
 	8 Root Water
 	8 Man Eater
-	8 Man Eater
-	8 Rose Spectre of Dunn
 	8 Rose Spectre of Dunn
 	8 Bean Soldier
-	8 Bean Soldier
-	8 Firegrass
 	8 Firegrass
 	8 Wilmee
-	8 Wilmee
-	8 Masaki the Legendary Swordsman
 	8 Masaki the Legendary Swordsman
 	8 Dark Gray
-	8 Dark Gray
-	8 Secretarian of Secrets
 	8 Secretarian of Secrets
 	8 Silver Fang
-	8 Silver Fang
-	8 Skelegon
 	8 Skelegon
 	8 Drdek
-	8 Drdek
-	8 Bone Mouse
 	8 Bone Mouse
 	8 Spike Seadra
-	8 Spike Seadra
-	8 Skull Servant
 	8 Skull Servant
 	8 The 13th Grave
-	8 The 13th Grave
-	8 Zombie Warrior
 	8 Zombie Warrior
 	8 Curtain of the Dark Ones
-	8 Curtain of the Dark Ones
-	8 Haniwa
 	8 Haniwa
 	8 Lucky Trinket
-	8 Lucky Trinket
-	8 Tatsunootoshigo
 	8 Tatsunootoshigo
 	8 The Melting Red Shadow
-	8 The Melting Red Shadow
-	8 Wings of Wicked Flame
 	8 Wings of Wicked Flame
 	8 LaMoon
-	8 LaMoon
-	8 Dissolverrock
 	8 Dissolverrock
 	8 Hinotama Soul
-	8 Hinotama Soul
-	8 LaLa Li-oon
 	8 LaLa Li-oon
 	8 Water Element
-	8 Water Element
-	8 King Fog
 	8 King Fog
 	8 Green Phantom King
-	8 Green Phantom King
-	8 Thunder Kid
 	8 Thunder Kid
 	8 Nemuriko
-	8 Nemuriko
-	8 Living Vase
 	8 Living Vase
 	8 Mystical Sheep 2
-	8 Mystical Sheep 2
-	8 Ray and Temperature
 	8 Ray and Temperature
 	8 Mystical Moon
-	8 Mystical Moon
-	8 Vile Germs
 	8 Vile Germs
 	8 Corroding Shark
-	8 Corroding Shark
-	8 Hinotama
 	8 Hinotama
 	8 Marmot of Nefariousness
-	8 Marmot of Nefariousness
-	8 Raise Body Heat
 	8 Raise Body Heat
 	8 Rouge Doll
-	8 Rouge Doll
-	8 Sparks
 	8 Sparks
 	8 Trial of Nightmare
-	8 Trial of Nightmare
-	8 White Dolphin
 	8 White Dolphin
 	8 Ancient Forest
-	8 Ancient Forest
-	8 Canyon
 	8 Canyon
 	8 Fire Prison
-	8 Fire Prison
-	8 Mystic Plasma Zone
 	8 Mystic Plasma Zone
 	8 Shadows Light
-	8 Shadows Light
-	8 Umiiruka
 	8 Umiiruka
 	8 Burning Spear
-	8 Burning Spear
-	8 Candle of Fate
 	8 Candle of Fate
 	8 Castle Walls
-	8 Castle Walls
-	8 Follow Wind
 	8 Follow Wind
 	8 Graveyard and the Hand of Invitation
-	8 Graveyard and the Hand of Invitation
-	8 Mystery Hand
 	8 Mystery Hand
 	8 Remove Trap
-	8 Remove Trap
-	8 Hitodenchak
 	8 Hitodenchak
 [common | masterpiece(1)]
 	8 Mystical Capture Chain
-	8 Mystical Capture Chain
-	8 Prismatic Bulb
 	8 Prismatic Bulb
 	8 Rainbow Flower
-	8 Rainbow Flower
-	8 Man-Eating Treasure Chest
 	8 Man-Eating Treasure Chest
 	8 Patrol Robo
-	8 Patrol Robo
-	8 Hard Armor
 	8 Hard Armor
 	8 Beast Fangs
-	8 Beast Fangs
-	8 Dragon Treasure
 	8 Dragon Treasure
 	8 Gust Fan
-	8 Gust Fan
-	8 Legendary Sword
 	8 Legendary Sword
 	8 Machine Conversion Factory
-	8 Machine Conversion Factory
-	8 Power of Kaishin
 	8 Power of Kaishin
 	8 Violet Crystal
-	8 Violet Crystal
-	8 Happy Lover
 	8 Happy Lover
 	8 Hourglass of Life
-	8 Hourglass of Life
-	8 Petit Angel
 	8 Petit Angel
 	8 Shining Friendship
-	8 Shining Friendship
-	8 Mabarrel
 	8 Mabarrel
 	8 Droll Bird
-	8 Droll Bird
-	8 Kurama
 	8 Kurama
 	8 Fiend Reflection 2
-	8 Fiend Reflection 2
-	8 Spirit of the Books
 	8 Spirit of the Books
 	8 Rare Fish
-	8 Rare Fish
-	8 Turtle Tiger
 	8 Turtle Tiger
 	8 Rabid Horseman
-	8 Rabid Horseman
-	8 Hitotsu-Me Giant
 	8 Hitotsu-Me Giant
 	8 Midnight Fiend
-	8 Midnight Fiend
-	8 Tyhone
 	8 Tyhone
 	8 Synchar
-	8 Synchar
-	8 Meotoko
 	8 Meotoko
 	8 Archfiend Mirror
-	8 Archfiend Mirror
-	8 Dark Plant
 	8 Dark Plant
 	8 Rhaimundos of the Red Sword
-	8 Rhaimundos of the Red Sword
-	8 Phantom Dewan
 	8 Phantom Dewan
 	8 Dark King of the Abyss
-	8 Dark King of the Abyss
-	8 Two-Mouth Darkruler
 	8 Two-Mouth Darkruler
 	8 Uraby
-	8 Uraby
-	8 Kaiser Dragon
 	8 Kaiser Dragon
 	8 Petit Dragon
-	8 Petit Dragon
-	8 That Which Feeds on Life
 	8 That Which Feeds on Life
 	8 Monster Egg
-	8 Monster Egg
-	8 Little D
 	8 Little D
 	8 Fire Eye
-	8 Fire Eye
-	8 Mammoth Graveyard
 	8 Mammoth Graveyard
 	8 Musician King
-	8 Musician King
-	8 Doriado
 	8 Doriado
 	8 Muse-A
-	8 Muse-A
-	8 Kagemusha of the Blue Flame
 	8 Kagemusha of the Blue Flame
 	8 Flame Manipulator
-	8 Flame Manipulator
-	8 Basic Insect
 	8 Basic Insect
 	8 Hercules Beetle
-	8 Hercules Beetle
-	8 Kuwagata Alpha
 	8 Kuwagata Alpha
 	8 Larvas
-	8 Larvas
-	8 Drooling Lizard
 	8 Drooling Lizard
 	8 Zarigun
-	8 Zarigun
-	8 Furious Sea King
 	8 Furious Sea King
 	8 Enchanting Mermaid
-	8 Enchanting Mermaid
-	8 Root Water
 	8 Root Water
 	8 Man Eater
-	8 Man Eater
-	8 Rose Spectre of Dunn
 	8 Rose Spectre of Dunn
 	8 Bean Soldier
-	8 Bean Soldier
-	8 Firegrass
 	8 Firegrass
 	8 Wilmee
-	8 Wilmee
-	8 Masaki the Legendary Swordsman
 	8 Masaki the Legendary Swordsman
 	8 Dark Gray
-	8 Dark Gray
-	8 Secretarian of Secrets
 	8 Secretarian of Secrets
 	8 Silver Fang
-	8 Silver Fang
-	8 Skelegon
 	8 Skelegon
 	8 Drdek
-	8 Drdek
-	8 Bone Mouse
 	8 Bone Mouse
 	8 Spike Seadra
-	8 Spike Seadra
-	8 Skull Servant
 	8 Skull Servant
 	8 The 13th Grave
-	8 The 13th Grave
-	8 Zombie Warrior
 	8 Zombie Warrior
 	8 Curtain of the Dark Ones
-	8 Curtain of the Dark Ones
-	8 Haniwa
 	8 Haniwa
 	8 Lucky Trinket
-	8 Lucky Trinket
-	8 Tatsunootoshigo
 	8 Tatsunootoshigo
 	8 The Melting Red Shadow
-	8 The Melting Red Shadow
-	8 Wings of Wicked Flame
 	8 Wings of Wicked Flame
 	8 LaMoon
-	8 LaMoon
-	8 Dissolverrock
 	8 Dissolverrock
 	8 Hinotama Soul
-	8 Hinotama Soul
-	8 LaLa Li-oon
 	8 LaLa Li-oon
 	8 Water Element
-	8 Water Element
-	8 King Fog
 	8 King Fog
 	8 Green Phantom King
-	8 Green Phantom King
-	8 Thunder Kid
 	8 Thunder Kid
 	8 Nemuriko
-	8 Nemuriko
-	8 Living Vase
 	8 Living Vase
 	8 Mystical Sheep 2
-	8 Mystical Sheep 2
-	8 Ray and Temperature
 	8 Ray and Temperature
 	8 Mystical Moon
-	8 Mystical Moon
-	8 Vile Germs
 	8 Vile Germs
 	8 Corroding Shark
-	8 Corroding Shark
-	8 Hinotama
 	8 Hinotama
 	8 Marmot of Nefariousness
-	8 Marmot of Nefariousness
-	8 Raise Body Heat
 	8 Raise Body Heat
 	8 Rouge Doll
-	8 Rouge Doll
-	8 Sparks
 	8 Sparks
 	8 Trial of Nightmare
-	8 Trial of Nightmare
-	8 White Dolphin
 	8 White Dolphin
 	8 Ancient Forest
-	8 Ancient Forest
-	8 Canyon
 	8 Canyon
 	8 Fire Prison
-	8 Fire Prison
-	8 Mystic Plasma Zone
 	8 Mystic Plasma Zone
 	8 Shadows Light
-	8 Shadows Light
-	8 Umiiruka
 	8 Umiiruka
 	8 Burning Spear
-	8 Burning Spear
-	8 Candle of Fate
 	8 Candle of Fate
 	8 Castle Walls
-	8 Castle Walls
-	8 Follow Wind
 	8 Follow Wind
 	8 Graveyard and the Hand of Invitation
-	8 Graveyard and the Hand of Invitation
-	8 Mystery Hand
 	8 Mystery Hand
 	8 Remove Trap
-	8 Remove Trap
-	8 Hitodenchak
 	8 Hitodenchak
 [foil(1)]
 	6 Book of Secret Arts
-	6 Book of Secret Arts
-	2 Dragon Capture Jar
 	2 Dragon Capture Jar
 	12 Mystical Capture Chain
-	12 Mystical Capture Chain
-	12 Prismatic Bulb
 	12 Prismatic Bulb
 	12 Rainbow Flower
-	12 Rainbow Flower
-	6 Temple of Skulls
 	6 Temple of Skulls
 	6 Ancient Jar
-	6 Ancient Jar
-	6 Golgoil
 	6 Golgoil
 	6 Bat
-	6 Bat
-	12 Man-Eating Treasure Chest
 	12 Man-Eating Treasure Chest
 	6 Metal Dragon
-	6 Metal Dragon
-	2 Giant Mech-Soldier
 	2 Giant Mech-Soldier
 	6 Mech Mole Zombie
-	6 Mech Mole Zombie
-	6 Steel Ogre Grotto 1
 	6 Steel Ogre Grotto 1
 	6 Statue of Easter Island
-	6 Statue of Easter Island
-	2 Cyber Soldier of Darkworld
 	2 Cyber Soldier of Darkworld
 	2 Giant Soldier of Stone
-	2 Giant Soldier of Stone
-	12 Patrol Robo
 	12 Patrol Robo
 	12 Hard Armor
-	12 Hard Armor
-	12 Beast Fangs
 	12 Beast Fangs
 	12 Dragon Treasure
-	12 Dragon Treasure
-	6 Electro-Whip
 	6 Electro-Whip
 	12 Gust Fan
-	12 Gust Fan
-	6 Laser Cannon Armor
 	6 Laser Cannon Armor
 	12 Legendary Sword
-	12 Legendary Sword
-	12 Machine Conversion Factory
 	12 Machine Conversion Factory
 	12 Power of Kaishin
-	12 Power of Kaishin
-	6 Silver Bow and Arrow
 	6 Silver Bow and Arrow
 	12 Violet Crystal
-	12 Violet Crystal
-	12 Happy Lover
 	12 Happy Lover
 	6 Hourglass of Courage
-	6 Hourglass of Courage
-	12 Hourglass of Life
 	12 Hourglass of Life
 	12 Petit Angel
-	12 Petit Angel
-	12 Shining Friendship
 	12 Shining Friendship
 	6 Spirit of the Harp
-	6 Spirit of the Harp
-	6 Meda Bat
 	6 Meda Bat
 	6 Frenzied Panda
-	6 Frenzied Panda
-	12 Mabarrel
 	12 Mabarrel
 	6 Beaver Warrior
-	6 Beaver Warrior
-	6 Skull Red Bird
 	6 Skull Red Bird
 	6 Punished Eagle
-	6 Punished Eagle
-	12 Droll Bird
 	12 Droll Bird
 	12 Kurama
-	12 Kurama
-	12 Fiend Reflection 2
 	12 Fiend Reflection 2
 	12 Spirit of the Books
-	12 Spirit of the Books
-	6 Bolt Penguin
 	6 Bolt Penguin
 	12 Rare Fish
-	12 Rare Fish
-	12 Turtle Tiger
 	12 Turtle Tiger
 	6 Tiger Axe
-	6 Tiger Axe
-	12 Rabid Horseman
 	12 Rabid Horseman
 	6 Wood Clown
-	6 Wood Clown
-	12 Hitotsu-Me Giant
 	12 Hitotsu-Me Giant
 	12 Midnight Fiend
-	12 Midnight Fiend
-	2 Ryu-Kishin
 	2 Ryu-Kishin
 	12 Tyhone
-	12 Tyhone
-	12 Synchar
 	12 Synchar
 	12 Meotoko
-	12 Meotoko
-	2 Red-Eyes Black Dragon
 	2 Red-Eyes Black Dragon
 	6 Tri-Horned Dragon
-	6 Tri-Horned Dragon
-	12 Archfiend Mirror
 	12 Archfiend Mirror
 	6 Roaring Ocean Snake
-	6 Roaring Ocean Snake
-	2 Yormungarde
 	2 Yormungarde
 	6 Twin Long Rods 1
-	6 Twin Long Rods 1
-	6 Sanwitch
 	6 Sanwitch
 	6 Succubus Knight
-	6 Succubus Knight
-	12 Dark Plant
 	12 Dark Plant
 	6 Witty Phantom
-	6 Witty Phantom
-	6 Dig Beak
 	6 Dig Beak
 	6 Shadow Who Controls the Dark
-	6 Shadow Who Controls the Dark
-	12 Rhaimundos of the Red Sword
 	12 Rhaimundos of the Red Sword
 	6 Megirus Light
-	6 Megirus Light
-	12 Phantom Dewan
 	12 Phantom Dewan
 	12 Dark King of the Abyss
-	12 Dark King of the Abyss
-	6 Tomozaurus
 	6 Tomozaurus
 	12 Two-Mouth Darkruler
-	12 Two-Mouth Darkruler
-	12 Uraby
 	12 Uraby
 	2 Blue-Eyes White Dragon
-	2 Blue-Eyes White Dragon
-	6 Curse of Dragon
 	6 Curse of Dragon
 	6 Lesser Dragon
-	6 Lesser Dragon
-	2 Winged Dragon, Guardian of the Fortress 1
 	2 Winged Dragon, Guardian of the Fortress 1
 	2 Winged Dragon, Guardian of the Fortress 2
-	2 Winged Dragon, Guardian of the Fortress 2
-	6 Wicked Dragon with the Ersatz Head
 	6 Wicked Dragon with the Ersatz Head
 	6 Tripwire Beast
-	6 Tripwire Beast
-	12 Kaiser Dragon
 	12 Kaiser Dragon
 	12 Petit Dragon
-	12 Petit Dragon
-	12 That Which Feeds on Life
 	12 That Which Feeds on Life
 	6 One-Eyed Shield Dragon
-	6 One-Eyed Shield Dragon
-	12 Monster Egg
 	12 Monster Egg
 	12 Little D
-	12 Little D
-	12 Fire Eye
 	12 Fire Eye
 	6 Flame Ghost
-	6 Flame Ghost
-	6 Empress Judge
 	6 Empress Judge
 	12 Mammoth Graveyard
-	12 Mammoth Graveyard
-	6 Mystical Elf
 	6 Mystical Elf
 	2 Battle Warrior
-	2 Battle Warrior
-	2 Celtic Guardian
 	2 Celtic Guardian
 	6 Fairywitch
-	6 Fairywitch
-	12 Musician King
 	12 Musician King
 	6 Dragoness the Wicked Knight
-	6 Dragoness the Wicked Knight
-	2 Gaia the Dragon Champion
 	2 Gaia the Dragon Champion
 	12 Doriado
-	12 Doriado
-	12 Muse-A
 	12 Muse-A
 	2 Gaia The Fierce Knight
-	2 Gaia The Fierce Knight
-	2 Armed Ninja
 	2 Armed Ninja
 	6 Armaill
-	6 Armaill
-	6 Beautiful Headhuntress
 	6 Beautiful Headhuntress
 	6 Warrior of Tradition
-	6 Warrior of Tradition
-	6 Flame Swordsman
 	6 Flame Swordsman
 	12 Kagemusha of the Blue Flame
-	12 Kagemusha of the Blue Flame
-	6 Karbonala Warrior
 	6 Karbonala Warrior
 	6 Minomushi Warrior
-	6 Minomushi Warrior
-	6 St Joan
 	6 St Joan
 	6 M-Warrior 1
-	6 M-Warrior 1
-	6 M-Warrior 2
 	6 M-Warrior 2
 	2 Dark Magician
-	2 Dark Magician
-	6 Fireyarou
 	6 Fireyarou
 	12 Flame Manipulator
-	12 Flame Manipulator
-	6 Vermillion Sparrow
 	6 Vermillion Sparrow
 	6 Kamionwizard
-	6 Kamionwizard
-	2 Boo Koo
 	2 Boo Koo
 	6 Alinsection
-	6 Alinsection
-	12 Basic Insect
 	12 Basic Insect
 	6 Giant Flea
-	6 Giant Flea
-	6 Man-Eater Bug
 	6 Man-Eater Bug
 	12 Hercules Beetle
-	12 Hercules Beetle
-	12 Kuwagata Alpha
 	12 Kuwagata Alpha
 	6 Kwagar Hercules
-	6 Kwagar Hercules
-	12 Larvas
 	12 Larvas
 	6 Mon Larvas
-	6 Mon Larvas
-	2 Winged Cleaver
 	2 Winged Cleaver
 	12 Drooling Lizard
-	12 Drooling Lizard
-	12 Zarigun
 	12 Zarigun
 	12 Furious Sea King
-	12 Furious Sea King
-	2 Wow Warrior
 	2 Wow Warrior
 	12 Enchanting Mermaid
-	12 Enchanting Mermaid
-	12 Root Water
 	12 Root Water
 	6 Terra the Terrible
-	6 Terra the Terrible
-	12 Man Eater
 	12 Man Eater
 	6 Man-Eating Plant
-	6 Man-Eating Plant
-	6 Abyss Flower
 	6 Abyss Flower
 	6 Darkfire Dragon
-	6 Darkfire Dragon
-	12 Rose Spectre of Dunn
 	12 Rose Spectre of Dunn
 	2 Wodan the Resident of the Forest
-	2 Wodan the Resident of the Forest
-	12 Bean Soldier
 	12 Bean Soldier
 	12 Firegrass
-	12 Firegrass
-	6 Flower Wolf
 	6 Flower Wolf
 	12 Wilmee
-	12 Wilmee
-	12 Masaki the Legendary Swordsman
 	12 Masaki the Legendary Swordsman
 	6 Oscillo Hero
-	6 Oscillo Hero
-	6 Wattkid
 	6 Wattkid
 	6 Nightmare Scorpion
-	6 Nightmare Scorpion
-	12 Dark Gray
 	12 Dark Gray
 	6 Eyearmor
-	6 Eyearmor
-	6 Doron
 	6 Doron
 	6 Misairuzame
-	6 Misairuzame
-	6 Harpie Lady
 	6 Harpie Lady
 	6 Kumootoko
-	6 Kumootoko
-	2 Reaper of the Cards
 	2 Reaper of the Cards
 	2 Tao the Chanter
-	2 Tao the Chanter
-	6 Djinn the Watcher of the Wind
 	6 Djinn the Watcher of the Wind
 	2 Hane-Hane
-	2 Hane-Hane
-	6 One Who Hunts Souls
 	6 One Who Hunts Souls
 	12 Secretarian of Secrets
-	12 Secretarian of Secrets
-	12 Silver Fang
 	12 Silver Fang
 	6 Pragticul
-	6 Pragticul
-	6 Gate Deeg
 	6 Gate Deeg
 	6 Skullbird
-	6 Skullbird
-	12 Skelegon
 	12 Skelegon
 	12 Drdek
-	12 Drdek
-	6 Akihiron
 	6 Akihiron
 	12 Bone Mouse
-	12 Bone Mouse
-	12 Spike Seadra
 	12 Spike Seadra
 	6 Dark Artist
-	6 Dark Artist
-	12 Skull Servant
 	12 Skull Servant
 	6 Armored Starfish
-	6 Armored Starfish
-	12 The 13th Grave
 	12 The 13th Grave
 	12 Zombie Warrior
-	12 Zombie Warrior
-	6 Fire Reaper
 	6 Fire Reaper
 	12 Curtain of the Dark Ones
-	12 Curtain of the Dark Ones
-	12 Haniwa
 	12 Haniwa
 	12 Lucky Trinket
-	12 Lucky Trinket
-	6 Steel Shell
 	6 Steel Shell
 	12 Tatsunootoshigo
-	12 Tatsunootoshigo
-	12 The Melting Red Shadow
 	12 The Melting Red Shadow
 	2 Trap Hole
-	2 Trap Hole
-	12 Wings of Wicked Flame
 	12 Wings of Wicked Flame
 	6 Yamatano Dragon Scroll
-	6 Yamatano Dragon Scroll
-	2 The Seal of Orichalcos
 	2 The Seal of Orichalcos
 	12 LaMoon
-	12 LaMoon
-	6 Takuhee
 	6 Takuhee
 	6 Fusionist
-	6 Fusionist
-	2 Aqua Madoor
 	2 Aqua Madoor
 	12 Dissolverrock
-	12 Dissolverrock
-	12 Hinotama Soul
 	12 Hinotama Soul
 	6 Hurricail
-	6 Hurricail
-	12 LaLa Li-oon
 	12 LaLa Li-oon
 	2 Weather Control
-	2 Weather Control
-	6 Mavelus
 	6 Mavelus
 	6 Stone Ghost
-	6 Stone Ghost
-	12 Water Element
 	12 Water Element
 	6 Charubin the Fire Knight
-	6 Charubin the Fire Knight
-	12 King Fog
 	12 King Fog
 	12 Green Phantom King
-	12 Green Phantom King
-	6 Kaminari Attack
 	6 Kaminari Attack
 	12 Thunder Kid
-	12 Thunder Kid
-	12 Nemuriko
 	12 Nemuriko
 	12 Living Vase
-	12 Living Vase
-	6 Darkworld Thorns
 	6 Darkworld Thorns
 	12 Mystical Sheep 2
-	12 Mystical Sheep 2
-	12 Ray and Temperature
 	12 Ray and Temperature
 	6 Sand Stone
-	6 Sand Stone
-	2 Invigoration
 	2 Invigoration
 	12 Mystical Moon
-	12 Mystical Moon
-	12 Vile Germs
 	12 Vile Germs
 	2 Blue Medicine
-	2 Blue Medicine
-	12 Corroding Shark
 	12 Corroding Shark
 	2 Fissure
-	2 Fissure
-	2 Goblins Secret Remedy
 	2 Goblins Secret Remedy
 	6 Gravedigger Ghoul
-	6 Gravedigger Ghoul
-	12 Hinotama
 	12 Hinotama
 	12 Marmot of Nefariousness
-	12 Marmot of Nefariousness
-	2 Monster Reborn
 	2 Monster Reborn
 	12 Raise Body Heat
-	12 Raise Body Heat
-	2 Red Medicine
 	2 Red Medicine
 	12 Rouge Doll
-	12 Rouge Doll
-	12 Sparks
 	12 Sparks
 	12 Trial of Nightmare
-	12 Trial of Nightmare
-	12 White Dolphin
 	12 White Dolphin
 	12 Ancient Forest
-	12 Ancient Forest
-	12 Canyon
 	12 Canyon
 	12 Fire Prison
-	12 Fire Prison
-	12 Mystic Plasma Zone
 	12 Mystic Plasma Zone
 	6 Mythical Forest
-	6 Mythical Forest
-	6 Mythical Mountain
 	6 Mythical Mountain
 	6 Mythical Sogen
-	6 Mythical Sogen
-	6 Mythical Umi
 	6 Mythical Umi
 	6 Mythical Wasteland
-	6 Mythical Wasteland
-	6 Mythical Yami
 	6 Mythical Yami
 	12 Shadows Light
-	12 Shadows Light
-	12 Umiiruka
 	12 Umiiruka
 	2 Exodia the Forbidden One
-	2 Exodia the Forbidden One
-	2 Left Arm of the Forbidden One
 	2 Left Arm of the Forbidden One
 	2 Left Leg of the Forbidden One
-	2 Left Leg of the Forbidden One
-	2 Right Arm of the Forbidden One
 	2 Right Arm of the Forbidden One
 	2 Right Leg of the Forbidden One
-	2 Right Leg of the Forbidden One
-	12 Burning Spear
 	12 Burning Spear
 	12 Candle of Fate
-	12 Candle of Fate
-	12 Castle Walls
 	12 Castle Walls
 	6 Dark Energy
-	6 Dark Energy
-	2 Dark Hole
 	2 Dark Hole
 	2 Final Flame
-	2 Final Flame
-	12 Follow Wind
 	12 Follow Wind
 	12 Graveyard and the Hand of Invitation
-	12 Graveyard and the Hand of Invitation
-	12 Mystery Hand
 	12 Mystery Hand
 	6 Ookazi
-	6 Ookazi
-	2 Polymerization
 	2 Polymerization
 	6 Pot of Greed
-	6 Pot of Greed
-	2 Raigeki
 	2 Raigeki
 	2 Reinforcements
-	2 Reinforcements
-	12 Remove Trap
 	12 Remove Trap
 	2 Stop Defense
-	2 Stop Defense
-	2 Swords of Revealing Light
 	2 Swords of Revealing Light
 	2 Two-Pronged Attack
-	2 Two-Pronged Attack
-	6 Yashinoki
 	6 Yashinoki
 	6 Shifting Obelisks
-	6 Shifting Obelisks
-	12 Hitodenchak
 	12 Hitodenchak
 [wildcard(1)]
 	15 Book of Secret Arts
-	15 Book of Secret Arts
-	7 Dragon Capture Jar
 	7 Dragon Capture Jar
 	6 Mystical Capture Chain
-	6 Mystical Capture Chain
-	6 Prismatic Bulb
 	6 Prismatic Bulb
 	6 Rainbow Flower
-	6 Rainbow Flower
-	15 Temple of Skulls
 	15 Temple of Skulls
 	15 Ancient Jar
-	15 Ancient Jar
-	15 Golgoil
 	15 Golgoil
 	15 Bat
-	15 Bat
-	6 Man-Eating Treasure Chest
 	6 Man-Eating Treasure Chest
 	15 Metal Dragon
-	15 Metal Dragon
-	7 Giant Mech-Soldier
 	7 Giant Mech-Soldier
 	15 Mech Mole Zombie
-	15 Mech Mole Zombie
-	15 Steel Ogre Grotto 1
 	15 Steel Ogre Grotto 1
 	15 Statue of Easter Island
-	15 Statue of Easter Island
-	7 Cyber Soldier of Darkworld
 	7 Cyber Soldier of Darkworld
 	7 Giant Soldier of Stone
-	7 Giant Soldier of Stone
-	6 Patrol Robo
 	6 Patrol Robo
 	6 Hard Armor
-	6 Hard Armor
-	6 Beast Fangs
 	6 Beast Fangs
 	6 Dragon Treasure
-	6 Dragon Treasure
-	15 Electro-Whip
 	15 Electro-Whip
 	6 Gust Fan
-	6 Gust Fan
-	15 Laser Cannon Armor
 	15 Laser Cannon Armor
 	6 Legendary Sword
-	6 Legendary Sword
-	6 Machine Conversion Factory
 	6 Machine Conversion Factory
 	6 Power of Kaishin
-	6 Power of Kaishin
-	15 Silver Bow and Arrow
 	15 Silver Bow and Arrow
 	6 Violet Crystal
-	6 Violet Crystal
-	6 Happy Lover
 	6 Happy Lover
 	15 Hourglass of Courage
-	15 Hourglass of Courage
-	6 Hourglass of Life
 	6 Hourglass of Life
 	6 Petit Angel
-	6 Petit Angel
-	6 Shining Friendship
 	6 Shining Friendship
 	15 Spirit of the Harp
-	15 Spirit of the Harp
-	15 Meda Bat
 	15 Meda Bat
 	15 Frenzied Panda
-	15 Frenzied Panda
-	6 Mabarrel
 	6 Mabarrel
 	15 Beaver Warrior
-	15 Beaver Warrior
-	15 Skull Red Bird
 	15 Skull Red Bird
 	15 Punished Eagle
-	15 Punished Eagle
-	6 Droll Bird
 	6 Droll Bird
 	6 Kurama
-	6 Kurama
-	6 Fiend Reflection 2
 	6 Fiend Reflection 2
 	6 Spirit of the Books
-	6 Spirit of the Books
-	15 Bolt Penguin
 	15 Bolt Penguin
 	6 Rare Fish
-	6 Rare Fish
-	6 Turtle Tiger
 	6 Turtle Tiger
 	15 Tiger Axe
-	15 Tiger Axe
-	6 Rabid Horseman
 	6 Rabid Horseman
 	15 Wood Clown
-	15 Wood Clown
-	6 Hitotsu-Me Giant
 	6 Hitotsu-Me Giant
 	6 Midnight Fiend
-	6 Midnight Fiend
-	7 Ryu-Kishin
 	7 Ryu-Kishin
 	6 Tyhone
-	6 Tyhone
-	6 Synchar
 	6 Synchar
 	6 Meotoko
-	6 Meotoko
-	7 Red-Eyes Black Dragon
 	7 Red-Eyes Black Dragon
 	15 Tri-Horned Dragon
-	15 Tri-Horned Dragon
-	6 Archfiend Mirror
 	6 Archfiend Mirror
 	15 Roaring Ocean Snake
-	15 Roaring Ocean Snake
-	7 Yormungarde
 	7 Yormungarde
 	15 Twin Long Rods 1
-	15 Twin Long Rods 1
-	15 Sanwitch
 	15 Sanwitch
 	15 Succubus Knight
-	15 Succubus Knight
-	6 Dark Plant
 	6 Dark Plant
 	15 Witty Phantom
-	15 Witty Phantom
-	15 Dig Beak
 	15 Dig Beak
 	15 Shadow Who Controls the Dark
-	15 Shadow Who Controls the Dark
-	6 Rhaimundos of the Red Sword
 	6 Rhaimundos of the Red Sword
 	15 Megirus Light
-	15 Megirus Light
-	6 Phantom Dewan
 	6 Phantom Dewan
 	6 Dark King of the Abyss
-	6 Dark King of the Abyss
-	15 Tomozaurus
 	15 Tomozaurus
 	6 Two-Mouth Darkruler
-	6 Two-Mouth Darkruler
-	6 Uraby
 	6 Uraby
 	7 Blue-Eyes White Dragon
-	7 Blue-Eyes White Dragon
-	15 Curse of Dragon
 	15 Curse of Dragon
 	15 Lesser Dragon
-	15 Lesser Dragon
-	7 Winged Dragon, Guardian of the Fortress 1
 	7 Winged Dragon, Guardian of the Fortress 1
 	7 Winged Dragon, Guardian of the Fortress 2
-	7 Winged Dragon, Guardian of the Fortress 2
-	15 Wicked Dragon with the Ersatz Head
 	15 Wicked Dragon with the Ersatz Head
 	15 Tripwire Beast
-	15 Tripwire Beast
-	6 Kaiser Dragon
 	6 Kaiser Dragon
 	6 Petit Dragon
-	6 Petit Dragon
-	6 That Which Feeds on Life
 	6 That Which Feeds on Life
 	15 One-Eyed Shield Dragon
-	15 One-Eyed Shield Dragon
-	6 Monster Egg
 	6 Monster Egg
 	6 Little D
-	6 Little D
-	6 Fire Eye
 	6 Fire Eye
 	15 Flame Ghost
-	15 Flame Ghost
-	15 Empress Judge
 	15 Empress Judge
 	6 Mammoth Graveyard
-	6 Mammoth Graveyard
-	15 Mystical Elf
 	15 Mystical Elf
 	7 Battle Warrior
-	7 Battle Warrior
-	7 Celtic Guardian
 	7 Celtic Guardian
 	15 Fairywitch
-	15 Fairywitch
-	6 Musician King
 	6 Musician King
 	15 Dragoness the Wicked Knight
-	15 Dragoness the Wicked Knight
-	7 Gaia the Dragon Champion
 	7 Gaia the Dragon Champion
 	6 Doriado
-	6 Doriado
-	6 Muse-A
 	6 Muse-A
 	7 Gaia The Fierce Knight
-	7 Gaia The Fierce Knight
-	7 Armed Ninja
 	7 Armed Ninja
 	15 Armaill
-	15 Armaill
-	15 Beautiful Headhuntress
 	15 Beautiful Headhuntress
 	15 Warrior of Tradition
-	15 Warrior of Tradition
-	15 Flame Swordsman
 	15 Flame Swordsman
 	6 Kagemusha of the Blue Flame
-	6 Kagemusha of the Blue Flame
-	15 Karbonala Warrior
 	15 Karbonala Warrior
 	15 Minomushi Warrior
-	15 Minomushi Warrior
-	15 St Joan
 	15 St Joan
 	15 M-Warrior 1
-	15 M-Warrior 1
-	15 M-Warrior 2
 	15 M-Warrior 2
 	7 Dark Magician
-	7 Dark Magician
-	15 Fireyarou
 	15 Fireyarou
 	6 Flame Manipulator
-	6 Flame Manipulator
-	15 Vermillion Sparrow
 	15 Vermillion Sparrow
 	15 Kamionwizard
-	15 Kamionwizard
-	7 Boo Koo
 	7 Boo Koo
 	15 Alinsection
-	15 Alinsection
-	6 Basic Insect
 	6 Basic Insect
 	15 Giant Flea
-	15 Giant Flea
-	15 Man-Eater Bug
 	15 Man-Eater Bug
 	6 Hercules Beetle
-	6 Hercules Beetle
-	6 Kuwagata Alpha
 	6 Kuwagata Alpha
 	15 Kwagar Hercules
-	15 Kwagar Hercules
-	6 Larvas
 	6 Larvas
 	15 Mon Larvas
-	15 Mon Larvas
-	7 Winged Cleaver
 	7 Winged Cleaver
 	6 Drooling Lizard
-	6 Drooling Lizard
-	6 Zarigun
 	6 Zarigun
 	6 Furious Sea King
-	6 Furious Sea King
-	7 Wow Warrior
 	7 Wow Warrior
 	6 Enchanting Mermaid
-	6 Enchanting Mermaid
-	6 Root Water
 	6 Root Water
 	15 Terra the Terrible
-	15 Terra the Terrible
-	6 Man Eater
 	6 Man Eater
 	15 Man-Eating Plant
-	15 Man-Eating Plant
-	15 Abyss Flower
 	15 Abyss Flower
 	15 Darkfire Dragon
-	15 Darkfire Dragon
-	6 Rose Spectre of Dunn
 	6 Rose Spectre of Dunn
 	7 Wodan the Resident of the Forest
-	7 Wodan the Resident of the Forest
-	6 Bean Soldier
 	6 Bean Soldier
 	6 Firegrass
-	6 Firegrass
-	15 Flower Wolf
 	15 Flower Wolf
 	6 Wilmee
-	6 Wilmee
-	6 Masaki the Legendary Swordsman
 	6 Masaki the Legendary Swordsman
 	15 Oscillo Hero
-	15 Oscillo Hero
-	15 Wattkid
 	15 Wattkid
 	15 Nightmare Scorpion
-	15 Nightmare Scorpion
-	6 Dark Gray
 	6 Dark Gray
 	15 Eyearmor
-	15 Eyearmor
-	15 Doron
 	15 Doron
 	15 Misairuzame
-	15 Misairuzame
-	15 Harpie Lady
 	15 Harpie Lady
 	15 Kumootoko
-	15 Kumootoko
-	7 Reaper of the Cards
 	7 Reaper of the Cards
 	7 Tao the Chanter
-	7 Tao the Chanter
-	15 Djinn the Watcher of the Wind
 	15 Djinn the Watcher of the Wind
 	7 Hane-Hane
-	7 Hane-Hane
-	15 One Who Hunts Souls
 	15 One Who Hunts Souls
 	6 Secretarian of Secrets
-	6 Secretarian of Secrets
-	6 Silver Fang
 	6 Silver Fang
 	15 Pragticul
-	15 Pragticul
-	15 Gate Deeg
 	15 Gate Deeg
 	15 Skullbird
-	15 Skullbird
-	6 Skelegon
 	6 Skelegon
 	6 Drdek
-	6 Drdek
-	15 Akihiron
 	15 Akihiron
 	6 Bone Mouse
-	6 Bone Mouse
-	6 Spike Seadra
 	6 Spike Seadra
 	15 Dark Artist
-	15 Dark Artist
-	6 Skull Servant
 	6 Skull Servant
 	15 Armored Starfish
-	15 Armored Starfish
-	6 The 13th Grave
 	6 The 13th Grave
 	6 Zombie Warrior
-	6 Zombie Warrior
-	15 Fire Reaper
 	15 Fire Reaper
 	6 Curtain of the Dark Ones
-	6 Curtain of the Dark Ones
-	6 Haniwa
 	6 Haniwa
 	6 Lucky Trinket
-	6 Lucky Trinket
-	15 Steel Shell
 	15 Steel Shell
 	6 Tatsunootoshigo
-	6 Tatsunootoshigo
-	6 The Melting Red Shadow
 	6 The Melting Red Shadow
 	7 Trap Hole
-	7 Trap Hole
-	6 Wings of Wicked Flame
 	6 Wings of Wicked Flame
 	15 Yamatano Dragon Scroll
-	15 Yamatano Dragon Scroll
-	7 The Seal of Orichalcos
 	7 The Seal of Orichalcos
 	6 LaMoon
-	6 LaMoon
-	15 Takuhee
 	15 Takuhee
 	15 Fusionist
-	15 Fusionist
-	7 Aqua Madoor
 	7 Aqua Madoor
 	6 Dissolverrock
-	6 Dissolverrock
-	6 Hinotama Soul
 	6 Hinotama Soul
 	15 Hurricail
-	15 Hurricail
-	6 LaLa Li-oon
 	6 LaLa Li-oon
 	7 Weather Control
-	7 Weather Control
-	15 Mavelus
 	15 Mavelus
 	15 Stone Ghost
-	15 Stone Ghost
-	6 Water Element
 	6 Water Element
 	15 Charubin the Fire Knight
-	15 Charubin the Fire Knight
-	6 King Fog
 	6 King Fog
 	6 Green Phantom King
-	6 Green Phantom King
-	15 Kaminari Attack
 	15 Kaminari Attack
 	6 Thunder Kid
-	6 Thunder Kid
-	6 Nemuriko
 	6 Nemuriko
 	6 Living Vase
-	6 Living Vase
-	15 Darkworld Thorns
 	15 Darkworld Thorns
 	6 Mystical Sheep 2
-	6 Mystical Sheep 2
-	6 Ray and Temperature
 	6 Ray and Temperature
 	15 Sand Stone
-	15 Sand Stone
-	7 Invigoration
 	7 Invigoration
 	6 Mystical Moon
-	6 Mystical Moon
-	6 Vile Germs
 	6 Vile Germs
 	7 Blue Medicine
-	7 Blue Medicine
-	6 Corroding Shark
 	6 Corroding Shark
 	7 Fissure
-	7 Fissure
-	7 Goblins Secret Remedy
 	7 Goblins Secret Remedy
 	15 Gravedigger Ghoul
-	15 Gravedigger Ghoul
-	6 Hinotama
 	6 Hinotama
 	6 Marmot of Nefariousness
-	6 Marmot of Nefariousness
-	7 Monster Reborn
 	7 Monster Reborn
 	6 Raise Body Heat
-	6 Raise Body Heat
-	7 Red Medicine
 	7 Red Medicine
 	6 Rouge Doll
-	6 Rouge Doll
-	6 Sparks
 	6 Sparks
 	6 Trial of Nightmare
-	6 Trial of Nightmare
-	6 White Dolphin
 	6 White Dolphin
 	6 Ancient Forest
-	6 Ancient Forest
-	6 Canyon
 	6 Canyon
 	6 Fire Prison
-	6 Fire Prison
-	6 Mystic Plasma Zone
 	6 Mystic Plasma Zone
 	15 Mythical Forest
-	15 Mythical Forest
-	15 Mythical Mountain
 	15 Mythical Mountain
 	15 Mythical Sogen
-	15 Mythical Sogen
-	15 Mythical Umi
 	15 Mythical Umi
 	15 Mythical Wasteland
-	15 Mythical Wasteland
-	15 Mythical Yami
 	15 Mythical Yami
 	6 Shadows Light
-	6 Shadows Light
-	6 Umiiruka
 	6 Umiiruka
 	7 Exodia the Forbidden One
-	7 Exodia the Forbidden One
-	7 Left Arm of the Forbidden One
 	7 Left Arm of the Forbidden One
 	7 Left Leg of the Forbidden One
-	7 Left Leg of the Forbidden One
-	7 Right Arm of the Forbidden One
 	7 Right Arm of the Forbidden One
 	7 Right Leg of the Forbidden One
-	7 Right Leg of the Forbidden One
-	6 Burning Spear
 	6 Burning Spear
 	6 Candle of Fate
-	6 Candle of Fate
-	6 Castle Walls
 	6 Castle Walls
 	15 Dark Energy
-	15 Dark Energy
-	7 Dark Hole
 	7 Dark Hole
 	7 Final Flame
-	7 Final Flame
-	6 Follow Wind
 	6 Follow Wind
 	6 Graveyard and the Hand of Invitation
-	6 Graveyard and the Hand of Invitation
-	6 Mystery Hand
 	6 Mystery Hand
 	15 Ookazi
-	15 Ookazi
-	7 Polymerization
 	7 Polymerization
 	15 Pot of Greed
-	15 Pot of Greed
-	7 Raigeki
 	7 Raigeki
 	7 Reinforcements
-	7 Reinforcements
-	6 Remove Trap
 	6 Remove Trap
 	7 Stop Defense
-	7 Stop Defense
-	7 Swords of Revealing Light
 	7 Swords of Revealing Light
 	7 Two-Pronged Attack
-	7 Two-Pronged Attack
-	15 Yashinoki
 	15 Yashinoki
 	15 Shifting Obelisks
-	15 Shifting Obelisks
-	6 Hitodenchak
 	6 Hitodenchak

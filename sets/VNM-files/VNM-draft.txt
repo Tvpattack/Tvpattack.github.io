@@ -8332,2091 +8332,1049 @@
 
 [rare(1)]
 	2 Ruins of Multa
-	2 Ruins of Multa
-	2 Multaph Riftborn God
 	2 Multaph Riftborn God
 	2 Will of Roduth
-	2 Will of Roduth
-	2 Will of Multaph
 	2 Will of Multaph
 	2 Will of Destruction
-	2 Will of Destruction
-	2 The Great Tear
 	2 The Great Tear
 	2 Multaph's Respite
-	2 Multaph's Respite
-	2 The Wandering Cook
 	2 The Wandering Cook
 	2 Najael Travelling Shaman
-	2 Najael Travelling Shaman
-	2 Ruins of Uth
 	2 Ruins of Uth
 	2 Will of Hunger
-	2 Will of Hunger
-	2 Roduth God of Conflict
 	2 Roduth God of Conflict
 	2 Thargle
-	2 Thargle
-	2 Rip to Yesterday
 	2 Rip to Yesterday
 	2 Melodia Voidtouched
-	2 Melodia Voidtouched
-	2 Calia Oracle of Tofnet Plains
 	2 Calia Oracle of Tofnet Plains
 	2 Ola Kaln-Ocean Spellkeeper
-	2 Ola Kaln-Ocean Spellkeeper
-	2 Kier Acolyte of Avlod Respite
 	2 Kier Acolyte of Avlod Respite
 	2 Vane Verem-Volcano Scorcher
-	2 Vane Verem-Volcano Scorcher
-	2 Somma, Blade of Faloden Woods
 	2 Somma, Blade of Faloden Woods
 	2 Khestri Fadove Clanleader
-	2 Khestri Fadove Clanleader
-	2 Shivta, Avlod Clanleader
 	2 Shivta, Avlod Clanleader
 	2 Urkial Outlands Clanleader
-	2 Urkial Outlands Clanleader
-	2 Bruin Mentor
 	2 Bruin Mentor
 	2 Raze the Clanless
-	2 Raze the Clanless
-	2 Prismatic Offense
 	2 Prismatic Offense
 	2 Korna, Vinimroth Historian
-	2 Korna, Vinimroth Historian
-	2 Zoslera Mordel Clanleader
 	2 Zoslera Mordel Clanleader
 	2 Prophellos Pathborn Hunger
-	2 Prophellos Pathborn Hunger
-	2 Dust for Dust
 	2 Dust for Dust
 	2 Pinnacle of Vinimroth
-	2 Pinnacle of Vinimroth
-	2 Attuned Shimmer
 	2 Attuned Shimmer
 	2 Bushy Shimmer
-	2 Bushy Shimmer
-	2 Wild Shimmer
 	2 Wild Shimmer
 	2 Curious Shimmer
-	2 Curious Shimmer
-	2 Pouncing Shimmer
 	2 Pouncing Shimmer
 	2 Runed Spire
-	2 Runed Spire
-	2 Fadove Pathwarden
 	2 Fadove Pathwarden
 	2 Path of Insight
-	2 Path of Insight
-	2 Path of Revival
 	2 Path of Revival
 	2 Keeper of Faloden Woods
-	2 Keeper of Faloden Woods
-	2 Mistveil Drake
 	2 Mistveil Drake
 	2 Mordel Combatant
-	2 Mordel Combatant
-	2 Bearer of Change
 	2 Bearer of Change
 	2 Mordel Razer
-	2 Mordel Razer
-	2 Pathborn Aggression
 	2 Pathborn Aggression
 	2 Eternities Weaver
-	2 Eternities Weaver
-	2 Guardian Roost
 	2 Guardian Roost
 	2 Path to Restoration
-	2 Path to Restoration
-	2 Path to Ages
 	2 Path to Ages
 	2 Breach of Protection
-	2 Breach of Protection
-	2 Breach of Sanity
 	2 Breach of Sanity
 	2 Breach of Malice
-	2 Breach of Malice
-	2 Breach of Nature
 	2 Breach of Nature
 	2 Breach of Mortality
-	2 Breach of Mortality
-	2 Breach of the Unknown
 	2 Breach of the Unknown
 	2 Path of the Grove
-	2 Path of the Grove
-	2 Pathborn Drake
 	2 Pathborn Drake
 	2 Outlands Pathwarden
-	2 Outlands Pathwarden
-	1 Crackling Plains
 	1 Crackling Plains
 	1 Restored Plains
-	1 Restored Plains
-	1 Splintered Island
 	1 Splintered Island
 	1 Furrowed Mountain
-	1 Furrowed Mountain
-	1 Restored Island
 	1 Restored Island
 	1 Restored Swamp
-	1 Restored Swamp
-	1 Restored Mountain
 	1 Restored Mountain
 	1 Restored Forest
-	1 Restored Forest
-	1 Rip to Today
 	1 Rip to Today
 	1 Divided Forest
-	1 Divided Forest
-	1 Sundered Swamp
 	1 Sundered Swamp
 	1 Spire of Hunger
-	1 Spire of Hunger
-	1 Shimmering Path
 	1 Shimmering Path
 	1 Flashing Path
-	1 Flashing Path
-	2 Faloden Scavenger
 	2 Faloden Scavenger
 	1 Enduring Sapling
-	1 Enduring Sapling
-	2 Verem-Volcano Keeper
 	2 Verem-Volcano Keeper
 	1 Restored Fault
-	1 Restored Fault
 	2 Dustfall
-	2 Dustfall
-	2 Weavehorn Chimera
 	2 Weavehorn Chimera
 [uncommon(3)]
 	4 Drake Wrangler
-	4 Drake Wrangler
-	4 Tofnet Riftstalker
 	4 Tofnet Riftstalker
 	4 Passage Overseer
-	4 Passage Overseer
-	4 Bruin Wanderer
 	4 Bruin Wanderer
 	4 Avakin Riftseeker
-	4 Avakin Riftseeker
-	4 Untamed Drake
 	4 Untamed Drake
 	4 Aeon Awakener
-	4 Aeon Awakener
-	4 Bulwark of the Thicket
 	4 Bulwark of the Thicket
 	4 Multaphs Riftwarden
-	4 Multaphs Riftwarden
-	4 Survivors Instinct
 	4 Survivors Instinct
 	4 Entrance of Hunger
-	4 Entrance of Hunger
-	4 Aerial Roost
 	4 Aerial Roost
 	4 Soul Fire
-	4 Soul Fire
-	4 Hired Enforcer
 	4 Hired Enforcer
 	4 Perplexing Ray
-	4 Perplexing Ray
-	4 Clanless Usurper
 	4 Clanless Usurper
 	4 Opportunistic Scavenger
-	4 Opportunistic Scavenger
-	4 Outlands Bulwark
 	4 Outlands Bulwark
 	4 Mischievous Fox
-	4 Mischievous Fox
-	4 Roduth's Guard
 	4 Roduth's Guard
 	4 Ageless History
-	4 Ageless History
-	4 Icebound Reinforcements
 	4 Icebound Reinforcements
 	4 Blossoming Mentor
-	4 Blossoming Mentor
-	4 Accord Mentor
 	4 Accord Mentor
 	4 Eternal Mentor
-	4 Eternal Mentor
-	4 Conflict Mentor
 	4 Conflict Mentor
 	4 Outcast Mentor
-	4 Outcast Mentor
-	4 Trusted Companion
 	4 Trusted Companion
 	4 Radiant Guide
-	4 Radiant Guide
-	4 Fadove Bodyguard
 	4 Fadove Bodyguard
 	4 Combat Diviner
-	4 Combat Diviner
-	4 Denied by Nature
 	4 Denied by Nature
 	4 Storm Bearer
-	4 Storm Bearer
-	4 Resolute Watcher
 	4 Resolute Watcher
 	4 Avakin Sayer
-	4 Avakin Sayer
-	4 Avlod Diviner
 	4 Avlod Diviner
 	4 Aspiring Mount
-	4 Aspiring Mount
-	4 Scornful Pursuit
 	4 Scornful Pursuit
 	4 Avakin Mentor
-	4 Avakin Mentor
-	4 Shaman of Rites Lost
 	4 Shaman of Rites Lost
 	4 Avakin Hireblade
-	4 Avakin Hireblade
-	4 Fervent Incandescence
 	4 Fervent Incandescence
 	4 Brood Protector
-	4 Brood Protector
-	4 Minotaur Outlander
 	4 Minotaur Outlander
 	4 Mordel Excursionist
-	4 Mordel Excursionist
-	4 Burnout
 	4 Burnout
 	4 Rifttouched Ursine
-	4 Rifttouched Ursine
-	4 Triumphant Riftcaller
 	4 Triumphant Riftcaller
 	4 Forest Assailant
-	4 Forest Assailant
-	4 Progeny of Bruin
 	4 Progeny of Bruin
 	4 Tidepool Scuttler
-	4 Tidepool Scuttler
-	4 Explorers Compass
 	4 Explorers Compass
 	4 Pinnacle Wanderer
-	4 Pinnacle Wanderer
-	4 Frostnip Watcher
 	4 Frostnip Watcher
 	4 Shroud Walkers
-	4 Shroud Walkers
-	4 Verem-Volcano Stalker
 	4 Verem-Volcano Stalker
 	4 Wipe Away the Wicked
-	4 Wipe Away the Wicked
-	4 Stalwart Resolution
 	4 Stalwart Resolution
 	4 Fadove Willshaper
-	4 Fadove Willshaper
-	4 Returned from Beyond
 	4 Returned from Beyond
 	4 Rift Burn
-	4 Rift Burn
-	4 Study the Rifts
 	4 Study the Rifts
 	4 Multaphs Resplendant
-	4 Multaphs Resplendant
-	4 Chromaboon Blade
 	4 Chromaboon Blade
 	4 Sage of the Aeons
-	4 Sage of the Aeons
-	4 Mistblade Rogue
 	4 Mistblade Rogue
 	4 Manifesting Ardor
-	4 Manifesting Ardor
-	4 Prismatic Powerstone
 	4 Prismatic Powerstone
 	4 Verem-Volcano Warrior
-	4 Verem-Volcano Warrior
-	4 Outlands Protector
 	4 Outlands Protector
 	4 Smoldering Entity
-	4 Smoldering Entity
-	4 Skywatch Entity
 	4 Skywatch Entity
 	4 Giants Blade
-	4 Giants Blade
-	4 Midnight Raven
 	4 Midnight Raven
 	4 Faloden Thickets
-	4 Faloden Thickets
-	4 Faloden Tear-Warden
 	4 Faloden Tear-Warden
 	4 Tofnet Predator
-	4 Tofnet Predator
-	4 Malevolent Naginata
 	4 Malevolent Naginata
 	4 Skillful Blade
-	4 Skillful Blade
-	4 Tattered Entity
 	4 Tattered Entity
 	4 Crowned Entity
-	4 Crowned Entity
-	4 Usher of the Lost
 	4 Usher of the Lost
 	4 Breaking the Mold
-	4 Breaking the Mold
-	4 Called by the Void
 	4 Called by the Void
 	4 Path of the Proud
-	4 Path of the Proud
-	4 Path of the Roost
 	4 Path of the Roost
 	4 Path of the Rift
-	4 Path of the Rift
-	4 Path of the Brood
 	4 Path of the Brood
 	4 Path of the Mighty
-	4 Path of the Mighty
-	4 Unstable Rift
 	4 Unstable Rift
 	4 Tofnet Thrummer
-	4 Tofnet Thrummer
-	4 Choked Essence
 	4 Choked Essence
 	4 Scouts Bow
-	4 Scouts Bow
-	4 Paragon of Unknown Sights
 	4 Paragon of Unknown Sights
 	4 Common Enemy
-	4 Common Enemy
-	4 Power Null
 	4 Power Null
 [common(6)]
 	8 Rush Down
-	8 Rush Down
-	8 Purge the Clanless
 	8 Purge the Clanless
 	8 Prismatism
-	8 Prismatism
-	8 Dust to Life
 	8 Dust to Life
 	8 Fadove Initiate
-	8 Fadove Initiate
-	8 Fadove Trainer
 	8 Fadove Trainer
 	8 Fadove Tracker
-	8 Fadove Tracker
-	8 Outlands Marauder
 	8 Outlands Marauder
 	8 Wandering Soul
-	8 Wandering Soul
-	8 Fadove Drillmaster
 	8 Fadove Drillmaster
 	8 Oathkeep Wurm
-	8 Oathkeep Wurm
-	8 Drake Rider
 	8 Drake Rider
 	8 Covetous Fox
-	8 Covetous Fox
-	8 Rebuke the Foul
 	8 Rebuke the Foul
 	8 Maddened by Hunger
-	8 Maddened by Hunger
-	8 Frostborn Sentinel
 	8 Frostborn Sentinel
 	8 Respite Partisan
-	8 Respite Partisan
-	8 Due Dismissal
 	8 Due Dismissal
 	8 Repel the Invasion
-	8 Repel the Invasion
-	8 Cooing Foundling
 	8 Cooing Foundling
 	8 Avakin Avenger
-	8 Avakin Avenger
-	8 Gateway Guardian
 	8 Gateway Guardian
 	8 Avakin Riftwalker
-	8 Avakin Riftwalker
-	8 Rift Tender
 	8 Rift Tender
 	8 Waking Words
-	8 Waking Words
-	8 Avakin Cleaner
 	8 Avakin Cleaner
 	8 Avakin Assaulter
-	8 Avakin Assaulter
-	8 Left for the Crows
 	8 Left for the Crows
 	8 Weight of Betrayal
-	8 Weight of Betrayal
-	8 Iconic Resurgence
 	8 Iconic Resurgence
 	8 Avlod Necklace
-	8 Avlod Necklace
-	8 Frontline Assaulter
 	8 Frontline Assaulter
 	8 Minotaur Riftcaller
-	8 Minotaur Riftcaller
-	8 Mordel Patrol
 	8 Mordel Patrol
 	8 Tenuous Empowerment
-	8 Tenuous Empowerment
-	8 Mordel Drillmaster
 	8 Mordel Drillmaster
 	8 Verem-Volcano Rumbler
-	8 Verem-Volcano Rumbler
-	8 Stalking Entity
 	8 Stalking Entity
 	8 Iconic Resolution
-	8 Iconic Resolution
-	8 Conscripted by the Clanless
 	8 Conscripted by the Clanless
 	8 Clanless Destruction
-	8 Clanless Destruction
-	8 Unexpected Discovery
 	8 Unexpected Discovery
 	8 Lavaskimmer Wurm
-	8 Lavaskimmer Wurm
-	8 Farming Wurm
 	8 Farming Wurm
 	8 Awakened Harmony
-	8 Awakened Harmony
-	8 Mordel Formgiver
 	8 Mordel Formgiver
 	8 Outlands Diviner
-	8 Outlands Diviner
-	8 Bruin Clankeeper
 	8 Bruin Clankeeper
 	8 Multaphs Watch
-	8 Multaphs Watch
-	8 Progeny of Mordel
 	8 Progeny of Mordel
 	8 Iconic Altercation
-	8 Iconic Altercation
-	8 Boon of Roduth
 	8 Boon of Roduth
 	8 Ripped into Eternity
-	8 Ripped into Eternity
-	8 Rippling Crustacean
 	8 Rippling Crustacean
 	8 Starbright Entity
-	8 Starbright Entity
-	8 Aspiring Entity
 	8 Aspiring Entity
 	8 Wings of New Horizons
-	8 Wings of New Horizons
-	8 Rip to Tomorrow
 	8 Rip to Tomorrow
 	8 Powerstone Claw
-	8 Powerstone Claw
-	8 Wandering Entity
 	8 Wandering Entity
 	8 Pinnacle Skitter
-	8 Pinnacle Skitter
-	8 Power of Oath
 	8 Power of Oath
 	8 Iconic Absolution
-	8 Iconic Absolution
-	8 Windshaper Drake
 	8 Windshaper Drake
 	8 Blessing of Uth
-	8 Blessing of Uth
-	8 Bruin Outlander
 	8 Bruin Outlander
 	8 Dark Lessons
-	8 Dark Lessons
-	8 Towering Protector
 	8 Towering Protector
 	8 Avakin Opportunist
-	8 Avakin Opportunist
-	8 Sage of Truths
 	8 Sage of Truths
 	8 Stalwart Guard
-	8 Stalwart Guard
-	8 Outlands Wanderer
 	8 Outlands Wanderer
 	8 Frostborn Glimmer
-	8 Frostborn Glimmer
-	8 Kaln-Ocean Cloak
 	8 Kaln-Ocean Cloak
 	8 Suffused Memories
-	8 Suffused Memories
-	8 Search For Wisdom
 	8 Search For Wisdom
 	8 Avakin Watcher
-	8 Avakin Watcher
-	8 Transient Eternity
 	8 Transient Eternity
 	8 Abrupt Death
-	8 Abrupt Death
-	8 Fleeting Ruin
 	8 Fleeting Ruin
 	8 Impetuous Eradication
-	8 Impetuous Eradication
-	8 Ephemeral Ordinance
 	8 Ephemeral Ordinance
 	8 Vanishing Resolve
-	8 Vanishing Resolve
-	8 Cursory Casualty
 	8 Cursory Casualty
 	8 Transitory Refuge
-	8 Transitory Refuge
-	8 Evanescent Impasse
 	8 Evanescent Impasse
 	8 Sublime Liquidation
-	8 Sublime Liquidation
-	8 Razorshell Drake
 	8 Razorshell Drake
 	8 Voidborn Entity
-	8 Voidborn Entity
-	8 Chittering Entity
 	8 Chittering Entity
 	8 Riftborn Flames
-	8 Riftborn Flames
-	8 Shining Idol
 	8 Shining Idol
 	8 Triumphant Entrance
-	8 Triumphant Entrance
-	8 Outlands Riftbearer
 	8 Outlands Riftbearer
 	8 Mordel Clanwarden
-	8 Mordel Clanwarden
-	8 Warden of the Lost
 	8 Warden of the Lost
 	8 Warforged Herald
-	8 Warforged Herald
-	8 Iconic Incident
 	8 Iconic Incident
 	8 Mordel Warrior
-	8 Mordel Warrior
-	8 Keeper of Calm
 	8 Keeper of Calm
 	8 Avlod Bulwark
-	8 Avlod Bulwark
-	8 Remnant Awakener
 	8 Remnant Awakener
 	8 Waterspout
-	8 Waterspout
-	8 Flaming Iron
 	8 Flaming Iron
 	8 Bark of Tofnet Plains
-	8 Bark of Tofnet Plains
-	8 Kaln-Ocean Wispop
 	8 Kaln-Ocean Wispop
 	8 Pathborn Crackle
-	8 Pathborn Crackle
-	8 Guardian of Faloden Woods
 	8 Guardian of Faloden Woods
 	8 Outlands Frostalker
-	8 Outlands Frostalker
-	8 Fog Walker
 	8 Fog Walker
 	8 Dromencals Respite
-	8 Dromencals Respite
-	8 Outlands Respite
 	8 Outlands Respite
 	8 Fadove Reinforcement
-	8 Fadove Reinforcement
-	8 Avlod Pathshaper
 	8 Avlod Pathshaper
 	8 Outlands Traveller
-	8 Outlands Traveller
-	8 Mordel Reinforcement
 	8 Mordel Reinforcement
 	8 Outlands Guardian
-	8 Outlands Guardian
-	8 Paths Strider
 	8 Paths Strider
 	8 Pathbound Bloom
-	8 Pathbound Bloom
-	8 Tethers of Insanity
 	8 Tethers of Insanity
 	8 Eternity Siphon
-	8 Eternity Siphon
-	8 Grazed by the Endless
 	8 Grazed by the Endless
 	8 Avakin Hazeweaver
-	8 Avakin Hazeweaver
-	8 Ash to Hope
 	8 Ash to Hope
 	8 Ethereal Exposure
-	8 Ethereal Exposure
-	8 Impunity of Souls
 	8 Impunity of Souls
 	8 Scars of Oil
-	8 Scars of Oil
 	8 Splendid Genesis
-	8 Splendid Genesis
-	8 Volatile Visions
 	8 Volatile Visions
 [common | masterpiece(1)]
 	8 Rush Down
-	8 Rush Down
-	8 Purge the Clanless
 	8 Purge the Clanless
 	8 Prismatism
-	8 Prismatism
-	8 Dust to Life
 	8 Dust to Life
 	8 Fadove Initiate
-	8 Fadove Initiate
-	8 Fadove Trainer
 	8 Fadove Trainer
 	8 Fadove Tracker
-	8 Fadove Tracker
-	8 Outlands Marauder
 	8 Outlands Marauder
 	8 Wandering Soul
-	8 Wandering Soul
-	8 Fadove Drillmaster
 	8 Fadove Drillmaster
 	8 Oathkeep Wurm
-	8 Oathkeep Wurm
-	8 Drake Rider
 	8 Drake Rider
 	8 Covetous Fox
-	8 Covetous Fox
-	8 Rebuke the Foul
 	8 Rebuke the Foul
 	8 Maddened by Hunger
-	8 Maddened by Hunger
-	8 Frostborn Sentinel
 	8 Frostborn Sentinel
 	8 Respite Partisan
-	8 Respite Partisan
-	8 Due Dismissal
 	8 Due Dismissal
 	8 Repel the Invasion
-	8 Repel the Invasion
-	8 Cooing Foundling
 	8 Cooing Foundling
 	8 Avakin Avenger
-	8 Avakin Avenger
-	8 Gateway Guardian
 	8 Gateway Guardian
 	8 Avakin Riftwalker
-	8 Avakin Riftwalker
-	8 Rift Tender
 	8 Rift Tender
 	8 Waking Words
-	8 Waking Words
-	8 Avakin Cleaner
 	8 Avakin Cleaner
 	8 Avakin Assaulter
-	8 Avakin Assaulter
-	8 Left for the Crows
 	8 Left for the Crows
 	8 Weight of Betrayal
-	8 Weight of Betrayal
-	8 Iconic Resurgence
 	8 Iconic Resurgence
 	8 Avlod Necklace
-	8 Avlod Necklace
-	8 Frontline Assaulter
 	8 Frontline Assaulter
 	8 Minotaur Riftcaller
-	8 Minotaur Riftcaller
-	8 Mordel Patrol
 	8 Mordel Patrol
 	8 Tenuous Empowerment
-	8 Tenuous Empowerment
-	8 Mordel Drillmaster
 	8 Mordel Drillmaster
 	8 Verem-Volcano Rumbler
-	8 Verem-Volcano Rumbler
-	8 Stalking Entity
 	8 Stalking Entity
 	8 Iconic Resolution
-	8 Iconic Resolution
-	8 Conscripted by the Clanless
 	8 Conscripted by the Clanless
 	8 Clanless Destruction
-	8 Clanless Destruction
-	8 Unexpected Discovery
 	8 Unexpected Discovery
 	8 Lavaskimmer Wurm
-	8 Lavaskimmer Wurm
-	8 Farming Wurm
 	8 Farming Wurm
 	8 Awakened Harmony
-	8 Awakened Harmony
-	8 Mordel Formgiver
 	8 Mordel Formgiver
 	8 Outlands Diviner
-	8 Outlands Diviner
-	8 Bruin Clankeeper
 	8 Bruin Clankeeper
 	8 Multaphs Watch
-	8 Multaphs Watch
-	8 Progeny of Mordel
 	8 Progeny of Mordel
 	8 Iconic Altercation
-	8 Iconic Altercation
-	8 Boon of Roduth
 	8 Boon of Roduth
 	8 Ripped into Eternity
-	8 Ripped into Eternity
-	8 Rippling Crustacean
 	8 Rippling Crustacean
 	8 Starbright Entity
-	8 Starbright Entity
-	8 Aspiring Entity
 	8 Aspiring Entity
 	8 Wings of New Horizons
-	8 Wings of New Horizons
-	8 Rip to Tomorrow
 	8 Rip to Tomorrow
 	8 Powerstone Claw
-	8 Powerstone Claw
-	8 Wandering Entity
 	8 Wandering Entity
 	8 Pinnacle Skitter
-	8 Pinnacle Skitter
-	8 Power of Oath
 	8 Power of Oath
 	8 Iconic Absolution
-	8 Iconic Absolution
-	8 Windshaper Drake
 	8 Windshaper Drake
 	8 Blessing of Uth
-	8 Blessing of Uth
-	8 Bruin Outlander
 	8 Bruin Outlander
 	8 Dark Lessons
-	8 Dark Lessons
-	8 Towering Protector
 	8 Towering Protector
 	8 Avakin Opportunist
-	8 Avakin Opportunist
-	8 Sage of Truths
 	8 Sage of Truths
 	8 Stalwart Guard
-	8 Stalwart Guard
-	8 Outlands Wanderer
 	8 Outlands Wanderer
 	8 Frostborn Glimmer
-	8 Frostborn Glimmer
-	8 Kaln-Ocean Cloak
 	8 Kaln-Ocean Cloak
 	8 Suffused Memories
-	8 Suffused Memories
-	8 Search For Wisdom
 	8 Search For Wisdom
 	8 Avakin Watcher
-	8 Avakin Watcher
-	8 Transient Eternity
 	8 Transient Eternity
 	8 Abrupt Death
-	8 Abrupt Death
-	8 Fleeting Ruin
 	8 Fleeting Ruin
 	8 Impetuous Eradication
-	8 Impetuous Eradication
-	8 Ephemeral Ordinance
 	8 Ephemeral Ordinance
 	8 Vanishing Resolve
-	8 Vanishing Resolve
-	8 Cursory Casualty
 	8 Cursory Casualty
 	8 Transitory Refuge
-	8 Transitory Refuge
-	8 Evanescent Impasse
 	8 Evanescent Impasse
 	8 Sublime Liquidation
-	8 Sublime Liquidation
-	8 Razorshell Drake
 	8 Razorshell Drake
 	8 Voidborn Entity
-	8 Voidborn Entity
-	8 Chittering Entity
 	8 Chittering Entity
 	8 Riftborn Flames
-	8 Riftborn Flames
-	8 Shining Idol
 	8 Shining Idol
 	8 Triumphant Entrance
-	8 Triumphant Entrance
-	8 Outlands Riftbearer
 	8 Outlands Riftbearer
 	8 Mordel Clanwarden
-	8 Mordel Clanwarden
-	8 Warden of the Lost
 	8 Warden of the Lost
 	8 Warforged Herald
-	8 Warforged Herald
-	8 Iconic Incident
 	8 Iconic Incident
 	8 Mordel Warrior
-	8 Mordel Warrior
-	8 Keeper of Calm
 	8 Keeper of Calm
 	8 Avlod Bulwark
-	8 Avlod Bulwark
-	8 Remnant Awakener
 	8 Remnant Awakener
 	8 Waterspout
-	8 Waterspout
-	8 Flaming Iron
 	8 Flaming Iron
 	8 Bark of Tofnet Plains
-	8 Bark of Tofnet Plains
-	8 Kaln-Ocean Wispop
 	8 Kaln-Ocean Wispop
 	8 Pathborn Crackle
-	8 Pathborn Crackle
-	8 Guardian of Faloden Woods
 	8 Guardian of Faloden Woods
 	8 Outlands Frostalker
-	8 Outlands Frostalker
-	8 Fog Walker
 	8 Fog Walker
 	8 Dromencals Respite
-	8 Dromencals Respite
-	8 Outlands Respite
 	8 Outlands Respite
 	8 Fadove Reinforcement
-	8 Fadove Reinforcement
-	8 Avlod Pathshaper
 	8 Avlod Pathshaper
 	8 Outlands Traveller
-	8 Outlands Traveller
-	8 Mordel Reinforcement
 	8 Mordel Reinforcement
 	8 Outlands Guardian
-	8 Outlands Guardian
-	8 Paths Strider
 	8 Paths Strider
 	8 Pathbound Bloom
-	8 Pathbound Bloom
-	8 Tethers of Insanity
 	8 Tethers of Insanity
 	8 Eternity Siphon
-	8 Eternity Siphon
-	8 Grazed by the Endless
 	8 Grazed by the Endless
 	8 Avakin Hazeweaver
-	8 Avakin Hazeweaver
-	8 Ash to Hope
 	8 Ash to Hope
 	3 xXDust420Xx
-	3 xXDust420Xx
-	8 Ethereal Exposure
 	8 Ethereal Exposure
 	8 Impunity of Souls
-	8 Impunity of Souls
-	8 Scars of Oil
 	8 Scars of Oil
 	8 Splendid Genesis
-	8 Splendid Genesis
-	8 Volatile Visions
 	8 Volatile Visions
 [foil(1)]
 	6 Drake Wrangler
-	6 Drake Wrangler
-	6 Tofnet Riftstalker
 	6 Tofnet Riftstalker
 	6 Passage Overseer
-	6 Passage Overseer
-	6 Bruin Wanderer
 	6 Bruin Wanderer
 	6 Avakin Riftseeker
-	6 Avakin Riftseeker
-	6 Untamed Drake
 	6 Untamed Drake
 	6 Aeon Awakener
-	6 Aeon Awakener
-	6 Bulwark of the Thicket
 	6 Bulwark of the Thicket
 	6 Multaphs Riftwarden
-	6 Multaphs Riftwarden
-	12 Rush Down
 	12 Rush Down
 	12 Purge the Clanless
-	12 Purge the Clanless
-	6 Survivors Instinct
 	6 Survivors Instinct
 	6 Entrance of Hunger
-	6 Entrance of Hunger
-	12 Prismatism
 	12 Prismatism
 	6 Aerial Roost
-	6 Aerial Roost
-	6 Soul Fire
 	6 Soul Fire
 	12 Dust to Life
-	12 Dust to Life
-	6 Hired Enforcer
 	6 Hired Enforcer
 	6 Perplexing Ray
-	6 Perplexing Ray
-	6 Clanless Usurper
 	6 Clanless Usurper
 	6 Opportunistic Scavenger
-	6 Opportunistic Scavenger
-	6 Outlands Bulwark
 	6 Outlands Bulwark
 	6 Mischievous Fox
-	6 Mischievous Fox
-	6 Roduth's Guard
 	6 Roduth's Guard
 	6 Ageless History
-	6 Ageless History
-	6 Icebound Reinforcements
 	6 Icebound Reinforcements
 	6 Blossoming Mentor
-	6 Blossoming Mentor
-	6 Accord Mentor
 	6 Accord Mentor
 	6 Eternal Mentor
-	6 Eternal Mentor
-	6 Conflict Mentor
 	6 Conflict Mentor
 	6 Outcast Mentor
-	6 Outcast Mentor
-	12 Fadove Initiate
 	12 Fadove Initiate
 	12 Fadove Trainer
-	12 Fadove Trainer
-	6 Trusted Companion
 	6 Trusted Companion
 	12 Fadove Tracker
-	12 Fadove Tracker
-	12 Outlands Marauder
 	12 Outlands Marauder
 	12 Wandering Soul
-	12 Wandering Soul
-	12 Fadove Drillmaster
 	12 Fadove Drillmaster
 	12 Oathkeep Wurm
-	12 Oathkeep Wurm
-	12 Drake Rider
 	12 Drake Rider
 	6 Radiant Guide
-	6 Radiant Guide
-	12 Covetous Fox
 	12 Covetous Fox
 	12 Rebuke the Foul
-	12 Rebuke the Foul
-	12 Maddened by Hunger
 	12 Maddened by Hunger
 	6 Fadove Bodyguard
-	6 Fadove Bodyguard
-	6 Combat Diviner
 	6 Combat Diviner
 	12 Frostborn Sentinel
-	12 Frostborn Sentinel
-	12 Respite Partisan
 	12 Respite Partisan
 	12 Due Dismissal
-	12 Due Dismissal
-	6 Denied by Nature
 	6 Denied by Nature
 	12 Repel the Invasion
-	12 Repel the Invasion
-	6 Storm Bearer
 	6 Storm Bearer
 	6 Resolute Watcher
-	6 Resolute Watcher
-	6 Avakin Sayer
 	6 Avakin Sayer
 	6 Avlod Diviner
-	6 Avlod Diviner
-	6 Aspiring Mount
 	6 Aspiring Mount
 	12 Cooing Foundling
-	12 Cooing Foundling
-	12 Avakin Avenger
 	12 Avakin Avenger
 	12 Gateway Guardian
-	12 Gateway Guardian
-	12 Avakin Riftwalker
 	12 Avakin Riftwalker
 	12 Rift Tender
-	12 Rift Tender
-	12 Waking Words
 	12 Waking Words
 	12 Avakin Cleaner
-	12 Avakin Cleaner
-	12 Avakin Assaulter
 	12 Avakin Assaulter
 	6 Scornful Pursuit
-	6 Scornful Pursuit
-	12 Left for the Crows
 	12 Left for the Crows
 	12 Weight of Betrayal
-	12 Weight of Betrayal
-	12 Iconic Resurgence
 	12 Iconic Resurgence
 	12 Avlod Necklace
-	12 Avlod Necklace
-	6 Avakin Mentor
 	6 Avakin Mentor
 	6 Shaman of Rites Lost
-	6 Shaman of Rites Lost
-	6 Avakin Hireblade
 	6 Avakin Hireblade
 	12 Frontline Assaulter
-	12 Frontline Assaulter
-	12 Minotaur Riftcaller
 	12 Minotaur Riftcaller
 	6 Fervent Incandescence
-	6 Fervent Incandescence
-	12 Mordel Patrol
 	12 Mordel Patrol
 	12 Tenuous Empowerment
-	12 Tenuous Empowerment
-	12 Mordel Drillmaster
 	12 Mordel Drillmaster
 	12 Verem-Volcano Rumbler
-	12 Verem-Volcano Rumbler
-	12 Stalking Entity
 	12 Stalking Entity
 	12 Iconic Resolution
-	12 Iconic Resolution
-	12 Conscripted by the Clanless
 	12 Conscripted by the Clanless
 	12 Clanless Destruction
-	12 Clanless Destruction
-	12 Unexpected Discovery
 	12 Unexpected Discovery
 	6 Brood Protector
-	6 Brood Protector
-	6 Minotaur Outlander
 	6 Minotaur Outlander
 	6 Mordel Excursionist
-	6 Mordel Excursionist
-	12 Lavaskimmer Wurm
 	12 Lavaskimmer Wurm
 	6 Burnout
-	6 Burnout
-	12 Farming Wurm
 	12 Farming Wurm
 	12 Awakened Harmony
-	12 Awakened Harmony
-	12 Mordel Formgiver
 	12 Mordel Formgiver
 	12 Outlands Diviner
-	12 Outlands Diviner
-	12 Bruin Clankeeper
 	12 Bruin Clankeeper
 	12 Multaphs Watch
-	12 Multaphs Watch
-	12 Progeny of Mordel
 	12 Progeny of Mordel
 	12 Iconic Altercation
-	12 Iconic Altercation
-	12 Boon of Roduth
 	12 Boon of Roduth
 	12 Ripped into Eternity
-	12 Ripped into Eternity
-	6 Rifttouched Ursine
 	6 Rifttouched Ursine
 	6 Triumphant Riftcaller
-	6 Triumphant Riftcaller
-	6 Forest Assailant
 	6 Forest Assailant
 	6 Progeny of Bruin
-	6 Progeny of Bruin
-	12 Rippling Crustacean
 	12 Rippling Crustacean
 	12 Starbright Entity
-	12 Starbright Entity
-	12 Aspiring Entity
 	12 Aspiring Entity
 	12 Wings of New Horizons
-	12 Wings of New Horizons
-	12 Rip to Tomorrow
 	12 Rip to Tomorrow
 	12 Powerstone Claw
-	12 Powerstone Claw
-	12 Wandering Entity
 	12 Wandering Entity
 	12 Pinnacle Skitter
-	12 Pinnacle Skitter
-	6 Tidepool Scuttler
 	6 Tidepool Scuttler
 	6 Explorers Compass
-	6 Explorers Compass
-	6 Pinnacle Wanderer
 	6 Pinnacle Wanderer
 	6 Frostnip Watcher
-	6 Frostnip Watcher
-	6 Shroud Walkers
 	6 Shroud Walkers
 	6 Verem-Volcano Stalker
-	6 Verem-Volcano Stalker
-	12 Power of Oath
 	12 Power of Oath
 	12 Iconic Absolution
-	12 Iconic Absolution
-	6 Wipe Away the Wicked
 	6 Wipe Away the Wicked
 	6 Stalwart Resolution
-	6 Stalwart Resolution
-	6 Fadove Willshaper
 	6 Fadove Willshaper
 	6 Returned from Beyond
-	6 Returned from Beyond
-	6 Rift Burn
 	6 Rift Burn
 	12 Windshaper Drake
-	12 Windshaper Drake
-	6 Study the Rifts
 	6 Study the Rifts
 	12 Blessing of Uth
-	12 Blessing of Uth
-	6 Multaphs Resplendant
 	6 Multaphs Resplendant
 	12 Bruin Outlander
-	12 Bruin Outlander
-	12 Dark Lessons
 	12 Dark Lessons
 	6 Chromaboon Blade
-	6 Chromaboon Blade
-	12 Towering Protector
 	12 Towering Protector
 	6 Sage of the Aeons
-	6 Sage of the Aeons
-	12 Avakin Opportunist
 	12 Avakin Opportunist
 	12 Sage of Truths
-	12 Sage of Truths
-	12 Stalwart Guard
 	12 Stalwart Guard
 	12 Outlands Wanderer
-	12 Outlands Wanderer
-	12 Frostborn Glimmer
 	12 Frostborn Glimmer
 	12 Kaln-Ocean Cloak
-	12 Kaln-Ocean Cloak
-	12 Suffused Memories
 	12 Suffused Memories
 	12 Search For Wisdom
-	12 Search For Wisdom
-	12 Avakin Watcher
 	12 Avakin Watcher
 	12 Transient Eternity
-	12 Transient Eternity
-	12 Abrupt Death
 	12 Abrupt Death
 	12 Fleeting Ruin
-	12 Fleeting Ruin
-	12 Impetuous Eradication
 	12 Impetuous Eradication
 	12 Ephemeral Ordinance
-	12 Ephemeral Ordinance
-	12 Vanishing Resolve
 	12 Vanishing Resolve
 	12 Cursory Casualty
-	12 Cursory Casualty
-	12 Transitory Refuge
 	12 Transitory Refuge
 	12 Evanescent Impasse
-	12 Evanescent Impasse
-	12 Sublime Liquidation
 	12 Sublime Liquidation
 	6 Mistblade Rogue
-	6 Mistblade Rogue
-	6 Manifesting Ardor
 	6 Manifesting Ardor
 	6 Prismatic Powerstone
-	6 Prismatic Powerstone
-	12 Razorshell Drake
 	12 Razorshell Drake
 	6 Verem-Volcano Warrior
-	6 Verem-Volcano Warrior
-	6 Outlands Protector
 	6 Outlands Protector
 	6 Smoldering Entity
-	6 Smoldering Entity
-	6 Skywatch Entity
 	6 Skywatch Entity
 	6 Giants Blade
-	6 Giants Blade
-	12 Voidborn Entity
 	12 Voidborn Entity
 	12 Chittering Entity
-	12 Chittering Entity
-	12 Riftborn Flames
 	12 Riftborn Flames
 	12 Shining Idol
-	12 Shining Idol
-	12 Triumphant Entrance
 	12 Triumphant Entrance
 	6 Midnight Raven
-	6 Midnight Raven
-	12 Outlands Riftbearer
 	12 Outlands Riftbearer
 	12 Mordel Clanwarden
-	12 Mordel Clanwarden
-	12 Warden of the Lost
 	12 Warden of the Lost
 	12 Warforged Herald
-	12 Warforged Herald
-	12 Iconic Incident
 	12 Iconic Incident
 	12 Mordel Warrior
-	12 Mordel Warrior
-	12 Keeper of Calm
 	12 Keeper of Calm
 	12 Avlod Bulwark
-	12 Avlod Bulwark
-	6 Faloden Thickets
 	6 Faloden Thickets
 	6 Faloden Tear-Warden
-	6 Faloden Tear-Warden
-	6 Tofnet Predator
 	6 Tofnet Predator
 	12 Remnant Awakener
-	12 Remnant Awakener
-	12 Waterspout
 	12 Waterspout
 	6 Malevolent Naginata
-	6 Malevolent Naginata
-	6 Skillful Blade
 	6 Skillful Blade
 	6 Tattered Entity
-	6 Tattered Entity
-	6 Crowned Entity
 	6 Crowned Entity
 	12 Flaming Iron
-	12 Flaming Iron
-	6 Usher of the Lost
 	6 Usher of the Lost
 	6 Breaking the Mold
-	6 Breaking the Mold
-	2 Ruins of Multa
 	2 Ruins of Multa
 	2 Multaph Riftborn God
-	2 Multaph Riftborn God
-	2 Will of Roduth
 	2 Will of Roduth
 	2 Will of Multaph
-	2 Will of Multaph
-	2 Will of Destruction
 	2 Will of Destruction
 	2 The Great Tear
-	2 The Great Tear
-	2 Multaph's Respite
 	2 Multaph's Respite
 	2 The Wandering Cook
-	2 The Wandering Cook
-	2 Najael Travelling Shaman
 	2 Najael Travelling Shaman
 	6 Called by the Void
-	6 Called by the Void
-	2 Ruins of Uth
 	2 Ruins of Uth
 	2 Will of Hunger
-	2 Will of Hunger
-	2 Roduth God of Conflict
 	2 Roduth God of Conflict
 	2 Thargle
-	2 Thargle
-	2 Rip to Yesterday
 	2 Rip to Yesterday
 	12 Bark of Tofnet Plains
-	12 Bark of Tofnet Plains
-	12 Kaln-Ocean Wispop
 	12 Kaln-Ocean Wispop
 	12 Pathborn Crackle
-	12 Pathborn Crackle
-	12 Guardian of Faloden Woods
 	12 Guardian of Faloden Woods
 	12 Outlands Frostalker
-	12 Outlands Frostalker
-	12 Fog Walker
 	12 Fog Walker
 	12 Dromencals Respite
-	12 Dromencals Respite
-	12 Outlands Respite
 	12 Outlands Respite
 	2 Melodia Voidtouched
-	2 Melodia Voidtouched
-	2 Calia Oracle of Tofnet Plains
 	2 Calia Oracle of Tofnet Plains
 	2 Ola Kaln-Ocean Spellkeeper
-	2 Ola Kaln-Ocean Spellkeeper
-	2 Kier Acolyte of Avlod Respite
 	2 Kier Acolyte of Avlod Respite
 	2 Vane Verem-Volcano Scorcher
-	2 Vane Verem-Volcano Scorcher
-	2 Somma, Blade of Faloden Woods
 	2 Somma, Blade of Faloden Woods
 	2 Khestri Fadove Clanleader
-	2 Khestri Fadove Clanleader
-	2 Shivta, Avlod Clanleader
 	2 Shivta, Avlod Clanleader
 	2 Urkial Outlands Clanleader
-	2 Urkial Outlands Clanleader
-	2 Bruin Mentor
 	2 Bruin Mentor
 	2 Raze the Clanless
-	2 Raze the Clanless
-	2 Prismatic Offense
 	2 Prismatic Offense
 	2 Korna, Vinimroth Historian
-	2 Korna, Vinimroth Historian
-	2 Zoslera Mordel Clanleader
 	2 Zoslera Mordel Clanleader
 	2 Prophellos Pathborn Hunger
-	2 Prophellos Pathborn Hunger
-	2 Dust for Dust
 	2 Dust for Dust
 	2 Pinnacle of Vinimroth
-	2 Pinnacle of Vinimroth
-	2 Attuned Shimmer
 	2 Attuned Shimmer
 	2 Bushy Shimmer
-	2 Bushy Shimmer
-	2 Wild Shimmer
 	2 Wild Shimmer
 	2 Curious Shimmer
-	2 Curious Shimmer
-	2 Pouncing Shimmer
 	2 Pouncing Shimmer
 	2 Runed Spire
-	2 Runed Spire
-	2 Fadove Pathwarden
 	2 Fadove Pathwarden
 	2 Path of Insight
-	2 Path of Insight
-	2 Path of Revival
 	2 Path of Revival
 	2 Keeper of Faloden Woods
-	2 Keeper of Faloden Woods
-	2 Mistveil Drake
 	2 Mistveil Drake
 	2 Mordel Combatant
-	2 Mordel Combatant
-	2 Bearer of Change
 	2 Bearer of Change
 	2 Mordel Razer
-	2 Mordel Razer
-	2 Pathborn Aggression
 	2 Pathborn Aggression
 	2 Eternities Weaver
-	2 Eternities Weaver
-	2 Guardian Roost
 	2 Guardian Roost
 	2 Path to Restoration
-	2 Path to Restoration
-	2 Path to Ages
 	2 Path to Ages
 	2 Breach of Protection
-	2 Breach of Protection
-	2 Breach of Sanity
 	2 Breach of Sanity
 	2 Breach of Malice
-	2 Breach of Malice
-	2 Breach of Nature
 	2 Breach of Nature
 	2 Breach of Mortality
-	2 Breach of Mortality
-	2 Breach of the Unknown
 	2 Breach of the Unknown
 	2 Path of the Grove
-	2 Path of the Grove
-	2 Pathborn Drake
 	2 Pathborn Drake
 	2 Outlands Pathwarden
-	2 Outlands Pathwarden
-	12 Fadove Reinforcement
 	12 Fadove Reinforcement
 	12 Avlod Pathshaper
-	12 Avlod Pathshaper
-	12 Outlands Traveller
 	12 Outlands Traveller
 	12 Mordel Reinforcement
-	12 Mordel Reinforcement
-	12 Outlands Guardian
 	12 Outlands Guardian
 	12 Paths Strider
-	12 Paths Strider
-	6 Path of the Proud
 	6 Path of the Proud
 	6 Path of the Roost
-	6 Path of the Roost
-	6 Path of the Rift
 	6 Path of the Rift
 	6 Path of the Brood
-	6 Path of the Brood
-	6 Path of the Mighty
 	6 Path of the Mighty
 	12 Pathbound Bloom
-	12 Pathbound Bloom
-	1 Crackling Plains
 	1 Crackling Plains
 	1 Restored Plains
-	1 Restored Plains
-	1 Splintered Island
 	1 Splintered Island
 	1 Furrowed Mountain
-	1 Furrowed Mountain
-	1 Restored Island
 	1 Restored Island
 	1 Restored Swamp
-	1 Restored Swamp
-	1 Restored Mountain
 	1 Restored Mountain
 	1 Restored Forest
-	1 Restored Forest
-	1 Rip to Today
 	1 Rip to Today
 	1 Divided Forest
-	1 Divided Forest
-	1 Sundered Swamp
 	1 Sundered Swamp
 	6 Unstable Rift
-	6 Unstable Rift
-	1 Spire of Hunger
 	1 Spire of Hunger
 	1 Shimmering Path
-	1 Shimmering Path
-	1 Flashing Path
 	1 Flashing Path
 	12 Tethers of Insanity
-	12 Tethers of Insanity
-	12 Eternity Siphon
 	12 Eternity Siphon
 	6 Tofnet Thrummer
-	6 Tofnet Thrummer
-	2 Faloden Scavenger
 	2 Faloden Scavenger
 	12 Grazed by the Endless
-	12 Grazed by the Endless
-	6 Choked Essence
 	6 Choked Essence
 	1 Enduring Sapling
-	1 Enduring Sapling
-	12 Avakin Hazeweaver
 	12 Avakin Hazeweaver
 	2 Verem-Volcano Keeper
-	2 Verem-Volcano Keeper
-	1 Restored Fault
 	1 Restored Fault
 	12 Ash to Hope
-	12 Ash to Hope
-	6 Scouts Bow
 	6 Scouts Bow
 	6 Paragon of Unknown Sights
-	6 Paragon of Unknown Sights
-	2 Dustfall
 	2 Dustfall
 	6 Common Enemy
-	6 Common Enemy
-	6 Power Null
 	6 Power Null
 	2 Weavehorn Chimera
-	2 Weavehorn Chimera
-	12 Ethereal Exposure
 	12 Ethereal Exposure
 	12 Impunity of Souls
-	12 Impunity of Souls
-	12 Scars of Oil
 	12 Scars of Oil
 	12 Splendid Genesis
-	12 Splendid Genesis
-	12 Volatile Visions
 	12 Volatile Visions
 [wildcard(1)]
 	15 Drake Wrangler
-	15 Drake Wrangler
-	15 Tofnet Riftstalker
 	15 Tofnet Riftstalker
 	15 Passage Overseer
-	15 Passage Overseer
-	15 Bruin Wanderer
 	15 Bruin Wanderer
 	15 Avakin Riftseeker
-	15 Avakin Riftseeker
-	15 Untamed Drake
 	15 Untamed Drake
 	15 Aeon Awakener
-	15 Aeon Awakener
-	15 Bulwark of the Thicket
 	15 Bulwark of the Thicket
 	15 Multaphs Riftwarden
-	15 Multaphs Riftwarden
-	6 Rush Down
 	6 Rush Down
 	6 Purge the Clanless
-	6 Purge the Clanless
-	15 Survivors Instinct
 	15 Survivors Instinct
 	15 Entrance of Hunger
-	15 Entrance of Hunger
-	6 Prismatism
 	6 Prismatism
 	15 Aerial Roost
-	15 Aerial Roost
-	15 Soul Fire
 	15 Soul Fire
 	6 Dust to Life
-	6 Dust to Life
-	15 Hired Enforcer
 	15 Hired Enforcer
 	15 Perplexing Ray
-	15 Perplexing Ray
-	15 Clanless Usurper
 	15 Clanless Usurper
 	15 Opportunistic Scavenger
-	15 Opportunistic Scavenger
-	15 Outlands Bulwark
 	15 Outlands Bulwark
 	15 Mischievous Fox
-	15 Mischievous Fox
-	15 Roduth's Guard
 	15 Roduth's Guard
 	15 Ageless History
-	15 Ageless History
-	15 Icebound Reinforcements
 	15 Icebound Reinforcements
 	15 Blossoming Mentor
-	15 Blossoming Mentor
-	15 Accord Mentor
 	15 Accord Mentor
 	15 Eternal Mentor
-	15 Eternal Mentor
-	15 Conflict Mentor
 	15 Conflict Mentor
 	15 Outcast Mentor
-	15 Outcast Mentor
-	6 Fadove Initiate
 	6 Fadove Initiate
 	6 Fadove Trainer
-	6 Fadove Trainer
-	15 Trusted Companion
 	15 Trusted Companion
 	6 Fadove Tracker
-	6 Fadove Tracker
-	6 Outlands Marauder
 	6 Outlands Marauder
 	6 Wandering Soul
-	6 Wandering Soul
-	6 Fadove Drillmaster
 	6 Fadove Drillmaster
 	6 Oathkeep Wurm
-	6 Oathkeep Wurm
-	6 Drake Rider
 	6 Drake Rider
 	15 Radiant Guide
-	15 Radiant Guide
-	6 Covetous Fox
 	6 Covetous Fox
 	6 Rebuke the Foul
-	6 Rebuke the Foul
-	6 Maddened by Hunger
 	6 Maddened by Hunger
 	15 Fadove Bodyguard
-	15 Fadove Bodyguard
-	15 Combat Diviner
 	15 Combat Diviner
 	6 Frostborn Sentinel
-	6 Frostborn Sentinel
-	6 Respite Partisan
 	6 Respite Partisan
 	6 Due Dismissal
-	6 Due Dismissal
-	15 Denied by Nature
 	15 Denied by Nature
 	6 Repel the Invasion
-	6 Repel the Invasion
-	15 Storm Bearer
 	15 Storm Bearer
 	15 Resolute Watcher
-	15 Resolute Watcher
-	15 Avakin Sayer
 	15 Avakin Sayer
 	15 Avlod Diviner
-	15 Avlod Diviner
-	15 Aspiring Mount
 	15 Aspiring Mount
 	6 Cooing Foundling
-	6 Cooing Foundling
-	6 Avakin Avenger
 	6 Avakin Avenger
 	6 Gateway Guardian
-	6 Gateway Guardian
-	6 Avakin Riftwalker
 	6 Avakin Riftwalker
 	6 Rift Tender
-	6 Rift Tender
-	6 Waking Words
 	6 Waking Words
 	6 Avakin Cleaner
-	6 Avakin Cleaner
-	6 Avakin Assaulter
 	6 Avakin Assaulter
 	15 Scornful Pursuit
-	15 Scornful Pursuit
-	6 Left for the Crows
 	6 Left for the Crows
 	6 Weight of Betrayal
-	6 Weight of Betrayal
-	6 Iconic Resurgence
 	6 Iconic Resurgence
 	6 Avlod Necklace
-	6 Avlod Necklace
-	15 Avakin Mentor
 	15 Avakin Mentor
 	15 Shaman of Rites Lost
-	15 Shaman of Rites Lost
-	15 Avakin Hireblade
 	15 Avakin Hireblade
 	6 Frontline Assaulter
-	6 Frontline Assaulter
-	6 Minotaur Riftcaller
 	6 Minotaur Riftcaller
 	15 Fervent Incandescence
-	15 Fervent Incandescence
-	6 Mordel Patrol
 	6 Mordel Patrol
 	6 Tenuous Empowerment
-	6 Tenuous Empowerment
-	6 Mordel Drillmaster
 	6 Mordel Drillmaster
 	6 Verem-Volcano Rumbler
-	6 Verem-Volcano Rumbler
-	6 Stalking Entity
 	6 Stalking Entity
 	6 Iconic Resolution
-	6 Iconic Resolution
-	6 Conscripted by the Clanless
 	6 Conscripted by the Clanless
 	6 Clanless Destruction
-	6 Clanless Destruction
-	6 Unexpected Discovery
 	6 Unexpected Discovery
 	15 Brood Protector
-	15 Brood Protector
-	15 Minotaur Outlander
 	15 Minotaur Outlander
 	15 Mordel Excursionist
-	15 Mordel Excursionist
-	6 Lavaskimmer Wurm
 	6 Lavaskimmer Wurm
 	15 Burnout
-	15 Burnout
-	6 Farming Wurm
 	6 Farming Wurm
 	6 Awakened Harmony
-	6 Awakened Harmony
-	6 Mordel Formgiver
 	6 Mordel Formgiver
 	6 Outlands Diviner
-	6 Outlands Diviner
-	6 Bruin Clankeeper
 	6 Bruin Clankeeper
 	6 Multaphs Watch
-	6 Multaphs Watch
-	6 Progeny of Mordel
 	6 Progeny of Mordel
 	6 Iconic Altercation
-	6 Iconic Altercation
-	6 Boon of Roduth
 	6 Boon of Roduth
 	6 Ripped into Eternity
-	6 Ripped into Eternity
-	15 Rifttouched Ursine
 	15 Rifttouched Ursine
 	15 Triumphant Riftcaller
-	15 Triumphant Riftcaller
-	15 Forest Assailant
 	15 Forest Assailant
 	15 Progeny of Bruin
-	15 Progeny of Bruin
-	6 Rippling Crustacean
 	6 Rippling Crustacean
 	6 Starbright Entity
-	6 Starbright Entity
-	6 Aspiring Entity
 	6 Aspiring Entity
 	6 Wings of New Horizons
-	6 Wings of New Horizons
-	6 Rip to Tomorrow
 	6 Rip to Tomorrow
 	6 Powerstone Claw
-	6 Powerstone Claw
-	6 Wandering Entity
 	6 Wandering Entity
 	6 Pinnacle Skitter
-	6 Pinnacle Skitter
-	15 Tidepool Scuttler
 	15 Tidepool Scuttler
 	15 Explorers Compass
-	15 Explorers Compass
-	15 Pinnacle Wanderer
 	15 Pinnacle Wanderer
 	15 Frostnip Watcher
-	15 Frostnip Watcher
-	15 Shroud Walkers
 	15 Shroud Walkers
 	15 Verem-Volcano Stalker
-	15 Verem-Volcano Stalker
-	6 Power of Oath
 	6 Power of Oath
 	6 Iconic Absolution
-	6 Iconic Absolution
-	15 Wipe Away the Wicked
 	15 Wipe Away the Wicked
 	15 Stalwart Resolution
-	15 Stalwart Resolution
-	15 Fadove Willshaper
 	15 Fadove Willshaper
 	15 Returned from Beyond
-	15 Returned from Beyond
-	15 Rift Burn
 	15 Rift Burn
 	6 Windshaper Drake
-	6 Windshaper Drake
-	15 Study the Rifts
 	15 Study the Rifts
 	6 Blessing of Uth
-	6 Blessing of Uth
-	15 Multaphs Resplendant
 	15 Multaphs Resplendant
 	6 Bruin Outlander
-	6 Bruin Outlander
-	6 Dark Lessons
 	6 Dark Lessons
 	15 Chromaboon Blade
-	15 Chromaboon Blade
-	6 Towering Protector
 	6 Towering Protector
 	15 Sage of the Aeons
-	15 Sage of the Aeons
-	6 Avakin Opportunist
 	6 Avakin Opportunist
 	6 Sage of Truths
-	6 Sage of Truths
-	6 Stalwart Guard
 	6 Stalwart Guard
 	6 Outlands Wanderer
-	6 Outlands Wanderer
-	6 Frostborn Glimmer
 	6 Frostborn Glimmer
 	6 Kaln-Ocean Cloak
-	6 Kaln-Ocean Cloak
-	6 Suffused Memories
 	6 Suffused Memories
 	6 Search For Wisdom
-	6 Search For Wisdom
-	6 Avakin Watcher
 	6 Avakin Watcher
 	6 Transient Eternity
-	6 Transient Eternity
-	6 Abrupt Death
 	6 Abrupt Death
 	6 Fleeting Ruin
-	6 Fleeting Ruin
-	6 Impetuous Eradication
 	6 Impetuous Eradication
 	6 Ephemeral Ordinance
-	6 Ephemeral Ordinance
-	6 Vanishing Resolve
 	6 Vanishing Resolve
 	6 Cursory Casualty
-	6 Cursory Casualty
-	6 Transitory Refuge
 	6 Transitory Refuge
 	6 Evanescent Impasse
-	6 Evanescent Impasse
-	6 Sublime Liquidation
 	6 Sublime Liquidation
 	15 Mistblade Rogue
-	15 Mistblade Rogue
-	15 Manifesting Ardor
 	15 Manifesting Ardor
 	15 Prismatic Powerstone
-	15 Prismatic Powerstone
-	6 Razorshell Drake
 	6 Razorshell Drake
 	15 Verem-Volcano Warrior
-	15 Verem-Volcano Warrior
-	15 Outlands Protector
 	15 Outlands Protector
 	15 Smoldering Entity
-	15 Smoldering Entity
-	15 Skywatch Entity
 	15 Skywatch Entity
 	15 Giants Blade
-	15 Giants Blade
-	6 Voidborn Entity
 	6 Voidborn Entity
 	6 Chittering Entity
-	6 Chittering Entity
-	6 Riftborn Flames
 	6 Riftborn Flames
 	6 Shining Idol
-	6 Shining Idol
-	6 Triumphant Entrance
 	6 Triumphant Entrance
 	15 Midnight Raven
-	15 Midnight Raven
-	6 Outlands Riftbearer
 	6 Outlands Riftbearer
 	6 Mordel Clanwarden
-	6 Mordel Clanwarden
-	6 Warden of the Lost
 	6 Warden of the Lost
 	6 Warforged Herald
-	6 Warforged Herald
-	6 Iconic Incident
 	6 Iconic Incident
 	6 Mordel Warrior
-	6 Mordel Warrior
-	6 Keeper of Calm
 	6 Keeper of Calm
 	6 Avlod Bulwark
-	6 Avlod Bulwark
-	15 Faloden Thickets
 	15 Faloden Thickets
 	15 Faloden Tear-Warden
-	15 Faloden Tear-Warden
-	15 Tofnet Predator
 	15 Tofnet Predator
 	6 Remnant Awakener
-	6 Remnant Awakener
-	6 Waterspout
 	6 Waterspout
 	15 Malevolent Naginata
-	15 Malevolent Naginata
-	15 Skillful Blade
 	15 Skillful Blade
 	15 Tattered Entity
-	15 Tattered Entity
-	15 Crowned Entity
 	15 Crowned Entity
 	6 Flaming Iron
-	6 Flaming Iron
-	15 Usher of the Lost
 	15 Usher of the Lost
 	15 Breaking the Mold
-	15 Breaking the Mold
-	7 Ruins of Multa
 	7 Ruins of Multa
 	7 Multaph Riftborn God
-	7 Multaph Riftborn God
-	7 Will of Roduth
 	7 Will of Roduth
 	7 Will of Multaph
-	7 Will of Multaph
-	7 Will of Destruction
 	7 Will of Destruction
 	7 The Great Tear
-	7 The Great Tear
-	7 Multaph's Respite
 	7 Multaph's Respite
 	7 The Wandering Cook
-	7 The Wandering Cook
-	7 Najael Travelling Shaman
 	7 Najael Travelling Shaman
 	15 Called by the Void
-	15 Called by the Void
-	7 Ruins of Uth
 	7 Ruins of Uth
 	7 Will of Hunger
-	7 Will of Hunger
-	7 Roduth God of Conflict
 	7 Roduth God of Conflict
 	7 Thargle
-	7 Thargle
-	7 Rip to Yesterday
 	7 Rip to Yesterday
 	6 Bark of Tofnet Plains
-	6 Bark of Tofnet Plains
-	6 Kaln-Ocean Wispop
 	6 Kaln-Ocean Wispop
 	6 Pathborn Crackle
-	6 Pathborn Crackle
-	6 Guardian of Faloden Woods
 	6 Guardian of Faloden Woods
 	6 Outlands Frostalker
-	6 Outlands Frostalker
-	6 Fog Walker
 	6 Fog Walker
 	6 Dromencals Respite
-	6 Dromencals Respite
-	6 Outlands Respite
 	6 Outlands Respite
 	7 Melodia Voidtouched
-	7 Melodia Voidtouched
-	7 Calia Oracle of Tofnet Plains
 	7 Calia Oracle of Tofnet Plains
 	7 Ola Kaln-Ocean Spellkeeper
-	7 Ola Kaln-Ocean Spellkeeper
-	7 Kier Acolyte of Avlod Respite
 	7 Kier Acolyte of Avlod Respite
 	7 Vane Verem-Volcano Scorcher
-	7 Vane Verem-Volcano Scorcher
-	7 Somma, Blade of Faloden Woods
 	7 Somma, Blade of Faloden Woods
 	7 Khestri Fadove Clanleader
-	7 Khestri Fadove Clanleader
-	7 Shivta, Avlod Clanleader
 	7 Shivta, Avlod Clanleader
 	7 Urkial Outlands Clanleader
-	7 Urkial Outlands Clanleader
-	7 Bruin Mentor
 	7 Bruin Mentor
 	7 Raze the Clanless
-	7 Raze the Clanless
-	7 Prismatic Offense
 	7 Prismatic Offense
 	7 Korna, Vinimroth Historian
-	7 Korna, Vinimroth Historian
-	7 Zoslera Mordel Clanleader
 	7 Zoslera Mordel Clanleader
 	7 Prophellos Pathborn Hunger
-	7 Prophellos Pathborn Hunger
-	7 Dust for Dust
 	7 Dust for Dust
 	7 Pinnacle of Vinimroth
-	7 Pinnacle of Vinimroth
-	7 Attuned Shimmer
 	7 Attuned Shimmer
 	7 Bushy Shimmer
-	7 Bushy Shimmer
-	7 Wild Shimmer
 	7 Wild Shimmer
 	7 Curious Shimmer
-	7 Curious Shimmer
-	7 Pouncing Shimmer
 	7 Pouncing Shimmer
 	7 Runed Spire
-	7 Runed Spire
-	7 Fadove Pathwarden
 	7 Fadove Pathwarden
 	7 Path of Insight
-	7 Path of Insight
-	7 Path of Revival
 	7 Path of Revival
 	7 Keeper of Faloden Woods
-	7 Keeper of Faloden Woods
-	7 Mistveil Drake
 	7 Mistveil Drake
 	7 Mordel Combatant
-	7 Mordel Combatant
-	7 Bearer of Change
 	7 Bearer of Change
 	7 Mordel Razer
-	7 Mordel Razer
-	7 Pathborn Aggression
 	7 Pathborn Aggression
 	7 Eternities Weaver
-	7 Eternities Weaver
-	7 Guardian Roost
 	7 Guardian Roost
 	7 Path to Restoration
-	7 Path to Restoration
-	7 Path to Ages
 	7 Path to Ages
 	7 Breach of Protection
-	7 Breach of Protection
-	7 Breach of Sanity
 	7 Breach of Sanity
 	7 Breach of Malice
-	7 Breach of Malice
-	7 Breach of Nature
 	7 Breach of Nature
 	7 Breach of Mortality
-	7 Breach of Mortality
-	7 Breach of the Unknown
 	7 Breach of the Unknown
 	7 Path of the Grove
-	7 Path of the Grove
-	7 Pathborn Drake
 	7 Pathborn Drake
 	7 Outlands Pathwarden
-	7 Outlands Pathwarden
-	6 Fadove Reinforcement
 	6 Fadove Reinforcement
 	6 Avlod Pathshaper
-	6 Avlod Pathshaper
-	6 Outlands Traveller
 	6 Outlands Traveller
 	6 Mordel Reinforcement
-	6 Mordel Reinforcement
-	6 Outlands Guardian
 	6 Outlands Guardian
 	6 Paths Strider
-	6 Paths Strider
-	15 Path of the Proud
 	15 Path of the Proud
 	15 Path of the Roost
-	15 Path of the Roost
-	15 Path of the Rift
 	15 Path of the Rift
 	15 Path of the Brood
-	15 Path of the Brood
-	15 Path of the Mighty
 	15 Path of the Mighty
 	6 Pathbound Bloom
-	6 Pathbound Bloom
-	4 Crackling Plains
 	4 Crackling Plains
 	4 Restored Plains
-	4 Restored Plains
-	4 Splintered Island
 	4 Splintered Island
 	4 Furrowed Mountain
-	4 Furrowed Mountain
-	4 Restored Island
 	4 Restored Island
 	4 Restored Swamp
-	4 Restored Swamp
-	4 Restored Mountain
 	4 Restored Mountain
 	4 Restored Forest
-	4 Restored Forest
-	4 Rip to Today
 	4 Rip to Today
 	4 Divided Forest
-	4 Divided Forest
-	4 Sundered Swamp
 	4 Sundered Swamp
 	15 Unstable Rift
-	15 Unstable Rift
-	4 Spire of Hunger
 	4 Spire of Hunger
 	4 Shimmering Path
-	4 Shimmering Path
-	4 Flashing Path
 	4 Flashing Path
 	6 Tethers of Insanity
-	6 Tethers of Insanity
-	6 Eternity Siphon
 	6 Eternity Siphon
 	15 Tofnet Thrummer
-	15 Tofnet Thrummer
-	7 Faloden Scavenger
 	7 Faloden Scavenger
 	6 Grazed by the Endless
-	6 Grazed by the Endless
-	15 Choked Essence
 	15 Choked Essence
 	4 Enduring Sapling
-	4 Enduring Sapling
-	6 Avakin Hazeweaver
 	6 Avakin Hazeweaver
 	7 Verem-Volcano Keeper
-	7 Verem-Volcano Keeper
-	4 Restored Fault
 	4 Restored Fault
 	6 Ash to Hope
-	6 Ash to Hope
-	15 Scouts Bow
 	15 Scouts Bow
 	15 Paragon of Unknown Sights
-	15 Paragon of Unknown Sights
-	7 Dustfall
 	7 Dustfall
 	15 Common Enemy
-	15 Common Enemy
-	15 Power Null
 	15 Power Null
 	7 Weavehorn Chimera
-	7 Weavehorn Chimera
-	6 Ethereal Exposure
 	6 Ethereal Exposure
 	6 Impunity of Souls
-	6 Impunity of Souls
-	6 Scars of Oil
 	6 Scars of Oil
 	6 Splendid Genesis
-	6 Splendid Genesis
-	6 Volatile Visions
 	6 Volatile Visions
