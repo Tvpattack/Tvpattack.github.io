@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/TVPC-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/TVPC-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>TVPC visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -39,19 +42,21 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -126,12 +133,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -173,331 +181,347 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/TVPC-files/logo.png" />
-	<img class="preload-hidden" src="/sets/FOE-files/icon.png" />
-		<img class="preload-hidden" src="/sets/LOB-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MTR-files/icon.png" />
-		<img class="preload-hidden" src="/sets/TVPC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VNM-files/icon.png" />
-		<img class="preload-hidden" id="bg" src="/sets/TVPC-files/bg.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/TVPC-files/logo.png" />
+	<img class="preload-hidden" src="../sets/FOE-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LOB-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MTR-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TVPC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VNM-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="../sets/TVPC-files/bg.png" />
 
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="TVPC"><img src="/sets/TVPC-files/icon.png">TVP Core 2025</a>
+		<a class="set-bar" href="../previews/TVPC"><img src="../sets/TVPC-files/icon.png">TVP Core 2025</a>
 	
-		<a class="set-bar inactive" href="FOE"><img src="/sets/FOE-files/icon.png">Frontiers of Eternity</a>
+		<a class="set-bar inactive" href="../previews/FOE"><img src="../sets/FOE-files/icon.png">Frontiers of Eternity</a>
 	
-		<a class="set-bar inactive" href="LOB"><img src="/sets/LOB-files/icon.png">Legend of Blue Eyes</a>
+		<a class="set-bar inactive" href="../previews/LOB"><img src="../sets/LOB-files/icon.png">Legend of Blue Eyes</a>
 	
-		<a class="set-bar inactive" href="MTR"><img src="/sets/MTR-files/icon.png">Metal Raiders</a>
+		<a class="set-bar inactive" href="../previews/MTR"><img src="../sets/MTR-files/icon.png">Metal Raiders</a>
 	
-		<a class="set-bar inactive" href="VNM"><img src="/sets/VNM-files/icon.png">Vinimroth Eternities</a>
+		<a class="set-bar inactive" href="../previews/VNM"><img src="../sets/VNM-files/icon.png">Vinimroth Eternities</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/TVPC-files/logo.png">
+		<img class="logo" src="../sets/TVPC-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\TVPC-files\img\29_MW01.png" id="29_MW01" data-flag="@X" onclick="openSidebar('29_MW01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\61_MU01.png" id="61_MU01" data-flag="@X" onclick="openSidebar('61_MU01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\93_MB01.png" id="93_MB01" data-flag="@X" onclick="openSidebar('93_MB01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\125_MR01.png" id="125_MR01" data-flag="@X" onclick="openSidebar('125_MR01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\157_MG01.png" id="157_MG01" data-flag="@X" onclick="openSidebar('157_MG01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\189_RI01 Memory Restored.png" id="189_RI01 Memory Restored" data-flag="@X" onclick="openSidebar('189_RI01 Memory Restored',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\30_MW02.png" id="30_MW02" data-flag="@X" onclick="openSidebar('30_MW02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\62_MU02.png" id="62_MU02" data-flag="@X" onclick="openSidebar('62_MU02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\94_MB02.png" id="94_MB02" data-flag="@X" onclick="openSidebar('94_MB02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\126_MR02.png" id="126_MR02" data-flag="@X" onclick="openSidebar('126_MR02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\158_MG02.png" id="158_MG02" data-flag="@X" onclick="openSidebar('158_MG02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\190_RI02.png" id="190_RI02" data-flag="@X" onclick="openSidebar('190_RI02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\31_RW01.png" id="31_RW01" data-flag="@X" onclick="openSidebar('31_RW01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\63_RU01.png" id="63_RU01" data-flag="@X" onclick="openSidebar('63_RU01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\95_RB01.png" id="95_RB01" data-flag="@X" onclick="openSidebar('95_RB01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\127_RR01.png" id="127_RR01" data-flag="@X" onclick="openSidebar('127_RR01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\159_RG01.png" id="159_RG01" data-flag="@X" onclick="openSidebar('159_RG01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\191_RI03.png" id="191_RI03" data-flag="@X" onclick="openSidebar('191_RI03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\32_RW02.png" id="32_RW02" data-flag="@X" onclick="openSidebar('32_RW02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\64_RU02.png" id="64_RU02" data-flag="@X" onclick="openSidebar('64_RU02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\96_RB02.png" id="96_RB02" data-flag="@X" onclick="openSidebar('96_RB02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\128_RR02.png" id="128_RR02" data-flag="@X" onclick="openSidebar('128_RR02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\160_RG02.png" id="160_RG02" data-flag="@X" onclick="openSidebar('160_RG02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\192_RI04.png" id="192_RI04" data-flag="@X" onclick="openSidebar('192_RI04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\33_RW03.png" id="33_RW03" data-flag="@X" onclick="openSidebar('33_RW03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\65_RU03.png" id="65_RU03" data-flag="@X" onclick="openSidebar('65_RU03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\97_RB03.png" id="97_RB03" data-flag="@X" onclick="openSidebar('97_RB03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\129_RR03.png" id="129_RR03" data-flag="@X" onclick="openSidebar('129_RR03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\161_RG03.png" id="161_RG03" data-flag="@X" onclick="openSidebar('161_RG03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\193_RI05.png" id="193_RI05" data-flag="@X" onclick="openSidebar('193_RI05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\34_RW04.png" id="34_RW04" data-flag="@X" onclick="openSidebar('34_RW04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\66_RU04.png" id="66_RU04" data-flag="@X" onclick="openSidebar('66_RU04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\98_RB04.png" id="98_RB04" data-flag="@X" onclick="openSidebar('98_RB04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\130_RR04.png" id="130_RR04" data-flag="@X" onclick="openSidebar('130_RR04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\162_RG04.png" id="162_RG04" data-flag="@X" onclick="openSidebar('162_RG04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\194_RI06.png" id="194_RI06" data-flag="@X" onclick="openSidebar('194_RI06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\35_RW05.png" id="35_RW05" data-flag="@X" onclick="openSidebar('35_RW05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\67_RU05.png" id="67_RU05" data-flag="@X" onclick="openSidebar('67_RU05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\99_RB05.png" id="99_RB05" data-flag="@X" onclick="openSidebar('99_RB05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\131_RR05.png" id="131_RR05" data-flag="@X" onclick="openSidebar('131_RR05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\163_RG05.png" id="163_RG05" data-flag="@X" onclick="openSidebar('163_RG05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\195_RI07.png" id="195_RI07" data-flag="@X" onclick="openSidebar('195_RI07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\36_RW06.png" id="36_RW06" data-flag="@X" onclick="openSidebar('36_RW06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\68_RU06.png" id="68_RU06" data-flag="@X" onclick="openSidebar('68_RU06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\100_RB06.png" id="100_RB06" data-flag="@X" onclick="openSidebar('100_RB06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\132_RR06.png" id="132_RR06" data-flag="@X" onclick="openSidebar('132_RR06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\164_RG06.png" id="164_RG06" data-flag="@X" onclick="openSidebar('164_RG06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\196_UI01 Night Market Runner.png" id="196_UI01 Night Market Runner" data-flag="@X" onclick="openSidebar('196_UI01 Night Market Runner',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\37_RW07.png" id="37_RW07" data-flag="@X" onclick="openSidebar('37_RW07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\69_RU07.png" id="69_RU07" data-flag="@X" onclick="openSidebar('69_RU07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\101_RB07.png" id="101_RB07" data-flag="@X" onclick="openSidebar('101_RB07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\133_RR07.png" id="133_RR07" data-flag="@X" onclick="openSidebar('133_RR07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\165_RG07.png" id="165_RG07" data-flag="@X" onclick="openSidebar('165_RG07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\197_UI02.png" id="197_UI02" data-flag="@X" onclick="openSidebar('197_UI02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\38_UW01.png" id="38_UW01" data-flag="@X" onclick="openSidebar('38_UW01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\70_UU01.png" id="70_UU01" data-flag="@X" onclick="openSidebar('70_UU01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\102_UB01.png" id="102_UB01" data-flag="@X" onclick="openSidebar('102_UB01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\134_UR01.png" id="134_UR01" data-flag="@X" onclick="openSidebar('134_UR01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\166_UG01.png" id="166_UG01" data-flag="@X" onclick="openSidebar('166_UG01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\198_UI03.png" id="198_UI03" data-flag="@X" onclick="openSidebar('198_UI03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\39_UW02.png" id="39_UW02" data-flag="@X" onclick="openSidebar('39_UW02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\71_UU02.png" id="71_UU02" data-flag="@X" onclick="openSidebar('71_UU02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\103_UB02.png" id="103_UB02" data-flag="@X" onclick="openSidebar('103_UB02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\135_UR02.png" id="135_UR02" data-flag="@X" onclick="openSidebar('135_UR02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\167_UG02.png" id="167_UG02" data-flag="@X" onclick="openSidebar('167_UG02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\199_UI04.png" id="199_UI04" data-flag="@X" onclick="openSidebar('199_UI04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\40_UW03.png" id="40_UW03" data-flag="@X" onclick="openSidebar('40_UW03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\72_UU03.png" id="72_UU03" data-flag="@X" onclick="openSidebar('72_UU03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\104_UB03.png" id="104_UB03" data-flag="@X" onclick="openSidebar('104_UB03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\136_UR03.png" id="136_UR03" data-flag="@X" onclick="openSidebar('136_UR03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\168_UG03.png" id="168_UG03" data-flag="@X" onclick="openSidebar('168_UG03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\200_UI05.png" id="200_UI05" data-flag="@X" onclick="openSidebar('200_UI05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\41_UW04.png" id="41_UW04" data-flag="@X" onclick="openSidebar('41_UW04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\73_UU04.png" id="73_UU04" data-flag="@X" onclick="openSidebar('73_UU04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\105_UB04.png" id="105_UB04" data-flag="@X" onclick="openSidebar('105_UB04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\137_UR04.png" id="137_UR04" data-flag="@X" onclick="openSidebar('137_UR04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\169_UG04.png" id="169_UG04" data-flag="@X" onclick="openSidebar('169_UG04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\201_UI06.png" id="201_UI06" data-flag="@X" onclick="openSidebar('201_UI06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\42_UW05.png" id="42_UW05" data-flag="@X" onclick="openSidebar('42_UW05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\74_UU05.png" id="74_UU05" data-flag="@X" onclick="openSidebar('74_UU05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\106_UB05.png" id="106_UB05" data-flag="@X" onclick="openSidebar('106_UB05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\138_UR05.png" id="138_UR05" data-flag="@X" onclick="openSidebar('138_UR05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\170_UG05.png" id="170_UG05" data-flag="@X" onclick="openSidebar('170_UG05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\202_UI07.png" id="202_UI07" data-flag="@X" onclick="openSidebar('202_UI07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\43_UW06 Astral Slide.png" id="43_UW06 Astral Slide" data-flag="@X" onclick="openSidebar('43_UW06 Astral Slide',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\75_UU06.png" id="75_UU06" data-flag="@X" onclick="openSidebar('75_UU06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\107_UB06.png" id="107_UB06" data-flag="@X" onclick="openSidebar('107_UB06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\139_UR06.png" id="139_UR06" data-flag="@X" onclick="openSidebar('139_UR06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\171_UG06.png" id="171_UG06" data-flag="@X" onclick="openSidebar('171_UG06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\203_UI08.png" id="203_UI08" data-flag="@X" onclick="openSidebar('203_UI08',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\44_UW07.png" id="44_UW07" data-flag="@X" onclick="openSidebar('44_UW07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\76_UU07.png" id="76_UU07" data-flag="@X" onclick="openSidebar('76_UU07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\108_UB07.png" id="108_UB07" data-flag="@X" onclick="openSidebar('108_UB07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\140_UR07.png" id="140_UR07" data-flag="@X" onclick="openSidebar('140_UR07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\172_UG07.png" id="172_UG07" data-flag="@X" onclick="openSidebar('172_UG07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\204_UI09.png" id="204_UI09" data-flag="@X" onclick="openSidebar('204_UI09',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\45_UW08.png" id="45_UW08" data-flag="@X" onclick="openSidebar('45_UW08',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\77_UU08.png" id="77_UU08" data-flag="@X" onclick="openSidebar('77_UU08',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\109_UB08.png" id="109_UB08" data-flag="@X" onclick="openSidebar('109_UB08',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\141_UR08.png" id="141_UR08" data-flag="@X" onclick="openSidebar('141_UR08',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\173_UG08.png" id="173_UG08" data-flag="@X" onclick="openSidebar('173_UG08',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\205_UI10.png" id="205_UI10" data-flag="@X" onclick="openSidebar('205_UI10',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\46_UW09.png" id="46_UW09" data-flag="@X" onclick="openSidebar('46_UW09',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\78_UU09.png" id="78_UU09" data-flag="@X" onclick="openSidebar('78_UU09',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\110_UB09.png" id="110_UB09" data-flag="@X" onclick="openSidebar('110_UB09',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\142_UR09.png" id="142_UR09" data-flag="@X" onclick="openSidebar('142_UR09',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\174_UG09.png" id="174_UG09" data-flag="@X" onclick="openSidebar('174_UG09',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\176_CI01 Information Recovery Crew.png" id="176_CI01 Information Recovery Crew" data-flag="@X" onclick="openSidebar('176_CI01 Information Recovery Crew',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\47_UW10.png" id="47_UW10" data-flag="@X" onclick="openSidebar('47_UW10',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\79_UU10.png" id="79_UU10" data-flag="@X" onclick="openSidebar('79_UU10',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\111_UB10.png" id="111_UB10" data-flag="@X" onclick="openSidebar('111_UB10',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\143_UR10.png" id="143_UR10" data-flag="@X" onclick="openSidebar('143_UR10',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\175_UG10.png" id="175_UG10" data-flag="@X" onclick="openSidebar('175_UG10',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\177_CI02 Exuberant Archaeologist.png" id="177_CI02 Exuberant Archaeologist" data-flag="@X" onclick="openSidebar('177_CI02 Exuberant Archaeologist',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\16_CW01.png" id="16_CW01" data-flag="@X" onclick="openSidebar('16_CW01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\48_CU01.png" id="48_CU01" data-flag="@X" onclick="openSidebar('48_CU01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\80_CB01.png" id="80_CB01" data-flag="@X" onclick="openSidebar('80_CB01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\112_CR01.png" id="112_CR01" data-flag="@X" onclick="openSidebar('112_CR01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\144_CG01.png" id="144_CG01" data-flag="@X" onclick="openSidebar('144_CG01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\178_CI03 Tepid Tamer.png" id="178_CI03 Tepid Tamer" data-flag="@X" onclick="openSidebar('178_CI03 Tepid Tamer',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\17_CW02.png" id="17_CW02" data-flag="@X" onclick="openSidebar('17_CW02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\49_CU02.png" id="49_CU02" data-flag="@X" onclick="openSidebar('49_CU02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\81_CB02.png" id="81_CB02" data-flag="@X" onclick="openSidebar('81_CB02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\113_CR02.png" id="113_CR02" data-flag="@X" onclick="openSidebar('113_CR02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\145_CG02.png" id="145_CG02" data-flag="@X" onclick="openSidebar('145_CG02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\179_CI04 Striking Reflection.png" id="179_CI04 Striking Reflection" data-flag="@X" onclick="openSidebar('179_CI04 Striking Reflection',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\18_CW03.png" id="18_CW03" data-flag="@X" onclick="openSidebar('18_CW03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\50_CU03.png" id="50_CU03" data-flag="@X" onclick="openSidebar('50_CU03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\82_CB03.png" id="82_CB03" data-flag="@X" onclick="openSidebar('82_CB03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\114_CR03.png" id="114_CR03" data-flag="@X" onclick="openSidebar('114_CR03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\146_CG03.png" id="146_CG03" data-flag="@X" onclick="openSidebar('146_CG03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\180_CI05.png" id="180_CI05" data-flag="@X" onclick="openSidebar('180_CI05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\19_CW04.png" id="19_CW04" data-flag="@X" onclick="openSidebar('19_CW04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\51_CU04.png" id="51_CU04" data-flag="@X" onclick="openSidebar('51_CU04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\83_CB04.png" id="83_CB04" data-flag="@X" onclick="openSidebar('83_CB04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\115_CR04.png" id="115_CR04" data-flag="@X" onclick="openSidebar('115_CR04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\147_CG04.png" id="147_CG04" data-flag="@X" onclick="openSidebar('147_CG04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\181_CI06 Unbothered Alchemist.png" id="181_CI06 Unbothered Alchemist" data-flag="@X" onclick="openSidebar('181_CI06 Unbothered Alchemist',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\20_CW05.png" id="20_CW05" data-flag="@X" onclick="openSidebar('20_CW05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\52_CU05.png" id="52_CU05" data-flag="@X" onclick="openSidebar('52_CU05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\84_CB05.png" id="84_CB05" data-flag="@X" onclick="openSidebar('84_CB05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\116_CR05.png" id="116_CR05" data-flag="@X" onclick="openSidebar('116_CR05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\148_CG05.png" id="148_CG05" data-flag="@X" onclick="openSidebar('148_CG05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\182_CI07 removal.png" id="182_CI07 removal" data-flag="@X" onclick="openSidebar('182_CI07 removal',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\21_CW06.png" id="21_CW06" data-flag="@X" onclick="openSidebar('21_CW06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\53_CU06.png" id="53_CU06" data-flag="@X" onclick="openSidebar('53_CU06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\85_CB06.png" id="85_CB06" data-flag="@X" onclick="openSidebar('85_CB06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\117_CR06.png" id="117_CR06" data-flag="@X" onclick="openSidebar('117_CR06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\149_CG06.png" id="149_CG06" data-flag="@X" onclick="openSidebar('149_CG06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\183_CI08 Scouting Party.png" id="183_CI08 Scouting Party" data-flag="@X" onclick="openSidebar('183_CI08 Scouting Party',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\22_CW07.png" id="22_CW07" data-flag="@X" onclick="openSidebar('22_CW07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\54_CU07.png" id="54_CU07" data-flag="@X" onclick="openSidebar('54_CU07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\86_CB07.png" id="86_CB07" data-flag="@X" onclick="openSidebar('86_CB07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\118_CR07.png" id="118_CR07" data-flag="@X" onclick="openSidebar('118_CR07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\150_CG07.png" id="150_CG07" data-flag="@X" onclick="openSidebar('150_CG07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\184_CI09 Back to Market.png" id="184_CI09 Back to Market" data-flag="@X" onclick="openSidebar('184_CI09 Back to Market',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\23_CW08.png" id="23_CW08" data-flag="@X" onclick="openSidebar('23_CW08',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\55_CU08.png" id="55_CU08" data-flag="@X" onclick="openSidebar('55_CU08',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\87_CB08.png" id="87_CB08" data-flag="@X" onclick="openSidebar('87_CB08',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\119_CR08.png" id="119_CR08" data-flag="@X" onclick="openSidebar('119_CR08',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\151_CG08.png" id="151_CG08" data-flag="@X" onclick="openSidebar('151_CG08',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\185_CI10 Center Mass.png" id="185_CI10 Center Mass" data-flag="@X" onclick="openSidebar('185_CI10 Center Mass',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\24_CW09.png" id="24_CW09" data-flag="@X" onclick="openSidebar('24_CW09',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\56_CU09.png" id="56_CU09" data-flag="@X" onclick="openSidebar('56_CU09',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\88_CB09.png" id="88_CB09" data-flag="@X" onclick="openSidebar('88_CB09',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\120_CR09 Crasher Mech.png" id="120_CR09 Crasher Mech" data-flag="@X" onclick="openSidebar('120_CR09 Crasher Mech',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\152_CG09.png" id="152_CG09" data-flag="@X" onclick="openSidebar('152_CG09',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\186_CI11 Murky Politics.png" id="186_CI11 Murky Politics" data-flag="@X" onclick="openSidebar('186_CI11 Murky Politics',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\25_CW10.png" id="25_CW10" data-flag="@X" onclick="openSidebar('25_CW10',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\57_CU10.png" id="57_CU10" data-flag="@X" onclick="openSidebar('57_CU10',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\89_CB10.png" id="89_CB10" data-flag="@X" onclick="openSidebar('89_CB10',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\121_CR10.png" id="121_CR10" data-flag="@X" onclick="openSidebar('121_CR10',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\153_CG10.png" id="153_CG10" data-flag="@X" onclick="openSidebar('153_CG10',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\187_CI12 Removal.png" id="187_CI12 Removal" data-flag="@X" onclick="openSidebar('187_CI12 Removal',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\26_CW11.png" id="26_CW11" data-flag="@X" onclick="openSidebar('26_CW11',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\58_CU11.png" id="58_CU11" data-flag="@X" onclick="openSidebar('58_CU11',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\90_CB11.png" id="90_CB11" data-flag="@X" onclick="openSidebar('90_CB11',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\122_CR11.png" id="122_CR11" data-flag="@X" onclick="openSidebar('122_CR11',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\154_CG11.png" id="154_CG11" data-flag="@X" onclick="openSidebar('154_CG11',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\188_CI13 more removal.png" id="188_CI13 more removal" data-flag="@X" onclick="openSidebar('188_CI13 more removal',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\27_CW12.png" id="27_CW12" data-flag="@X" onclick="openSidebar('27_CW12',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\59_CU12.png" id="59_CU12" data-flag="@X" onclick="openSidebar('59_CU12',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\91_CB12.png" id="91_CB12" data-flag="@X" onclick="openSidebar('91_CB12',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\123_CR12.png" id="123_CR12" data-flag="@X" onclick="openSidebar('123_CR12',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\155_CG12.png" id="155_CG12" data-flag="@X" onclick="openSidebar('155_CG12',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\290_Murky Politics.png" id="290_Murky Politics" data-flag="@X" onclick="openSidebar('290_Murky Politics',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\28_CW13.png" id="28_CW13" data-flag="@X" onclick="openSidebar('28_CW13',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\60_CU13.png" id="60_CU13" data-flag="@X" onclick="openSidebar('60_CU13',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\92_CB13.png" id="92_CB13" data-flag="@X" onclick="openSidebar('92_CB13',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\124_CR13.png" id="124_CR13" data-flag="@X" onclick="openSidebar('124_CR13',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\156_CG13.png" id="156_CG13" data-flag="@X" onclick="openSidebar('156_CG13',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\29_MW01.png" id="TVPC_29_MW01" data-flag="@X" onclick="openSidebar('TVPC_29_MW01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\61_MU01.png" id="TVPC_61_MU01" data-flag="@X" onclick="openSidebar('TVPC_61_MU01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\93_MB01.png" id="TVPC_93_MB01" data-flag="@X" onclick="openSidebar('TVPC_93_MB01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\125_MR01.png" id="TVPC_125_MR01" data-flag="@X" onclick="openSidebar('TVPC_125_MR01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\157_MG01.png" id="TVPC_157_MG01" data-flag="@X" onclick="openSidebar('TVPC_157_MG01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\189_RI01 Memory Restored.png" id="TVPC_189_RI01 Memory Restored" data-flag="@X" onclick="openSidebar('TVPC_189_RI01 Memory Restored',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\30_MW02.png" id="TVPC_30_MW02" data-flag="@X" onclick="openSidebar('TVPC_30_MW02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\62_MU02.png" id="TVPC_62_MU02" data-flag="@X" onclick="openSidebar('TVPC_62_MU02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\94_MB02.png" id="TVPC_94_MB02" data-flag="@X" onclick="openSidebar('TVPC_94_MB02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\126_MR02.png" id="TVPC_126_MR02" data-flag="@X" onclick="openSidebar('TVPC_126_MR02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\158_MG02.png" id="TVPC_158_MG02" data-flag="@X" onclick="openSidebar('TVPC_158_MG02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\190_RI02.png" id="TVPC_190_RI02" data-flag="@X" onclick="openSidebar('TVPC_190_RI02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\31_RW01.png" id="TVPC_31_RW01" data-flag="@X" onclick="openSidebar('TVPC_31_RW01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\63_RU01.png" id="TVPC_63_RU01" data-flag="@X" onclick="openSidebar('TVPC_63_RU01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\95_RB01.png" id="TVPC_95_RB01" data-flag="@X" onclick="openSidebar('TVPC_95_RB01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\127_RR01.png" id="TVPC_127_RR01" data-flag="@X" onclick="openSidebar('TVPC_127_RR01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\159_RG01.png" id="TVPC_159_RG01" data-flag="@X" onclick="openSidebar('TVPC_159_RG01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\191_RI03.png" id="TVPC_191_RI03" data-flag="@X" onclick="openSidebar('TVPC_191_RI03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\32_RW02.png" id="TVPC_32_RW02" data-flag="@X" onclick="openSidebar('TVPC_32_RW02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\64_RU02.png" id="TVPC_64_RU02" data-flag="@X" onclick="openSidebar('TVPC_64_RU02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\96_RB02.png" id="TVPC_96_RB02" data-flag="@X" onclick="openSidebar('TVPC_96_RB02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\128_RR02.png" id="TVPC_128_RR02" data-flag="@X" onclick="openSidebar('TVPC_128_RR02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\160_RG02.png" id="TVPC_160_RG02" data-flag="@X" onclick="openSidebar('TVPC_160_RG02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\192_RI04.png" id="TVPC_192_RI04" data-flag="@X" onclick="openSidebar('TVPC_192_RI04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\33_RW03.png" id="TVPC_33_RW03" data-flag="@X" onclick="openSidebar('TVPC_33_RW03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\65_RU03.png" id="TVPC_65_RU03" data-flag="@X" onclick="openSidebar('TVPC_65_RU03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\97_RB03.png" id="TVPC_97_RB03" data-flag="@X" onclick="openSidebar('TVPC_97_RB03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\129_RR03.png" id="TVPC_129_RR03" data-flag="@X" onclick="openSidebar('TVPC_129_RR03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\161_RG03.png" id="TVPC_161_RG03" data-flag="@X" onclick="openSidebar('TVPC_161_RG03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\193_RI05.png" id="TVPC_193_RI05" data-flag="@X" onclick="openSidebar('TVPC_193_RI05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\34_RW04.png" id="TVPC_34_RW04" data-flag="@X" onclick="openSidebar('TVPC_34_RW04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\66_RU04.png" id="TVPC_66_RU04" data-flag="@X" onclick="openSidebar('TVPC_66_RU04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\98_RB04.png" id="TVPC_98_RB04" data-flag="@X" onclick="openSidebar('TVPC_98_RB04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\130_RR04.png" id="TVPC_130_RR04" data-flag="@X" onclick="openSidebar('TVPC_130_RR04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\162_RG04.png" id="TVPC_162_RG04" data-flag="@X" onclick="openSidebar('TVPC_162_RG04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\194_RI06.png" id="TVPC_194_RI06" data-flag="@X" onclick="openSidebar('TVPC_194_RI06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\35_RW05.png" id="TVPC_35_RW05" data-flag="@X" onclick="openSidebar('TVPC_35_RW05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\67_RU05.png" id="TVPC_67_RU05" data-flag="@X" onclick="openSidebar('TVPC_67_RU05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\99_RB05.png" id="TVPC_99_RB05" data-flag="@X" onclick="openSidebar('TVPC_99_RB05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\131_RR05.png" id="TVPC_131_RR05" data-flag="@X" onclick="openSidebar('TVPC_131_RR05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\163_RG05.png" id="TVPC_163_RG05" data-flag="@X" onclick="openSidebar('TVPC_163_RG05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\195_RI07.png" id="TVPC_195_RI07" data-flag="@X" onclick="openSidebar('TVPC_195_RI07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\36_RW06.png" id="TVPC_36_RW06" data-flag="@X" onclick="openSidebar('TVPC_36_RW06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\68_RU06.png" id="TVPC_68_RU06" data-flag="@X" onclick="openSidebar('TVPC_68_RU06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\100_RB06.png" id="TVPC_100_RB06" data-flag="@X" onclick="openSidebar('TVPC_100_RB06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\132_RR06.png" id="TVPC_132_RR06" data-flag="@X" onclick="openSidebar('TVPC_132_RR06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\164_RG06.png" id="TVPC_164_RG06" data-flag="@X" onclick="openSidebar('TVPC_164_RG06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\196_UI01 Night Market Runner.png" id="TVPC_196_UI01 Night Market Runner" data-flag="@X" onclick="openSidebar('TVPC_196_UI01 Night Market Runner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\37_RW07.png" id="TVPC_37_RW07" data-flag="@X" onclick="openSidebar('TVPC_37_RW07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\69_RU07.png" id="TVPC_69_RU07" data-flag="@X" onclick="openSidebar('TVPC_69_RU07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\101_RB07.png" id="TVPC_101_RB07" data-flag="@X" onclick="openSidebar('TVPC_101_RB07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\133_RR07.png" id="TVPC_133_RR07" data-flag="@X" onclick="openSidebar('TVPC_133_RR07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\165_RG07.png" id="TVPC_165_RG07" data-flag="@X" onclick="openSidebar('TVPC_165_RG07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\197_UI02.png" id="TVPC_197_UI02" data-flag="@X" onclick="openSidebar('TVPC_197_UI02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\38_UW01.png" id="TVPC_38_UW01" data-flag="@X" onclick="openSidebar('TVPC_38_UW01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\70_UU01.png" id="TVPC_70_UU01" data-flag="@X" onclick="openSidebar('TVPC_70_UU01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\102_UB01.png" id="TVPC_102_UB01" data-flag="@X" onclick="openSidebar('TVPC_102_UB01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\134_UR01.png" id="TVPC_134_UR01" data-flag="@X" onclick="openSidebar('TVPC_134_UR01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\166_UG01.png" id="TVPC_166_UG01" data-flag="@X" onclick="openSidebar('TVPC_166_UG01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\198_UI03.png" id="TVPC_198_UI03" data-flag="@X" onclick="openSidebar('TVPC_198_UI03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\39_UW02.png" id="TVPC_39_UW02" data-flag="@X" onclick="openSidebar('TVPC_39_UW02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\71_UU02.png" id="TVPC_71_UU02" data-flag="@X" onclick="openSidebar('TVPC_71_UU02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\103_UB02.png" id="TVPC_103_UB02" data-flag="@X" onclick="openSidebar('TVPC_103_UB02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\135_UR02.png" id="TVPC_135_UR02" data-flag="@X" onclick="openSidebar('TVPC_135_UR02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\167_UG02.png" id="TVPC_167_UG02" data-flag="@X" onclick="openSidebar('TVPC_167_UG02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\199_UI04.png" id="TVPC_199_UI04" data-flag="@X" onclick="openSidebar('TVPC_199_UI04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\40_UW03.png" id="TVPC_40_UW03" data-flag="@X" onclick="openSidebar('TVPC_40_UW03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\72_UU03.png" id="TVPC_72_UU03" data-flag="@X" onclick="openSidebar('TVPC_72_UU03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\104_UB03.png" id="TVPC_104_UB03" data-flag="@X" onclick="openSidebar('TVPC_104_UB03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\136_UR03.png" id="TVPC_136_UR03" data-flag="@X" onclick="openSidebar('TVPC_136_UR03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\168_UG03.png" id="TVPC_168_UG03" data-flag="@X" onclick="openSidebar('TVPC_168_UG03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\200_UI05.png" id="TVPC_200_UI05" data-flag="@X" onclick="openSidebar('TVPC_200_UI05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\41_UW04.png" id="TVPC_41_UW04" data-flag="@X" onclick="openSidebar('TVPC_41_UW04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\73_UU04.png" id="TVPC_73_UU04" data-flag="@X" onclick="openSidebar('TVPC_73_UU04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\105_UB04.png" id="TVPC_105_UB04" data-flag="@X" onclick="openSidebar('TVPC_105_UB04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\137_UR04.png" id="TVPC_137_UR04" data-flag="@X" onclick="openSidebar('TVPC_137_UR04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\169_UG04.png" id="TVPC_169_UG04" data-flag="@X" onclick="openSidebar('TVPC_169_UG04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\201_UI06.png" id="TVPC_201_UI06" data-flag="@X" onclick="openSidebar('TVPC_201_UI06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\42_UW05.png" id="TVPC_42_UW05" data-flag="@X" onclick="openSidebar('TVPC_42_UW05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\74_UU05.png" id="TVPC_74_UU05" data-flag="@X" onclick="openSidebar('TVPC_74_UU05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\106_UB05.png" id="TVPC_106_UB05" data-flag="@X" onclick="openSidebar('TVPC_106_UB05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\138_UR05.png" id="TVPC_138_UR05" data-flag="@X" onclick="openSidebar('TVPC_138_UR05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\170_UG05.png" id="TVPC_170_UG05" data-flag="@X" onclick="openSidebar('TVPC_170_UG05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\202_UI07.png" id="TVPC_202_UI07" data-flag="@X" onclick="openSidebar('TVPC_202_UI07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\43_UW06 Astral Slide.png" id="TVPC_43_UW06 Astral Slide" data-flag="@X" onclick="openSidebar('TVPC_43_UW06 Astral Slide',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\75_UU06.png" id="TVPC_75_UU06" data-flag="@X" onclick="openSidebar('TVPC_75_UU06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\107_UB06.png" id="TVPC_107_UB06" data-flag="@X" onclick="openSidebar('TVPC_107_UB06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\139_UR06.png" id="TVPC_139_UR06" data-flag="@X" onclick="openSidebar('TVPC_139_UR06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\171_UG06.png" id="TVPC_171_UG06" data-flag="@X" onclick="openSidebar('TVPC_171_UG06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\203_UI08.png" id="TVPC_203_UI08" data-flag="@X" onclick="openSidebar('TVPC_203_UI08',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\44_UW07.png" id="TVPC_44_UW07" data-flag="@X" onclick="openSidebar('TVPC_44_UW07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\76_UU07.png" id="TVPC_76_UU07" data-flag="@X" onclick="openSidebar('TVPC_76_UU07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\108_UB07.png" id="TVPC_108_UB07" data-flag="@X" onclick="openSidebar('TVPC_108_UB07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\140_UR07.png" id="TVPC_140_UR07" data-flag="@X" onclick="openSidebar('TVPC_140_UR07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\172_UG07.png" id="TVPC_172_UG07" data-flag="@X" onclick="openSidebar('TVPC_172_UG07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\204_UI09.png" id="TVPC_204_UI09" data-flag="@X" onclick="openSidebar('TVPC_204_UI09',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\45_UW08.png" id="TVPC_45_UW08" data-flag="@X" onclick="openSidebar('TVPC_45_UW08',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\77_UU08.png" id="TVPC_77_UU08" data-flag="@X" onclick="openSidebar('TVPC_77_UU08',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\109_UB08.png" id="TVPC_109_UB08" data-flag="@X" onclick="openSidebar('TVPC_109_UB08',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\141_UR08.png" id="TVPC_141_UR08" data-flag="@X" onclick="openSidebar('TVPC_141_UR08',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\173_UG08.png" id="TVPC_173_UG08" data-flag="@X" onclick="openSidebar('TVPC_173_UG08',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\205_UI10.png" id="TVPC_205_UI10" data-flag="@X" onclick="openSidebar('TVPC_205_UI10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\46_UW09.png" id="TVPC_46_UW09" data-flag="@X" onclick="openSidebar('TVPC_46_UW09',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\78_UU09.png" id="TVPC_78_UU09" data-flag="@X" onclick="openSidebar('TVPC_78_UU09',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\110_UB09.png" id="TVPC_110_UB09" data-flag="@X" onclick="openSidebar('TVPC_110_UB09',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\142_UR09.png" id="TVPC_142_UR09" data-flag="@X" onclick="openSidebar('TVPC_142_UR09',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\174_UG09.png" id="TVPC_174_UG09" data-flag="@X" onclick="openSidebar('TVPC_174_UG09',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\176_CI01 Information Recovery Crew.png" id="TVPC_176_CI01 Information Recovery Crew" data-flag="@X" onclick="openSidebar('TVPC_176_CI01 Information Recovery Crew',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\47_UW10.png" id="TVPC_47_UW10" data-flag="@X" onclick="openSidebar('TVPC_47_UW10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\79_UU10.png" id="TVPC_79_UU10" data-flag="@X" onclick="openSidebar('TVPC_79_UU10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\111_UB10.png" id="TVPC_111_UB10" data-flag="@X" onclick="openSidebar('TVPC_111_UB10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\143_UR10.png" id="TVPC_143_UR10" data-flag="@X" onclick="openSidebar('TVPC_143_UR10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\175_UG10.png" id="TVPC_175_UG10" data-flag="@X" onclick="openSidebar('TVPC_175_UG10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\177_CI02 Exuberant Archaeologist.png" id="TVPC_177_CI02 Exuberant Archaeologist" data-flag="@X" onclick="openSidebar('TVPC_177_CI02 Exuberant Archaeologist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\16_CW01.png" id="TVPC_16_CW01" data-flag="@X" onclick="openSidebar('TVPC_16_CW01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\48_CU01.png" id="TVPC_48_CU01" data-flag="@X" onclick="openSidebar('TVPC_48_CU01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\80_CB01.png" id="TVPC_80_CB01" data-flag="@X" onclick="openSidebar('TVPC_80_CB01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\112_CR01.png" id="TVPC_112_CR01" data-flag="@X" onclick="openSidebar('TVPC_112_CR01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\144_CG01.png" id="TVPC_144_CG01" data-flag="@X" onclick="openSidebar('TVPC_144_CG01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\178_CI03 Tepid Tamer.png" id="TVPC_178_CI03 Tepid Tamer" data-flag="@X" onclick="openSidebar('TVPC_178_CI03 Tepid Tamer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\17_CW02.png" id="TVPC_17_CW02" data-flag="@X" onclick="openSidebar('TVPC_17_CW02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\49_CU02.png" id="TVPC_49_CU02" data-flag="@X" onclick="openSidebar('TVPC_49_CU02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\81_CB02.png" id="TVPC_81_CB02" data-flag="@X" onclick="openSidebar('TVPC_81_CB02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\113_CR02.png" id="TVPC_113_CR02" data-flag="@X" onclick="openSidebar('TVPC_113_CR02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\145_CG02.png" id="TVPC_145_CG02" data-flag="@X" onclick="openSidebar('TVPC_145_CG02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\179_CI04 Striking Reflection.png" id="TVPC_179_CI04 Striking Reflection" data-flag="@X" onclick="openSidebar('TVPC_179_CI04 Striking Reflection',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\18_CW03.png" id="TVPC_18_CW03" data-flag="@X" onclick="openSidebar('TVPC_18_CW03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\50_CU03.png" id="TVPC_50_CU03" data-flag="@X" onclick="openSidebar('TVPC_50_CU03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\82_CB03.png" id="TVPC_82_CB03" data-flag="@X" onclick="openSidebar('TVPC_82_CB03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\114_CR03.png" id="TVPC_114_CR03" data-flag="@X" onclick="openSidebar('TVPC_114_CR03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\146_CG03.png" id="TVPC_146_CG03" data-flag="@X" onclick="openSidebar('TVPC_146_CG03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\180_CI05.png" id="TVPC_180_CI05" data-flag="@X" onclick="openSidebar('TVPC_180_CI05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\19_CW04.png" id="TVPC_19_CW04" data-flag="@X" onclick="openSidebar('TVPC_19_CW04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\51_CU04.png" id="TVPC_51_CU04" data-flag="@X" onclick="openSidebar('TVPC_51_CU04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\83_CB04.png" id="TVPC_83_CB04" data-flag="@X" onclick="openSidebar('TVPC_83_CB04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\115_CR04.png" id="TVPC_115_CR04" data-flag="@X" onclick="openSidebar('TVPC_115_CR04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\147_CG04.png" id="TVPC_147_CG04" data-flag="@X" onclick="openSidebar('TVPC_147_CG04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\181_CI06 Unbothered Alchemist.png" id="TVPC_181_CI06 Unbothered Alchemist" data-flag="@X" onclick="openSidebar('TVPC_181_CI06 Unbothered Alchemist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\20_CW05.png" id="TVPC_20_CW05" data-flag="@X" onclick="openSidebar('TVPC_20_CW05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\52_CU05.png" id="TVPC_52_CU05" data-flag="@X" onclick="openSidebar('TVPC_52_CU05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\84_CB05.png" id="TVPC_84_CB05" data-flag="@X" onclick="openSidebar('TVPC_84_CB05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\116_CR05.png" id="TVPC_116_CR05" data-flag="@X" onclick="openSidebar('TVPC_116_CR05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\148_CG05.png" id="TVPC_148_CG05" data-flag="@X" onclick="openSidebar('TVPC_148_CG05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\182_CI07 removal.png" id="TVPC_182_CI07 removal" data-flag="@X" onclick="openSidebar('TVPC_182_CI07 removal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\21_CW06.png" id="TVPC_21_CW06" data-flag="@X" onclick="openSidebar('TVPC_21_CW06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\53_CU06.png" id="TVPC_53_CU06" data-flag="@X" onclick="openSidebar('TVPC_53_CU06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\85_CB06.png" id="TVPC_85_CB06" data-flag="@X" onclick="openSidebar('TVPC_85_CB06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\117_CR06.png" id="TVPC_117_CR06" data-flag="@X" onclick="openSidebar('TVPC_117_CR06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\149_CG06.png" id="TVPC_149_CG06" data-flag="@X" onclick="openSidebar('TVPC_149_CG06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\183_CI08 Scouting Party.png" id="TVPC_183_CI08 Scouting Party" data-flag="@X" onclick="openSidebar('TVPC_183_CI08 Scouting Party',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\22_CW07.png" id="TVPC_22_CW07" data-flag="@X" onclick="openSidebar('TVPC_22_CW07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\54_CU07.png" id="TVPC_54_CU07" data-flag="@X" onclick="openSidebar('TVPC_54_CU07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\86_CB07.png" id="TVPC_86_CB07" data-flag="@X" onclick="openSidebar('TVPC_86_CB07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\118_CR07.png" id="TVPC_118_CR07" data-flag="@X" onclick="openSidebar('TVPC_118_CR07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\150_CG07.png" id="TVPC_150_CG07" data-flag="@X" onclick="openSidebar('TVPC_150_CG07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\184_CI09 Back to Market.png" id="TVPC_184_CI09 Back to Market" data-flag="@X" onclick="openSidebar('TVPC_184_CI09 Back to Market',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\23_CW08.png" id="TVPC_23_CW08" data-flag="@X" onclick="openSidebar('TVPC_23_CW08',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\55_CU08.png" id="TVPC_55_CU08" data-flag="@X" onclick="openSidebar('TVPC_55_CU08',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\87_CB08.png" id="TVPC_87_CB08" data-flag="@X" onclick="openSidebar('TVPC_87_CB08',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\119_CR08.png" id="TVPC_119_CR08" data-flag="@X" onclick="openSidebar('TVPC_119_CR08',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\151_CG08.png" id="TVPC_151_CG08" data-flag="@X" onclick="openSidebar('TVPC_151_CG08',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\185_CI10 Center Mass.png" id="TVPC_185_CI10 Center Mass" data-flag="@X" onclick="openSidebar('TVPC_185_CI10 Center Mass',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\24_CW09.png" id="TVPC_24_CW09" data-flag="@X" onclick="openSidebar('TVPC_24_CW09',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\56_CU09.png" id="TVPC_56_CU09" data-flag="@X" onclick="openSidebar('TVPC_56_CU09',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\88_CB09.png" id="TVPC_88_CB09" data-flag="@X" onclick="openSidebar('TVPC_88_CB09',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\120_CR09 Crasher Mech.png" id="TVPC_120_CR09 Crasher Mech" data-flag="@X" onclick="openSidebar('TVPC_120_CR09 Crasher Mech',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\152_CG09.png" id="TVPC_152_CG09" data-flag="@X" onclick="openSidebar('TVPC_152_CG09',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\186_CI11 Murky Politics.png" id="TVPC_186_CI11 Murky Politics" data-flag="@X" onclick="openSidebar('TVPC_186_CI11 Murky Politics',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\25_CW10.png" id="TVPC_25_CW10" data-flag="@X" onclick="openSidebar('TVPC_25_CW10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\57_CU10.png" id="TVPC_57_CU10" data-flag="@X" onclick="openSidebar('TVPC_57_CU10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\89_CB10.png" id="TVPC_89_CB10" data-flag="@X" onclick="openSidebar('TVPC_89_CB10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\121_CR10.png" id="TVPC_121_CR10" data-flag="@X" onclick="openSidebar('TVPC_121_CR10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\153_CG10.png" id="TVPC_153_CG10" data-flag="@X" onclick="openSidebar('TVPC_153_CG10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\187_CI12 Removal.png" id="TVPC_187_CI12 Removal" data-flag="@X" onclick="openSidebar('TVPC_187_CI12 Removal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\26_CW11.png" id="TVPC_26_CW11" data-flag="@X" onclick="openSidebar('TVPC_26_CW11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\58_CU11.png" id="TVPC_58_CU11" data-flag="@X" onclick="openSidebar('TVPC_58_CU11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\90_CB11.png" id="TVPC_90_CB11" data-flag="@X" onclick="openSidebar('TVPC_90_CB11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\122_CR11.png" id="TVPC_122_CR11" data-flag="@X" onclick="openSidebar('TVPC_122_CR11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\154_CG11.png" id="TVPC_154_CG11" data-flag="@X" onclick="openSidebar('TVPC_154_CG11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\188_CI13 more removal.png" id="TVPC_188_CI13 more removal" data-flag="@X" onclick="openSidebar('TVPC_188_CI13 more removal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\27_CW12.png" id="TVPC_27_CW12" data-flag="@X" onclick="openSidebar('TVPC_27_CW12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\59_CU12.png" id="TVPC_59_CU12" data-flag="@X" onclick="openSidebar('TVPC_59_CU12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\91_CB12.png" id="TVPC_91_CB12" data-flag="@X" onclick="openSidebar('TVPC_91_CB12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\123_CR12.png" id="TVPC_123_CR12" data-flag="@X" onclick="openSidebar('TVPC_123_CR12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\155_CG12.png" id="TVPC_155_CG12" data-flag="@X" onclick="openSidebar('TVPC_155_CG12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\290_Murky Politics.png" id="TVPC_290_Murky Politics" data-flag="@X" onclick="openSidebar('TVPC_290_Murky Politics',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\28_CW13.png" id="TVPC_28_CW13" data-flag="@X" onclick="openSidebar('TVPC_28_CW13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\60_CU13.png" id="TVPC_60_CU13" data-flag="@X" onclick="openSidebar('TVPC_60_CU13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\92_CB13.png" id="TVPC_92_CB13" data-flag="@X" onclick="openSidebar('TVPC_92_CB13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\124_CR13.png" id="TVPC_124_CR13" data-flag="@X" onclick="openSidebar('TVPC_124_CR13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\156_CG13.png" id="TVPC_156_CG13" data-flag="@X" onclick="openSidebar('TVPC_156_CG13',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\237_UM01.png" id="237_UM01" data-flag="@X" onclick="openSidebar('237_UM01',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\211_RM01.png" id="211_RM01" data-flag="@X" onclick="openSidebar('211_RM01',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\237_UM01.png" id="TVPC_237_UM01" data-flag="@X" onclick="openSidebar('TVPC_237_UM01',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\211_RM01.png" id="TVPC_211_RM01" data-flag="@X" onclick="openSidebar('TVPC_211_RM01',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\2_MX01.png" id="2_MX01" data-flag="@X" onclick="openSidebar('2_MX01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\3_MX02.png" id="3_MX02" data-flag="@X" onclick="openSidebar('3_MX02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\4_MX03.png" id="4_MX03" data-flag="@X" onclick="openSidebar('4_MX03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\5_MX04.png" id="5_MX04" data-flag="@X" onclick="openSidebar('5_MX04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\6_MX05.png" id="6_MX05" data-flag="@X" onclick="openSidebar('6_MX05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\7_RX05.png" id="7_RX05" data-flag="@X" onclick="openSidebar('7_RX05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\8_RX06.png" id="8_RX06" data-flag="@X" onclick="openSidebar('8_RX06',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\9_RX07.png" id="9_RX07" data-flag="@X" onclick="openSidebar('9_RX07',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\10_RX08 Veil of Hunger.png" id="10_RX08 Veil of Hunger" data-flag="@X" onclick="openSidebar('10_RX08 Veil of Hunger',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\263_RX01.png" id="263_RX01" data-flag="@X" onclick="openSidebar('263_RX01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\264_RX03 Nightshifter Engine.png" id="264_RX03 Nightshifter Engine" data-flag="@X" onclick="openSidebar('264_RX03 Nightshifter Engine',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\265_RX04 Marching Clock.png" id="265_RX04 Marching Clock" data-flag="@X" onclick="openSidebar('265_RX04 Marching Clock',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\11_UC01 Crystallizing Aether.png" id="11_UC01 Crystallizing Aether" data-flag="@X" onclick="openSidebar('11_UC01 Crystallizing Aether',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\12_UX02.png" id="12_UX02" data-flag="@X" onclick="openSidebar('12_UX02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\13_UX03.png" id="13_UX03" data-flag="@X" onclick="openSidebar('13_UX03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\14_UX04.png" id="14_UX04" data-flag="@X" onclick="openSidebar('14_UX04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\15_UX05.png" id="15_UX05" data-flag="@X" onclick="openSidebar('15_UX05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\266_UA02 Surveyor001.png" id="266_UA02 Surveyor001" data-flag="@X" onclick="openSidebar('266_UA02 Surveyor001',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\267_UA04.png" id="267_UA04" data-flag="@X" onclick="openSidebar('267_UA04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\268_UA05.png" id="268_UA05" data-flag="@X" onclick="openSidebar('268_UA05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\269_UX01 Cloudslicer Fleet.png" id="269_UX01 Cloudslicer Fleet" data-flag="@X" onclick="openSidebar('269_UX01 Cloudslicer Fleet',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\1_CA04 Digital Song.png" id="1_CA04 Digital Song" data-flag="@X" onclick="openSidebar('1_CA04 Digital Song',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\261_CA01 Ursine Temple.png" id="261_CA01 Ursine Temple" data-flag="@X" onclick="openSidebar('261_CA01 Ursine Temple',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\262_CA02 Citysprout Bonsai.png" id="262_CA02 Citysprout Bonsai" data-flag="@X" onclick="openSidebar('262_CA02 Citysprout Bonsai',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\273_RX02 Gilded Bar.png" id="273_RX02 Gilded Bar" data-flag="@X" onclick="openSidebar('273_RX02 Gilded Bar',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\283_Triome.png" id="283_Triome" data-flag="@X" onclick="openSidebar('283_Triome',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\284_UA03 Gilded Viewing Room.png" id="284_UA03 Gilded Viewing Room" data-flag="@X" onclick="openSidebar('284_UA03 Gilded Viewing Room',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\285_UL01.png" id="285_UL01" data-flag="@X" onclick="openSidebar('285_UL01',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\286_UL02.png" id="286_UL02" data-flag="@X" onclick="openSidebar('286_UL02',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\287_UL03.png" id="287_UL03" data-flag="@X" onclick="openSidebar('287_UL03',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\288_UL04.png" id="288_UL04" data-flag="@X" onclick="openSidebar('288_UL04',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\289_UL05.png" id="289_UL05" data-flag="@X" onclick="openSidebar('289_UL05',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\270_CA03 Far Off Horizon.png" id="270_CA03 Far Off Horizon" data-flag="@X" onclick="openSidebar('270_CA03 Far Off Horizon',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\271_CA05 Gilded Tea Room.png" id="271_CA05 Gilded Tea Room" data-flag="@X" onclick="openSidebar('271_CA05 Gilded Tea Room',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\272_CL01.png" id="272_CL01" data-flag="@X" onclick="openSidebar('272_CL01',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\2_MX01.png" id="TVPC_2_MX01" data-flag="@X" onclick="openSidebar('TVPC_2_MX01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\3_MX02.png" id="TVPC_3_MX02" data-flag="@X" onclick="openSidebar('TVPC_3_MX02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\4_MX03.png" id="TVPC_4_MX03" data-flag="@X" onclick="openSidebar('TVPC_4_MX03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\5_MX04.png" id="TVPC_5_MX04" data-flag="@X" onclick="openSidebar('TVPC_5_MX04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\6_MX05.png" id="TVPC_6_MX05" data-flag="@X" onclick="openSidebar('TVPC_6_MX05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\7_RX05.png" id="TVPC_7_RX05" data-flag="@X" onclick="openSidebar('TVPC_7_RX05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\8_RX06.png" id="TVPC_8_RX06" data-flag="@X" onclick="openSidebar('TVPC_8_RX06',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\9_RX07.png" id="TVPC_9_RX07" data-flag="@X" onclick="openSidebar('TVPC_9_RX07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\10_RX08 Veil of Hunger.png" id="TVPC_10_RX08 Veil of Hunger" data-flag="@X" onclick="openSidebar('TVPC_10_RX08 Veil of Hunger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\263_RX01.png" id="TVPC_263_RX01" data-flag="@X" onclick="openSidebar('TVPC_263_RX01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\264_RX03 Nightshifter Engine.png" id="TVPC_264_RX03 Nightshifter Engine" data-flag="@X" onclick="openSidebar('TVPC_264_RX03 Nightshifter Engine',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\265_RX04 Marching Clock.png" id="TVPC_265_RX04 Marching Clock" data-flag="@X" onclick="openSidebar('TVPC_265_RX04 Marching Clock',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\11_UC01 Crystallizing Aether.png" id="TVPC_11_UC01 Crystallizing Aether" data-flag="@X" onclick="openSidebar('TVPC_11_UC01 Crystallizing Aether',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\12_UX02.png" id="TVPC_12_UX02" data-flag="@X" onclick="openSidebar('TVPC_12_UX02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\13_UX03.png" id="TVPC_13_UX03" data-flag="@X" onclick="openSidebar('TVPC_13_UX03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\14_UX04.png" id="TVPC_14_UX04" data-flag="@X" onclick="openSidebar('TVPC_14_UX04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\15_UX05.png" id="TVPC_15_UX05" data-flag="@X" onclick="openSidebar('TVPC_15_UX05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\266_UA02 Surveyor001.png" id="TVPC_266_UA02 Surveyor001" data-flag="@X" onclick="openSidebar('TVPC_266_UA02 Surveyor001',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\267_UA04.png" id="TVPC_267_UA04" data-flag="@X" onclick="openSidebar('TVPC_267_UA04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\268_UA05.png" id="TVPC_268_UA05" data-flag="@X" onclick="openSidebar('TVPC_268_UA05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\269_UX01 Cloudslicer Fleet.png" id="TVPC_269_UX01 Cloudslicer Fleet" data-flag="@X" onclick="openSidebar('TVPC_269_UX01 Cloudslicer Fleet',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\1_CA04 Digital Song.png" id="TVPC_1_CA04 Digital Song" data-flag="@X" onclick="openSidebar('TVPC_1_CA04 Digital Song',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\261_CA01 Ursine Temple.png" id="TVPC_261_CA01 Ursine Temple" data-flag="@X" onclick="openSidebar('TVPC_261_CA01 Ursine Temple',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\262_CA02 Citysprout Bonsai.png" id="TVPC_262_CA02 Citysprout Bonsai" data-flag="@X" onclick="openSidebar('TVPC_262_CA02 Citysprout Bonsai',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\273_RX02 Gilded Bar.png" id="TVPC_273_RX02 Gilded Bar" data-flag="@X" onclick="openSidebar('TVPC_273_RX02 Gilded Bar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\283_Triome.png" id="TVPC_283_Triome" data-flag="@X" onclick="openSidebar('TVPC_283_Triome',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\284_UA03 Gilded Viewing Room.png" id="TVPC_284_UA03 Gilded Viewing Room" data-flag="@X" onclick="openSidebar('TVPC_284_UA03 Gilded Viewing Room',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\285_UL01.png" id="TVPC_285_UL01" data-flag="@X" onclick="openSidebar('TVPC_285_UL01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\286_UL02.png" id="TVPC_286_UL02" data-flag="@X" onclick="openSidebar('TVPC_286_UL02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\287_UL03.png" id="TVPC_287_UL03" data-flag="@X" onclick="openSidebar('TVPC_287_UL03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\288_UL04.png" id="TVPC_288_UL04" data-flag="@X" onclick="openSidebar('TVPC_288_UL04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\289_UL05.png" id="TVPC_289_UL05" data-flag="@X" onclick="openSidebar('TVPC_289_UL05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\270_CA03 Far Off Horizon.png" id="TVPC_270_CA03 Far Off Horizon" data-flag="@X" onclick="openSidebar('TVPC_270_CA03 Far Off Horizon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\271_CA05 Gilded Tea Room.png" id="TVPC_271_CA05 Gilded Tea Room" data-flag="@X" onclick="openSidebar('TVPC_271_CA05 Gilded Tea Room',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\272_CL01.png" id="TVPC_272_CL01" data-flag="@X" onclick="openSidebar('TVPC_272_CL01',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\1t_The Clock.png" id="1t_The Clock" data-flag="@X" onclick="openSidebar('1t_The Clock',false)"></div>
-				<div class="container"><img alt="/sets\TVPC-files\img\2t_Cloudslicer Fleet.png" id="2t_Cloudslicer Fleet" data-flag="@X" onclick="openSidebar('2t_Cloudslicer Fleet',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\1t_The Clock.png" id="TVPC_1t_The Clock" data-flag="@X" onclick="openSidebar('TVPC_1t_The Clock',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVPC-files\img\2t_Cloudslicer Fleet.png" id="TVPC_2t_Cloudslicer Fleet" data-flag="@X" onclick="openSidebar('TVPC_2t_Cloudslicer Fleet',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVPC_e" data-flag="@E" onclick="openSidebar('TVPC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVPC_er" data-flag="@E" onclick="openSidebar('TVPC_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -510,19 +534,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -557,13 +673,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -589,27 +708,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -621,17 +764,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -664,6 +809,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -673,6 +819,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -689,16 +836,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -708,7 +855,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/MTR-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/MTR-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>MTR visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -39,19 +42,21 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -126,12 +133,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -173,226 +181,242 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/MTR-files/logo.png" />
-	<img class="preload-hidden" src="/sets/FOE-files/icon.png" />
-		<img class="preload-hidden" src="/sets/LOB-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MTR-files/icon.png" />
-		<img class="preload-hidden" src="/sets/TVPC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VNM-files/icon.png" />
-		<img class="preload-hidden" id="bg" src="/sets/MTR-files/bg.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/MTR-files/logo.png" />
+	<img class="preload-hidden" src="../sets/FOE-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LOB-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MTR-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TVPC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VNM-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="../sets/MTR-files/bg.png" />
 
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="MTR"><img src="/sets/MTR-files/icon.png">Metal Raiders</a>
+		<a class="set-bar" href="../previews/MTR"><img src="../sets/MTR-files/icon.png">Metal Raiders</a>
 	
-		<a class="set-bar inactive" href="FOE"><img src="/sets/FOE-files/icon.png">Frontiers of Eternity</a>
+		<a class="set-bar inactive" href="../previews/FOE"><img src="../sets/FOE-files/icon.png">Frontiers of Eternity</a>
 	
-		<a class="set-bar inactive" href="LOB"><img src="/sets/LOB-files/icon.png">Legend of Blue Eyes</a>
+		<a class="set-bar inactive" href="../previews/LOB"><img src="../sets/LOB-files/icon.png">Legend of Blue Eyes</a>
 	
-		<a class="set-bar inactive" href="TVPC"><img src="/sets/TVPC-files/icon.png">TVP Core 2025</a>
+		<a class="set-bar inactive" href="../previews/TVPC"><img src="../sets/TVPC-files/icon.png">TVP Core 2025</a>
 	
-		<a class="set-bar inactive" href="VNM"><img src="/sets/VNM-files/icon.png">Vinimroth Eternities</a>
+		<a class="set-bar inactive" href="../previews/VNM"><img src="../sets/VNM-files/icon.png">Vinimroth Eternities</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/MTR-files/logo.png">
+		<img class="logo" src="../sets/MTR-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\MTR-files\img\1_Dark Shade.jpg" id="1_Dark Shade" data-flag="@X" onclick="openSidebar('1_Dark Shade',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\13_Ancient Brain.jpg" id="13_Ancient Brain" data-flag="@X" onclick="openSidebar('13_Ancient Brain',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\25_Ancient Tool.jpg" id="25_Ancient Tool" data-flag="@X" onclick="openSidebar('25_Ancient Tool',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\37_Barrel Lily.jpg" id="37_Barrel Lily" data-flag="@X" onclick="openSidebar('37_Barrel Lily',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\49_Alpha Wolf.jpg" id="49_Alpha Wolf" data-flag="@X" onclick="openSidebar('49_Alpha Wolf',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\61_Ancient Sorcerer.jpg" id="61_Ancient Sorcerer" data-flag="@X" onclick="openSidebar('61_Ancient Sorcerer',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\2_Destroyer Golem.jpg" id="2_Destroyer Golem" data-flag="@X" onclick="openSidebar('2_Destroyer Golem',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\14_Behegon.jpg" id="14_Behegon" data-flag="@X" onclick="openSidebar('14_Behegon',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\26_Armored Zombie.jpg" id="26_Armored Zombie" data-flag="@X" onclick="openSidebar('26_Armored Zombie',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\38_Battle Steer.jpg" id="38_Battle Steer" data-flag="@X" onclick="openSidebar('38_Battle Steer',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\50_Arlownay.jpg" id="50_Arlownay" data-flag="@X" onclick="openSidebar('50_Arlownay',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\62_Claw Reacher.jpg" id="62_Claw Reacher" data-flag="@X" onclick="openSidebar('62_Claw Reacher',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\3_Dragon Statue.jpg" id="3_Dragon Statue" data-flag="@X" onclick="openSidebar('3_Dragon Statue',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\15_Boulder Tortoise.jpg" id="15_Boulder Tortoise" data-flag="@X" onclick="openSidebar('15_Boulder Tortoise',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\27_Baron of the Fiend Sword.jpg" id="27_Baron of the Fiend Sword" data-flag="@X" onclick="openSidebar('27_Baron of the Fiend Sword',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\39_Burglar.jpg" id="39_Burglar" data-flag="@X" onclick="openSidebar('39_Burglar',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\51_Bio Plant.jpg" id="51_Bio Plant" data-flag="@X" onclick="openSidebar('51_Bio Plant',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\63_D. D. Warrior.jpg" id="63_D. D. Warrior" data-flag="@X" onclick="openSidebar('63_D. D. Warrior',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\4_Faith Bird.jpg" id="4_Faith Bird" data-flag="@X" onclick="openSidebar('4_Faith Bird',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\16_Hyo.jpg" id="16_Hyo" data-flag="@X" onclick="openSidebar('16_Hyo',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\28_Cyber Commander.jpg" id="28_Cyber Commander" data-flag="@X" onclick="openSidebar('28_Cyber Commander',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\40_Eternal Drought.jpg" id="40_Eternal Drought" data-flag="@X" onclick="openSidebar('40_Eternal Drought',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\52_Laughing Flower.jpg" id="52_Laughing Flower" data-flag="@X" onclick="openSidebar('52_Laughing Flower',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\64_Fairy's Gift.jpg" id="64_Fairys Gift" data-flag="@X" onclick="openSidebar('64_Fairys Gift',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\5_Genin.jpg" id="5_Genin" data-flag="@X" onclick="openSidebar('5_Genin',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\17_Hyosube.jpg" id="17_Hyosube" data-flag="@X" onclick="openSidebar('17_Hyosube',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\29_Lord of Zemia.jpg" id="29_Lord of Zemia" data-flag="@X" onclick="openSidebar('29_Lord of Zemia',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\41_Flame Viper.jpg" id="41_Flame Viper" data-flag="@X" onclick="openSidebar('41_Flame Viper',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\53_Master & Expert.jpg" id="53_Master & Expert" data-flag="@X" onclick="openSidebar('53_Master & Expert',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\65_Gale Dogra.jpg" id="65_Gale Dogra" data-flag="@X" onclick="openSidebar('65_Gale Dogra',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\6_Kojikocy.jpg" id="6_Kojikocy" data-flag="@X" onclick="openSidebar('6_Kojikocy',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\18_Jellyfish.jpg" id="18_Jellyfish" data-flag="@X" onclick="openSidebar('18_Jellyfish',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\30_Madjinn Gunn.jpg" id="30_Madjinn Gunn" data-flag="@X" onclick="openSidebar('30_Madjinn Gunn',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\42_Griffore.jpg" id="42_Griffore" data-flag="@X" onclick="openSidebar('42_Griffore',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\54_Mystic Horseman.jpg" id="54_Mystic Horseman" data-flag="@X" onclick="openSidebar('54_Mystic Horseman',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\66_Germ Infection.jpg" id="66_Germ Infection" data-flag="@X" onclick="openSidebar('66_Germ Infection',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\7_Metal Guardian.jpg" id="7_Metal Guardian" data-flag="@X" onclick="openSidebar('7_Metal Guardian',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\19_Kanikabuto.jpg" id="19_Kanikabuto" data-flag="@X" onclick="openSidebar('19_Kanikabuto',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\31_Megasonic Eye.jpg" id="31_Megasonic Eye" data-flag="@X" onclick="openSidebar('31_Megasonic Eye',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\43_Ground Attacker Bugroth.jpg" id="43_Ground Attacker Bugroth" data-flag="@X" onclick="openSidebar('43_Ground Attacker Bugroth',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\55_Needle Worm.jpg" id="55_Needle Worm" data-flag="@X" onclick="openSidebar('55_Needle Worm',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\67_Gokibore.jpg" id="67_Gokibore" data-flag="@X" onclick="openSidebar('67_Gokibore',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\8_Monstrous Bird.jpg" id="8_Monstrous Bird" data-flag="@X" onclick="openSidebar('8_Monstrous Bird',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\20_Night Lizard.jpg" id="20_Night Lizard" data-flag="@X" onclick="openSidebar('20_Night Lizard',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\32_Shadow Specter.jpg" id="32_Shadow Specter" data-flag="@X" onclick="openSidebar('32_Shadow Specter',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\44_Just Desserts.jpg" id="44_Just Desserts" data-flag="@X" onclick="openSidebar('44_Just Desserts',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\56_The Nordic Lights.jpg" id="56_The Nordic Lights" data-flag="@X" onclick="openSidebar('56_The Nordic Lights',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\68_Invader from Another Dimension.jpg" id="68_Invader from Another Dimension" data-flag="@X" onclick="openSidebar('68_Invader from Another Dimension',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\9_Moon Envoy.jpg" id="9_Moon Envoy" data-flag="@X" onclick="openSidebar('9_Moon Envoy',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\21_Penguin Soldier.jpg" id="21_Penguin Soldier" data-flag="@X" onclick="openSidebar('21_Penguin Soldier',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\33_The Snake Hair.jpg" id="33_The Snake Hair" data-flag="@X" onclick="openSidebar('33_The Snake Hair',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\45_Monster Tamer.jpg" id="45_Monster Tamer" data-flag="@X" onclick="openSidebar('45_Monster Tamer',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\57_Prevent Rat.jpg" id="57_Prevent Rat" data-flag="@X" onclick="openSidebar('57_Prevent Rat',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\69_Killer Needle.jpg" id="69_Killer Needle" data-flag="@X" onclick="openSidebar('69_Killer Needle',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\10_Neo, the Magic Swordsman.jpg" id="10_Neo, the Magic Swordsman" data-flag="@X" onclick="openSidebar('10_Neo, the Magic Swordsman',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\22_Violent Rain.jpg" id="22_Violent Rain" data-flag="@X" onclick="openSidebar('22_Violent Rain',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\34_Sword Slasher.jpg" id="34_Sword Slasher" data-flag="@X" onclick="openSidebar('34_Sword Slasher',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\46_Pendulum Machine.jpg" id="46_Pendulum Machine" data-flag="@X" onclick="openSidebar('46_Pendulum Machine',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\58_Rock Spirit.jpg" id="58_Rock Spirit" data-flag="@X" onclick="openSidebar('58_Rock Spirit',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\70_Mooyan Curry.jpg" id="70_Mooyan Curry" data-flag="@X" onclick="openSidebar('70_Mooyan Curry',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\11_Supporter In the Shadows.jpg" id="11_Supporter In the Shadows" data-flag="@X" onclick="openSidebar('11_Supporter In the Shadows',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\23_Water Omotics.jpg" id="23_Water Omotics" data-flag="@X" onclick="openSidebar('23_Water Omotics',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\35_Wretched Ghost of the Attic.jpg" id="35_Wretched Ghost of the Attic" data-flag="@X" onclick="openSidebar('35_Wretched Ghost of the Attic',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\47_Torike.jpg" id="47_Torike" data-flag="@X" onclick="openSidebar('47_Torike',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\59_Shovel Crusher.jpg" id="59_Shovel Crusher" data-flag="@X" onclick="openSidebar('59_Shovel Crusher',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\71_Needle Ball.jpg" id="71_Needle Ball" data-flag="@X" onclick="openSidebar('71_Needle Ball',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\12_True Solitude.jpg" id="12_True Solitude" data-flag="@X" onclick="openSidebar('12_True Solitude',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\24_Yado Karu.jpg" id="24_Yado Karu" data-flag="@X" onclick="openSidebar('24_Yado Karu',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\36_Yaranzo.jpg" id="36_Yaranzo" data-flag="@X" onclick="openSidebar('36_Yaranzo',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\48_Tremendous Fire.jpg" id="48_Tremendous Fire" data-flag="@X" onclick="openSidebar('48_Tremendous Fire',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\60_The Thing That Hides in the Mud.jpg" id="60_The Thing That Hides in the Mud" data-flag="@X" onclick="openSidebar('60_The Thing That Hides in the Mud',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\72_Yaiba Robo.jpg" id="72_Yaiba Robo" data-flag="@X" onclick="openSidebar('72_Yaiba Robo',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\MTR-files\img\1_Dark Shade.jpg" id="MTR_1_Dark Shade" data-flag="@X" onclick="openSidebar('MTR_1_Dark Shade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\13_Ancient Brain.jpg" id="MTR_13_Ancient Brain" data-flag="@X" onclick="openSidebar('MTR_13_Ancient Brain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\25_Ancient Tool.jpg" id="MTR_25_Ancient Tool" data-flag="@X" onclick="openSidebar('MTR_25_Ancient Tool',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\37_Barrel Lily.jpg" id="MTR_37_Barrel Lily" data-flag="@X" onclick="openSidebar('MTR_37_Barrel Lily',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\49_Alpha Wolf.jpg" id="MTR_49_Alpha Wolf" data-flag="@X" onclick="openSidebar('MTR_49_Alpha Wolf',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\61_Ancient Sorcerer.jpg" id="MTR_61_Ancient Sorcerer" data-flag="@X" onclick="openSidebar('MTR_61_Ancient Sorcerer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\2_Destroyer Golem.jpg" id="MTR_2_Destroyer Golem" data-flag="@X" onclick="openSidebar('MTR_2_Destroyer Golem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\14_Behegon.jpg" id="MTR_14_Behegon" data-flag="@X" onclick="openSidebar('MTR_14_Behegon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\26_Armored Zombie.jpg" id="MTR_26_Armored Zombie" data-flag="@X" onclick="openSidebar('MTR_26_Armored Zombie',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\38_Battle Steer.jpg" id="MTR_38_Battle Steer" data-flag="@X" onclick="openSidebar('MTR_38_Battle Steer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\50_Arlownay.jpg" id="MTR_50_Arlownay" data-flag="@X" onclick="openSidebar('MTR_50_Arlownay',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\62_Claw Reacher.jpg" id="MTR_62_Claw Reacher" data-flag="@X" onclick="openSidebar('MTR_62_Claw Reacher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\3_Dragon Statue.jpg" id="MTR_3_Dragon Statue" data-flag="@X" onclick="openSidebar('MTR_3_Dragon Statue',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\15_Boulder Tortoise.jpg" id="MTR_15_Boulder Tortoise" data-flag="@X" onclick="openSidebar('MTR_15_Boulder Tortoise',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\27_Baron of the Fiend Sword.jpg" id="MTR_27_Baron of the Fiend Sword" data-flag="@X" onclick="openSidebar('MTR_27_Baron of the Fiend Sword',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\39_Burglar.jpg" id="MTR_39_Burglar" data-flag="@X" onclick="openSidebar('MTR_39_Burglar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\51_Bio Plant.jpg" id="MTR_51_Bio Plant" data-flag="@X" onclick="openSidebar('MTR_51_Bio Plant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\63_D. D. Warrior.jpg" id="MTR_63_D. D. Warrior" data-flag="@X" onclick="openSidebar('MTR_63_D. D. Warrior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\4_Faith Bird.jpg" id="MTR_4_Faith Bird" data-flag="@X" onclick="openSidebar('MTR_4_Faith Bird',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\16_Hyo.jpg" id="MTR_16_Hyo" data-flag="@X" onclick="openSidebar('MTR_16_Hyo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\28_Cyber Commander.jpg" id="MTR_28_Cyber Commander" data-flag="@X" onclick="openSidebar('MTR_28_Cyber Commander',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\40_Eternal Drought.jpg" id="MTR_40_Eternal Drought" data-flag="@X" onclick="openSidebar('MTR_40_Eternal Drought',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\52_Laughing Flower.jpg" id="MTR_52_Laughing Flower" data-flag="@X" onclick="openSidebar('MTR_52_Laughing Flower',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\64_Fairy's Gift.jpg" id="MTR_64_Fairys Gift" data-flag="@X" onclick="openSidebar('MTR_64_Fairys Gift',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\5_Genin.jpg" id="MTR_5_Genin" data-flag="@X" onclick="openSidebar('MTR_5_Genin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\17_Hyosube.jpg" id="MTR_17_Hyosube" data-flag="@X" onclick="openSidebar('MTR_17_Hyosube',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\29_Lord of Zemia.jpg" id="MTR_29_Lord of Zemia" data-flag="@X" onclick="openSidebar('MTR_29_Lord of Zemia',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\41_Flame Viper.jpg" id="MTR_41_Flame Viper" data-flag="@X" onclick="openSidebar('MTR_41_Flame Viper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\53_Master & Expert.jpg" id="MTR_53_Master & Expert" data-flag="@X" onclick="openSidebar('MTR_53_Master & Expert',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\65_Gale Dogra.jpg" id="MTR_65_Gale Dogra" data-flag="@X" onclick="openSidebar('MTR_65_Gale Dogra',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\6_Kojikocy.jpg" id="MTR_6_Kojikocy" data-flag="@X" onclick="openSidebar('MTR_6_Kojikocy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\18_Jellyfish.jpg" id="MTR_18_Jellyfish" data-flag="@X" onclick="openSidebar('MTR_18_Jellyfish',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\30_Madjinn Gunn.jpg" id="MTR_30_Madjinn Gunn" data-flag="@X" onclick="openSidebar('MTR_30_Madjinn Gunn',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\42_Griffore.jpg" id="MTR_42_Griffore" data-flag="@X" onclick="openSidebar('MTR_42_Griffore',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\54_Mystic Horseman.jpg" id="MTR_54_Mystic Horseman" data-flag="@X" onclick="openSidebar('MTR_54_Mystic Horseman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\66_Germ Infection.jpg" id="MTR_66_Germ Infection" data-flag="@X" onclick="openSidebar('MTR_66_Germ Infection',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\7_Metal Guardian.jpg" id="MTR_7_Metal Guardian" data-flag="@X" onclick="openSidebar('MTR_7_Metal Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\19_Kanikabuto.jpg" id="MTR_19_Kanikabuto" data-flag="@X" onclick="openSidebar('MTR_19_Kanikabuto',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\31_Megasonic Eye.jpg" id="MTR_31_Megasonic Eye" data-flag="@X" onclick="openSidebar('MTR_31_Megasonic Eye',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\43_Ground Attacker Bugroth.jpg" id="MTR_43_Ground Attacker Bugroth" data-flag="@X" onclick="openSidebar('MTR_43_Ground Attacker Bugroth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\55_Needle Worm.jpg" id="MTR_55_Needle Worm" data-flag="@X" onclick="openSidebar('MTR_55_Needle Worm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\67_Gokibore.jpg" id="MTR_67_Gokibore" data-flag="@X" onclick="openSidebar('MTR_67_Gokibore',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\8_Monstrous Bird.jpg" id="MTR_8_Monstrous Bird" data-flag="@X" onclick="openSidebar('MTR_8_Monstrous Bird',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\20_Night Lizard.jpg" id="MTR_20_Night Lizard" data-flag="@X" onclick="openSidebar('MTR_20_Night Lizard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\32_Shadow Specter.jpg" id="MTR_32_Shadow Specter" data-flag="@X" onclick="openSidebar('MTR_32_Shadow Specter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\44_Just Desserts.jpg" id="MTR_44_Just Desserts" data-flag="@X" onclick="openSidebar('MTR_44_Just Desserts',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\56_The Nordic Lights.jpg" id="MTR_56_The Nordic Lights" data-flag="@X" onclick="openSidebar('MTR_56_The Nordic Lights',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\68_Invader from Another Dimension.jpg" id="MTR_68_Invader from Another Dimension" data-flag="@X" onclick="openSidebar('MTR_68_Invader from Another Dimension',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\9_Moon Envoy.jpg" id="MTR_9_Moon Envoy" data-flag="@X" onclick="openSidebar('MTR_9_Moon Envoy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\21_Penguin Soldier.jpg" id="MTR_21_Penguin Soldier" data-flag="@X" onclick="openSidebar('MTR_21_Penguin Soldier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\33_The Snake Hair.jpg" id="MTR_33_The Snake Hair" data-flag="@X" onclick="openSidebar('MTR_33_The Snake Hair',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\45_Monster Tamer.jpg" id="MTR_45_Monster Tamer" data-flag="@X" onclick="openSidebar('MTR_45_Monster Tamer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\57_Prevent Rat.jpg" id="MTR_57_Prevent Rat" data-flag="@X" onclick="openSidebar('MTR_57_Prevent Rat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\69_Killer Needle.jpg" id="MTR_69_Killer Needle" data-flag="@X" onclick="openSidebar('MTR_69_Killer Needle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\10_Neo, the Magic Swordsman.jpg" id="MTR_10_Neo, the Magic Swordsman" data-flag="@X" onclick="openSidebar('MTR_10_Neo, the Magic Swordsman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\22_Violent Rain.jpg" id="MTR_22_Violent Rain" data-flag="@X" onclick="openSidebar('MTR_22_Violent Rain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\34_Sword Slasher.jpg" id="MTR_34_Sword Slasher" data-flag="@X" onclick="openSidebar('MTR_34_Sword Slasher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\46_Pendulum Machine.jpg" id="MTR_46_Pendulum Machine" data-flag="@X" onclick="openSidebar('MTR_46_Pendulum Machine',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\58_Rock Spirit.jpg" id="MTR_58_Rock Spirit" data-flag="@X" onclick="openSidebar('MTR_58_Rock Spirit',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\70_Mooyan Curry.jpg" id="MTR_70_Mooyan Curry" data-flag="@X" onclick="openSidebar('MTR_70_Mooyan Curry',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\11_Supporter In the Shadows.jpg" id="MTR_11_Supporter In the Shadows" data-flag="@X" onclick="openSidebar('MTR_11_Supporter In the Shadows',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\23_Water Omotics.jpg" id="MTR_23_Water Omotics" data-flag="@X" onclick="openSidebar('MTR_23_Water Omotics',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\35_Wretched Ghost of the Attic.jpg" id="MTR_35_Wretched Ghost of the Attic" data-flag="@X" onclick="openSidebar('MTR_35_Wretched Ghost of the Attic',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\47_Torike.jpg" id="MTR_47_Torike" data-flag="@X" onclick="openSidebar('MTR_47_Torike',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\59_Shovel Crusher.jpg" id="MTR_59_Shovel Crusher" data-flag="@X" onclick="openSidebar('MTR_59_Shovel Crusher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\71_Needle Ball.jpg" id="MTR_71_Needle Ball" data-flag="@X" onclick="openSidebar('MTR_71_Needle Ball',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\12_True Solitude.jpg" id="MTR_12_True Solitude" data-flag="@X" onclick="openSidebar('MTR_12_True Solitude',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\24_Yado Karu.jpg" id="MTR_24_Yado Karu" data-flag="@X" onclick="openSidebar('MTR_24_Yado Karu',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\36_Yaranzo.jpg" id="MTR_36_Yaranzo" data-flag="@X" onclick="openSidebar('MTR_36_Yaranzo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\48_Tremendous Fire.jpg" id="MTR_48_Tremendous Fire" data-flag="@X" onclick="openSidebar('MTR_48_Tremendous Fire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\60_The Thing That Hides in the Mud.jpg" id="MTR_60_The Thing That Hides in the Mud" data-flag="@X" onclick="openSidebar('MTR_60_The Thing That Hides in the Mud',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\72_Yaiba Robo.jpg" id="MTR_72_Yaiba Robo" data-flag="@X" onclick="openSidebar('MTR_72_Yaiba Robo',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\84_Goddess With the Third Eye.jpg" id="84_Goddess With the Third Eye" data-flag="@X" onclick="openSidebar('84_Goddess With the Third Eye',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\87_Ice Water.jpg" id="87_Ice Water" data-flag="@X" onclick="openSidebar('87_Ice Water',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\83_Goddess of Whim.jpg" id="83_Goddess of Whim" data-flag="@X" onclick="openSidebar('83_Goddess of Whim',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\82_Garoozis.jpg" id="82_Garoozis" data-flag="@X" onclick="openSidebar('82_Garoozis',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\93_Nekogal 1.jpg" id="93_Nekogal 1" data-flag="@X" onclick="openSidebar('93_Nekogal 1',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\80_Eldeen.jpg" id="80_Eldeen" data-flag="@X" onclick="openSidebar('80_Eldeen',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\91_The Little Swordsman of Aile.jpg" id="91_The Little Swordsman of Aile" data-flag="@X" onclick="openSidebar('91_The Little Swordsman of Aile',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\77_Big Eye.jpg" id="77_Big Eye" data-flag="@X" onclick="openSidebar('77_Big Eye',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\88_Ill Witch.jpg" id="88_Ill Witch" data-flag="@X" onclick="openSidebar('88_Ill Witch',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\92_Masked Sorceror.jpg" id="92_Masked Sorceror" data-flag="@X" onclick="openSidebar('92_Masked Sorceror',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\96_Ryu Kishin Powered.jpg" id="96_Ryu Kishin Powered" data-flag="@X" onclick="openSidebar('96_Ryu Kishin Powered',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\90_Leogun.jpg" id="90_Leogun" data-flag="@X" onclick="openSidebar('90_Leogun',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\95_Protector of the Throne.jpg" id="95_Protector of the Throne" data-flag="@X" onclick="openSidebar('95_Protector of the Throne',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\94_Ocubeam.jpg" id="94_Ocubeam" data-flag="@X" onclick="openSidebar('94_Ocubeam',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\99_Wetha.jpg" id="99_Wetha" data-flag="@X" onclick="openSidebar('99_Wetha',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\97_Shadow Ghoul.jpg" id="97_Shadow Ghoul" data-flag="@X" onclick="openSidebar('97_Shadow Ghoul',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\81_Fiend Reflection 1.jpg" id="81_Fiend Reflection 1" data-flag="@X" onclick="openSidebar('81_Fiend Reflection 1',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\74_Aqua Snake.jpg" id="74_Aqua Snake" data-flag="@X" onclick="openSidebar('74_Aqua Snake',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\75_Beaked Snake.jpg" id="75_Beaked Snake" data-flag="@X" onclick="openSidebar('75_Beaked Snake',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\73_Air Eater.jpg" id="73_Air Eater" data-flag="@X" onclick="openSidebar('73_Air Eater',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\79_Change Slime.jpg" id="79_Change Slime" data-flag="@X" onclick="openSidebar('79_Change Slime',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\86_Gyakutenno Megami.jpg" id="86_Gyakutenno Megami" data-flag="@X" onclick="openSidebar('86_Gyakutenno Megami',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\76_Beautiful Beast Trainer.jpg" id="76_Beautiful Beast Trainer" data-flag="@X" onclick="openSidebar('76_Beautiful Beast Trainer',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\101_Zanki.jpg" id="101_Zanki" data-flag="@X" onclick="openSidebar('101_Zanki',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\78_Bolt Escargot.jpg" id="78_Bolt Escargot" data-flag="@X" onclick="openSidebar('78_Bolt Escargot',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\100_The Wicked Worm Beast.jpg" id="100_The Wicked Worm Beast" data-flag="@X" onclick="openSidebar('100_The Wicked Worm Beast',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\89_Kanan the Swordmistress.jpg" id="89_Kanan the Swordmistress" data-flag="@X" onclick="openSidebar('89_Kanan the Swordmistress',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\85_Grappler.jpg" id="85_Grappler" data-flag="@X" onclick="openSidebar('85_Grappler',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\102_Launcher Spider.jpg" id="102_Launcher Spider" data-flag="@X" onclick="openSidebar('102_Launcher Spider',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\98_Trent.jpg" id="98_Trent" data-flag="@X" onclick="openSidebar('98_Trent',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\84_Goddess With the Third Eye.jpg" id="MTR_84_Goddess With the Third Eye" data-flag="@X" onclick="openSidebar('MTR_84_Goddess With the Third Eye',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\87_Ice Water.jpg" id="MTR_87_Ice Water" data-flag="@X" onclick="openSidebar('MTR_87_Ice Water',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\83_Goddess of Whim.jpg" id="MTR_83_Goddess of Whim" data-flag="@X" onclick="openSidebar('MTR_83_Goddess of Whim',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\82_Garoozis.jpg" id="MTR_82_Garoozis" data-flag="@X" onclick="openSidebar('MTR_82_Garoozis',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\93_Nekogal 1.jpg" id="MTR_93_Nekogal 1" data-flag="@X" onclick="openSidebar('MTR_93_Nekogal 1',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\80_Eldeen.jpg" id="MTR_80_Eldeen" data-flag="@X" onclick="openSidebar('MTR_80_Eldeen',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\91_The Little Swordsman of Aile.jpg" id="MTR_91_The Little Swordsman of Aile" data-flag="@X" onclick="openSidebar('MTR_91_The Little Swordsman of Aile',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\77_Big Eye.jpg" id="MTR_77_Big Eye" data-flag="@X" onclick="openSidebar('MTR_77_Big Eye',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\88_Ill Witch.jpg" id="MTR_88_Ill Witch" data-flag="@X" onclick="openSidebar('MTR_88_Ill Witch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\92_Masked Sorceror.jpg" id="MTR_92_Masked Sorceror" data-flag="@X" onclick="openSidebar('MTR_92_Masked Sorceror',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\96_Ryu Kishin Powered.jpg" id="MTR_96_Ryu Kishin Powered" data-flag="@X" onclick="openSidebar('MTR_96_Ryu Kishin Powered',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\90_Leogun.jpg" id="MTR_90_Leogun" data-flag="@X" onclick="openSidebar('MTR_90_Leogun',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\95_Protector of the Throne.jpg" id="MTR_95_Protector of the Throne" data-flag="@X" onclick="openSidebar('MTR_95_Protector of the Throne',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\94_Ocubeam.jpg" id="MTR_94_Ocubeam" data-flag="@X" onclick="openSidebar('MTR_94_Ocubeam',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\99_Wetha.jpg" id="MTR_99_Wetha" data-flag="@X" onclick="openSidebar('MTR_99_Wetha',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\97_Shadow Ghoul.jpg" id="MTR_97_Shadow Ghoul" data-flag="@X" onclick="openSidebar('MTR_97_Shadow Ghoul',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\81_Fiend Reflection 1.jpg" id="MTR_81_Fiend Reflection 1" data-flag="@X" onclick="openSidebar('MTR_81_Fiend Reflection 1',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\74_Aqua Snake.jpg" id="MTR_74_Aqua Snake" data-flag="@X" onclick="openSidebar('MTR_74_Aqua Snake',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\75_Beaked Snake.jpg" id="MTR_75_Beaked Snake" data-flag="@X" onclick="openSidebar('MTR_75_Beaked Snake',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\73_Air Eater.jpg" id="MTR_73_Air Eater" data-flag="@X" onclick="openSidebar('MTR_73_Air Eater',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\79_Change Slime.jpg" id="MTR_79_Change Slime" data-flag="@X" onclick="openSidebar('MTR_79_Change Slime',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\86_Gyakutenno Megami.jpg" id="MTR_86_Gyakutenno Megami" data-flag="@X" onclick="openSidebar('MTR_86_Gyakutenno Megami',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\76_Beautiful Beast Trainer.jpg" id="MTR_76_Beautiful Beast Trainer" data-flag="@X" onclick="openSidebar('MTR_76_Beautiful Beast Trainer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\101_Zanki.jpg" id="MTR_101_Zanki" data-flag="@X" onclick="openSidebar('MTR_101_Zanki',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\78_Bolt Escargot.jpg" id="MTR_78_Bolt Escargot" data-flag="@X" onclick="openSidebar('MTR_78_Bolt Escargot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\100_The Wicked Worm Beast.jpg" id="MTR_100_The Wicked Worm Beast" data-flag="@X" onclick="openSidebar('MTR_100_The Wicked Worm Beast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\89_Kanan the Swordmistress.jpg" id="MTR_89_Kanan the Swordmistress" data-flag="@X" onclick="openSidebar('MTR_89_Kanan the Swordmistress',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\85_Grappler.jpg" id="MTR_85_Grappler" data-flag="@X" onclick="openSidebar('MTR_85_Grappler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\102_Launcher Spider.jpg" id="MTR_102_Launcher Spider" data-flag="@X" onclick="openSidebar('MTR_102_Launcher Spider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\98_Trent.jpg" id="MTR_98_Trent" data-flag="@X" onclick="openSidebar('MTR_98_Trent',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\103_Blast Sphere.jpg" id="103_Blast Sphere" data-flag="@X" onclick="openSidebar('103_Blast Sphere',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\104_Fiend Sword.jpg" id="104_Fiend Sword" data-flag="@X" onclick="openSidebar('104_Fiend Sword',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\105_Holograh.jpg" id="105_Holograh" data-flag="@X" onclick="openSidebar('105_Holograh',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\117_Silvermountain of Blisstopia.jpg" id="117_Silvermountain of Blisstopia" data-flag="@X" onclick="openSidebar('117_Silvermountain of Blisstopia',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\114_Prison Island - Cell Block 5 & 6.jpg" id="114_Prison Island - Cell Block 5 & 6" data-flag="@X" onclick="openSidebar('114_Prison Island - Cell Block 5 & 6',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\122_Zombie Carnival.jpg" id="122_Zombie Carnival" data-flag="@X" onclick="openSidebar('122_Zombie Carnival',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\107_Autumn Leaves of Blisstopia.jpg" id="107_Autumn Leaves of Blisstopia" data-flag="@X" onclick="openSidebar('107_Autumn Leaves of Blisstopia',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\111_Feverous Spirit Stadium.jpg" id="111_Feverous Spirit Stadium" data-flag="@X" onclick="openSidebar('111_Feverous Spirit Stadium',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\108_Beast Battlefield Barrier.jpg" id="108_Beast Battlefield Barrier" data-flag="@X" onclick="openSidebar('108_Beast Battlefield Barrier',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\112_Imaginary Arc Tower.jpg" id="112_Imaginary Arc Tower" data-flag="@X" onclick="openSidebar('112_Imaginary Arc Tower',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\116_Shining City Nights.jpg" id="116_Shining City Nights" data-flag="@X" onclick="openSidebar('116_Shining City Nights',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\115_Royal Rebel's Arena.jpg" id="115_Royal Rebels Arena" data-flag="@X" onclick="openSidebar('115_Royal Rebels Arena',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\118_Supreme Marine Fortress Magnum Overbase.jpg" id="118_Supreme Marine Fortress Magnum Overbase" data-flag="@X" onclick="openSidebar('118_Supreme Marine Fortress Magnum Overbase',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\109_Berserker Colosseum.jpg" id="109_Berserker Colosseum" data-flag="@X" onclick="openSidebar('109_Berserker Colosseum',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\106_Area 33.jpg" id="106_Area 33" data-flag="@X" onclick="openSidebar('106_Area 33',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\120_Vegetation of Blisstopia.jpg" id="120_Vegetation of Blisstopia" data-flag="@X" onclick="openSidebar('120_Vegetation of Blisstopia',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\121_Wild Kitchen.jpg" id="121_Wild Kitchen" data-flag="@X" onclick="openSidebar('121_Wild Kitchen',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\113_Peaks of Blisstopia.jpg" id="113_Peaks of Blisstopia" data-flag="@X" onclick="openSidebar('113_Peaks of Blisstopia',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\110_Demolition Fusegate Scrapgate.jpg" id="110_Demolition Fusegate Scrapgate" data-flag="@X" onclick="openSidebar('110_Demolition Fusegate Scrapgate',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\119_Terraforming.jpg" id="119_Terraforming" data-flag="@X" onclick="openSidebar('119_Terraforming',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\125_Swamp.jpg" id="125_Swamp" data-flag="@X" onclick="openSidebar('125_Swamp',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\124_Island.jpg" id="124_Island" data-flag="@X" onclick="openSidebar('124_Island',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\127_Forest.jpg" id="127_Forest" data-flag="@X" onclick="openSidebar('127_Forest',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\126_Mountain.jpg" id="126_Mountain" data-flag="@X" onclick="openSidebar('126_Mountain',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\128_Fault.jpg" id="128_Fault" data-flag="@X" onclick="openSidebar('128_Fault',false)"></div>
-				<div class="container"><img alt="/sets\MTR-files\img\123_Plains.jpg" id="123_Plains" data-flag="@X" onclick="openSidebar('123_Plains',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\103_Blast Sphere.jpg" id="MTR_103_Blast Sphere" data-flag="@X" onclick="openSidebar('MTR_103_Blast Sphere',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\104_Fiend Sword.jpg" id="MTR_104_Fiend Sword" data-flag="@X" onclick="openSidebar('MTR_104_Fiend Sword',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\105_Holograh.jpg" id="MTR_105_Holograh" data-flag="@X" onclick="openSidebar('MTR_105_Holograh',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MTR_e" data-flag="@E" onclick="openSidebar('MTR_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MTR_e" data-flag="@E" onclick="openSidebar('MTR_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\117_Silvermountain of Blisstopia.jpg" id="MTR_117_Silvermountain of Blisstopia" data-flag="@X" onclick="openSidebar('MTR_117_Silvermountain of Blisstopia',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\114_Prison Island - Cell Block 5 & 6.jpg" id="MTR_114_Prison Island - Cell Block 5 & 6" data-flag="@X" onclick="openSidebar('MTR_114_Prison Island - Cell Block 5 & 6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\122_Zombie Carnival.jpg" id="MTR_122_Zombie Carnival" data-flag="@X" onclick="openSidebar('MTR_122_Zombie Carnival',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\107_Autumn Leaves of Blisstopia.jpg" id="MTR_107_Autumn Leaves of Blisstopia" data-flag="@X" onclick="openSidebar('MTR_107_Autumn Leaves of Blisstopia',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\111_Feverous Spirit Stadium.jpg" id="MTR_111_Feverous Spirit Stadium" data-flag="@X" onclick="openSidebar('MTR_111_Feverous Spirit Stadium',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\108_Beast Battlefield Barrier.jpg" id="MTR_108_Beast Battlefield Barrier" data-flag="@X" onclick="openSidebar('MTR_108_Beast Battlefield Barrier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\112_Imaginary Arc Tower.jpg" id="MTR_112_Imaginary Arc Tower" data-flag="@X" onclick="openSidebar('MTR_112_Imaginary Arc Tower',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\116_Shining City Nights.jpg" id="MTR_116_Shining City Nights" data-flag="@X" onclick="openSidebar('MTR_116_Shining City Nights',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\115_Royal Rebel's Arena.jpg" id="MTR_115_Royal Rebels Arena" data-flag="@X" onclick="openSidebar('MTR_115_Royal Rebels Arena',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\118_Supreme Marine Fortress Magnum Overbase.jpg" id="MTR_118_Supreme Marine Fortress Magnum Overbase" data-flag="@X" onclick="openSidebar('MTR_118_Supreme Marine Fortress Magnum Overbase',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\109_Berserker Colosseum.jpg" id="MTR_109_Berserker Colosseum" data-flag="@X" onclick="openSidebar('MTR_109_Berserker Colosseum',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\106_Area 33.jpg" id="MTR_106_Area 33" data-flag="@X" onclick="openSidebar('MTR_106_Area 33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\120_Vegetation of Blisstopia.jpg" id="MTR_120_Vegetation of Blisstopia" data-flag="@X" onclick="openSidebar('MTR_120_Vegetation of Blisstopia',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\121_Wild Kitchen.jpg" id="MTR_121_Wild Kitchen" data-flag="@X" onclick="openSidebar('MTR_121_Wild Kitchen',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\113_Peaks of Blisstopia.jpg" id="MTR_113_Peaks of Blisstopia" data-flag="@X" onclick="openSidebar('MTR_113_Peaks of Blisstopia',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\110_Demolition Fusegate Scrapgate.jpg" id="MTR_110_Demolition Fusegate Scrapgate" data-flag="@X" onclick="openSidebar('MTR_110_Demolition Fusegate Scrapgate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\119_Terraforming.jpg" id="MTR_119_Terraforming" data-flag="@X" onclick="openSidebar('MTR_119_Terraforming',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MTR_e" data-flag="@E" onclick="openSidebar('MTR_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MTR_e" data-flag="@E" onclick="openSidebar('MTR_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MTR_e" data-flag="@E" onclick="openSidebar('MTR_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\125_Swamp.jpg" id="MTR_125_Swamp" data-flag="@X" onclick="openSidebar('MTR_125_Swamp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\124_Island.jpg" id="MTR_124_Island" data-flag="@X" onclick="openSidebar('MTR_124_Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\127_Forest.jpg" id="MTR_127_Forest" data-flag="@X" onclick="openSidebar('MTR_127_Forest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\126_Mountain.jpg" id="MTR_126_Mountain" data-flag="@X" onclick="openSidebar('MTR_126_Mountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\128_Fault.jpg" id="MTR_128_Fault" data-flag="@X" onclick="openSidebar('MTR_128_Fault',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MTR-files\img\123_Plains.jpg" id="MTR_123_Plains" data-flag="@X" onclick="openSidebar('MTR_123_Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MTR_e" data-flag="@E" onclick="openSidebar('MTR_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MTR_e" data-flag="@E" onclick="openSidebar('MTR_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MTR_e" data-flag="@E" onclick="openSidebar('MTR_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MTR_e" data-flag="@E" onclick="openSidebar('MTR_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MTR_er" data-flag="@E" onclick="openSidebar('MTR_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -405,19 +429,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -452,13 +568,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -484,27 +603,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -516,17 +659,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -559,6 +704,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -568,6 +714,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -584,16 +731,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -603,7 +750,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

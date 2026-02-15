@@ -1229,7 +1229,7 @@
 			"type": "Legendary Token Creature — Drake",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/36_Aubrey.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/36t_Aubrey.png"
 			}
 		},
 		{
@@ -1239,7 +1239,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/25_Beast-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/25t_Beast-01.png"
 			}
 		},
 		{
@@ -1249,7 +1249,7 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/17_Bird-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/17t_Bird-01.png"
 			}
 		},
 		{
@@ -1259,7 +1259,7 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/2_Bird-03.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/2t_Bird-03.png"
 			}
 		},
 		{
@@ -1269,7 +1269,7 @@
 			"type": "Token Creature — Insect",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/40_Butterfly-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/40t_Butterfly-01.png"
 			}
 		},
 		{
@@ -1279,7 +1279,7 @@
 			"type": "Token Creature — Cat",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/26_Cat-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/26t_Cat-01.png"
 			}
 		},
 		{
@@ -1289,7 +1289,7 @@
 			"type": "Token Creature — Crab",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/31_Crab-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/31t_Crab-01.png"
 			}
 		},
 		{
@@ -1299,7 +1299,7 @@
 			"type": "Token",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/12_Draft Archetypes.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/12t_Draft Archetypes.png"
 			}
 		},
 		{
@@ -1309,7 +1309,7 @@
 			"type": "Token Creature — Dragon Eye",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/13_Dragon Eye-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/13t_Dragon Eye-01.png"
 			}
 		},
 		{
@@ -1319,7 +1319,7 @@
 			"type": "Token Creature — Drake",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/15_Drake-05.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/15t_Drake-05.png"
 			}
 		},
 		{
@@ -1329,7 +1329,7 @@
 			"type": "Token Creature — Drake",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/3_Drake-04.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/3t_Drake-04.png"
 			}
 		},
 		{
@@ -1339,7 +1339,7 @@
 			"type": "Token Creature — Drake",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/14_Drake-02.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/14t_Drake-02.png"
 			}
 		},
 		{
@@ -1349,7 +1349,7 @@
 			"type": "Token Creature — Drake",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/18_Drake-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/18t_Drake-01.png"
 			}
 		},
 		{
@@ -1359,7 +1359,7 @@
 			"type": "Token Creature — Drake",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/32_Drake-03.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/32t_Drake-03.png"
 			}
 		},
 		{
@@ -1369,7 +1369,7 @@
 			"type": "Token Creature — Elemental Demon",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/37_Elemental Demon-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/37t_Elemental Demon-01.png"
 			}
 		},
 		{
@@ -1379,7 +1379,7 @@
 			"type": "Token Creature — Elk Plant",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/28_Elk Plant-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/28t_Elk Plant-01.png"
 			}
 		},
 		{
@@ -1389,7 +1389,7 @@
 			"type": "Token Creature — Fish",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/29_Fish-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/29t_Fish-01.png"
 			}
 		},
 		{
@@ -1399,7 +1399,7 @@
 			"type": "Token Creature — Fox",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/4_Fox-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/4t_Fox-01.png"
 			}
 		},
 		{
@@ -1409,7 +1409,7 @@
 			"type": "Token Creature — Fox",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/5_Fox-02.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/5t_Fox-02.png"
 			}
 		},
 		{
@@ -1419,7 +1419,7 @@
 			"type": "Token Creature — Lizard",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/20_Lizard-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/20t_Lizard-01.png"
 			}
 		},
 		{
@@ -1429,7 +1429,7 @@
 			"type": "Token Creature — Lizard",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/21_Lizard-02.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/21t_Lizard-02.png"
 			}
 		},
 		{
@@ -1439,7 +1439,7 @@
 			"type": "Token Creature — Mongoose",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/35_Mongoose-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/35t_Mongoose-01.png"
 			}
 		},
 		{
@@ -1449,7 +1449,7 @@
 			"type": "Token Artifact Creature — Orb",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/48_Orb-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/48t_Orb-01.png"
 			}
 		},
 		{
@@ -1459,7 +1459,7 @@
 			"type": "Token Enchantment Creature — Shark",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/8_Shark-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/8t_Shark-01.png"
 			}
 		},
 		{
@@ -1469,7 +1469,7 @@
 			"type": "Token Enchantment Creature — Whale",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/43_Whale-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/43t_Whale-01.png"
 			}
 		},
 		{
@@ -1479,7 +1479,7 @@
 			"type": "Token Creature — Wurm",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/24_Wurm-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/24t_Wurm-01.png"
 			}
 		},
 		{
@@ -1489,7 +1489,7 @@
 			"type": "Token Creature — Wurm",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/10_Wurm-02.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/10t_Wurm-02.png"
 			}
 		},
 		{
@@ -1499,7 +1499,7 @@
 			"type": "Token Creature — Wurm",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/11_Wurm-03.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/11t_Wurm-03.png"
 			}
 		},
 		{
@@ -1509,7 +1509,7 @@
 			"type": "Token Creature — Wurm Dragon",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/9_Wurm Dragon-02.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/9t_Wurm Dragon-02.png"
 			}
 		},
 		{
@@ -1519,7 +1519,7 @@
 			"type": "Token Enchantment — Wurm Dragon",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/1_Wurm Dragon-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/1t_Wurm Dragon-01.png"
 			}
 		},
 		{
@@ -1689,7 +1689,7 @@
 			"type": "Reminder",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/42_Sanctum Reminder.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/42t_Sanctum Reminder.png"
 			}
 		},
 		{
@@ -1819,7 +1819,7 @@
 			"type": "Enchantment Creature — Icon Warlock",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/39_Guardian of the Cinders.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/39t_Guardian of the Cinders.png"
 			}
 		},
 		{
@@ -1929,7 +1929,7 @@
 			"type": "Token Creature — Wurm Plant Scout",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/27_Depthscout Token.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/27t_Depthscout Token.png"
 			}
 		},
 		{
@@ -1959,7 +1959,7 @@
 			"type": "Token Reminder",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/19_Illuminated black.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/19t_Illuminated black.png"
 			}
 		},
 		{
@@ -1969,7 +1969,7 @@
 			"type": "Token Reminder",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/16_Illuminated Blue.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/16t_Illuminated Blue.png"
 			}
 		},
 		{
@@ -1979,7 +1979,7 @@
 			"type": "Token Reminder",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/30_Illuminated Green.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/30t_Illuminated Green.png"
 			}
 		},
 		{
@@ -1989,7 +1989,7 @@
 			"type": "Token Reminder",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/22_Illuminated Red.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/22t_Illuminated Red.png"
 			}
 		},
 		{
@@ -1999,7 +1999,7 @@
 			"type": "Token Reminder",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/33_Illuminated Silver.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/33t_Illuminated Silver.png"
 			}
 		},
 		{
@@ -2009,7 +2009,7 @@
 			"type": "Token Reminder",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/6_Illuminated White.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/6t_Illuminated White.png"
 			}
 		},
 		{
@@ -2693,7 +2693,7 @@
 			"type": "Token Artifact Creature — Orb Wizard",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/47_Orb Wizard.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/47t_Orb Wizard.png"
 			}
 		},
 		{
@@ -3882,7 +3882,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/23_Kera, Mordel's New Hope.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/23t_Kera, Mordel's New Hope.png"
 			}
 		},
 		{
@@ -4051,7 +4051,7 @@
 			"type": "Token Reminder",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/41_Luminous in All Colors.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/41t_Luminous in All Colors.png"
 			}
 		},
 		{
@@ -4211,7 +4211,7 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/7_Jothi-01.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/7t_Jothi-01.png"
 			}
 		},
 		{
@@ -4231,7 +4231,7 @@
 			"type": "Creature — Fox Scout",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/34_Meirel Drifter (Luminous).png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/34t_Meirel Drifter (Luminous).png"
 			}
 		},
 		{
@@ -4421,7 +4421,7 @@
 			"type": "Token Artifact — Food",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/46_Food.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/46t_Food.png"
 			}
 		},
 		{
@@ -4431,7 +4431,7 @@
 			"type": "Token Artifact — Blood",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/44_Blood.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/44t_Blood.png"
 			}
 		},
 		{
@@ -4441,7 +4441,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/45_Clue.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/45t_Clue.png"
 			}
 		},
 		{
@@ -4688,7 +4688,7 @@
 			"type": "Token Creature — Goat",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/38_Goat Token.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/38t_Goat Token.png"
 			}
 		},
 		{
@@ -4768,7 +4768,7 @@
 			"type": "Legendary Land Token",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/FOE-files/img/49_Jura.png"
+				"en": "https://Tvpattack.github.io/sets/FOE-files/img/49t_Jura.png"
 			}
 		},
 		{
@@ -5174,7 +5174,137 @@
 	4 Awakened Reactionary
 	4 Crustacean Surge
 	4 Abandoned Sanctum
-[common(7)]
+[common(6)]
+	8 Rustic Cultivator
+	8 Wind Worn Peaks
+	8 Light of Hope
+	8 History's Weave
+	8 Fall Through Reality
+	8 Meirel Pathwalker
+	8 Staggering Spires
+	8 Pathfinder Wurm
+	8 Rising Haze
+	8 Meirel Caretaker
+	8 Outlands Rescinder
+	8 Outlander Mercenary
+	8 Fadove Lawkeeper
+	8 Fadove Air Supplier
+	8 Veteran Party
+	8 Cleric of the Dawn
+	8 Focus of Fadove
+	8 Outfoxed
+	8 Apprentices Drake
+	8 Crystalline Cover
+	8 Tiderock Passage
+	8 Fold the Truth
+	8 Consult Eternity
+	8 Pristine Denial
+	8 Reshape Eternity
+	8 Pathwrought Overseer
+	8 Veneer Walker
+	8 Outlands Trailblazer
+	8 Vestige Prowler
+	8 Ridgeback Dragonturtle
+	8 Bropheria
+	8 Gripping Truths
+	8 Migratory Flotilla
+	8 Fly Away With Me
+	8 Aspect of Moth
+	8 You Cant Face Me
+	8 Duskcharm Drake
+	8 Eroding River
+	8 Foolish Footing
+	8 Smogborn Pilferer
+	8 Avakin Trapper
+	8 Hedgecrow
+	8 Scaled Rippler
+	8 Left for the Crows
+	8 Relentless Truthseeker
+	8 Otherworldly Entrance
+	8 Pathborn Stinger
+	8 Voidborn Horror
+	8 Avakin Devotee
+	8 Pioneer's Premonition
+	8 Basalt Hammer
+	8 Clanless Combatant
+	8 Willbournes Flame
+	8 Fiery Absolver
+	8 Drougth Adventurer
+	8 Warforged Pair
+	8 Mordel Hammer
+	8 Pathborn Spitter
+	8 Mordel Flamespeaker
+	8 Drakes Intuition
+	8 Smelt Corruption
+	8 Mordel Shaper
+	8 Shifting Landscape
+	8 Depthscout
+	8 Disciple of the Thicket
+	8 Enduring Woodland
+	8 Surubim Harpoon
+	8 Meirel Traveller
+	8 Shard Bearer
+	8 Clanless Weaver
+	8 Illusion Reamer
+	8 Voice of the Thicket
+	8 Inspiring Recruit
+	8 Dance of Discovery
+	8 Outland Pair
+	8 Outlands Rescuer
+	8 Stand Your Ground
+	8 Guide With and Through
+	8 Teachings of the Coiled
+	8 The Strength to Overcome
+	8 Turbulent Aether
+	8 Dust Converter
+	8 Avakin Adventurer
+	8 Meirel Drifter
+	8 Pathworn Blade
+	8 Power from Beyond
+	8 Calign
+	8 Captivate
+	8 Adventurous Pair
+	8 Drougth Attuner
+	8 Enlisted Arms
+	8 Emigrating Pilgrim
+	8 Mana Compression
+	8 Drougth Oracle
+	8 Enlightening Crescents
+	8 Mutated Pioneer
+	8 Somber Marsh
+	8 Fiery Chasm
+	8 Barren Fissure
+	8 Sodden Cavern
+	8 Rainforest Spring
+	8 Roaring Cascade
+	8 Cleft River
+	8 Splintered Thicket
+	8 Carrigol Spires
+	8 Dawnshroud Castle
+	8 Formless Frontier
+	8 Glittering Vale
+	8 Sainard Boneyard
+	8 Soarwing Coast
+	8 Highland Vale
+	8 Tectonic Rime
+	8 Desolate Barrens
+	8 Tranquil Stream
+	8 Alpine Meadow
+	8 Jagged Crag
+	8 Crackling Expanse
+	8 Parading Terrain
+	8 When Words Dont Work
+	8 Bosket Peak
+	8 Experience Cultivator
+	8 Drifting Crevasse
+	8 Drifting Field
+	8 Drifting Isle
+	8 Drifting Jungle
+	8 Drifting Mire
+	8 Drifting Peak
+	8 Drifting Sands
+	8 Flying Counter
+[common | masterpiece(1)]
 	8 Rustic Cultivator
 	8 Wind Worn Peaks
 	8 Light of Hope

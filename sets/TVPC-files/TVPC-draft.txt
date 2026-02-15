@@ -2727,7 +2727,7 @@
 			"type": "Reminder",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/1_The Clock.png"
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/1t_The Clock.png"
 			}
 		},
 		{
@@ -2917,7 +2917,7 @@
 			"type": "Artifact Creature — Robot Construct",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2_Cloudslicer Fleet.png"
+				"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2t_Cloudslicer Fleet.png"
 			}
 		}
 	]
@@ -3114,7 +3114,107 @@
 	4 Triome
 	4 Triome
 	4 Triome
-[common(7)]
+[common(6)]
+	8 CW01
+	8 CW02
+	8 CW03
+	8 CW04
+	8 CW05
+	8 CW06
+	8 CW07
+	8 CW08
+	8 CW09
+	8 CW10
+	8 CW11
+	8 CW12
+	8 CW13
+	8 CU01
+	8 CU02
+	8 CU03
+	8 CU04
+	8 CU05
+	8 CU06
+	8 CU07
+	8 CU08
+	8 CU09
+	8 CU10
+	8 CU11
+	8 CU12
+	8 CU13
+	8 CI13 more removal
+	8 CB01
+	8 CB02
+	8 CB03
+	8 CB04
+	8 CB05
+	8 CB06
+	8 CB07
+	8 CB08
+	8 CB09
+	8 CB10
+	8 CB11
+	8 CB12
+	8 CB13
+	8 CI01 Information Recovery Crew
+	8 CI03 Tepid Tamer
+	8 CI04 Striking Reflection
+	8 CI02 Exuberant Archaeologist
+	8 CR01
+	8 CR02
+	8 CR03
+	8 CR04
+	8 CR05
+	8 CR06
+	8 CR07
+	8 CR08
+	8 CR09 Crasher Mech
+	8 CR10
+	8 CR11
+	8 CR12
+	8 CR13
+	8 CI09 Back to Market
+	8 CI10 Center Mass
+	8 CI11 Murky Politics
+	8 CI12 Removal
+	8 CG01
+	8 CG02
+	8 CG03
+	8 CG04
+	8 CG05
+	8 CG06
+	8 CG07
+	8 CG08
+	8 CG09
+	8 CG10
+	8 CG11
+	8 CG12
+	8 CG13
+	8 CI05
+	8 CI06 Unbothered Alchemist
+	8 CI07 removal
+	8 CI08 Scouting Party
+	8 CA01 Ursine Temple
+	8 CA02 Citysprout Bonsai
+	8 CA03 Far Off Horizon
+	8 CA04 Digital Song
+	8 CA05 Gilded Tea Room
+	8 CL01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+	8 UM01
+[common | masterpiece(1)]
 	8 CW01
 	8 CW02
 	8 CW03

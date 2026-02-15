@@ -1867,7 +1867,7 @@
 			"type": "Enchantment",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/5_Voidstone Shard.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/5t_Voidstone Shard.png"
 			}
 		},
 		{
@@ -1877,7 +1877,7 @@
 			"type": "Trace Land",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/34_Reformed Rift.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/34t_Reformed Rift.png"
 			}
 		},
 		{
@@ -1887,7 +1887,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/32_Vin-Mountain.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/32t_Vin-Mountain.png"
 			}
 		},
 		{
@@ -1897,7 +1897,7 @@
 			"type": "Skill Sorcery",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/28_Subdued Rift.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/28t_Subdued Rift.png"
 			}
 		},
 		{
@@ -1907,7 +1907,7 @@
 			"type": "Skill Instant",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/22_Hollow Graze.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/22t_Hollow Graze.png"
 			}
 		},
 		{
@@ -1917,7 +1917,7 @@
 			"type": "Skill Sorcery",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/21_Ever Vigilant.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/21t_Ever Vigilant.png"
 			}
 		},
 		{
@@ -1927,7 +1927,7 @@
 			"type": "Enchantment",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/27_Steady Growth.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/27t_Steady Growth.png"
 			}
 		},
 		{
@@ -1937,7 +1937,7 @@
 			"type": "Skill Sorcery",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/14_Prepared Strike.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/14t_Prepared Strike.png"
 			}
 		},
 		{
@@ -1947,7 +1947,7 @@
 			"type": "Skill Sorcery",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/13_In the Moment.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/13t_In the Moment.png"
 			}
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"type": "Skill Instant",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/26_Reshape Will.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/26t_Reshape Will.png"
 			}
 		},
 		{
@@ -1967,7 +1967,7 @@
 			"type": "Trace Skill Sorcery",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/25_Readied Assault.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/25t_Readied Assault.png"
 			}
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"type": "Skill Instant",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/24_Military Training.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/24t_Military Training.png"
 			}
 		},
 		{
@@ -1987,7 +1987,7 @@
 			"type": "Token Creature — Drake",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/7_White Drake Token.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/7t_White Drake Token.png"
 			}
 		},
 		{
@@ -1997,7 +1997,7 @@
 			"type": "Token Creature — Human Scout",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/23_Icebound Reinforcements Token.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/23t_Icebound Reinforcements Token.png"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Token Reminder",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/1_Luminous.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/1t_Luminous.png"
 			}
 		},
 		{
@@ -2027,7 +2027,7 @@
 			"type": "Token Enchantment Creature — Cat",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/20_Cat Token.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/20t_Cat Token.png"
 			}
 		},
 		{
@@ -2037,7 +2037,7 @@
 			"type": "Skill Sorcery",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/6_Warped Exploration.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/6t_Warped Exploration.png"
 			}
 		},
 		{
@@ -2047,7 +2047,7 @@
 			"type": "Token Creature — Drake",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/9_Blue Drake Token.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/9t_Blue Drake Token.png"
 			}
 		},
 		{
@@ -2057,7 +2057,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/33_Vin-Plains.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/33t_Vin-Plains.png"
 			}
 		},
 		{
@@ -2067,7 +2067,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/31_Vin-Island.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/31t_Vin-Island.png"
 			}
 		},
 		{
@@ -2077,7 +2077,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/35_Vin-Swamp.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/35t_Vin-Swamp.png"
 			}
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/30_Vin-Forest.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/30t_Vin-Forest.png"
 			}
 		},
 		{
@@ -2097,7 +2097,7 @@
 			"type": "Skill Instant",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/12_Harsh Reprise.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/12t_Harsh Reprise.png"
 			}
 		},
 		{
@@ -2247,7 +2247,7 @@
 			"type": "Skill Instant",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/10_Cut from Void.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/10t_Cut from Void.png"
 			}
 		},
 		{
@@ -2507,7 +2507,7 @@
 			"type": "Reminder",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/3_Sanctum Reminder.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/3t_Sanctum Reminder.png"
 			}
 		},
 		{
@@ -2587,7 +2587,7 @@
 			"type": "Reminder",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/2_Pathbound.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/2t_Pathbound.png"
 			}
 		},
 		{
@@ -3227,7 +3227,7 @@
 			"type": "Basic Land — Fault",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/29_Vin-Fault-Conjure.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/29t_Vin-Fault-Conjure.png"
 			}
 		},
 		{
@@ -3272,7 +3272,7 @@
 		},
 		{
 			"name": "xXDust420Xx",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "1",
@@ -3377,7 +3377,7 @@
 			"type": "Token Enchantment Creature — Icon",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/17_Icon.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/17t_Icon.png"
 			}
 		},
 		{
@@ -3397,7 +3397,7 @@
 			"type": "Token Spellbook",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/19_Multaph's Respite's Spellbook.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/19t_Multaph's Respite's Spellbook.png"
 			}
 		},
 		{
@@ -3407,7 +3407,7 @@
 			"type": "Token Creature — Wurm",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/11_Black Wurm Token.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/11t_Black Wurm Token.png"
 			}
 		},
 		{
@@ -3417,7 +3417,7 @@
 			"type": "Token Creature — Wurm",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/16_Green Wurm Token.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/16t_Green Wurm Token.png"
 			}
 		},
 		{
@@ -3427,7 +3427,7 @@
 			"type": "Token Creature — Wurm",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/15_Red Wurm Token.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/15t_Red Wurm Token.png"
 			}
 		},
 		{
@@ -3437,7 +3437,7 @@
 			"type": "Token Creature — Wurm",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/8_White Wurm Token.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/8t_White Wurm Token.png"
 			}
 		},
 		{
@@ -3447,7 +3447,7 @@
 			"type": "Reminder",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/4_Trace Reminder.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/4t_Trace Reminder.png"
 			}
 		},
 		{
@@ -3457,7 +3457,7 @@
 			"type": "Token Enchantment Creature — Icon",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/VNM-files/img/18_Icon Token.png"
+				"en": "https://Tvpattack.github.io/sets/VNM-files/img/18t_Icon Token.png"
 			}
 		},
 		{
@@ -3649,7 +3649,7 @@
 	4 Paragon of Unknown Sights
 	4 Common Enemy
 	4 Power Null
-[common(7)]
+[common(6)]
 	8 Rush Down
 	8 Purge the Clanless
 	8 Prismatism
@@ -3774,6 +3774,137 @@
 	8 Grazed by the Endless
 	8 Avakin Hazeweaver
 	8 Ash to Hope
+	8 Ethereal Exposure
+	8 Impunity of Souls
+	8 Scars of Oil
+	8 Splendid Genesis
+	8 Volatile Visions
+[common | masterpiece(1)]
+	8 Rush Down
+	8 Purge the Clanless
+	8 Prismatism
+	8 Dust to Life
+	8 Fadove Initiate
+	8 Fadove Trainer
+	8 Fadove Tracker
+	8 Outlands Marauder
+	8 Wandering Soul
+	8 Fadove Drillmaster
+	8 Oathkeep Wurm
+	8 Drake Rider
+	8 Covetous Fox
+	8 Rebuke the Foul
+	8 Maddened by Hunger
+	8 Frostborn Sentinel
+	8 Respite Partisan
+	8 Due Dismissal
+	8 Repel the Invasion
+	8 Cooing Foundling
+	8 Avakin Avenger
+	8 Gateway Guardian
+	8 Avakin Riftwalker
+	8 Rift Tender
+	8 Waking Words
+	8 Avakin Cleaner
+	8 Avakin Assaulter
+	8 Left for the Crows
+	8 Weight of Betrayal
+	8 Iconic Resurgence
+	8 Avlod Necklace
+	8 Frontline Assaulter
+	8 Minotaur Riftcaller
+	8 Mordel Patrol
+	8 Tenuous Empowerment
+	8 Mordel Drillmaster
+	8 Verem-Volcano Rumbler
+	8 Stalking Entity
+	8 Iconic Resolution
+	8 Conscripted by the Clanless
+	8 Clanless Destruction
+	8 Unexpected Discovery
+	8 Lavaskimmer Wurm
+	8 Farming Wurm
+	8 Awakened Harmony
+	8 Mordel Formgiver
+	8 Outlands Diviner
+	8 Bruin Clankeeper
+	8 Multaphs Watch
+	8 Progeny of Mordel
+	8 Iconic Altercation
+	8 Boon of Roduth
+	8 Ripped into Eternity
+	8 Rippling Crustacean
+	8 Starbright Entity
+	8 Aspiring Entity
+	8 Wings of New Horizons
+	8 Rip to Tomorrow
+	8 Powerstone Claw
+	8 Wandering Entity
+	8 Pinnacle Skitter
+	8 Power of Oath
+	8 Iconic Absolution
+	8 Windshaper Drake
+	8 Blessing of Uth
+	8 Bruin Outlander
+	8 Dark Lessons
+	8 Towering Protector
+	8 Avakin Opportunist
+	8 Sage of Truths
+	8 Stalwart Guard
+	8 Outlands Wanderer
+	8 Frostborn Glimmer
+	8 Kaln-Ocean Cloak
+	8 Suffused Memories
+	8 Search For Wisdom
+	8 Avakin Watcher
+	8 Transient Eternity
+	8 Abrupt Death
+	8 Fleeting Ruin
+	8 Impetuous Eradication
+	8 Ephemeral Ordinance
+	8 Vanishing Resolve
+	8 Cursory Casualty
+	8 Transitory Refuge
+	8 Evanescent Impasse
+	8 Sublime Liquidation
+	8 Razorshell Drake
+	8 Voidborn Entity
+	8 Chittering Entity
+	8 Riftborn Flames
+	8 Shining Idol
+	8 Triumphant Entrance
+	8 Outlands Riftbearer
+	8 Mordel Clanwarden
+	8 Warden of the Lost
+	8 Warforged Herald
+	8 Iconic Incident
+	8 Mordel Warrior
+	8 Keeper of Calm
+	8 Avlod Bulwark
+	8 Remnant Awakener
+	8 Waterspout
+	8 Flaming Iron
+	8 Bark of Tofnet Plains
+	8 Kaln-Ocean Wispop
+	8 Pathborn Crackle
+	8 Guardian of Faloden Woods
+	8 Outlands Frostalker
+	8 Fog Walker
+	8 Dromencals Respite
+	8 Outlands Respite
+	8 Fadove Reinforcement
+	8 Avlod Pathshaper
+	8 Outlands Traveller
+	8 Mordel Reinforcement
+	8 Outlands Guardian
+	8 Paths Strider
+	8 Pathbound Bloom
+	8 Tethers of Insanity
+	8 Eternity Siphon
+	8 Grazed by the Endless
+	8 Avakin Hazeweaver
+	8 Ash to Hope
+	3 xXDust420Xx
 	8 Ethereal Exposure
 	8 Impunity of Souls
 	8 Scars of Oil

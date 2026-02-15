@@ -1,0 +1,2328 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>MTR</name>
+			<longname>Metal Raiders</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-14</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Neo, the Magic Swordsman</name>
+			<text>When this creature dies, create a tapped Kingdom token. (It&apos;s a land with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast permanent spells.&quot;)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/10_Neo, the Magic Swordsman.jpg" num="10">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark Shade</name>
+			<text>Restructure {W} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+Flying
+{T}: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/1_Dark Shade.jpg" num="1">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Bat</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beaked Snake // Branded Coil</name>
+			<text>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+
+---
+
+Target creature you control gains deathtouch until end of turn. Draw a card. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/75_Beaked Snake.jpg" num="75">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Snake // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/G // 2B/G</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fiend Reflection 1 // Soul Absorbing Mirror</name>
+			<text>Flying
+
+---
+
+Exile target card from a graveyard. Create a 1/1 white and black Spirit creature token with flying. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/81_Fiend Reflection 1.jpg" num="81">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Bird Spirit Reflection // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/BW/B // W/B</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Air Eater // Air Powered Blast</name>
+			<text>Reach, first strike (This creature can block creatures with flying. This creature deals combat damage before creatures without first strike.)
+
+---
+
+Put a +1/+1 counter on target creature. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/73_Air Eater.jpg" num="73">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Insect // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>R/W // R/W</manacost>
+				<cmc>1</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cyber Commander // Marked Target</name>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+
+---
+
+Destroy target creature. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/28_Cyber Commander.jpg" num="28">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Robot // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>3B // 4B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Violent Rain</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+This creature can&apos;t attack or block alone.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/22_Violent Rain.jpg" num="22">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>True Solitude // Memory of Solitude</name>
+			<text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+
+---
+
+Exile target creature. Its owner gains life equal to its power. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/12_True Solitude.jpg" num="12">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Elemental Warrior // Sorcery — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>5WW // 3W</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ocubeam</name>
+			<text>Flying, haste (This creature can&apos;t be blocked except by creatures with flying or reach. This creature can attack and {T} as soon as it comes under your control.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/94_Ocubeam.jpg" num="94">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Eye</type>
+				<maintype>Creature</maintype>
+				<manacost>1IW</manacost>
+				<cmc>3</cmc>
+				<colors>WI</colors>
+				<coloridentity>WI</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flame Viper</name>
+			<text>Ward—Pay 3 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
+Moxie (Whenever you activate an ability of a card in hand or cast a nonpermanent spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/41_Flame Viper.jpg" num="41">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prevent Rat // Emerald Search</name>
+			<text>When this creature enters, you gain life equal to the greatest toughness among creatures you control.
+
+---
+
+Search your library for a Forest or Field card, reveal it, then shuffle. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/57_Prevent Rat.jpg" num="57">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Pangolin Rat // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>5G // 2</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Invader from Another Dimension // Weak Prey</name>
+			<text>Whenever this creature becomes blocked, it deals 1 damage to each creature blocking it.
+
+---
+
+Counter target creature spell with mana value 2 or less. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/68_Invader from Another Dimension.jpg" num="68">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Insect Warrior // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>I // 1I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Needle Worm // Needle Blast</name>
+			<text>When this creature enters, each player mills two cards. (They put the top two cards of their library into their graveyard.)
+
+---
+
+Target creature you control deals damage equal to its power or toughness to another target creature. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/55_Needle Worm.jpg" num="55">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Insect Worm // Sorcery — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>1G // 1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eldeen // Wizards Wrath</name>
+			<text>Healing (Damage dealt by this creature also causes you to gain 1 life.)
+
+---
+
+Target creature gains double strike until end of turn. (Then put this card into your graveyard. That creature deals both first-strike and regular combat damage.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/80_Eldeen.jpg" num="80">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>1I/W // 1I/W</manacost>
+				<cmc>2</cmc>
+				<colors>WI</colors>
+				<coloridentity>WI</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Big Eye // Just a Peek</name>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+
+---
+
+Draw a card. Each opponent loses 1 life. Look at the top card of each player&apos;s library. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/77_Big Eye.jpg" num="77">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Demon Eye // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>4I/BI/B // I/B</manacost>
+				<cmc>6</cmc>
+				<colors>BI</colors>
+				<coloridentity>BI</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ill Witch // Song of Winds</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+
+---
+
+Scry 2, then draw a card. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/88_Ill Witch.jpg" num="88">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Siren Wizard // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/U // 1W/U</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Protector of the Throne // Rites of the Throne</name>
+			<text>When this creature enters, create a tapped Kingdom token. You gain 2 life. (It&apos;s a land with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast permanent spells.&quot;)
+
+---
+
+Create a tapped Kingdom token. You gain 2 life. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/95_Protector of the Throne.jpg" num="95">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Noble // Sorcery — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>3G/WG/W // 1G/W</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goddess With the Third Eye</name>
+			<text>When this creature enters, target player mills two cards, then you scry 2. (To mill two cards, they put the top two cards of their library into their graveyard. Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/84_Goddess With the Third Eye.jpg" num="84">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demigod Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kanan the Swordmistress</name>
+			<text>As long as this creature is equipped, it gets +1/+0 and has first strike. (This creature deals combat damage before creatures without first strike.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/89_Kanan the Swordmistress.jpg" num="89">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nekogal 1</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+When this creature enters, other creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/93_Nekogal 1.jpg" num="93">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Wicked Worm Beast</name>
+			<text>When this creature enters, each opponent loses 1 life and you gain 1 life.
+At the end of combat on your turn, if this creature attacked this turn, you may return it to your hand.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/100_The Wicked Worm Beast.jpg" num="100">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Worm Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goddess of Whim // Power Now</name>
+			<text>Whenever this creature deals combat damage to a player, discard a card, then draw a card.
+
+---
+
+Return target creature card from your graveyard to the battlefield tapped. At the beginning of your next end step, sacrifice a creature if you still control it. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/83_Goddess of Whim.jpg" num="83">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Demigod Noble // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/R // 4B/RB/R</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ice Water // Nullifying Spikes</name>
+			<text>This creature can&apos;t be blocked except by creatures with reach, flying, or menace.
+
+---
+
+Until end of turn, target creature has base power 0. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/87_Ice Water.jpg" num="87">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Merfolk // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>3U/B // U/B</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aqua Snake // Deep-Sea Trickery</name>
+			<text>Moxie (Whenever you activate an ability of a card in hand or cast a nonpermanent spell, this creature gets +1/+1 until end of turn.)
+
+---
+
+Switch target creature&apos;s power and toughness until end of turn. When that creature dies this turn, you draw a card. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/74_Aqua Snake.jpg" num="74">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Elemental Snake // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/R // U/R</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Change Slime // Slime Shield</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+
+---
+
+Target creature you control gains hexproof until end of turn. (Then put this card into your graveyard. That creature can&apos;t be the target of spells or abilities your opponents control.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/79_Change Slime.jpg" num="79">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Ooze Shapeshifter // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>3G/UG/U // 1G/U</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Little Swordsman of Aile // Kingdom Come</name>
+			<text>Whenever this creature deals combat damage to an opponent, surveil 1. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+
+
+---
+
+Look at the top three cards of your library. Put one into your hand, one on top, and the other into your graveyard. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/91_The Little Swordsman of Aile.jpg" num="91">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior // Sorcery — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>1I/U // 3I/U</manacost>
+				<cmc>2</cmc>
+				<colors>UI</colors>
+				<coloridentity>UI</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Launcher Spider // Shredder Rounds</name>
+			<text>Reach
+When this creature dies, create a tapped Kingdom token. (It&apos;s a land with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast permanent spells.&quot;)
+
+---
+
+Up to one target creature gets +2/-2 until end of turn. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/102_Launcher Spider.jpg" num="102">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Spider // Sorcery — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>2I/RI/R // 1I/R</manacost>
+				<cmc>4</cmc>
+				<colors>RI</colors>
+				<coloridentity>RI</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trent // Tell the Past</name>
+			<text>When this creature enters, you may play an additional land this turn.
+
+---
+
+Put target artifact, battle, or planeswalker from a graveyard on top of its owners library. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/98_Trent.jpg" num="98">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Treefolk // Sorcery — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>2I/G // 1I/G</manacost>
+				<cmc>3</cmc>
+				<colors>GI</colors>
+				<coloridentity>GI</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zanki</name>
+			<text>Whenever another creature enters under your control, each opponent loses 1 life. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/101_Zanki.jpg" num="101">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Masked Sorceror</name>
+			<text>Whenever this creature deals combat damage to a player, draw a card.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/92_Masked Sorceror.jpg" num="92">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ryu Kishin Powered</name>
+			<text>Whenever another artifact you control enters, put a +1/+1 counter on this creature and each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/96_Ryu Kishin Powered.jpg" num="96">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Demon Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadow Ghoul</name>
+			<text>When this creature enters, exile up to X target cards from among graveyards. You gain 1 life and put a +1/+1 counter on this creature for each permanent card exiled this way.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/97_Shadow Ghoul.jpg" num="97">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>XIB</manacost>
+				<cmc>2</cmc>
+				<colors>BI</colors>
+				<coloridentity>BI</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bolt Escargot</name>
+			<text>Haste (This creature can attack and {T} as soon as it comes under your control.)
+Moxie (Whenever you activate an ability of a card in hand or cast a nonpermanent spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/78_Bolt Escargot.jpg" num="78">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snail Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grappler</name>
+			<text>When this creature enters, tap target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/85_Grappler.jpg" num="85">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Salamander Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wetha</name>
+			<text>When this creature enters, you may return target creature to its owner&apos;s hand. If you didn&apos;t, create a tapped Kingdom token. (It&apos;s a land with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast permanent spells.&quot;)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/99_Wetha.jpg" num="99">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2IU</manacost>
+				<cmc>4</cmc>
+				<colors>UI</colors>
+				<coloridentity>UI</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Garoozis</name>
+			<text>At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn. If you control a creature with power 4 or greater, it gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/82_Garoozis.jpg" num="82">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gyakutenno Megami</name>
+			<text>Whenever this creature attacks, target creature can&apos;t block this turn.
+{4}{I}{R}: Creatures you control get +1/+0 until end of turn. If this creature is equipped, instead those creatures get +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/86_Gyakutenno Megami.jpg" num="86">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1IR</manacost>
+				<cmc>3</cmc>
+				<colors>RI</colors>
+				<coloridentity>RI</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beautiful Beast Trainer</name>
+			<text>Changeling (This card is every creature type.)
+This creature can&apos;t be blocked by creatures with power 2 or less.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/76_Beautiful Beast Trainer.jpg" num="76">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>1IG</manacost>
+				<cmc>3</cmc>
+				<colors>GI</colors>
+				<coloridentity>GI</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragon Statue</name>
+			<text>Whenever you cast a spell from anywhere other than your hand, this creature gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/3_Dragon Statue.jpg" num="3">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Dragon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kojikocy</name>
+			<text>As long as this creature is equipped, it gets +0/+2.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/6_Kojikocy.jpg" num="6">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monstrous Bird // Pearl Search</name>
+			<text>Flying
+When this creature enters, you may put a +1/+1 counter on another target creature.
+
+---
+
+Search your library for a Plains or Field card, reveal it, put it into your hand, then shuffle. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/8_Monstrous Bird.jpg" num="8">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Bird // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW // 2</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Faith Bird</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+Whenever this creature attacks, you may pay {2}. If you do, tap target creature.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/4_Faith Bird.jpg" num="4">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Bird Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Destroyer Golem</name>
+			<text>As long as this creature is equipped, it has double strike. (This creature deals both first-strike and regular combat damage.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/2_Destroyer Golem.jpg" num="2">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hyo // Sapphire Search</name>
+			<text>This creature has flying as long as you&apos;ve cast a noncreature spell this turn.
+
+---
+
+Search your library for an Island or Field card, reveal it, put it into your hand, then shuffle. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/16_Hyo.jpg" num="16">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>4U // 2</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Behegon</name>
+			<text>Restructure {U} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+Vigilance (Attacking doesn&apos;t cause this creature to tap.)
+{1}, {T}: Draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/14_Behegon.jpg" num="14">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elemental Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Penguin Soldier</name>
+			<text>When this creature dies, create a tapped Kingdom token. (It&apos;s a land with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast permanent spells.&quot;)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/21_Penguin Soldier.jpg" num="21">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kanikabuto</name>
+			<text>Moxie (Whenever you activate an ability of a card in hand or cast a nonpermanent spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/19_Kanikabuto.jpg" num="19">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boulder Tortoise // Bounce Off</name>
+			<text>Whenever this creature attacks, tap up to one target creature. If that creature has power 3 or less, untap this creature.
+
+---
+
+Return target creature or artifact to its owner&apos;s hand. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/15_Boulder Tortoise.jpg" num="15">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Turtle // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU // 2U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hyosube</name>
+			<text>Once each turn, whenever you discard a card, up to one target creature gets -2/-0 until end of turn.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/17_Hyosube.jpg" num="17">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Turtle</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yado Karu</name>
+			<text>This creature gets +3/+0 as long as you&apos;ve cast a noncreature spell this turn.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/24_Yado Karu.jpg" num="24">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jellyfish</name>
+			<text>Vigilance (Attacking doesn&apos;t cause this creature to tap.)
+Moxie (Whenever you activate an ability of a card in hand or cast a nonpermanent spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/18_Jellyfish.jpg" num="18">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Jellyfish</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Night Lizard</name>
+			<text>You may cast this creature from your graveyard by exiling two other cards from your graveyard in addition to its other costs. If you do, it enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/20_Night Lizard.jpg" num="20">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Megasonic Eye</name>
+			<text>Restructure {B} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+Whenever you attack, each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/31_Megasonic Eye.jpg" num="31">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Eye</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lord of Zemia</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+When this creature enters, you may pay 1 life. If you do, create a tapped Kingdom token. (It&apos;s a land with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast permanent spells.&quot;)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/29_Lord of Zemia.jpg" num="29">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Baron of the Fiend Sword</name>
+			<text>When this creature enters, return up to one target equipment card or non-Noble creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/27_Baron of the Fiend Sword.jpg" num="27">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sword Slasher</name>
+			<text>When this creature dies, each player loses 2 life.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/34_Sword Slasher.jpg" num="34">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadow Specter</name>
+			<text>When this creature dies, if it was sacrificed, return it to the battlefield with a finality counter and a decayed counter on it. (If a creature with a finality counter on it would die, exile it instead. It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/32_Shadow Specter.jpg" num="32">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yaranzo</name>
+			<text>You may cast this creature from your graveyard by exiling two other cards from your graveyard in addition to its other costs. If you do, it enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/36_Yaranzo.jpg" num="36">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Madjinn Gunn // Jet Search</name>
+			<text>When this creature enters, it deals 1 damage to any target.
+
+---
+
+Search your library for a Swamp or Field card, reveal it, put it into your hand, then shuffle. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/30_Madjinn Gunn.jpg" num="30">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Artifact Creature — Demon Robot // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>3B // 2</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Snake Hair</name>
+			<text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+When this creature enters, mill two cards. (Put the top two cards of your library into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/33_The Snake Hair.jpg" num="33">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gorgon Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wretched Ghost of the Attic</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+{2}{B}, Exile this card from your graveyard: Return target artifact or creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/35_Wretched Ghost of the Attic.jpg" num="35">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Orb</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ground Attacker Bugroth</name>
+			<text>Restructure {R} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+{1}, {T}: This artifact deals 1 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/43_Ground Attacker Bugroth.jpg" num="43">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Barrel Lily</name>
+			<text>Haste (This creature can attack and {T} as soon as it comes under your control.)
+{2}, {T}, Sacrifice this creature: Discard a card, then draw two cards.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/37_Barrel Lily.jpg" num="37">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Torike</name>
+			<text>You may cast this creature from your graveyard by exiling two other cards from your graveyard in addition to its other costs. If you do, it enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/47_Torike.jpg" num="47">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monster Tamer</name>
+			<text>Moxie (Whenever you activate an ability of a card in hand or cast a nonpermanent spell, this creature gets +1/+1 until end of turn.)
+Whenever this creature becomes blocked, it deals 1 damage to up to one target blocking creature.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/45_Monster Tamer.jpg" num="45">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pendulum Machine</name>
+			<text></text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/46_Pendulum Machine.jpg" num="46">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Demon Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>7/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Burglar // Hook Snatch</name>
+			<text>Whenever you cast a noncreature spell, this creature gains first strike until end of turn. (This creature deals combat damage before creatures without first strike.)
+
+---
+
+Exile the top two cards of your library. Until end of turn, you may play them. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/39_Burglar.jpg" num="39">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Rat Rogue // Sorcery — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>1R // 2R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Battle Steer // Ruby Search</name>
+			<text>This creature has first strike during your turn. (This creature deals combat damage before creatures without first strike.)
+
+---
+
+Search your library for a Mountain or Field card, reveal it, put it into your hand, then shuffle. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/38_Battle Steer.jpg" num="38">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Warrior // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>3R // 2</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shovel Crusher</name>
+			<text>Restructure {G} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+At the beginning of combat on your turn, up to one target creature you control gets +1/+0 and gains trample until end of turn. (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/59_Shovel Crusher.jpg" num="59">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Cat Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Laughing Flower</name>
+			<text>{3}{G}: Put a +1/+1 counter on this creature. It must be blocked this turn if able.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/52_Laughing Flower.jpg" num="52">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Thing That Hides in the Mud</name>
+			<text>You may cast this creature from your graveyard by exiling two other cards from your graveyard in addition to its other costs. If you do, it enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/60_The Thing That Hides in the Mud.jpg" num="60">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Master &amp; Expert</name>
+			<text>When this creature enters, put a +1/+1 counter on up to one other target creature you control. That creature and up to one target creature you don&apos;t control fight. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/53_Master &amp; Expert.jpg" num="53">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Beast Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rock Spirit</name>
+			<text>When this creature enters, create a tapped Kingdom token. (It&apos;s a land with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast permanent spells.&quot;)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/58_Rock Spirit.jpg" num="58">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Nordic Lights</name>
+			<text>When this enchantment enters, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+{2}{G}, Sacrifice this enchantment: Scry 2. (Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/56_The Nordic Lights.jpg" num="56">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Arlownay</name>
+			<text>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Healing 1 (Damage dealt by this creature also causes you to gain 1 life.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/50_Arlownay.jpg" num="50">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alpha Wolf</name>
+			<text>When this creature enters, until end of turn, target creature you control gains vigilance and gets +X/+X, where X is the number of creatures you control.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/49_Alpha Wolf.jpg" num="49">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Germ Infection</name>
+			<text>Enchant permanent (Target a permanent as you cast this. This card enters attached to that permanent.)
+Enchanted permanent gets +2/+0 as long as its an artifact creature. Otherwise, it gets -0/-2.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/66_Germ Infection.jpg" num="66">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Yaiba Robo</name>
+			<text>Restructure {I} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+At the beginning of combat on your turn, up to one target creature gains first strike until end of turn. (That creature deals combat damage before creatures without first strike.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/72_Yaiba Robo.jpg" num="72">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>3II</manacost>
+				<cmc>5</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gokibore</name>
+			<text>When this creature dies, you may exile up to one target artifact or creature. Return it to the battlefield under its owners control at the beginning of the next end step.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/67_Gokibore.jpg" num="67">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mooyan Curry</name>
+			<text>Destroy target noncreature artifact or noncreature enchantment. You gain 2 life.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/70_Mooyan Curry.jpg" num="70">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ancient Sorcerer</name>
+			<text>When this creature enters, it deals 3 damage to each opponent. If you control an artifact, you gain 3 life.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/61_Ancient Sorcerer.jpg" num="61">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3II</manacost>
+				<cmc>5</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fairy&apos;s Gift</name>
+			<text>Reveal the top four cards of your library. Put a card with mana value 3 or less or with restructure from among them into your hand and the rest on the bottom in a random order.
+You may play an additional land this turn.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/64_Fairy&apos;s Gift.jpg" num="64">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gale Dogra</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+Whenever this creature attacks sift 1. (Look at the top card of your library. You may put it into your sanctum. )
+When this creature dies, you may put a card from your sanctum into your graveyard.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/65_Gale Dogra.jpg" num="65">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>D. D. Warrior // Amethyst Search</name>
+			<text>Double strike (This creature deals both first-strike and regular combat damage.)
+
+---
+
+Search your library for a Fault or Field card, reveal it, put it into your hand, then shuffle. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/63_D. D. Warrior.jpg" num="63">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>4II // 2</manacost>
+				<cmc>6</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Killer Needle</name>
+			<text>Killer Needle deals 2 damage to any target. Then, for each card in your graveyard named Killer Needle, Kill Needle deals an additional 1 damage to that target.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/69_Killer Needle.jpg" num="69">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/125_Swamp.jpg" num="125">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/124_Island.jpg" num="124">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/127_Forest.jpg" num="127">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/126_Mountain.jpg" num="126">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/128_Fault.jpg" num="128">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/123_Plains.jpg" num="123">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Leogun // Leo-Gun</name>
+			<text>Trample (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)
+
+---
+
+Target creature gets +2/+2 and gains trample until end of turn. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/90_Leogun.jpg" num="90">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Cat Warrior // Instant — Chain</type>
+				<maintype>Creature</maintype>
+				<manacost>1R/G // 1R/G</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Supporter In the Shadows</name>
+			<text>When this creature enters, choose one or both —
+• Return up to one target artifact card from your graveyard to your hand.
+• Return up to one target artifact you control to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/11_Supporter In the Shadows.jpg" num="11">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blast Sphere // It Always Hits</name>
+			<text>Equipped creature gets +1/+0.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+
+---
+
+It Always Hits deals 4 damage to target artifact creature. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/103_Blast Sphere.jpg" num="103">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Artifact — Equipment // Instant — Chain</type>
+				<maintype>Artifact</maintype>
+				<manacost>0 // 3</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fiend Sword // Burning Blood</name>
+			<text>Equipped creature gets +4/+0 and can&apos;t block.
+Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)
+
+---
+
+Burning Blood deals 2 damage to target creature. (Then put this card into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/104_Fiend Sword.jpg" num="104">MTR</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Artifact — Equipment // Instant — Chain</type>
+				<maintype>Artifact</maintype>
+				<manacost>1 // 3</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Holograh</name>
+			<text>Restructure {1} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+At the beginning of your end step, if you attacked, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/105_Holograh.jpg" num="105">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Illusion Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imaginary Arc Tower</name>
+			<text>This land enters tapped if you control another land.
+{T}: Add {I} or {U}.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/112_Imaginary Arc Tower.jpg" num="112">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UI</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wild Kitchen</name>
+			<text>This land enters tapped if you control another land.
+{T}: Add {I} or {R}.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/121_Wild Kitchen.jpg" num="121">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RI</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Area 33</name>
+			<text>This land enters tapped if you control another land.
+{T}: Add {R} or {W}.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/106_Area 33.jpg" num="106">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Prison Island - Cell Block 5 &amp; 6</name>
+			<text>This land enters tapped if you control another land.
+{T}: Add {U} or {B}.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/114_Prison Island - Cell Block 5 &amp; 6.jpg" num="114">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Peaks of Blisstopia</name>
+			<text>This land enters tapped if you control another land.
+{T}: Add {I} or {G}.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/113_Peaks of Blisstopia.jpg" num="113">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>GI</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Supreme Marine Fortress Magnum Overbase</name>
+			<text>This land enters tapped if you control another land.
+{T}: Add {U} or {R}.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/118_Supreme Marine Fortress Magnum Overbase.jpg" num="118">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Vegetation of Blisstopia</name>
+			<text>This land enters tapped if you control another land.
+{T}: Add {G} or {U}.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/120_Vegetation of Blisstopia.jpg" num="120">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Beast Battlefield Barrier</name>
+			<text>This land enters tapped if you control another land.
+{T}: Add {I} or {W}.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/108_Beast Battlefield Barrier.jpg" num="108">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WI</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Feverous Spirit Stadium</name>
+			<text>This land enters tapped if you control another land.
+{T}: Add {G} or {W}.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/111_Feverous Spirit Stadium.jpg" num="111">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Autumn Leaves of Blisstopia</name>
+			<text>This land enters tapped if you control another land.
+{T}: Add {R} or {G}.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/107_Autumn Leaves of Blisstopia.jpg" num="107">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Royal Rebel&apos;s Arena</name>
+			<text>This land enters tapped if you control another land.
+{T}: Add {W} or {B}.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/115_Royal Rebel&apos;s Arena.jpg" num="115">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shining City Nights</name>
+			<text>This land enters tapped if you control another land.
+{T}: Add {I} or {B}.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/116_Shining City Nights.jpg" num="116">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BI</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Silvermountain of Blisstopia</name>
+			<text>This land enters tapped if you control another land.
+{T}: Add {W} or {U}.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/117_Silvermountain of Blisstopia.jpg" num="117">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Berserker Colosseum</name>
+			<text>This land enters tapped if you control another land.
+{T}: Add {B} or {G}.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/109_Berserker Colosseum.jpg" num="109">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Zombie Carnival</name>
+			<text>This land enters tapped if you control another land.
+{T}: Add {B} or {R}.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/122_Zombie Carnival.jpg" num="122">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Griffore</name>
+			<text>Restructure {3}{R} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+When this creature enters, mill a card. You may play that card until end of turn. (To mill a cards, put the top card of your library into your graveyard.)
+{T}: Add {R}.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/42_Griffore.jpg" num="42">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Demolition Fusegate Scrapgate</name>
+			<text>This land has all activated abilities of other Fields you control while in your hand or on the battlefield. 
+{1}, {T}, Sacrifice this land: Search your library for a basic or a Field card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/110_Demolition Fusegate Scrapgate.jpg" num="110">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Field</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Terraforming</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/119_Terraforming.jpg" num="119">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tremendous Fire</name>
+			<text>Tremendous Fire deals 2 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/48_Tremendous Fire.jpg" num="48">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Just Desserts</name>
+			<text>Choose one—
+• Destroy target artifact.
+• Just Desserts deals 1 damage to each player for each creature they control.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/44_Just Desserts.jpg" num="44">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Water Omotics</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, you may sacrifice a creature. If you do, return up to one target creature to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/23_Water Omotics.jpg" num="23">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Armored Zombie</name>
+			<text>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever this creature deals combat damage to a player, mill a card. If you milled a creature card this way, you gain 1 life. (To mill a cards, put the top card of your library into your graveyard.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/26_Armored Zombie.jpg" num="26">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mystic Horseman</name>
+			<text>As long as you control two or more artifacts, this creature gets +2/+1.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/54_Mystic Horseman.jpg" num="54">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Genin</name>
+			<text>When this creature enters, you may exile an artifact or creature card from your graveyard. If you do, return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/5_Genin.jpg" num="5">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Needle Ball</name>
+			<text>When this creature dies, choose one—
+• Each player mills two cards. (They put the top two cards of their library into their graveyard.)
+• Each player loses 1 life.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/71_Needle Ball.jpg" num="71">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orb</type>
+				<maintype>Creature</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moon Envoy</name>
+			<text>Vigilance (Attacking doesn&apos;t cause this creature to tap.)
+When this creature enters, sacrifice it unless you return an artifact or token you control to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/9_Moon Envoy.jpg" num="9">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Claw Reacher</name>
+			<text>Restructure {3}{I} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+When this creature enters, look at the top two cards of your library. Put one into your hand and the other back on top.
+{T}: Add {I}.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/62_Claw Reacher.jpg" num="62">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>5II</manacost>
+				<cmc>7</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Metal Guardian</name>
+			<text>Restructure {3}{W} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+When this creature enters, return up to one target permanent card with mana value 3 or less from your graveyard to your hand.
+{T}: Add {W}.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/7_Metal Guardian.jpg" num="7">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient Brain</name>
+			<text>Restructure {3}{U} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+When this creature enters, draw a card, then mill a card. (Put the top card of your library into your graveyard.)
+{T}: Add {U}.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/13_Ancient Brain.jpg" num="13">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Horror Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient Tool</name>
+			<text>Restructure {3}{B} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+When this creature enters, mill two cards. You may put a card milled this way into your hand. (To mill two cards, put the top two cards of your library into your graveyard.)
+{T}: Add {B}.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/25_Ancient Tool.jpg" num="25">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eternal Drought</name>
+			<text>When this enchantment enters or leaves, exile the top card of your library. You may cast a spell exiled this way during any turn you attacked.
+{3}{R}, Sacrifice this enchantment: Scry 2. (Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/40_Eternal Drought.jpg" num="40">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bio Plant</name>
+			<text>Restructure {3}{G} (If you cast this for its restructure cost, it&apos;s a kindred artifact until you pay its mana cost as a sorcery.)
+When this creature enters, return up to one target creature or land card from your graveyard to your hand.
+{T}: Add {G}.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/MTR-files/img/51_Bio Plant.jpg" num="51">MTR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

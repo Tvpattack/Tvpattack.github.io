@@ -2917,7 +2917,7 @@
 			"type": "Reminder",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/12_Extra Rulings for Silver.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/12t_Extra Rulings for Silver.png"
 			}
 		},
 		{
@@ -2927,7 +2927,7 @@
 			"type": "Reminder",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/5_Sanctum Reminder.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/5t_Sanctum Reminder.png"
 			}
 		},
 		{
@@ -3147,7 +3147,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/1_Lifelink Counter.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/1t_Lifelink Counter.png"
 			}
 		},
 		{
@@ -3157,7 +3157,7 @@
 			"type": "Token",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/2_Menace Counter.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/2t_Menace Counter.png"
 			}
 		},
 		{
@@ -3167,7 +3167,7 @@
 			"type": "Token",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/3_Plus 1 Plus 1 Counter.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/3t_Plus 1 Plus 1 Counter.png"
 			}
 		},
 		{
@@ -3177,7 +3177,7 @@
 			"type": "Token",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/4_Reach Counter.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/4t_Reach Counter.png"
 			}
 		},
 		{
@@ -3187,7 +3187,7 @@
 			"type": "Token",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/7_Stun Counter.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/7t_Stun Counter.png"
 			}
 		},
 		{
@@ -3197,7 +3197,7 @@
 			"type": "Token",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/8_Vigilance Counter.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/8t_Vigilance Counter.png"
 			}
 		},
 		{
@@ -3207,7 +3207,7 @@
 			"type": "Token Artifact Creature — Robot",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/14_Robot Token LOB.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/14t_Robot Token LOB.png"
 			}
 		},
 		{
@@ -3217,7 +3217,7 @@
 			"type": "Token Artifact Creature — Wall",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/15_Wall Token.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/15t_Wall Token.png"
 			}
 		},
 		{
@@ -3227,7 +3227,7 @@
 			"type": "Token Creature — Demon",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/10_Demon Token.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/10t_Demon Token.png"
 			}
 		},
 		{
@@ -3237,7 +3237,7 @@
 			"type": "Token Creature — Dragon",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/9_Dragon Token LOB.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/9t_Dragon Token LOB.png"
 			}
 		},
 		{
@@ -3247,7 +3247,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/11_Elemental Token.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/11t_Elemental Token.png"
 			}
 		},
 		{
@@ -3257,7 +3257,7 @@
 			"type": "Token Creature — Insect Plant",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/13_Insect Plant Token.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/13t_Insect Plant Token.png"
 			}
 		},
 		{
@@ -3267,7 +3267,7 @@
 			"type": "Token Creature — Shapeshifter",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/6_Shapeshifter Token LOB.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/6t_Shapeshifter Token LOB.png"
 			}
 		},
 		{
@@ -3327,7 +3327,7 @@
 			"type": "Token Land",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Tvpattack.github.io/sets/LOB-files/img/16_Castle Token.png"
+				"en": "https://Tvpattack.github.io/sets/LOB-files/img/16t_Castle Token.png"
 			}
 		},
 		{
@@ -3494,7 +3494,124 @@
 	4 Pot of Greed
 	4 Yashinoki
 	4 Shifting Obelisks
-[common(7)]
+[common(6)]
+	8 Mystical Capture Chain
+	8 Prismatic Bulb
+	8 Rainbow Flower
+	8 Man-Eating Treasure Chest
+	8 Patrol Robo
+	8 Hard Armor
+	8 Beast Fangs
+	8 Dragon Treasure
+	8 Gust Fan
+	8 Legendary Sword
+	8 Machine Conversion Factory
+	8 Power of Kaishin
+	8 Violet Crystal
+	8 Happy Lover
+	8 Hourglass of Life
+	8 Petit Angel
+	8 Shining Friendship
+	8 Mabarrel
+	8 Droll Bird
+	8 Kurama
+	8 Fiend Reflection 2
+	8 Spirit of the Books
+	8 Rare Fish
+	8 Turtle Tiger
+	8 Rabid Horseman
+	8 Hitotsu-Me Giant
+	8 Midnight Fiend
+	8 Tyhone
+	8 Synchar
+	8 Meotoko
+	8 Archfiend Mirror
+	8 Dark Plant
+	8 Rhaimundos of the Red Sword
+	8 Phantom Dewan
+	8 Dark King of the Abyss
+	8 Two-Mouth Darkruler
+	8 Uraby
+	8 Kaiser Dragon
+	8 Petit Dragon
+	8 That Which Feeds on Life
+	8 Monster Egg
+	8 Little D
+	8 Fire Eye
+	8 Mammoth Graveyard
+	8 Musician King
+	8 Doriado
+	8 Muse-A
+	8 Kagemusha of the Blue Flame
+	8 Flame Manipulator
+	8 Basic Insect
+	8 Hercules Beetle
+	8 Kuwagata Alpha
+	8 Larvas
+	8 Drooling Lizard
+	8 Zarigun
+	8 Furious Sea King
+	8 Enchanting Mermaid
+	8 Root Water
+	8 Man Eater
+	8 Rose Spectre of Dunn
+	8 Bean Soldier
+	8 Firegrass
+	8 Wilmee
+	8 Masaki the Legendary Swordsman
+	8 Dark Gray
+	8 Secretarian of Secrets
+	8 Silver Fang
+	8 Skelegon
+	8 Drdek
+	8 Bone Mouse
+	8 Spike Seadra
+	8 Skull Servant
+	8 The 13th Grave
+	8 Zombie Warrior
+	8 Curtain of the Dark Ones
+	8 Haniwa
+	8 Lucky Trinket
+	8 Tatsunootoshigo
+	8 The Melting Red Shadow
+	8 Wings of Wicked Flame
+	8 LaMoon
+	8 Dissolverrock
+	8 Hinotama Soul
+	8 LaLa Li-oon
+	8 Water Element
+	8 King Fog
+	8 Green Phantom King
+	8 Thunder Kid
+	8 Nemuriko
+	8 Living Vase
+	8 Mystical Sheep 2
+	8 Ray and Temperature
+	8 Mystical Moon
+	8 Vile Germs
+	8 Corroding Shark
+	8 Hinotama
+	8 Marmot of Nefariousness
+	8 Raise Body Heat
+	8 Rouge Doll
+	8 Sparks
+	8 Trial of Nightmare
+	8 White Dolphin
+	8 Ancient Forest
+	8 Canyon
+	8 Fire Prison
+	8 Mystic Plasma Zone
+	8 Shadows Light
+	8 Umiiruka
+	8 Burning Spear
+	8 Candle of Fate
+	8 Castle Walls
+	8 Follow Wind
+	8 Graveyard and the Hand of Invitation
+	8 Mystery Hand
+	8 Remove Trap
+	8 Hitodenchak
+[common | masterpiece(1)]
 	8 Mystical Capture Chain
 	8 Prismatic Bulb
 	8 Rainbow Flower

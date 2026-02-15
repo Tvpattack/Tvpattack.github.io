@@ -3,1177 +3,1569 @@
         "card_name": "Battle Warrior",
         "number": 18,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Aqua Madoor",
         "number": 48,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Armed Ninja",
         "number": 79,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Final Flame",
         "number": 117,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Celtic Guardian",
         "number": 145,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Boo Koo",
         "number": 177,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Goblins Secret Remedy",
         "number": 22,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dragon Capture Jar",
         "number": 52,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Cyber Soldier of Darkworld",
         "number": 83,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Hane-Hane",
         "number": 124,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Fissure",
         "number": 148,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Giant Soldier of Stone",
         "number": 183,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Two-Pronged Attack",
         "number": 46,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Reaper of the Cards",
         "number": 66,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dark Hole",
         "number": 86,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Reinforcements",
         "number": 131,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Gaia The Fierce Knight",
         "number": 149,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Invigoration",
         "number": 187,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Bat",
         "number": 17,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Wow Warrior",
         "number": 76,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Red-Eyes Black Dragon",
         "number": 99,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Winged Cleaver",
         "number": 139,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Wodan the Resident of the Forest",
         "number": 171,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Swords of Revealing Light",
         "number": 199,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Beaver Warrior",
         "number": 19,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Akihiron",
         "number": 47,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Curse of Dragon",
         "number": 81,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Charubin the Fire Knight",
         "number": 112,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Abyss Flower",
         "number": 142,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Tao the Chanter",
         "number": 201,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Hourglass of Courage",
         "number": 26,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Armored Starfish",
         "number": 49,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dark Artist",
         "number": 84,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Doron",
         "number": 114,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Giant Flea",
         "number": 150,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Alinsection",
         "number": 173,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mystical Elf",
         "number": 34,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Djinn the Watcher of the Wind",
         "number": 51,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dark Energy",
         "number": 85,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Electro-Whip",
         "number": 116,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Kumootoko",
         "number": 155,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Ancient Jar",
         "number": 174,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "One-Eyed Shield Dragon",
         "number": 35,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Hurricail",
         "number": 56,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Darkfire Dragon",
         "number": 89,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Fire Reaper",
         "number": 119,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Kwagar Hercules",
         "number": 157,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dig Beak",
         "number": 179,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Oscillo Hero",
         "number": 36,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Karbonala Warrior",
         "number": 57,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Darkworld Thorns",
         "number": 90,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Fireyarou",
         "number": 121,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Lesser Dragon",
         "number": 158,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Eyearmor",
         "number": 182,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Sand Stone",
         "number": 41,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "M-Warrior 1",
         "number": 59,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Gate Deeg",
         "number": 91,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Frenzied Panda",
         "number": 123,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "M-Warrior 2",
         "number": 160,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Golgoil",
         "number": 184,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Spirit of the Harp",
         "number": 43,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Misairuzame",
         "number": 61,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Gravedigger Ghoul",
         "number": 92,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Ookazi",
         "number": 128,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Man-Eater Bug",
         "number": 162,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Minomushi Warrior",
         "number": 191,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "St Joan",
         "number": 44,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Steel Shell",
         "number": 70,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Shadow Who Controls the Dark",
         "number": 101,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Stone Ghost",
         "number": 134,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Man-Eating Plant",
         "number": 163,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mon Larvas",
         "number": 192,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Tiger Axe",
         "number": 45,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Tri-Horned Dragon",
         "number": 71,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Succubus Knight",
         "number": 103,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Terra the Terrible",
         "number": 135,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Tomozaurus",
         "number": 168,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Nightmare Scorpion",
         "number": 193,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Fiend Reflection 2",
         "number": 20,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Twin Long Rods 1",
         "number": 73,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Temple of Skulls",
         "number": 104,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Tripwire Beast",
         "number": 137,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Yashinoki",
         "number": 172,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Silver Bow and Arrow",
         "number": 197,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Follow Wind",
         "number": 21,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Corroding Shark",
         "number": 50,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Witty Phantom",
         "number": 108,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Wood Clown",
         "number": 141,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Basic Insect",
         "number": 143,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Skullbird",
         "number": 198,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Happy Lover",
         "number": 23,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Enchanting Mermaid",
         "number": 53,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "The 13th Grave",
         "number": 78,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Burning Spear",
         "number": 110,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Beast Fangs",
         "number": 144,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Yamatano Dragon Scroll",
         "number": 205,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Hard Armor",
         "number": 24,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Furious Sea King",
         "number": 54,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Bone Mouse",
         "number": 80,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Candle of Fate",
         "number": 111,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Doriado",
         "number": 146,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Archfiend Mirror",
         "number": 175,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Hinotama",
         "number": 25,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Hitodenchak",
         "number": 55,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Curtain of the Dark Ones",
         "number": 82,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dissolverrock",
         "number": 113,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Drooling Lizard",
         "number": 147,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Bean Soldier",
         "number": 176,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "LaMoon",
         "number": 27,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "King Fog",
         "number": 58,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dark King of the Abyss",
         "number": 87,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dragon Treasure",
         "number": 115,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Green Phantom King",
         "number": 151,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Castle Walls",
         "number": 178,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Legendary Sword",
         "number": 28,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "The Melting Red Shadow",
         "number": 60,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dark Plant",
         "number": 88,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Fire Eye",
         "number": 118,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Haniwa",
         "number": 152,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Drdek",
         "number": 180,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Lucky Trinket",
         "number": 29,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mystical Moon",
         "number": 62,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Graveyard and the Hand of Invitation",
         "number": 93,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Firegrass",
         "number": 120,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Hercules Beetle",
         "number": 153,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Droll Bird",
         "number": 181,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Monster Egg",
         "number": 30,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Nemuriko",
         "number": 63,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mabarrel",
         "number": 94,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Flame Manipulator",
         "number": 122,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Hitotsu-Me Giant",
         "number": 154,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Gust Fan",
         "number": 185,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Muse-A",
         "number": 31,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Power of Kaishin",
         "number": 64,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mammoth Graveyard",
         "number": 95,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Hinotama Soul",
         "number": 125,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Kuwagata Alpha",
         "number": 156,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Hourglass of Life",
         "number": 186,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Musician King",
         "number": 32,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Rare Fish",
         "number": 65,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Man-Eating Treasure Chest",
         "number": 96,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Larvas",
         "number": 126,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Living Vase",
         "number": 159,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Kaiser Dragon",
         "number": 188,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mystical Capture Chain",
         "number": 33,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Root Water",
         "number": 67,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Midnight Fiend",
         "number": 97,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Little D",
         "number": 127,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Man Eater",
         "number": 161,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "LaLa Li-oon",
         "number": 189,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Petit Angel",
         "number": 37,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Spike Seadra",
         "number": 68,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mystery Hand",
         "number": 98,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Rabid Horseman",
         "number": 129,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Marmot of Nefariousness",
         "number": 164,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Meotoko",
         "number": 190,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Petit Dragon",
         "number": 38,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Spirit of the Books",
         "number": 69,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Remove Trap",
         "number": 100,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Raise Body Heat",
         "number": 130,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mystical Sheep 2",
         "number": 165,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Patrol Robo",
         "number": 194,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Ray and Temperature",
         "number": 39,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Turtle Tiger",
         "number": 72,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Skull Servant",
         "number": 102,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Rhaimundos of the Red Sword",
         "number": 132,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Rose Spectre of Dunn",
         "number": 166,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Phantom Dewan",
         "number": 195,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Rouge Doll",
         "number": 40,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Water Element",
         "number": 74,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Trial of Nightmare",
         "number": 105,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Sparks",
         "number": 133,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Silver Fang",
         "number": 167,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Secretarian of Secrets",
         "number": 196,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Shining Friendship",
         "number": 42,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "White Dolphin",
         "number": 75,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Tyhone",
         "number": 106,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "That Which Feeds on Life",
         "number": 136,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Uraby",
         "number": 169,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Synchar",
         "number": 200,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Elfs Light",
         "number": 273,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Zarigun",
         "number": 77,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Violet Crystal",
         "number": 107,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Two-Mouth Darkruler",
         "number": 138,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Vile Germs",
         "number": 170,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Tatsunootoshigo",
         "number": 202,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "The Great Tear",
         "number": 274,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Consult Eternity",
         "number": 278,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Zombie Warrior",
         "number": 109,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Wings of Wicked Flame",
         "number": 140,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Ascent From Snakes",
         "number": 286,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Thunder Kid",
         "number": 203,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "The Judgement Hand",
         "number": 275,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Denied by Nature",
         "number": 279,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Called by the Void",
         "number": 282,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Sonic Maid",
         "number": 285,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1182,25 +1574,33 @@
         "card_name": "Wilmee",
         "number": 204,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Light of Hope",
         "number": 276,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Kappa Avenger",
         "number": 280,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mystic Clown",
         "number": 283,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1212,25 +1612,33 @@
         "card_name": "Cyclon Laser",
         "number": 287,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Sun-Scorched Tempering",
         "number": 277,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Veto",
         "number": 281,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Sword of Dark Destruction",
         "number": 284,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1242,7 +1650,9 @@
         "card_name": "Discover Uncertainty",
         "number": 288,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1263,7 +1673,9 @@
         "card_name": "Gradius",
         "number": 289,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1284,7 +1696,9 @@
         "card_name": "Gradius Option",
         "number": 290,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"
@@ -1303,121 +1717,161 @@
         "card_name": "Blue-Eyes White Dragon",
         "number": 208,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dark Magician",
         "number": 211,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Winged Dragon, Guardian of the Fortress 2",
         "number": 243,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Flame Swordsman",
         "number": 216,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Fusionist",
         "number": 218,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Monster Reborn",
         "number": 227,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Bolt Penguin",
         "number": 209,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Megirus Light",
         "number": 226,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Winged Dragon, Guardian of the Fortress 1",
         "number": 242,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Book of Secret Arts",
         "number": 210,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Flame Ghost",
         "number": 215,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "One Who Hunts Souls",
         "number": 228,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Soul of the Pure",
         "number": 308,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Trap Hole",
         "number": 236,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Roaring Ocean Snake",
         "number": 231,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Sanwitch",
         "number": 233,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dragoness the Wicked Knight",
         "number": 212,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Pragticul",
         "number": 229,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Wicked Dragon with the Ersatz Head",
         "number": 241,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Ultimate Offering",
         "number": 310,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1426,37 +1880,49 @@
         "card_name": "Weather Control",
         "number": 240,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "The Inexperienced Spy",
         "number": 299,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Nefairious Archfiend",
         "number": 304,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Wattkid",
         "number": 239,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Ansatsu",
         "number": 291,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Key Mace 2",
         "number": 301,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1468,7 +1934,9 @@
         "card_name": "Kaminari Attack",
         "number": 221,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1477,13 +1945,17 @@
         "card_name": "Phantom Ghost",
         "number": 305,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Leo Wizard",
         "number": 302,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1501,7 +1973,9 @@
         "card_name": "Takuhee",
         "number": 235,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1528,7 +2002,9 @@
         "card_name": "Dark-Piercing Light",
         "number": 292,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1555,127 +2031,169 @@
         "card_name": "Kamionwizard",
         "number": 222,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Empress Judge",
         "number": 213,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Gaia the Dragon Champion",
         "number": 219,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Harpie Lady",
         "number": 220,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Yormungarde",
         "number": 244,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Fairywitch",
         "number": 214,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Beautiful Headhuntress",
         "number": 207,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Meda Bat",
         "number": 225,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Skull Red Bird",
         "number": 234,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Flower Wolf",
         "number": 217,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mavelus",
         "number": 223,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Armaill",
         "number": 206,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Vermillion Sparrow",
         "number": 237,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Warrior of Tradition",
         "number": 238,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Embryonic Beast",
         "number": 295,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Great White",
         "number": 297,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mech Mole Zombie",
         "number": 224,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Elegant Egotist",
         "number": 294,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Punished Eagle",
         "number": 230,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Raimei",
         "number": 306,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Reverse Trap",
         "number": 307,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1687,19 +2205,25 @@
         "card_name": "Deathly Bellow",
         "number": 293,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Harpie Lady Sisters",
         "number": 298,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Into the Unknown",
         "number": 300,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1717,19 +2241,25 @@
         "card_name": "Fiends Hand",
         "number": 296,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Survivors Hospitality",
         "number": 309,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Lisark",
         "number": 303,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1756,25 +2286,33 @@
         "card_name": "Blue Medicine",
         "number": 1,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Red Medicine",
         "number": 12,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Ryu-Kishin",
         "number": 232,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Vishwar Randi",
         "number": 311,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1796,157 +2334,209 @@
         "card_name": "Exodia the Forbidden One",
         "number": 3,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Left Arm of the Forbidden One",
         "number": 6,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Left Leg of the Forbidden One",
         "number": 7,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Polymerization",
         "number": 9,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Raigeki",
         "number": 11,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Right Arm of the Forbidden One",
         "number": 13,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Right Leg of the Forbidden One",
         "number": 14,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Stop Defense",
         "number": 16,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Giant Mech-Soldier",
         "number": 245,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "The Seal of Orichalcos",
         "number": 251,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Pot of Greed",
         "number": 10,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Laser Cannon Armor",
         "number": 246,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Metal Dragon",
         "number": 248,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Statue of Easter Island",
         "number": 252,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Steel Ogre Grotto 1",
         "number": 253,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dark Gray",
         "number": 2,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Kagemusha of the Blue Flame",
         "number": 4,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Kurama",
         "number": 5,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Masaki the Legendary Swordsman",
         "number": 8,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Skelegon",
         "number": 15,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Machine Conversion Factory",
         "number": 247,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Prismatic Bulb",
         "number": 249,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Rainbow Flower",
         "number": 250,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Ancient Telescope",
         "number": 312,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Bag of Holding",
         "number": 313,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mental Lock",
         "number": 314,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1977,61 +2567,81 @@
         "card_name": "Mythical Sogen",
         "number": 260,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mythical Umi",
         "number": 261,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mythical Yami",
         "number": 263,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mythical Mountain",
         "number": 259,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mythical Forest",
         "number": 258,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Shadows Light",
         "number": 264,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Umiiruka",
         "number": 266,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mystic Plasma Zone",
         "number": 257,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Fire Prison",
         "number": 256,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Ancient Forest",
         "number": 254,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"
@@ -2067,19 +2677,25 @@
         "card_name": "Carved Sward",
         "number": 315,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mudbound Stream",
         "number": 316,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Sulking Fortress",
         "number": 318,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"
@@ -2115,7 +2731,9 @@
         "card_name": "Severed Precipice",
         "number": 317,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -2139,7 +2757,9 @@
         "card_name": "Shifting Obelisks",
         "number": 265,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -2172,37 +2792,49 @@
         "card_name": "Basic Fault LOB",
         "number": 272,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Basic Forest LOB",
         "number": 271,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Basic Island LOB",
         "number": 268,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Basic Mountain LOB",
         "number": 270,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Basic Plains LOB",
         "number": 267,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Basic Swamp LOB",
         "number": 269,
         "shape": "normal",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -2233,97 +2865,129 @@
         "card_name": "Lifelink Counter",
         "number": 1,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Menace Counter",
         "number": 2,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Plus 1 Plus 1 Counter",
         "number": 3,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Reach Counter",
         "number": 4,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Sanctum Reminder",
         "number": 5,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Shapeshifter Token LOB",
         "number": 6,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Stun Counter",
         "number": 7,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Vigilance Counter",
         "number": 8,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Robot Token LOB",
         "number": 14,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Wall Token",
         "number": 15,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Castle Token",
         "number": 16,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Dragon Token LOB",
         "number": 9,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Demon Token",
         "number": 10,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Elemental Token",
         "number": 11,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Extra Rulings for Silver",
         "number": 12,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Insect Plant Token",
         "number": 13,
         "shape": "token",
-        "set": "LOB"
+        "set": "LOB",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
