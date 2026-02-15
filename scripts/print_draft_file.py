@@ -38,59 +38,63 @@ def generateFile(code):
 	[
 	'''
 
+	suffixes = ["","_foil"]
+
 	for x in range(len(set_data['cards'])):
-		card = set_data['cards'][x]
-		# clean hybrids
-		h_pattern = r'\{([A-Z0-9])([A-Z])\}'
-		h_replace = r'{\1/\2}'
+		for suffix in suffixes: 
+			card = set_data['cards'][x]
+			# clean hybrids
+			h_pattern = r'\{([A-Z0-9])([A-Z])\}'
+			h_replace = r'{\1/\2}'
 
-		for slot in structure:
-			slot_name = slot['name']
-			if slot_name in [ 'wildcard', 'foil' ] and not filtered(card, filters) and not 'Basic' in card['type'] and not 'token' in card['shape']:
-				booster[slot_name].append(card)
-			elif not slot['custom']:
-				if ((card['rarity'] in ['common', 'masterpiece'] and slot_name == 'common | masterpiece') or (card['rarity'] == 'mythic' and slot_name == 'rare') or card['rarity'] == slot_name) and not filtered(card, filters) and not 'Basic' in card['type'] and not 'token' in card['shape']:
+			for slot in structure:
+				slot_name = slot['name']
+				if slot_name in [ 'wildcard', 'foil' ] and not filtered(card, filters) and not 'Basic' in card['type'] and not 'token' in card['shape']:
 					booster[slot_name].append(card)
-			else:
-				if ('!' + slot_name) in card['notes']:
-					booster[slot_name].append(card)
+				elif not slot['custom']:
+					if ((card['rarity'] in ['common', 'masterpiece'] and slot_name == 'common | masterpiece') or (card['rarity'] == 'mythic' and slot_name == 'rare') or card['rarity'] == slot_name) and not filtered(card, filters) and not 'Basic' in card['type'] and not 'token' in card['shape']:
+						booster[slot_name].append(card)
+				else:
+					if ('!' + slot_name) in card['notes']:
+						booster[slot_name].append(card)
 
-		draft_string += '''	{
-			"name": "''' + card['card_name'] + '''",
-			"rarity": "''' + ('special' if card['rarity'] in ['cube','masterpiece'] else card['rarity']) + '''",
-			"mana_cost": "''' + re.sub(h_pattern, h_replace, card['cost']) + '''",
-			"type": "''' + card['type'] + '''",
-			"collector_number": "''' + str(card['number']) + '''",
-	'''
+			draft_string += '''	{
+				"name": "''' + card['card_name'] + suffix + '''",
+				"rarity": "''' + ('special' if card['rarity'] in ['cube','masterpiece'] else card['rarity']) + '''",
+				"mana_cost": "''' + re.sub(h_pattern, h_replace, card['cost']) + '''",
+				"type": "''' + card['type'] + '''",
+				"collector_number": "''' + str(card['number']) + '''",
+				"foil": "''' + "true" if suffix == "_foil" else "false" + '''",
+		'''
 
-		# CE: this is for any custom types that use a rotated frame
-		split_types = [ 'Projectile' ]
-		for type in split_types:
-			if type in card['type']:
-				draft_string += '''		"layout": "split",
-	'''
+			# CE: this is for any custom types that use a rotated frame
+			split_types = [ 'Projectile' ]
+			for type in split_types:
+				if type in card['type']:
+					draft_string += '''		"layout": "split",
+		'''
 
 
-		card_file_name = (str(card['number']) + '_' + card['card_name']) if ('position' not in card) else card['position']
-		if 'double' in card['shape']:
-			draft_string += '''		"back": {
-				"name": "",
-				"type": "",
+			card_file_name = (str(card['number']) + '_' + card['card_name']) if ('position' not in card) else card['position']
+			if 'double' in card['shape']:
+				draft_string += '''		"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "''' + utils.get_picurl(set_data, card, True) + '''"
+					}
+				},
 				"image_uris": {
-					"en": "''' + utils.get_picurl(set_data, card, True) + '''"
+					"en": "''' + utils.get_picurl(set_data, card, False) + '''"
 				}
 			},
-			"image_uris": {
-				"en": "''' + utils.get_picurl(set_data, card, False) + '''"
-			}
-		},
-	'''
-		else:
-			draft_string += '''		"image_uris": {
-				"en": "''' + utils.get_picurl(set_data, card) + '''"
-			}
-		}''' + (''',''' if x != len(set_data['cards']) - 1 else '''''') + '''
-	'''
+		'''
+			else:
+				draft_string += '''		"image_uris": {
+					"en": "''' + utils.get_picurl(set_data, card) + '''"
+				}
+			}''' + (''',''' if x != len(set_data['cards']) - 1 else '''''') + '''
+		'''
 
 	draft_string += ''']
 
