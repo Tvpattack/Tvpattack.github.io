@@ -1,6 +1,7 @@
 ﻿[CustomCards]
 	[
 	false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/312_Ancient Telescope.png"
 				}
@@ -16,6 +17,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/313_Bag of Holding.png"
 				}
@@ -31,6 +33,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/210_Book of Secret Arts.png"
 				}
@@ -46,6 +49,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/52_Dragon Capture Jar.png"
 				}
@@ -61,6 +65,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/314_Mental Lock.png"
 				}
@@ -76,6 +81,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/33_Mystical Capture Chain.png"
 				}
@@ -91,6 +97,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/249_Prismatic Bulb.png"
 				}
@@ -106,6 +113,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/250_Rainbow Flower.png"
 				}
@@ -121,6 +129,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/104_Temple of Skulls.png"
 				}
@@ -136,6 +145,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/174_Ancient Jar.png"
 				}
@@ -151,6 +161,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/184_Golgoil.png"
 				}
@@ -166,6 +177,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/17_Bat.png"
 				}
@@ -181,6 +193,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/289_Gradius.png"
 				}
@@ -196,6 +209,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/290_Gradius Option.png"
 				}
@@ -211,6 +225,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/96_Man-Eating Treasure Chest.png"
 				}
@@ -226,6 +241,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/248_Metal Dragon.png"
 				}
@@ -241,6 +257,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/245_Giant Mech-Soldier.png"
 				}
@@ -256,6 +273,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/224_Mech Mole Zombie.png"
 				}
@@ -271,6 +289,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/253_Steel Ogre Grotto 1.png"
 				}
@@ -286,6 +305,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/252_Statue of Easter Island.png"
 				}
@@ -301,6 +321,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/83_Cyber Soldier of Darkworld.png"
 				}
@@ -316,6 +337,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/183_Giant Soldier of Stone.png"
 				}
@@ -331,6 +353,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/194_Patrol Robo.png"
 				}
@@ -346,6 +369,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/24_Hard Armor.png"
 				}
@@ -361,6 +385,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/144_Beast Fangs.png"
 				}
@@ -376,6 +401,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/287_Cyclon Laser.png"
 				}
@@ -391,6 +417,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/115_Dragon Treasure.png"
 				}
@@ -406,6 +433,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/116_Electro-Whip.png"
 				}
@@ -421,6 +449,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/185_Gust Fan.png"
 				}
@@ -436,6 +465,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/246_Laser Cannon Armor.png"
 				}
@@ -451,6 +481,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/28_Legendary Sword.png"
 				}
@@ -466,6 +497,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/247_Machine Conversion Factory.png"
 				}
@@ -481,6 +513,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/64_Power of Kaishin.png"
 				}
@@ -496,6 +529,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/197_Silver Bow and Arrow.png"
 				}
@@ -511,6 +545,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/284_Sword of Dark Destruction.png"
 				}
@@ -526,6 +561,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/107_Violet Crystal.png"
 				}
@@ -541,6 +577,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/272_Basic Fault LOB.png"
 				}
@@ -556,6 +593,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/271_Basic Forest LOB.png"
 				}
@@ -571,6 +609,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/268_Basic Island LOB.png"
 				}
@@ -586,6 +625,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/270_Basic Mountain LOB.png"
 				}
@@ -601,6 +641,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/267_Basic Plains LOB.png"
 				}
@@ -616,6 +657,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/269_Basic Swamp LOB.png"
 				}
@@ -631,6 +673,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/23_Happy Lover.png"
 				}
@@ -646,6 +689,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/26_Hourglass of Courage.png"
 				}
@@ -661,6 +705,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/186_Hourglass of Life.png"
 				}
@@ -676,6 +721,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/37_Petit Angel.png"
 				}
@@ -691,6 +737,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/42_Shining Friendship.png"
 				}
@@ -706,6 +753,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/308_Soul of the Pure.png"
 				}
@@ -721,6 +769,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/43_Spirit of the Harp.png"
 				}
@@ -736,6 +785,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/225_Meda Bat.png"
 				}
@@ -751,6 +801,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/123_Frenzied Panda.png"
 				}
@@ -766,6 +817,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/94_Mabarrel.png"
 				}
@@ -781,6 +833,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/19_Beaver Warrior.png"
 				}
@@ -796,6 +849,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/234_Skull Red Bird.png"
 				}
@@ -811,6 +865,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/230_Punished Eagle.png"
 				}
@@ -826,6 +881,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/181_Droll Bird.png"
 				}
@@ -841,6 +897,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/5_Kurama.png"
 				}
@@ -856,6 +913,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/20_Fiend Reflection 2.png"
 				}
@@ -871,6 +929,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/69_Spirit of the Books.png"
 				}
@@ -886,6 +945,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/209_Bolt Penguin.png"
 				}
@@ -901,6 +961,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/65_Rare Fish.png"
 				}
@@ -916,6 +977,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/72_Turtle Tiger.png"
 				}
@@ -931,6 +993,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/45_Tiger Axe.png"
 				}
@@ -946,6 +1009,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/302_Leo Wizard.png"
 				}
@@ -961,6 +1025,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/129_Rabid Horseman.png"
 				}
@@ -976,6 +1041,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/141_Wood Clown.png"
 				}
@@ -991,6 +1057,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/154_Hitotsu-Me Giant.png"
 				}
@@ -1006,6 +1073,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/97_Midnight Fiend.png"
 				}
@@ -1021,6 +1089,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/232_Ryu-Kishin.png"
 				}
@@ -1036,6 +1105,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/106_Tyhone.png"
 				}
@@ -1051,6 +1121,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/200_Synchar.png"
 				}
@@ -1066,6 +1137,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/283_Mystic Clown.png"
 				}
@@ -1081,6 +1153,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/190_Meotoko.png"
 				}
@@ -1096,6 +1169,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/99_Red-Eyes Black Dragon.png"
 				}
@@ -1111,6 +1185,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/71_Tri-Horned Dragon.png"
 				}
@@ -1126,6 +1201,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/175_Archfiend Mirror.png"
 				}
@@ -1141,6 +1217,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/231_Roaring Ocean Snake.png"
 				}
@@ -1156,6 +1233,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/244_Yormungarde.png"
 				}
@@ -1171,6 +1249,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/73_Twin Long Rods 1.png"
 				}
@@ -1186,6 +1265,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/233_Sanwitch.png"
 				}
@@ -1201,6 +1281,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/103_Succubus Knight.png"
 				}
@@ -1216,6 +1297,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/88_Dark Plant.png"
 				}
@@ -1231,6 +1313,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/108_Witty Phantom.png"
 				}
@@ -1246,6 +1329,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/179_Dig Beak.png"
 				}
@@ -1261,6 +1345,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/101_Shadow Who Controls the Dark.png"
 				}
@@ -1276,6 +1361,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/132_Rhaimundos of the Red Sword.png"
 				}
@@ -1291,6 +1377,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/226_Megirus Light.png"
 				}
@@ -1306,6 +1393,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/195_Phantom Dewan.png"
 				}
@@ -1321,6 +1409,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/87_Dark King of the Abyss.png"
 				}
@@ -1336,6 +1425,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/168_Tomozaurus.png"
 				}
@@ -1351,6 +1441,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/138_Two-Mouth Darkruler.png"
 				}
@@ -1366,6 +1457,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/169_Uraby.png"
 				}
@@ -1381,6 +1473,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/208_Blue-Eyes White Dragon.png"
 				}
@@ -1396,6 +1489,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/81_Curse of Dragon.png"
 				}
@@ -1411,6 +1505,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/158_Lesser Dragon.png"
 				}
@@ -1426,6 +1521,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/242_Winged Dragon, Guardian of the Fortress 1.png"
 				}
@@ -1441,6 +1537,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/243_Winged Dragon, Guardian of the Fortress 2.png"
 				}
@@ -1456,6 +1553,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/241_Wicked Dragon with the Ersatz Head.png"
 				}
@@ -1471,6 +1569,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/137_Tripwire Beast.png"
 				}
@@ -1486,6 +1585,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/188_Kaiser Dragon.png"
 				}
@@ -1501,6 +1601,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/38_Petit Dragon.png"
 				}
@@ -1516,6 +1617,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/136_That Which Feeds on Life.png"
 				}
@@ -1531,6 +1633,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/35_One-Eyed Shield Dragon.png"
 				}
@@ -1546,6 +1649,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/30_Monster Egg.png"
 				}
@@ -1561,6 +1665,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/127_Little D.png"
 				}
@@ -1576,6 +1681,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/118_Fire Eye.png"
 				}
@@ -1591,6 +1697,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/215_Flame Ghost.png"
 				}
@@ -1606,6 +1713,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/213_Empress Judge.png"
 				}
@@ -1621,6 +1729,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/95_Mammoth Graveyard.png"
 				}
@@ -1636,6 +1745,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/34_Mystical Elf.png"
 				}
@@ -1651,6 +1761,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/18_Battle Warrior.png"
 				}
@@ -1666,6 +1777,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/145_Celtic Guardian.png"
 				}
@@ -1681,6 +1793,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/301_Key Mace 2.png"
 				}
@@ -1696,6 +1809,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/214_Fairywitch.png"
 				}
@@ -1711,6 +1825,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/32_Musician King.png"
 				}
@@ -1726,6 +1841,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/212_Dragoness the Wicked Knight.png"
 				}
@@ -1741,6 +1857,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/219_Gaia the Dragon Champion.png"
 				}
@@ -1756,6 +1873,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/146_Doriado.png"
 				}
@@ -1771,6 +1889,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/31_Muse-A.png"
 				}
@@ -1786,6 +1905,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/149_Gaia The Fierce Knight.png"
 				}
@@ -1801,6 +1921,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/79_Armed Ninja.png"
 				}
@@ -1816,6 +1937,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/291_Ansatsu.png"
 				}
@@ -1831,6 +1953,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/206_Armaill.png"
 				}
@@ -1846,6 +1969,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/207_Beautiful Headhuntress.png"
 				}
@@ -1861,6 +1985,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/238_Warrior of Tradition.png"
 				}
@@ -1876,6 +2001,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/216_Flame Swordsman.png"
 				}
@@ -1891,6 +2017,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/4_Kagemusha of the Blue Flame.png"
 				}
@@ -1906,6 +2033,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/57_Karbonala Warrior.png"
 				}
@@ -1921,6 +2049,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/191_Minomushi Warrior.png"
 				}
@@ -1936,6 +2065,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/285_Sonic Maid.png"
 				}
@@ -1951,6 +2081,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/44_St Joan.png"
 				}
@@ -1966,6 +2097,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/59_M-Warrior 1.png"
 				}
@@ -1981,6 +2113,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/160_M-Warrior 2.png"
 				}
@@ -1996,6 +2129,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/211_Dark Magician.png"
 				}
@@ -2011,6 +2145,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/121_Fireyarou.png"
 				}
@@ -2026,6 +2161,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/122_Flame Manipulator.png"
 				}
@@ -2041,6 +2177,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/237_Vermillion Sparrow.png"
 				}
@@ -2056,6 +2193,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/222_Kamionwizard.png"
 				}
@@ -2071,6 +2209,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/296_Fiends Hand.png"
 				}
@@ -2086,6 +2225,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/177_Boo Koo.png"
 				}
@@ -2101,6 +2241,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/173_Alinsection.png"
 				}
@@ -2116,6 +2257,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/143_Basic Insect.png"
 				}
@@ -2131,6 +2273,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/150_Giant Flea.png"
 				}
@@ -2146,6 +2289,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/162_Man-Eater Bug.png"
 				}
@@ -2161,6 +2305,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/153_Hercules Beetle.png"
 				}
@@ -2176,6 +2321,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/156_Kuwagata Alpha.png"
 				}
@@ -2191,6 +2337,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/157_Kwagar Hercules.png"
 				}
@@ -2206,6 +2353,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/126_Larvas.png"
 				}
@@ -2221,6 +2369,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/192_Mon Larvas.png"
 				}
@@ -2236,6 +2385,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/139_Winged Cleaver.png"
 				}
@@ -2251,6 +2401,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/303_Lisark.png"
 				}
@@ -2266,6 +2417,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/147_Drooling Lizard.png"
 				}
@@ -2281,6 +2433,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/77_Zarigun.png"
 				}
@@ -2296,6 +2449,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/297_Great White.png"
 				}
@@ -2311,6 +2465,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/280_Kappa Avenger.png"
 				}
@@ -2326,6 +2481,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/54_Furious Sea King.png"
 				}
@@ -2341,6 +2497,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/76_Wow Warrior.png"
 				}
@@ -2356,6 +2513,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/53_Enchanting Mermaid.png"
 				}
@@ -2371,6 +2529,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/67_Root Water.png"
 				}
@@ -2386,6 +2545,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/135_Terra the Terrible.png"
 				}
@@ -2401,6 +2561,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/161_Man Eater.png"
 				}
@@ -2416,6 +2577,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/163_Man-Eating Plant.png"
 				}
@@ -2431,6 +2593,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/142_Abyss Flower.png"
 				}
@@ -2446,6 +2609,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/89_Darkfire Dragon.png"
 				}
@@ -2461,6 +2625,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/166_Rose Spectre of Dunn.png"
 				}
@@ -2476,6 +2641,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/171_Wodan the Resident of the Forest.png"
 				}
@@ -2491,6 +2657,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/176_Bean Soldier.png"
 				}
@@ -2506,6 +2673,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/120_Firegrass.png"
 				}
@@ -2521,6 +2689,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/217_Flower Wolf.png"
 				}
@@ -2536,6 +2705,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/204_Wilmee.png"
 				}
@@ -2551,6 +2721,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/8_Masaki the Legendary Swordsman.png"
 				}
@@ -2566,6 +2737,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/36_Oscillo Hero.png"
 				}
@@ -2581,6 +2753,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/239_Wattkid.png"
 				}
@@ -2596,6 +2769,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/193_Nightmare Scorpion.png"
 				}
@@ -2611,6 +2785,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/2_Dark Gray.png"
 				}
@@ -2626,6 +2801,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/295_Embryonic Beast.png"
 				}
@@ -2641,6 +2817,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/182_Eyearmor.png"
 				}
@@ -2656,6 +2833,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/114_Doron.png"
 				}
@@ -2671,6 +2849,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/61_Misairuzame.png"
 				}
@@ -2686,6 +2865,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/220_Harpie Lady.png"
 				}
@@ -2701,6 +2881,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/298_Harpie Lady Sisters.png"
 				}
@@ -2716,6 +2897,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/155_Kumootoko.png"
 				}
@@ -2731,6 +2913,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/66_Reaper of the Cards.png"
 				}
@@ -2746,6 +2929,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/201_Tao the Chanter.png"
 				}
@@ -2761,6 +2945,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/51_Djinn the Watcher of the Wind.png"
 				}
@@ -2776,6 +2961,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/124_Hane-Hane.png"
 				}
@@ -2791,6 +2977,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/228_One Who Hunts Souls.png"
 				}
@@ -2806,6 +2993,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/196_Secretarian of Secrets.png"
 				}
@@ -2821,6 +3009,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/311_Vishwar Randi.png"
 				}
@@ -2836,6 +3025,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/167_Silver Fang.png"
 				}
@@ -2851,6 +3041,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/229_Pragticul.png"
 				}
@@ -2866,6 +3057,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/91_Gate Deeg.png"
 				}
@@ -2881,6 +3073,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/198_Skullbird.png"
 				}
@@ -2896,6 +3089,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/15_Skelegon.png"
 				}
@@ -2911,6 +3105,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/180_Drdek.png"
 				}
@@ -2926,6 +3121,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/47_Akihiron.png"
 				}
@@ -2941,6 +3137,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/80_Bone Mouse.png"
 				}
@@ -2956,6 +3153,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/68_Spike Seadra.png"
 				}
@@ -2971,6 +3169,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/84_Dark Artist.png"
 				}
@@ -2986,6 +3185,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/305_Phantom Ghost.png"
 				}
@@ -3001,6 +3201,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/102_Skull Servant.png"
 				}
@@ -3016,6 +3217,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/49_Armored Starfish.png"
 				}
@@ -3031,6 +3233,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/78_The 13th Grave.png"
 				}
@@ -3046,6 +3249,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/109_Zombie Warrior.png"
 				}
@@ -3061,6 +3265,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/119_Fire Reaper.png"
 				}
@@ -3076,6 +3281,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/82_Curtain of the Dark Ones.png"
 				}
@@ -3091,6 +3297,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/294_Elegant Egotist.png"
 				}
@@ -3106,6 +3313,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/273_Elfs Light.png"
 				}
@@ -3121,6 +3329,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/152_Haniwa.png"
 				}
@@ -3136,6 +3345,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/29_Lucky Trinket.png"
 				}
@@ -3151,6 +3361,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/70_Steel Shell.png"
 				}
@@ -3166,6 +3377,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/202_Tatsunootoshigo.png"
 				}
@@ -3181,6 +3393,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/60_The Melting Red Shadow.png"
 				}
@@ -3196,6 +3409,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/236_Trap Hole.png"
 				}
@@ -3211,6 +3425,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/310_Ultimate Offering.png"
 				}
@@ -3226,6 +3441,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/140_Wings of Wicked Flame.png"
 				}
@@ -3241,6 +3457,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/205_Yamatano Dragon Scroll.png"
 				}
@@ -3256,6 +3473,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/251_The Seal of Orichalcos.png"
 				}
@@ -3271,6 +3489,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/27_LaMoon.png"
 				}
@@ -3286,6 +3505,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/235_Takuhee.png"
 				}
@@ -3301,6 +3521,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/218_Fusionist.png"
 				}
@@ -3316,6 +3537,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/48_Aqua Madoor.png"
 				}
@@ -3331,6 +3553,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/113_Dissolverrock.png"
 				}
@@ -3346,6 +3569,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/125_Hinotama Soul.png"
 				}
@@ -3361,6 +3585,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/56_Hurricail.png"
 				}
@@ -3376,6 +3601,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/189_LaLa Li-oon.png"
 				}
@@ -3391,6 +3617,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/240_Weather Control.png"
 				}
@@ -3406,6 +3633,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/223_Mavelus.png"
 				}
@@ -3421,6 +3649,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/134_Stone Ghost.png"
 				}
@@ -3436,6 +3665,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/74_Water Element.png"
 				}
@@ -3451,6 +3681,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/112_Charubin the Fire Knight.png"
 				}
@@ -3466,6 +3697,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/58_King Fog.png"
 				}
@@ -3481,6 +3713,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/151_Green Phantom King.png"
 				}
@@ -3496,6 +3729,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/221_Kaminari Attack.png"
 				}
@@ -3511,6 +3745,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/275_The Judgement Hand.png"
 				}
@@ -3526,6 +3761,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/203_Thunder Kid.png"
 				}
@@ -3541,6 +3777,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/63_Nemuriko.png"
 				}
@@ -3556,6 +3793,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/159_Living Vase.png"
 				}
@@ -3571,6 +3809,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/90_Darkworld Thorns.png"
 				}
@@ -3586,6 +3825,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/165_Mystical Sheep 2.png"
 				}
@@ -3601,6 +3841,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/39_Ray and Temperature.png"
 				}
@@ -3616,6 +3857,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/41_Sand Stone.png"
 				}
@@ -3631,6 +3873,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/187_Invigoration.png"
 				}
@@ -3646,6 +3889,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/62_Mystical Moon.png"
 				}
@@ -3661,6 +3905,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/170_Vile Germs.png"
 				}
@@ -3676,6 +3921,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/286_Ascent From Snakes.png"
 				}
@@ -3691,6 +3937,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/1_Blue Medicine.png"
 				}
@@ -3706,6 +3953,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/282_Called by the Void.png"
 				}
@@ -3721,6 +3969,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/278_Consult Eternity.png"
 				}
@@ -3736,6 +3985,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/50_Corroding Shark.png"
 				}
@@ -3751,6 +4001,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/292_Dark-Piercing Light.png"
 				}
@@ -3766,6 +4017,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/293_Deathly Bellow.png"
 				}
@@ -3781,6 +4033,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/279_Denied by Nature.png"
 				}
@@ -3796,6 +4049,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/288_Discover Uncertainty.png"
 				}
@@ -3811,6 +4065,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/148_Fissure.png"
 				}
@@ -3826,6 +4081,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/22_Goblins Secret Remedy.png"
 				}
@@ -3841,6 +4097,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/92_Gravedigger Ghoul.png"
 				}
@@ -3856,6 +4113,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/25_Hinotama.png"
 				}
@@ -3871,6 +4129,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/300_Into the Unknown.png"
 				}
@@ -3886,6 +4145,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/276_Light of Hope.png"
 				}
@@ -3901,6 +4161,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/164_Marmot of Nefariousness.png"
 				}
@@ -3916,6 +4177,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/227_Monster Reborn.png"
 				}
@@ -3931,6 +4193,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/304_Nefairious Archfiend.png"
 				}
@@ -3946,6 +4209,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/130_Raise Body Heat.png"
 				}
@@ -3961,6 +4225,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/12_Red Medicine.png"
 				}
@@ -3976,6 +4241,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/307_Reverse Trap.png"
 				}
@@ -3991,6 +4257,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/40_Rouge Doll.png"
 				}
@@ -4006,6 +4273,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/133_Sparks.png"
 				}
@@ -4021,6 +4289,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/277_Sun-Scorched Tempering.png"
 				}
@@ -4036,6 +4305,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/309_Survivors Hospitality.png"
 				}
@@ -4051,6 +4321,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/299_The Inexperienced Spy.png"
 				}
@@ -4066,6 +4337,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/105_Trial of Nightmare.png"
 				}
@@ -4081,6 +4353,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/281_Veto.png"
 				}
@@ -4096,6 +4369,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/75_White Dolphin.png"
 				}
@@ -4111,6 +4385,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/254_Ancient Forest.png"
 				}
@@ -4126,6 +4401,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/255_Canyon.png"
 				}
@@ -4141,6 +4417,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/256_Fire Prison.png"
 				}
@@ -4156,6 +4433,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/257_Mystic Plasma Zone.png"
 				}
@@ -4171,6 +4449,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/258_Mythical Forest.png"
 				}
@@ -4186,6 +4465,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/259_Mythical Mountain.png"
 				}
@@ -4201,6 +4481,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/260_Mythical Sogen.png"
 				}
@@ -4216,6 +4497,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/261_Mythical Umi.png"
 				}
@@ -4231,6 +4513,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/262_Mythical Wasteland.png"
 				}
@@ -4246,6 +4529,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/263_Mythical Yami.png"
 				}
@@ -4261,6 +4545,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/264_Shadows Light.png"
 				}
@@ -4276,6 +4561,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/266_Umiiruka.png"
 				}
@@ -4291,6 +4577,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/3_Exodia the Forbidden One.png"
 				}
@@ -4306,6 +4593,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/6_Left Arm of the Forbidden One.png"
 				}
@@ -4321,6 +4609,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/7_Left Leg of the Forbidden One.png"
 				}
@@ -4336,6 +4625,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/13_Right Arm of the Forbidden One.png"
 				}
@@ -4351,6 +4641,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/14_Right Leg of the Forbidden One.png"
 				}
@@ -4366,6 +4657,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/12t_Extra Rulings for Silver.png"
 				}
@@ -4381,6 +4673,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/5t_Sanctum Reminder.png"
 				}
@@ -4396,6 +4689,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/110_Burning Spear.png"
 				}
@@ -4411,6 +4705,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/111_Candle of Fate.png"
 				}
@@ -4426,6 +4721,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/178_Castle Walls.png"
 				}
@@ -4441,6 +4737,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/85_Dark Energy.png"
 				}
@@ -4456,6 +4753,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/86_Dark Hole.png"
 				}
@@ -4471,6 +4769,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/117_Final Flame.png"
 				}
@@ -4486,6 +4785,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/21_Follow Wind.png"
 				}
@@ -4501,6 +4801,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/93_Graveyard and the Hand of Invitation.png"
 				}
@@ -4516,6 +4817,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/98_Mystery Hand.png"
 				}
@@ -4531,6 +4833,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/128_Ookazi.png"
 				}
@@ -4546,6 +4849,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/9_Polymerization.png"
 				}
@@ -4561,6 +4865,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/10_Pot of Greed.png"
 				}
@@ -4576,6 +4881,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/11_Raigeki.png"
 				}
@@ -4591,6 +4897,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/306_Raimei.png"
 				}
@@ -4606,6 +4913,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/131_Reinforcements.png"
 				}
@@ -4621,6 +4929,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/100_Remove Trap.png"
 				}
@@ -4636,6 +4945,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/16_Stop Defense.png"
 				}
@@ -4651,6 +4961,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/199_Swords of Revealing Light.png"
 				}
@@ -4666,6 +4977,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/274_The Great Tear.png"
 				}
@@ -4681,6 +4993,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/46_Two-Pronged Attack.png"
 				}
@@ -4696,6 +5009,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/172_Yashinoki.png"
 				}
@@ -4711,6 +5025,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/1t_Lifelink Counter.png"
 				}
@@ -4726,6 +5041,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/2t_Menace Counter.png"
 				}
@@ -4741,6 +5057,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/3t_Plus 1 Plus 1 Counter.png"
 				}
@@ -4756,6 +5073,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/4t_Reach Counter.png"
 				}
@@ -4771,6 +5089,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/7t_Stun Counter.png"
 				}
@@ -4786,6 +5105,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/8t_Vigilance Counter.png"
 				}
@@ -4801,6 +5121,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/14t_Robot Token LOB.png"
 				}
@@ -4816,6 +5137,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/15t_Wall Token.png"
 				}
@@ -4831,6 +5153,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/10t_Demon Token.png"
 				}
@@ -4846,6 +5169,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/9t_Dragon Token LOB.png"
 				}
@@ -4861,6 +5185,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/11t_Elemental Token.png"
 				}
@@ -4876,6 +5201,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/13t_Insect Plant Token.png"
 				}
@@ -4891,6 +5217,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/6t_Shapeshifter Token LOB.png"
 				}
@@ -4906,6 +5233,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/265_Shifting Obelisks.png"
 				}
@@ -4921,6 +5249,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/317_Severed Precipice.png"
 				}
@@ -4936,6 +5265,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/318_Sulking Fortress.png"
 				}
@@ -4951,6 +5281,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/316_Mudbound Stream.png"
 				}
@@ -4966,6 +5297,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/315_Carved Sward.png"
 				}
@@ -4981,6 +5313,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/16t_Castle Token.png"
 				}
@@ -4996,6 +5329,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/55_Hitodenchak.png"
 				}

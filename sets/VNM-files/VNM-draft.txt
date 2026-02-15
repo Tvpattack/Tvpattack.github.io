@@ -1,6 +1,7 @@
 ﻿[CustomCards]
 	[
 	false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/219_Drake Wrangler.png"
 				}
@@ -16,6 +17,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/267_Tofnet Riftstalker.png"
 				}
@@ -31,6 +33,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/246_Passage Overseer.png"
 				}
@@ -46,6 +49,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/210_Bruin Wanderer.png"
 				}
@@ -61,6 +65,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/206_Avakin Riftseeker.png"
 				}
@@ -76,6 +81,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/270_Untamed Drake.png"
 				}
@@ -91,6 +97,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/202_Aeon Awakener.png"
 				}
@@ -106,6 +113,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/211_Bulwark of the Thicket.png"
 				}
@@ -121,6 +129,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/240_Multaphs Riftwarden.png"
 				}
@@ -136,6 +145,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/256_Rush Down.png"
 				}
@@ -151,6 +161,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/253_Purge the Clanless.png"
 				}
@@ -166,6 +177,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/266_Survivors Instinct.png"
 				}
@@ -181,6 +193,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/221_Entrance of Hunger.png"
 				}
@@ -196,6 +209,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/252_Prismatism.png"
 				}
@@ -211,6 +225,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/203_Aerial Roost.png"
 				}
@@ -226,6 +241,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/261_Soul Fire.png"
 				}
@@ -241,6 +257,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/220_Dust to Life.png"
 				}
@@ -256,6 +273,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/230_Hired Enforcer.png"
 				}
@@ -271,6 +289,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/248_Perplexing Ray.png"
 				}
@@ -286,6 +305,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/214_Clanless Usurper.png"
 				}
@@ -301,6 +321,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/242_Opportunistic Scavenger.png"
 				}
@@ -316,6 +337,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/244_Outlands Bulwark.png"
 				}
@@ -331,6 +353,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/237_Mischievous Fox.png"
 				}
@@ -346,6 +369,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/255_Roduth's Guard.png"
 				}
@@ -361,6 +385,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/204_Ageless History.png"
 				}
@@ -376,6 +401,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/231_Icebound Reinforcements.png"
 				}
@@ -391,6 +417,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/208_Blossoming Mentor.png"
 				}
@@ -406,6 +433,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/201_Accord Mentor.png"
 				}
@@ -421,6 +449,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/223_Eternal Mentor.png"
 				}
@@ -436,6 +465,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/215_Conflict Mentor.png"
 				}
@@ -451,6 +481,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/243_Outcast Mentor.png"
 				}
@@ -466,6 +497,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/21_Fadove Initiate.png"
 				}
@@ -481,6 +513,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/25_Fadove Trainer.png"
 				}
@@ -496,6 +529,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/45_Trusted Companion.png"
 				}
@@ -511,6 +545,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/24_Fadove Tracker.png"
 				}
@@ -526,6 +561,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/34_Outlands Marauder.png"
 				}
@@ -541,6 +577,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/47_Wandering Soul.png"
 				}
@@ -556,6 +593,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/20_Fadove Drillmaster.png"
 				}
@@ -571,6 +609,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/33_Oathkeep Wurm.png"
 				}
@@ -586,6 +625,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/18_Drake Rider.png"
 				}
@@ -601,6 +641,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/39_Radiant Guide.png"
 				}
@@ -616,6 +657,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/216_Covetous Fox.png"
 				}
@@ -631,6 +673,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/40_Rebuke the Foul.png"
 				}
@@ -646,6 +689,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/32_Maddened by Hunger.png"
 				}
@@ -661,6 +705,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/19_Fadove Bodyguard.png"
 				}
@@ -676,6 +721,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/17_Combat Diviner.png"
 				}
@@ -691,6 +737,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/61_Frostborn Sentinel.png"
 				}
@@ -706,6 +753,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/72_Respite Partisan.png"
 				}
@@ -721,6 +769,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/59_Due Dismissal.png"
 				}
@@ -736,6 +785,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/58_Denied by Nature.png"
 				}
@@ -751,6 +801,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/70_Repel the Invasion.png"
 				}
@@ -766,6 +817,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/77_Storm Bearer.png"
 				}
@@ -781,6 +833,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/71_Resolute Watcher.png"
 				}
@@ -796,6 +849,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/52_Avakin Sayer.png"
 				}
@@ -811,6 +865,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/54_Avlod Diviner.png"
 				}
@@ -826,6 +881,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/49_Aspiring Mount.png"
 				}
@@ -841,6 +897,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/93_Cooing Foundling.png"
 				}
@@ -856,6 +913,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/84_Avakin Avenger.png"
 				}
@@ -871,6 +929,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/97_Gateway Guardian.png"
 				}
@@ -886,6 +945,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/88_Avakin Riftwalker.png"
 				}
@@ -901,6 +961,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/109_Rift Tender.png"
 				}
@@ -916,6 +977,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/114_Waking Words.png"
 				}
@@ -931,6 +993,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/85_Avakin Cleaner.png"
 				}
@@ -946,6 +1009,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/83_Avakin Assaulter.png"
 				}
@@ -961,6 +1025,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/110_Scornful Pursuit.png"
 				}
@@ -976,6 +1041,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/100_Left for the Crows.png"
 				}
@@ -991,6 +1057,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/116_Weight of Betrayal.png"
 				}
@@ -1006,6 +1073,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/98_Iconic Resurgence.png"
 				}
@@ -1021,6 +1089,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/90_Avlod Necklace.png"
 				}
@@ -1036,6 +1105,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/87_Avakin Mentor.png"
 				}
@@ -1051,6 +1121,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/111_Shaman of Rites Lost.png"
 				}
@@ -1066,6 +1137,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/86_Avakin Hireblade.png"
 				}
@@ -1081,6 +1153,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/125_Frontline Assaulter.png"
 				}
@@ -1096,6 +1169,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/129_Minotaur Riftcaller.png"
 				}
@@ -1111,6 +1185,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/123_Fervent Incandescence.png"
 				}
@@ -1126,6 +1201,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/133_Mordel Patrol.png"
 				}
@@ -1141,6 +1217,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/143_Tenuous Empowerment.png"
 				}
@@ -1156,6 +1233,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/131_Mordel Drillmaster.png"
 				}
@@ -1171,6 +1249,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/147_Verem-Volcano Rumbler.png"
 				}
@@ -1186,6 +1265,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/263_Stalking Entity.png"
 				}
@@ -1201,6 +1281,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/126_Iconic Resolution.png"
 				}
@@ -1216,6 +1297,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/122_Conscripted by the Clanless.png"
 				}
@@ -1231,6 +1313,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/121_Clanless Destruction.png"
 				}
@@ -1246,6 +1329,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/145_Unexpected Discovery.png"
 				}
@@ -1261,6 +1345,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/118_Brood Protector.png"
 				}
@@ -1276,6 +1361,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/128_Minotaur Outlander.png"
 				}
@@ -1291,6 +1377,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/132_Mordel Excursionist.png"
 				}
@@ -1306,6 +1393,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/127_Lavaskimmer Wurm.png"
 				}
@@ -1321,6 +1409,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/119_Burnout.png"
 				}
@@ -1336,6 +1425,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/161_Farming Wurm.png"
 				}
@@ -1351,6 +1441,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/152_Awakened Harmony.png"
 				}
@@ -1366,6 +1457,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/168_Mordel Formgiver.png"
 				}
@@ -1381,6 +1473,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/172_Outlands Diviner.png"
 				}
@@ -1396,6 +1489,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/156_Bruin Clankeeper.png"
 				}
@@ -1411,6 +1505,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/171_Multaphs Watch.png"
 				}
@@ -1426,6 +1521,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/178_Progeny of Mordel.png"
 				}
@@ -1441,6 +1537,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/163_Iconic Altercation.png"
 				}
@@ -1456,6 +1553,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/154_Boon of Roduth.png"
 				}
@@ -1471,6 +1569,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/180_Ripped into Eternity.png"
 				}
@@ -1486,6 +1585,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/179_Rifttouched Ursine.png"
 				}
@@ -1501,6 +1601,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/184_Triumphant Riftcaller.png"
 				}
@@ -1516,6 +1617,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/162_Forest Assailant.png"
 				}
@@ -1531,6 +1633,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/177_Progeny of Bruin.png"
 				}
@@ -1546,6 +1649,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/9_Rippling Crustacean.png"
 				}
@@ -1561,6 +1665,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/195_Starbright Entity.png"
 				}
@@ -1576,6 +1681,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/1_Aspiring Entity.png"
 				}
@@ -1591,6 +1697,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/284_Wings of New Horizons.png"
 				}
@@ -1606,6 +1713,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/297_Rip to Tomorrow.png"
 				}
@@ -1621,6 +1729,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/282_Powerstone Claw.png"
 				}
@@ -1636,6 +1745,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/13_Wandering Entity.png"
 				}
@@ -1651,6 +1761,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/193_Pinnacle Skitter.png"
 				}
@@ -1666,6 +1777,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/10_Tidepool Scuttler.png"
 				}
@@ -1681,6 +1793,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/280_Explorers Compass.png"
 				}
@@ -1696,6 +1809,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/249_Pinnacle Wanderer.png"
 				}
@@ -1711,6 +1825,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/228_Frostnip Watcher.png"
 				}
@@ -1726,6 +1841,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/260_Shroud Walkers.png"
 				}
@@ -1741,6 +1857,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/272_Verem-Volcano Stalker.png"
 				}
@@ -1756,6 +1873,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/38_Power of Oath.png"
 				}
@@ -1771,6 +1889,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/30_Iconic Absolution.png"
 				}
@@ -1786,6 +1905,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/48_Wipe Away the Wicked.png"
 				}
@@ -1801,6 +1921,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/43_Stalwart Resolution.png"
 				}
@@ -1816,6 +1937,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/26_Fadove Willshaper.png"
 				}
@@ -1831,6 +1953,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/108_Returned from Beyond.png"
 				}
@@ -1846,6 +1969,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/140_Rift Burn.png"
 				}
@@ -1861,6 +1985,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/82_Windshaper Drake.png"
 				}
@@ -1876,6 +2001,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/78_Study the Rifts.png"
 				}
@@ -1891,6 +2017,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/153_Blessing of Uth.png"
 				}
@@ -1906,6 +2033,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/170_Multaphs Resplendant.png"
 				}
@@ -1921,6 +2049,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/158_Bruin Outlander.png"
 				}
@@ -1936,6 +2065,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/94_Dark Lessons.png"
 				}
@@ -1951,6 +2081,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/120_Chromaboon Blade.png"
 				}
@@ -1966,6 +2097,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/144_Towering Protector.png"
 				}
@@ -1981,6 +2113,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/257_Sage of the Aeons.png"
 				}
@@ -1996,6 +2129,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/51_Avakin Opportunist.png"
 				}
@@ -2011,6 +2145,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/73_Sage of Truths.png"
 				}
@@ -2026,6 +2161,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/264_Stalwart Guard.png"
 				}
@@ -2041,6 +2177,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/65_Outlands Wanderer.png"
 				}
@@ -2056,6 +2193,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/60_Frostborn Glimmer.png"
 				}
@@ -2071,6 +2209,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/63_Kaln-Ocean Cloak.png"
 				}
@@ -2086,6 +2225,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/79_Suffused Memories.png"
 				}
@@ -2101,6 +2241,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/74_Search For Wisdom.png"
 				}
@@ -2116,6 +2257,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/53_Avakin Watcher.png"
 				}
@@ -2131,6 +2273,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/268_Transient Eternity.png"
 				}
@@ -2146,6 +2289,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/200_Abrupt Death.png"
 				}
@@ -2161,6 +2305,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/227_Fleeting Ruin.png"
 				}
@@ -2176,6 +2321,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/232_Impetuous Eradication.png"
 				}
@@ -2191,6 +2337,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/222_Ephemeral Ordinance.png"
 				}
@@ -2206,6 +2353,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/271_Vanishing Resolve.png"
 				}
@@ -2221,6 +2369,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/218_Cursory Casualty.png"
 				}
@@ -2236,6 +2385,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/269_Transitory Refuge.png"
 				}
@@ -2251,6 +2401,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/225_Evanescent Impasse.png"
 				}
@@ -2266,6 +2417,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/265_Sublime Liquidation.png"
 				}
@@ -2281,6 +2433,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/102_Mistblade Rogue.png"
 				}
@@ -2296,6 +2449,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/166_Manifesting Ardor.png"
 				}
@@ -2311,6 +2465,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/283_Prismatic Powerstone.png"
 				}
@@ -2326,6 +2481,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/69_Razorshell Drake.png"
 				}
@@ -2341,6 +2497,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/148_Verem-Volcano Warrior.png"
 				}
@@ -2356,6 +2513,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/174_Outlands Protector.png"
 				}
@@ -2371,6 +2529,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/142_Smoldering Entity.png"
 				}
@@ -2386,6 +2545,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/76_Skywatch Entity.png"
 				}
@@ -2401,6 +2561,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/27_Giants Blade.png"
 				}
@@ -2416,6 +2577,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/273_Voidborn Entity.png"
 				}
@@ -2431,6 +2593,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/213_Chittering Entity.png"
 				}
@@ -2446,6 +2609,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/141_Riftborn Flames.png"
 				}
@@ -2461,6 +2625,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/42_Shining Idol.png"
 				}
@@ -2476,6 +2641,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/44_Triumphant Entrance.png"
 				}
@@ -2491,6 +2657,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/236_Midnight Raven.png"
 				}
@@ -2506,6 +2673,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/35_Outlands Riftbearer.png"
 				}
@@ -2521,6 +2689,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/167_Mordel Clanwarden.png"
 				}
@@ -2536,6 +2705,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/115_Warden of the Lost.png"
 				}
@@ -2551,6 +2721,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/149_Warforged Herald.png"
 				}
@@ -2566,6 +2737,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/62_Iconic Incident.png"
 				}
@@ -2581,6 +2753,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/169_Mordel Warrior.png"
 				}
@@ -2596,6 +2769,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/164_Keeper of Calm.png"
 				}
@@ -2611,6 +2785,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/89_Avlod Bulwark.png"
 				}
@@ -2626,6 +2801,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/226_Faloden Thickets.png"
 				}
@@ -2641,6 +2817,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/3_Faloden Tear-Warden.png"
 				}
@@ -2656,6 +2833,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/196_Tofnet Predator.png"
 				}
@@ -2671,6 +2849,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/8_Remnant Awakener.png"
 				}
@@ -2686,6 +2865,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/275_Waterspout.png"
 				}
@@ -2701,6 +2881,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/101_Malevolent Naginata.png"
 				}
@@ -2716,6 +2897,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/75_Skillful Blade.png"
 				}
@@ -2731,6 +2913,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/112_Tattered Entity.png"
 				}
@@ -2746,6 +2929,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/159_Crowned Entity.png"
 				}
@@ -2761,6 +2945,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/124_Flaming Iron.png"
 				}
@@ -2776,6 +2961,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/46_Usher of the Lost.png"
 				}
@@ -2791,6 +2977,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/5t_Voidstone Shard.png"
 				}
@@ -2806,6 +2993,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/34t_Reformed Rift.png"
 				}
@@ -2821,6 +3009,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/32t_Vin-Mountain.png"
 				}
@@ -2836,6 +3025,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/28t_Subdued Rift.png"
 				}
@@ -2851,6 +3041,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/22t_Hollow Graze.png"
 				}
@@ -2866,6 +3057,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/21t_Ever Vigilant.png"
 				}
@@ -2881,6 +3073,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/27t_Steady Growth.png"
 				}
@@ -2896,6 +3089,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/14t_Prepared Strike.png"
 				}
@@ -2911,6 +3105,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/13t_In the Moment.png"
 				}
@@ -2926,6 +3121,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/26t_Reshape Will.png"
 				}
@@ -2941,6 +3137,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/25t_Readied Assault.png"
 				}
@@ -2956,6 +3153,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/24t_Military Training.png"
 				}
@@ -2971,6 +3169,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/7t_White Drake Token.png"
 				}
@@ -2986,6 +3185,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/23t_Icebound Reinforcements Token.png"
 				}
@@ -3001,6 +3201,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/1t_Luminous.png"
 				}
@@ -3016,6 +3217,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/209_Breaking the Mold.png"
 				}
@@ -3031,6 +3233,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/20t_Cat Token.png"
 				}
@@ -3046,6 +3249,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/6t_Warped Exploration.png"
 				}
@@ -3061,6 +3265,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/9t_Blue Drake Token.png"
 				}
@@ -3076,6 +3281,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/33t_Vin-Plains.png"
 				}
@@ -3091,6 +3297,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/31t_Vin-Island.png"
 				}
@@ -3106,6 +3313,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/35t_Vin-Swamp.png"
 				}
@@ -3121,6 +3329,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/30t_Vin-Forest.png"
 				}
@@ -3136,6 +3345,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/12t_Harsh Reprise.png"
 				}
@@ -3151,6 +3361,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/41_Ruins of Multa.png"
 				}
@@ -3166,6 +3377,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/238_Multaph Riftborn God.png"
 				}
@@ -3181,6 +3393,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/150_Will of Roduth.png"
 				}
@@ -3196,6 +3409,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/81_Will of Multaph.png"
 				}
@@ -3211,6 +3425,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/277_Will of Destruction.png"
 				}
@@ -3226,6 +3441,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/28_The Great Tear.png"
 				}
@@ -3241,6 +3457,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/239_Multaph's Respite.png"
 				}
@@ -3256,6 +3473,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/198_The Wandering Cook.png"
 				}
@@ -3271,6 +3489,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/241_Najael Travelling Shaman.png"
 				}
@@ -3286,6 +3505,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/92_Called by the Void.png"
 				}
@@ -3301,6 +3521,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/181_Ruins of Uth.png"
 				}
@@ -3316,6 +3537,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/14_Will of Hunger.png"
 				}
@@ -3331,6 +3553,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/254_Roduth God of Conflict.png"
 				}
@@ -3346,6 +3569,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/113_Thargle.png"
 				}
@@ -3361,6 +3585,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/10t_Cut from Void.png"
 				}
@@ -3376,6 +3601,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/298_Rip to Yesterday.png"
 				}
@@ -3391,6 +3617,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/207_Bark of Tofnet Plains.png"
 				}
@@ -3406,6 +3633,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/234_Kaln-Ocean Wispop.png"
 				}
@@ -3421,6 +3649,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/247_Pathborn Crackle.png"
 				}
@@ -3436,6 +3665,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/229_Guardian of Faloden Woods.png"
 				}
@@ -3451,6 +3681,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/245_Outlands Frostalker.png"
 				}
@@ -3466,6 +3697,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/189_Fog Walker.png"
 				}
@@ -3481,6 +3713,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/279_Dromencals Respite.png"
 				}
@@ -3496,6 +3729,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/5_Outlands Respite.png"
 				}
@@ -3511,6 +3745,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/191_Melodia Voidtouched.png"
 				}
@@ -3526,6 +3761,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/16_Calia Oracle of Tofnet Plains.png"
 				}
@@ -3541,6 +3777,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/64_Ola Kaln-Ocean Spellkeeper.png"
 				}
@@ -3556,6 +3793,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/99_Kier Acolyte of Avlod Respite.png"
 				}
@@ -3571,6 +3809,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/146_Vane Verem-Volcano Scorcher.png"
 				}
@@ -3586,6 +3825,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/183_Somma, Blade of Faloden Woods.png"
 				}
@@ -3601,6 +3841,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/31_Khestri Fadove Clanleader.png"
 				}
@@ -3616,6 +3857,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/259_Shivta, Avlod Clanleader.png"
 				}
@@ -3631,6 +3873,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/11_Urkial Outlands Clanleader.png"
 				}
@@ -3646,6 +3889,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/157_Bruin Mentor.png"
 				}
@@ -3661,6 +3905,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/139_Raze the Clanless.png"
 				}
@@ -3676,6 +3921,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/251_Prismatic Offense.png"
 				}
@@ -3691,6 +3937,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/235_Korna, Vinimroth Historian.png"
 				}
@@ -3706,6 +3953,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/278_Zoslera Mordel Clanleader.png"
 				}
@@ -3721,6 +3969,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/7_Prophellos Pathborn Hunger.png"
 				}
@@ -3736,6 +3985,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/95_Dust for Dust.png"
 				}
@@ -3751,6 +4001,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/3t_Sanctum Reminder.png"
 				}
@@ -3766,6 +4017,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/138_Pinnacle of Vinimroth.png"
 				}
@@ -3781,6 +4033,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/205_Attuned Shimmer.png"
 				}
@@ -3796,6 +4049,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/212_Bushy Shimmer.png"
 				}
@@ -3811,6 +4065,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/276_Wild Shimmer.png"
 				}
@@ -3826,6 +4081,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/217_Curious Shimmer.png"
 				}
@@ -3841,6 +4097,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/250_Pouncing Shimmer.png"
 				}
@@ -3856,6 +4113,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/299_Runed Spire.png"
 				}
@@ -3871,6 +4129,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/2t_Pathbound.png"
 				}
@@ -3886,6 +4145,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/22_Fadove Pathwarden.png"
 				}
@@ -3901,6 +4161,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/66_Path of Insight.png"
 				}
@@ -3916,6 +4177,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/105_Path of Revival.png"
 				}
@@ -3931,6 +4193,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/165_Keeper of Faloden Woods.png"
 				}
@@ -3946,6 +4209,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/4_Mistveil Drake.png"
 				}
@@ -3961,6 +4225,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/130_Mordel Combatant.png"
 				}
@@ -3976,6 +4241,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/56_Bearer of Change.png"
 				}
@@ -3991,6 +4257,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/134_Mordel Razer.png"
 				}
@@ -4006,6 +4273,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/107_Pathborn Aggression.png"
 				}
@@ -4021,6 +4289,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/160_Eternities Weaver.png"
 				}
@@ -4036,6 +4305,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/29_Guardian Roost.png"
 				}
@@ -4051,6 +4321,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/37_Path to Restoration.png"
 				}
@@ -4066,6 +4337,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/137_Path to Ages.png"
 				}
@@ -4081,6 +4353,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/15_Breach of Protection.png"
 				}
@@ -4096,6 +4369,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/57_Breach of Sanity.png"
 				}
@@ -4111,6 +4385,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/117_Breach of Malice.png"
 				}
@@ -4126,6 +4401,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/155_Breach of Nature.png"
 				}
@@ -4141,6 +4417,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/91_Breach of Mortality.png"
 				}
@@ -4156,6 +4433,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/2_Breach of the Unknown.png"
 				}
@@ -4171,6 +4449,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/175_Path of the Grove.png"
 				}
@@ -4186,6 +4465,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/68_Pathborn Drake.png"
 				}
@@ -4201,6 +4481,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/103_Outlands Pathwarden.png"
 				}
@@ -4216,6 +4497,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/23_Fadove Reinforcement.png"
 				}
@@ -4231,6 +4513,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/55_Avlod Pathshaper.png"
 				}
@@ -4246,6 +4529,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/104_Outlands Traveller.png"
 				}
@@ -4261,6 +4545,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/135_Mordel Reinforcement.png"
 				}
@@ -4276,6 +4561,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/173_Outlands Guardian.png"
 				}
@@ -4291,6 +4577,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/6_Paths Strider.png"
 				}
@@ -4306,6 +4593,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/36_Path of the Proud.png"
 				}
@@ -4321,6 +4609,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/67_Path of the Roost.png"
 				}
@@ -4336,6 +4625,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/106_Path of the Rift.png"
 				}
@@ -4351,6 +4641,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/136_Path of the Brood.png"
 				}
@@ -4366,6 +4657,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/176_Path of the Mighty.png"
 				}
@@ -4381,6 +4673,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/281_Pathbound Bloom.png"
 				}
@@ -4396,6 +4689,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/5_Vin Plains.png"
 				}
@@ -4411,6 +4705,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/3_Vin Island.png"
 				}
@@ -4426,6 +4721,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/6_Vin Swamp.png"
 				}
@@ -4441,6 +4737,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/4_Vin Mountain.png"
 				}
@@ -4456,6 +4753,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/2_Vin Forest.png"
 				}
@@ -4471,6 +4769,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/285_Crackling Plains.png"
 				}
@@ -4486,6 +4785,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/294_Restored Plains.png"
 				}
@@ -4501,6 +4801,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/302_Splintered Island.png"
 				}
@@ -4516,6 +4817,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/289_Furrowed Mountain.png"
 				}
@@ -4531,6 +4833,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/292_Restored Island.png"
 				}
@@ -4546,6 +4849,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/295_Restored Swamp.png"
 				}
@@ -4561,6 +4865,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/293_Restored Mountain.png"
 				}
@@ -4576,6 +4881,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/291_Restored Forest.png"
 				}
@@ -4591,6 +4897,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/296_Rip to Today.png"
 				}
@@ -4606,6 +4913,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/286_Divided Forest.png"
 				}
@@ -4621,6 +4929,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/303_Sundered Swamp.png"
 				}
@@ -4636,6 +4945,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/304_Unstable Rift.png"
 				}
@@ -4651,6 +4961,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/301_Spire of Hunger.png"
 				}
@@ -4666,6 +4977,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/300_Shimmering Path.png"
 				}
@@ -4681,6 +4993,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/288_Flashing Path.png"
 				}
@@ -4696,6 +5009,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/80_Tethers of Insanity.png"
 				}
@@ -4711,6 +5025,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/96_Eternity Siphon.png"
 				}
@@ -4726,6 +5041,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/197_Tofnet Thrummer.png"
 				}
@@ -4741,6 +5057,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/188_Faloden Scavenger.png"
 				}
@@ -4756,6 +5073,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/190_Grazed by the Endless.png"
 				}
@@ -4771,6 +5089,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/185_Choked Essence.png"
 				}
@@ -4786,6 +5105,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/287_Enduring Sapling.png"
 				}
@@ -4801,6 +5121,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/50_Avakin Hazeweaver.png"
 				}
@@ -4816,6 +5137,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/12_Verem-Volcano Keeper.png"
 				}
@@ -4831,6 +5153,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/29t_Vin-Fault-Conjure.png"
 				}
@@ -4846,6 +5169,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/305_Vin-Fault.png"
 				}
@@ -4861,6 +5185,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/290_Restored Fault.png"
 				}
@@ -4876,6 +5201,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/151_Ash to Hope.png"
 				}
@@ -4891,6 +5217,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/182_Scouts Bow.png"
 				}
@@ -4906,6 +5233,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/1_xXDust420Xx.png"
 				}
@@ -4921,6 +5249,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/192_Paragon of Unknown Sights.png"
 				}
@@ -4936,6 +5265,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/187_Dustfall.png"
 				}
@@ -4951,6 +5281,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/186_Common Enemy.png"
 				}
@@ -4966,6 +5297,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/194_Power Null.png"
 				}
@@ -4981,6 +5313,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/199_Weavehorn Chimera.png"
 				}
@@ -4996,6 +5329,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/224_Ethereal Exposure.png"
 				}
@@ -5011,6 +5345,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/233_Impunity of Souls.png"
 				}
@@ -5026,6 +5361,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/258_Scars of Oil.png"
 				}
@@ -5041,6 +5377,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/262_Splendid Genesis.png"
 				}
@@ -5056,6 +5393,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/17t_Icon.png"
 				}
@@ -5071,6 +5409,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/274_Volatile Visions.png"
 				}
@@ -5086,6 +5425,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/19t_Multaph's Respite's Spellbook.png"
 				}
@@ -5101,6 +5441,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/11t_Black Wurm Token.png"
 				}
@@ -5116,6 +5457,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/16t_Green Wurm Token.png"
 				}
@@ -5131,6 +5473,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/15t_Red Wurm Token.png"
 				}
@@ -5146,6 +5489,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/8t_White Wurm Token.png"
 				}
@@ -5161,6 +5505,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/4t_Trace Reminder.png"
 				}
@@ -5176,6 +5521,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/18t_Icon Token.png"
 				}
@@ -5191,6 +5537,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/VNM-files/img/1_Vin Fault.png"
 				}

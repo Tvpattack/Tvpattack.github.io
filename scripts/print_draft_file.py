@@ -65,6 +65,7 @@ def generateFile(code):
 				"type": "''' + card['type'] + '''",
 				"collector_number": "''' + str(card['number']) + '''",
 				"foil": "''' + "true" if suffix == "_foil" else "false" + '''",
+				
 		'''
 
 			# CE: this is for any custom types that use a rotated frame

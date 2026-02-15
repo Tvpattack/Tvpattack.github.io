@@ -1,6 +1,7 @@
 ﻿[CustomCards]
 	[
 	false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/10_Neo, the Magic Swordsman.jpg"
 				}
@@ -16,6 +17,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/1_Dark Shade.jpg"
 				}
@@ -31,6 +33,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/75_Beaked Snake.jpg"
 				}
@@ -46,6 +49,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/81_Fiend Reflection 1.jpg"
 				}
@@ -61,6 +65,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/73_Air Eater.jpg"
 				}
@@ -76,6 +81,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/28_Cyber Commander.jpg"
 				}
@@ -91,6 +97,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/22_Violent Rain.jpg"
 				}
@@ -106,6 +113,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/12_True Solitude.jpg"
 				}
@@ -121,6 +129,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/94_Ocubeam.jpg"
 				}
@@ -136,6 +145,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/41_Flame Viper.jpg"
 				}
@@ -151,6 +161,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/57_Prevent Rat.jpg"
 				}
@@ -166,6 +177,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/68_Invader from Another Dimension.jpg"
 				}
@@ -181,6 +193,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/55_Needle Worm.jpg"
 				}
@@ -196,6 +209,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/80_Eldeen.jpg"
 				}
@@ -211,6 +225,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/77_Big Eye.jpg"
 				}
@@ -226,6 +241,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/88_Ill Witch.jpg"
 				}
@@ -241,6 +257,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/95_Protector of the Throne.jpg"
 				}
@@ -256,6 +273,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/84_Goddess With the Third Eye.jpg"
 				}
@@ -271,6 +289,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/89_Kanan the Swordmistress.jpg"
 				}
@@ -286,6 +305,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/93_Nekogal 1.jpg"
 				}
@@ -301,6 +321,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/100_The Wicked Worm Beast.jpg"
 				}
@@ -316,6 +337,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/83_Goddess of Whim.jpg"
 				}
@@ -331,6 +353,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/87_Ice Water.jpg"
 				}
@@ -346,6 +369,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/74_Aqua Snake.jpg"
 				}
@@ -361,6 +385,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/79_Change Slime.jpg"
 				}
@@ -376,6 +401,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/91_The Little Swordsman of Aile.jpg"
 				}
@@ -391,6 +417,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/102_Launcher Spider.jpg"
 				}
@@ -406,6 +433,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/98_Trent.jpg"
 				}
@@ -421,6 +449,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/101_Zanki.jpg"
 				}
@@ -436,6 +465,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/92_Masked Sorceror.jpg"
 				}
@@ -451,6 +481,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/96_Ryu Kishin Powered.jpg"
 				}
@@ -466,6 +497,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/97_Shadow Ghoul.jpg"
 				}
@@ -481,6 +513,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/78_Bolt Escargot.jpg"
 				}
@@ -496,6 +529,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/85_Grappler.jpg"
 				}
@@ -511,6 +545,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/99_Wetha.jpg"
 				}
@@ -526,6 +561,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/82_Garoozis.jpg"
 				}
@@ -541,6 +577,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/86_Gyakutenno Megami.jpg"
 				}
@@ -556,6 +593,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/76_Beautiful Beast Trainer.jpg"
 				}
@@ -571,6 +609,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/3_Dragon Statue.jpg"
 				}
@@ -586,6 +625,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/6_Kojikocy.jpg"
 				}
@@ -601,6 +641,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/8_Monstrous Bird.jpg"
 				}
@@ -616,6 +657,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/4_Faith Bird.jpg"
 				}
@@ -631,6 +673,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/2_Destroyer Golem.jpg"
 				}
@@ -646,6 +689,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/16_Hyo.jpg"
 				}
@@ -661,6 +705,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/14_Behegon.jpg"
 				}
@@ -676,6 +721,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/21_Penguin Soldier.jpg"
 				}
@@ -691,6 +737,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/19_Kanikabuto.jpg"
 				}
@@ -706,6 +753,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/15_Boulder Tortoise.jpg"
 				}
@@ -721,6 +769,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/17_Hyosube.jpg"
 				}
@@ -736,6 +785,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/24_Yado Karu.jpg"
 				}
@@ -751,6 +801,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/18_Jellyfish.jpg"
 				}
@@ -766,6 +817,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/20_Night Lizard.jpg"
 				}
@@ -781,6 +833,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/31_Megasonic Eye.jpg"
 				}
@@ -796,6 +849,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/29_Lord of Zemia.jpg"
 				}
@@ -811,6 +865,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/27_Baron of the Fiend Sword.jpg"
 				}
@@ -826,6 +881,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/34_Sword Slasher.jpg"
 				}
@@ -841,6 +897,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/32_Shadow Specter.jpg"
 				}
@@ -856,6 +913,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/36_Yaranzo.jpg"
 				}
@@ -871,6 +929,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/30_Madjinn Gunn.jpg"
 				}
@@ -886,6 +945,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/33_The Snake Hair.jpg"
 				}
@@ -901,6 +961,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/35_Wretched Ghost of the Attic.jpg"
 				}
@@ -916,6 +977,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/43_Ground Attacker Bugroth.jpg"
 				}
@@ -931,6 +993,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/37_Barrel Lily.jpg"
 				}
@@ -946,6 +1009,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/47_Torike.jpg"
 				}
@@ -961,6 +1025,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/45_Monster Tamer.jpg"
 				}
@@ -976,6 +1041,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/46_Pendulum Machine.jpg"
 				}
@@ -991,6 +1057,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/39_Burglar.jpg"
 				}
@@ -1006,6 +1073,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/38_Battle Steer.jpg"
 				}
@@ -1021,6 +1089,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/59_Shovel Crusher.jpg"
 				}
@@ -1036,6 +1105,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/52_Laughing Flower.jpg"
 				}
@@ -1051,6 +1121,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/60_The Thing That Hides in the Mud.jpg"
 				}
@@ -1066,6 +1137,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/53_Master & Expert.jpg"
 				}
@@ -1081,6 +1153,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/58_Rock Spirit.jpg"
 				}
@@ -1096,6 +1169,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/56_The Nordic Lights.jpg"
 				}
@@ -1111,6 +1185,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/50_Arlownay.jpg"
 				}
@@ -1126,6 +1201,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/49_Alpha Wolf.jpg"
 				}
@@ -1141,6 +1217,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/66_Germ Infection.jpg"
 				}
@@ -1156,6 +1233,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/72_Yaiba Robo.jpg"
 				}
@@ -1171,6 +1249,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/67_Gokibore.jpg"
 				}
@@ -1186,6 +1265,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/70_Mooyan Curry.jpg"
 				}
@@ -1201,6 +1281,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/61_Ancient Sorcerer.jpg"
 				}
@@ -1216,6 +1297,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/64_Fairy's Gift.jpg"
 				}
@@ -1231,6 +1313,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/65_Gale Dogra.jpg"
 				}
@@ -1246,6 +1329,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/63_D. D. Warrior.jpg"
 				}
@@ -1261,6 +1345,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/69_Killer Needle.jpg"
 				}
@@ -1276,6 +1361,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/125_Swamp.jpg"
 				}
@@ -1291,6 +1377,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/124_Island.jpg"
 				}
@@ -1306,6 +1393,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/127_Forest.jpg"
 				}
@@ -1321,6 +1409,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/126_Mountain.jpg"
 				}
@@ -1336,6 +1425,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/128_Fault.jpg"
 				}
@@ -1351,6 +1441,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/123_Plains.jpg"
 				}
@@ -1366,6 +1457,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/90_Leogun.jpg"
 				}
@@ -1381,6 +1473,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/11_Supporter In the Shadows.jpg"
 				}
@@ -1396,6 +1489,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/103_Blast Sphere.jpg"
 				}
@@ -1411,6 +1505,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/104_Fiend Sword.jpg"
 				}
@@ -1426,6 +1521,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/105_Holograh.jpg"
 				}
@@ -1441,6 +1537,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/112_Imaginary Arc Tower.jpg"
 				}
@@ -1456,6 +1553,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/121_Wild Kitchen.jpg"
 				}
@@ -1471,6 +1569,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/106_Area 33.jpg"
 				}
@@ -1486,6 +1585,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/114_Prison Island - Cell Block 5 & 6.jpg"
 				}
@@ -1501,6 +1601,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/113_Peaks of Blisstopia.jpg"
 				}
@@ -1516,6 +1617,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/118_Supreme Marine Fortress Magnum Overbase.jpg"
 				}
@@ -1531,6 +1633,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/120_Vegetation of Blisstopia.jpg"
 				}
@@ -1546,6 +1649,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/108_Beast Battlefield Barrier.jpg"
 				}
@@ -1561,6 +1665,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/111_Feverous Spirit Stadium.jpg"
 				}
@@ -1576,6 +1681,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/107_Autumn Leaves of Blisstopia.jpg"
 				}
@@ -1591,6 +1697,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/115_Royal Rebel's Arena.jpg"
 				}
@@ -1606,6 +1713,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/116_Shining City Nights.jpg"
 				}
@@ -1621,6 +1729,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/117_Silvermountain of Blisstopia.jpg"
 				}
@@ -1636,6 +1745,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/109_Berserker Colosseum.jpg"
 				}
@@ -1651,6 +1761,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/122_Zombie Carnival.jpg"
 				}
@@ -1666,6 +1777,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/42_Griffore.jpg"
 				}
@@ -1681,6 +1793,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/110_Demolition Fusegate Scrapgate.jpg"
 				}
@@ -1696,6 +1809,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/119_Terraforming.jpg"
 				}
@@ -1711,6 +1825,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/48_Tremendous Fire.jpg"
 				}
@@ -1726,6 +1841,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/44_Just Desserts.jpg"
 				}
@@ -1741,6 +1857,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/23_Water Omotics.jpg"
 				}
@@ -1756,6 +1873,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/26_Armored Zombie.jpg"
 				}
@@ -1771,6 +1889,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/54_Mystic Horseman.jpg"
 				}
@@ -1786,6 +1905,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/5_Genin.jpg"
 				}
@@ -1801,6 +1921,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/71_Needle Ball.jpg"
 				}
@@ -1816,6 +1937,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/9_Moon Envoy.jpg"
 				}
@@ -1831,6 +1953,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/62_Claw Reacher.jpg"
 				}
@@ -1846,6 +1969,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/7_Metal Guardian.jpg"
 				}
@@ -1861,6 +1985,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/13_Ancient Brain.jpg"
 				}
@@ -1876,6 +2001,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/25_Ancient Tool.jpg"
 				}
@@ -1891,6 +2017,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/40_Eternal Drought.jpg"
 				}
@@ -1906,6 +2033,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/MTR-files/img/51_Bio Plant.jpg"
 				}

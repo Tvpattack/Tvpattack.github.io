@@ -1,6 +1,7 @@
 ﻿[CustomCards]
 	[
 	false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/16_CW01.png"
 				}
@@ -16,6 +17,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/17_CW02.png"
 				}
@@ -31,6 +33,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/18_CW03.png"
 				}
@@ -46,6 +49,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/19_CW04.png"
 				}
@@ -61,6 +65,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/20_CW05.png"
 				}
@@ -76,6 +81,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/21_CW06.png"
 				}
@@ -91,6 +97,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/22_CW07.png"
 				}
@@ -106,6 +113,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/23_CW08.png"
 				}
@@ -121,6 +129,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/24_CW09.png"
 				}
@@ -136,6 +145,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/25_CW10.png"
 				}
@@ -151,6 +161,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/26_CW11.png"
 				}
@@ -166,6 +177,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/27_CW12.png"
 				}
@@ -181,6 +193,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/28_CW13.png"
 				}
@@ -196,6 +209,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/48_CU01.png"
 				}
@@ -211,6 +225,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/49_CU02.png"
 				}
@@ -226,6 +241,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/50_CU03.png"
 				}
@@ -241,6 +257,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/51_CU04.png"
 				}
@@ -256,6 +273,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/52_CU05.png"
 				}
@@ -271,6 +289,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/53_CU06.png"
 				}
@@ -286,6 +305,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/54_CU07.png"
 				}
@@ -301,6 +321,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/55_CU08.png"
 				}
@@ -316,6 +337,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/56_CU09.png"
 				}
@@ -331,6 +353,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/57_CU10.png"
 				}
@@ -346,6 +369,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/58_CU11.png"
 				}
@@ -361,6 +385,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/59_CU12.png"
 				}
@@ -376,6 +401,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/60_CU13.png"
 				}
@@ -391,6 +417,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/188_CI13 more removal.png"
 				}
@@ -406,6 +433,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/80_CB01.png"
 				}
@@ -421,6 +449,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/81_CB02.png"
 				}
@@ -436,6 +465,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/82_CB03.png"
 				}
@@ -451,6 +481,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/83_CB04.png"
 				}
@@ -466,6 +497,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/84_CB05.png"
 				}
@@ -481,6 +513,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/85_CB06.png"
 				}
@@ -496,6 +529,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/86_CB07.png"
 				}
@@ -511,6 +545,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/87_CB08.png"
 				}
@@ -526,6 +561,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/88_CB09.png"
 				}
@@ -541,6 +577,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/89_CB10.png"
 				}
@@ -556,6 +593,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/90_CB11.png"
 				}
@@ -571,6 +609,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/91_CB12.png"
 				}
@@ -586,6 +625,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/92_CB13.png"
 				}
@@ -601,6 +641,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/176_CI01 Information Recovery Crew.png"
 				}
@@ -616,6 +657,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/178_CI03 Tepid Tamer.png"
 				}
@@ -631,6 +673,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/179_CI04 Striking Reflection.png"
 				}
@@ -646,6 +689,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/177_CI02 Exuberant Archaeologist.png"
 				}
@@ -661,6 +705,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/112_CR01.png"
 				}
@@ -676,6 +721,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/113_CR02.png"
 				}
@@ -691,6 +737,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/114_CR03.png"
 				}
@@ -706,6 +753,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/115_CR04.png"
 				}
@@ -721,6 +769,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/116_CR05.png"
 				}
@@ -736,6 +785,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/117_CR06.png"
 				}
@@ -751,6 +801,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/118_CR07.png"
 				}
@@ -766,6 +817,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/119_CR08.png"
 				}
@@ -781,6 +833,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/120_CR09 Crasher Mech.png"
 				}
@@ -796,6 +849,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/121_CR10.png"
 				}
@@ -811,6 +865,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/122_CR11.png"
 				}
@@ -826,6 +881,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/123_CR12.png"
 				}
@@ -841,6 +897,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/124_CR13.png"
 				}
@@ -856,6 +913,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/184_CI09 Back to Market.png"
 				}
@@ -871,6 +929,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/185_CI10 Center Mass.png"
 				}
@@ -886,6 +945,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/186_CI11 Murky Politics.png"
 				}
@@ -901,6 +961,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/187_CI12 Removal.png"
 				}
@@ -916,6 +977,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/144_CG01.png"
 				}
@@ -931,6 +993,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/145_CG02.png"
 				}
@@ -946,6 +1009,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/146_CG03.png"
 				}
@@ -961,6 +1025,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/147_CG04.png"
 				}
@@ -976,6 +1041,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/148_CG05.png"
 				}
@@ -991,6 +1057,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/149_CG06.png"
 				}
@@ -1006,6 +1073,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/150_CG07.png"
 				}
@@ -1021,6 +1089,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/151_CG08.png"
 				}
@@ -1036,6 +1105,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/152_CG09.png"
 				}
@@ -1051,6 +1121,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/153_CG10.png"
 				}
@@ -1066,6 +1137,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/154_CG11.png"
 				}
@@ -1081,6 +1153,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/155_CG12.png"
 				}
@@ -1096,6 +1169,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/156_CG13.png"
 				}
@@ -1111,6 +1185,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/180_CI05.png"
 				}
@@ -1126,6 +1201,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/181_CI06 Unbothered Alchemist.png"
 				}
@@ -1141,6 +1217,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/182_CI07 removal.png"
 				}
@@ -1156,6 +1233,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/183_CI08 Scouting Party.png"
 				}
@@ -1171,6 +1249,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/38_UW01.png"
 				}
@@ -1186,6 +1265,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/39_UW02.png"
 				}
@@ -1201,6 +1281,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/40_UW03.png"
 				}
@@ -1216,6 +1297,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/41_UW04.png"
 				}
@@ -1231,6 +1313,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/42_UW05.png"
 				}
@@ -1246,6 +1329,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/43_UW06 Astral Slide.png"
 				}
@@ -1261,6 +1345,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/44_UW07.png"
 				}
@@ -1276,6 +1361,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/45_UW08.png"
 				}
@@ -1291,6 +1377,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/46_UW09.png"
 				}
@@ -1306,6 +1393,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/47_UW10.png"
 				}
@@ -1321,6 +1409,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/70_UU01.png"
 				}
@@ -1336,6 +1425,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/71_UU02.png"
 				}
@@ -1351,6 +1441,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/72_UU03.png"
 				}
@@ -1366,6 +1457,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/73_UU04.png"
 				}
@@ -1381,6 +1473,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/74_UU05.png"
 				}
@@ -1396,6 +1489,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/75_UU06.png"
 				}
@@ -1411,6 +1505,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/76_UU07.png"
 				}
@@ -1426,6 +1521,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/77_UU08.png"
 				}
@@ -1441,6 +1537,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/78_UU09.png"
 				}
@@ -1456,6 +1553,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/79_UU10.png"
 				}
@@ -1471,6 +1569,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/102_UB01.png"
 				}
@@ -1486,6 +1585,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/103_UB02.png"
 				}
@@ -1501,6 +1601,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/104_UB03.png"
 				}
@@ -1516,6 +1617,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/105_UB04.png"
 				}
@@ -1531,6 +1633,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/106_UB05.png"
 				}
@@ -1546,6 +1649,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/107_UB06.png"
 				}
@@ -1561,6 +1665,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/108_UB07.png"
 				}
@@ -1576,6 +1681,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/109_UB08.png"
 				}
@@ -1591,6 +1697,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/110_UB09.png"
 				}
@@ -1606,6 +1713,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/111_UB10.png"
 				}
@@ -1621,6 +1729,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/134_UR01.png"
 				}
@@ -1636,6 +1745,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/135_UR02.png"
 				}
@@ -1651,6 +1761,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/136_UR03.png"
 				}
@@ -1666,6 +1777,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/137_UR04.png"
 				}
@@ -1681,6 +1793,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/138_UR05.png"
 				}
@@ -1696,6 +1809,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/139_UR06.png"
 				}
@@ -1711,6 +1825,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/140_UR07.png"
 				}
@@ -1726,6 +1841,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/141_UR08.png"
 				}
@@ -1741,6 +1857,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/142_UR09.png"
 				}
@@ -1756,6 +1873,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/143_UR10.png"
 				}
@@ -1771,6 +1889,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/166_UG01.png"
 				}
@@ -1786,6 +1905,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/167_UG02.png"
 				}
@@ -1801,6 +1921,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/168_UG03.png"
 				}
@@ -1816,6 +1937,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/169_UG04.png"
 				}
@@ -1831,6 +1953,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/170_UG05.png"
 				}
@@ -1846,6 +1969,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/171_UG06.png"
 				}
@@ -1861,6 +1985,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/172_UG07.png"
 				}
@@ -1876,6 +2001,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/173_UG08.png"
 				}
@@ -1891,6 +2017,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/174_UG09.png"
 				}
@@ -1906,6 +2033,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/175_UG10.png"
 				}
@@ -1921,6 +2049,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/31_RW01.png"
 				}
@@ -1936,6 +2065,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/32_RW02.png"
 				}
@@ -1951,6 +2081,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/33_RW03.png"
 				}
@@ -1966,6 +2097,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/34_RW04.png"
 				}
@@ -1981,6 +2113,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/35_RW05.png"
 				}
@@ -1996,6 +2129,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/36_RW06.png"
 				}
@@ -2011,6 +2145,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/37_RW07.png"
 				}
@@ -2026,6 +2161,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/63_RU01.png"
 				}
@@ -2041,6 +2177,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/64_RU02.png"
 				}
@@ -2056,6 +2193,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/65_RU03.png"
 				}
@@ -2071,6 +2209,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/66_RU04.png"
 				}
@@ -2086,6 +2225,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/67_RU05.png"
 				}
@@ -2101,6 +2241,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/68_RU06.png"
 				}
@@ -2116,6 +2257,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/69_RU07.png"
 				}
@@ -2131,6 +2273,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/95_RB01.png"
 				}
@@ -2146,6 +2289,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/96_RB02.png"
 				}
@@ -2161,6 +2305,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/97_RB03.png"
 				}
@@ -2176,6 +2321,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/98_RB04.png"
 				}
@@ -2191,6 +2337,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/99_RB05.png"
 				}
@@ -2206,6 +2353,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/100_RB06.png"
 				}
@@ -2221,6 +2369,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/101_RB07.png"
 				}
@@ -2236,6 +2385,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/127_RR01.png"
 				}
@@ -2251,6 +2401,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/128_RR02.png"
 				}
@@ -2266,6 +2417,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/129_RR03.png"
 				}
@@ -2281,6 +2433,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/130_RR04.png"
 				}
@@ -2296,6 +2449,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/131_RR05.png"
 				}
@@ -2311,6 +2465,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/132_RR06.png"
 				}
@@ -2326,6 +2481,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/133_RR07.png"
 				}
@@ -2341,6 +2497,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/159_RG01.png"
 				}
@@ -2356,6 +2513,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/190_RI02.png"
 				}
@@ -2371,6 +2529,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/161_RG03.png"
 				}
@@ -2386,6 +2545,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/192_RI04.png"
 				}
@@ -2401,6 +2561,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/163_RG05.png"
 				}
@@ -2416,6 +2577,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/164_RG06.png"
 				}
@@ -2431,6 +2593,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/195_RI07.png"
 				}
@@ -2446,6 +2609,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/29_MW01.png"
 				}
@@ -2461,6 +2625,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/30_MW02.png"
 				}
@@ -2476,6 +2641,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/61_MU01.png"
 				}
@@ -2491,6 +2657,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/62_MU02.png"
 				}
@@ -2506,6 +2673,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/93_MB01.png"
 				}
@@ -2521,6 +2689,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/94_MB02.png"
 				}
@@ -2536,6 +2705,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/125_MR01.png"
 				}
@@ -2551,6 +2721,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/126_MR02.png"
 				}
@@ -2566,6 +2737,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/157_MG01.png"
 				}
@@ -2581,6 +2753,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/158_MG02.png"
 				}
@@ -2596,6 +2769,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/216_UM01.png"
 				}
@@ -2611,6 +2785,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/217_UM01.png"
 				}
@@ -2626,6 +2801,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/218_UM01.png"
 				}
@@ -2641,6 +2817,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/219_UM01.png"
 				}
@@ -2656,6 +2833,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/220_UM01.png"
 				}
@@ -2671,6 +2849,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/221_UM01.png"
 				}
@@ -2686,6 +2865,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/222_UM01.png"
 				}
@@ -2701,6 +2881,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/223_UM01.png"
 				}
@@ -2716,6 +2897,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/224_UM01.png"
 				}
@@ -2731,6 +2913,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/225_UM01.png"
 				}
@@ -2746,6 +2929,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/213_RM01.png"
 				}
@@ -2761,6 +2945,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/214_RM01.png"
 				}
@@ -2776,6 +2961,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/210_RM01.png"
 				}
@@ -2791,6 +2977,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/215_RM01.png"
 				}
@@ -2806,6 +2993,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/206_RM01.png"
 				}
@@ -2821,6 +3009,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/207_RM01.png"
 				}
@@ -2836,6 +3025,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/208_RM01.png"
 				}
@@ -2851,6 +3041,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/209_RM01.png"
 				}
@@ -2866,6 +3057,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/212_RM01.png"
 				}
@@ -2881,6 +3073,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/211_RM01.png"
 				}
@@ -2896,6 +3089,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/261_CA01 Ursine Temple.png"
 				}
@@ -2911,6 +3105,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/262_CA02 Citysprout Bonsai.png"
 				}
@@ -2926,6 +3121,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/270_CA03 Far Off Horizon.png"
 				}
@@ -2941,6 +3137,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/1_CA04 Digital Song.png"
 				}
@@ -2956,6 +3153,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/271_CA05 Gilded Tea Room.png"
 				}
@@ -2971,6 +3169,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/11_UC01 Crystallizing Aether.png"
 				}
@@ -2986,6 +3185,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/266_UA02 Surveyor001.png"
 				}
@@ -3001,6 +3201,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/284_UA03 Gilded Viewing Room.png"
 				}
@@ -3016,6 +3217,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/267_UA04.png"
 				}
@@ -3031,6 +3233,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/268_UA05.png"
 				}
@@ -3046,6 +3249,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/272_CL01.png"
 				}
@@ -3061,6 +3265,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/285_UL01.png"
 				}
@@ -3076,6 +3281,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/286_UL02.png"
 				}
@@ -3091,6 +3297,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/287_UL03.png"
 				}
@@ -3106,6 +3313,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/288_UL04.png"
 				}
@@ -3121,6 +3329,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/289_UL05.png"
 				}
@@ -3136,6 +3345,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/269_UX01 Cloudslicer Fleet.png"
 				}
@@ -3151,6 +3361,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/12_UX02.png"
 				}
@@ -3166,6 +3377,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/13_UX03.png"
 				}
@@ -3181,6 +3393,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/14_UX04.png"
 				}
@@ -3196,6 +3409,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/15_UX05.png"
 				}
@@ -3211,6 +3425,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/263_RX01.png"
 				}
@@ -3226,6 +3441,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/273_RX02 Gilded Bar.png"
 				}
@@ -3241,6 +3457,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/264_RX03 Nightshifter Engine.png"
 				}
@@ -3256,6 +3473,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/265_RX04 Marching Clock.png"
 				}
@@ -3271,6 +3489,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/7_RX05.png"
 				}
@@ -3286,6 +3505,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/8_RX06.png"
 				}
@@ -3301,6 +3521,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/9_RX07.png"
 				}
@@ -3316,6 +3537,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/10_RX08 Veil of Hunger.png"
 				}
@@ -3331,6 +3553,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2_MX01.png"
 				}
@@ -3346,6 +3569,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/3_MX02.png"
 				}
@@ -3361,6 +3585,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/4_MX03.png"
 				}
@@ -3376,6 +3601,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/5_MX04.png"
 				}
@@ -3391,6 +3617,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/6_MX05.png"
 				}
@@ -3406,6 +3633,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/196_UI01 Night Market Runner.png"
 				}
@@ -3421,6 +3649,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/205_UI10.png"
 				}
@@ -3436,6 +3665,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/204_UI09.png"
 				}
@@ -3451,6 +3681,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/203_UI08.png"
 				}
@@ -3466,6 +3697,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/202_UI07.png"
 				}
@@ -3481,6 +3713,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/201_UI06.png"
 				}
@@ -3496,6 +3729,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/200_UI05.png"
 				}
@@ -3511,6 +3745,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/199_UI04.png"
 				}
@@ -3526,6 +3761,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/198_UI03.png"
 				}
@@ -3541,6 +3777,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/197_UI02.png"
 				}
@@ -3556,6 +3793,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/238_UM01.png"
 				}
@@ -3571,6 +3809,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/239_UM01.png"
 				}
@@ -3586,6 +3825,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/240_UM01.png"
 				}
@@ -3601,6 +3841,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/241_UM01.png"
 				}
@@ -3616,6 +3857,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/242_UM01.png"
 				}
@@ -3631,6 +3873,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/243_UM01.png"
 				}
@@ -3646,6 +3889,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/244_UM01.png"
 				}
@@ -3661,6 +3905,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/245_UM01.png"
 				}
@@ -3676,6 +3921,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/246_UM01.png"
 				}
@@ -3691,6 +3937,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/226_UM01.png"
 				}
@@ -3706,6 +3953,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/248_UM01.png"
 				}
@@ -3721,6 +3969,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/249_UM01.png"
 				}
@@ -3736,6 +3985,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/250_UM01.png"
 				}
@@ -3751,6 +4001,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/251_UM01.png"
 				}
@@ -3766,6 +4017,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/252_UM01.png"
 				}
@@ -3781,6 +4033,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/253_UM01.png"
 				}
@@ -3796,6 +4049,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/230_UM01.png"
 				}
@@ -3811,6 +4065,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/254_UM01.png"
 				}
@@ -3826,6 +4081,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/255_UM01.png"
 				}
@@ -3841,6 +4097,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/256_UM01.png"
 				}
@@ -3856,6 +4113,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/257_UM01.png"
 				}
@@ -3871,6 +4129,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/258_UM01.png"
 				}
@@ -3886,6 +4145,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/259_UM01.png"
 				}
@@ -3901,6 +4161,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/260_UM01.png"
 				}
@@ -3916,6 +4177,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/227_UM01.png"
 				}
@@ -3931,6 +4193,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/228_UM01.png"
 				}
@@ -3946,6 +4209,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/229_UM01.png"
 				}
@@ -3961,6 +4225,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/231_UM01.png"
 				}
@@ -3976,6 +4241,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/232_UM01.png"
 				}
@@ -3991,6 +4257,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/233_UM01.png"
 				}
@@ -4006,6 +4273,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/247_UM01.png"
 				}
@@ -4021,6 +4289,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/234_UM01.png"
 				}
@@ -4036,6 +4305,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/235_UM01.png"
 				}
@@ -4051,6 +4321,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/236_UM01.png"
 				}
@@ -4066,6 +4337,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/237_UM01.png"
 				}
@@ -4081,6 +4353,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/1t_The Clock.png"
 				}
@@ -4096,6 +4369,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/290_Murky Politics.png"
 				}
@@ -4111,6 +4385,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/189_RI01 Memory Restored.png"
 				}
@@ -4126,6 +4401,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/160_RG02.png"
 				}
@@ -4141,6 +4417,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/191_RI03.png"
 				}
@@ -4156,6 +4433,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/162_RG04.png"
 				}
@@ -4171,6 +4449,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/193_RI05.png"
 				}
@@ -4186,6 +4465,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/194_RI06.png"
 				}
@@ -4201,6 +4481,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/165_RG07.png"
 				}
@@ -4216,6 +4497,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/274_Triome.png"
 				}
@@ -4231,6 +4513,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/275_Triome.png"
 				}
@@ -4246,6 +4529,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/276_Triome.png"
 				}
@@ -4261,6 +4545,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/277_Triome.png"
 				}
@@ -4276,6 +4561,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/278_Triome.png"
 				}
@@ -4291,6 +4577,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/279_Triome.png"
 				}
@@ -4306,6 +4593,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/280_Triome.png"
 				}
@@ -4321,6 +4609,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/281_Triome.png"
 				}
@@ -4336,6 +4625,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/282_Triome.png"
 				}
@@ -4351,6 +4641,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/283_Triome.png"
 				}
@@ -4366,6 +4657,7 @@
 				}
 			},
 		false",
+				
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2t_Cloudslicer Fleet.png"
 				}
