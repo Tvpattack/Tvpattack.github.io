@@ -151,7 +151,8 @@ def generateFile(code):
 				count = 5
 
 			if count > 0:
-				draft_string += '''	''' + str(count) + ''' ''' + c['card_name'] + '''
+				foil = "_foil" if slot['balanced'] == 'f' else ""
+				draft_string += '''	''' + str(count) + ''' ''' + c['card_name'] + foil + '''
 '''
 		for x in range(slot['count']):
 			p1p1.append(slot_list)

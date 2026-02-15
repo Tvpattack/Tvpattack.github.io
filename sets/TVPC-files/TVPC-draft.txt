@@ -7403,295 +7403,295 @@
 	8 UM01
 	8 UM01
 [foil(1)]
-	12 CW01
-	12 CW02
-	12 CW03
-	12 CW04
-	12 CW05
-	12 CW06
-	12 CW07
-	12 CW08
-	12 CW09
-	12 CW10
-	12 CW11
-	12 CW12
-	12 CW13
-	12 CU01
-	12 CU02
-	12 CU03
-	12 CU04
-	12 CU05
-	12 CU06
-	12 CU07
-	12 CU08
-	12 CU09
-	12 CU10
-	12 CU11
-	12 CU12
-	12 CU13
-	12 CI13 more removal
-	12 CB01
-	12 CB02
-	12 CB03
-	12 CB04
-	12 CB05
-	12 CB06
-	12 CB07
-	12 CB08
-	12 CB09
-	12 CB10
-	12 CB11
-	12 CB12
-	12 CB13
-	12 CI01 Information Recovery Crew
-	12 CI03 Tepid Tamer
-	12 CI04 Striking Reflection
-	12 CI02 Exuberant Archaeologist
-	12 CR01
-	12 CR02
-	12 CR03
-	12 CR04
-	12 CR05
-	12 CR06
-	12 CR07
-	12 CR08
-	12 CR09 Crasher Mech
-	12 CR10
-	12 CR11
-	12 CR12
-	12 CR13
-	12 CI09 Back to Market
-	12 CI10 Center Mass
-	12 CI11 Murky Politics
-	12 CI12 Removal
-	12 CG01
-	12 CG02
-	12 CG03
-	12 CG04
-	12 CG05
-	12 CG06
-	12 CG07
-	12 CG08
-	12 CG09
-	12 CG10
-	12 CG11
-	12 CG12
-	12 CG13
-	12 CI05
-	12 CI06 Unbothered Alchemist
-	12 CI07 removal
-	12 CI08 Scouting Party
-	6 UW01
-	6 UW02
-	6 UW03
-	6 UW04
-	6 UW05
-	6 UW06 Astral Slide
-	6 UW07
-	6 UW08
-	6 UW09
-	6 UW10
-	6 UU01
-	6 UU02
-	6 UU03
-	6 UU04
-	6 UU05
-	6 UU06
-	6 UU07
-	6 UU08
-	6 UU09
-	6 UU10
-	6 UB01
-	6 UB02
-	6 UB03
-	6 UB04
-	6 UB05
-	6 UB06
-	6 UB07
-	6 UB08
-	6 UB09
-	6 UB10
-	6 UR01
-	6 UR02
-	6 UR03
-	6 UR04
-	6 UR05
-	6 UR06
-	6 UR07
-	6 UR08
-	6 UR09
-	6 UR10
-	6 UG01
-	6 UG02
-	6 UG03
-	6 UG04
-	6 UG05
-	6 UG06
-	6 UG07
-	6 UG08
-	6 UG09
-	6 UG10
-	2 RW01
-	2 RW02
-	2 RW03
-	2 RW04
-	2 RW05
-	2 RW06
-	2 RW07
-	2 RU01
-	2 RU02
-	2 RU03
-	2 RU04
-	2 RU05
-	2 RU06
-	2 RU07
-	2 RB01
-	2 RB02
-	2 RB03
-	2 RB04
-	2 RB05
-	2 RB06
-	2 RB07
-	2 RR01
-	2 RR02
-	2 RR03
-	2 RR04
-	2 RR05
-	2 RR06
-	2 RR07
-	2 RG01
-	2 RI02
-	2 RG03
-	2 RI04
-	2 RG05
-	2 RG06
-	2 RI07
-	1 MW01
-	1 MW02
-	1 MU01
-	1 MU02
-	1 MB01
-	1 MB02
-	1 MR01
-	1 MR02
-	1 MG01
-	1 MG02
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	2 RM01
-	12 CA01 Ursine Temple
-	12 CA02 Citysprout Bonsai
-	12 CA03 Far Off Horizon
-	12 CA04 Digital Song
-	12 CA05 Gilded Tea Room
-	6 UC01 Crystallizing Aether
-	6 UA02 Surveyor001
-	6 UA03 Gilded Viewing Room
-	6 UA04
-	6 UA05
-	12 CL01
-	6 UL01
-	6 UL02
-	6 UL03
-	6 UL04
-	6 UL05
-	6 UX01 Cloudslicer Fleet
-	6 UX02
-	6 UX03
-	6 UX04
-	6 UX05
-	2 RX01
-	2 RX02 Gilded Bar
-	2 RX03 Nightshifter Engine
-	2 RX04 Marching Clock
-	2 RX05
-	2 RX06
-	2 RX07
-	2 RX08 Veil of Hunger
-	1 MX01
-	1 MX02
-	1 MX03
-	1 MX04
-	1 MX05
-	6 UI01 Night Market Runner
-	6 UI10
-	6 UI09
-	6 UI08
-	6 UI07
-	6 UI06
-	6 UI05
-	6 UI04
-	6 UI03
-	6 UI02
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	12 UM01
-	2 RI01 Memory Restored
-	2 RG02
-	2 RI03
-	2 RG04
-	2 RI05
-	2 RI06
-	2 RG07
-	6 Triome
-	6 Triome
-	6 Triome
-	6 Triome
-	6 Triome
-	6 Triome
-	6 Triome
-	6 Triome
-	6 Triome
-	6 Triome
+	12 CW01_foil
+	12 CW02_foil
+	12 CW03_foil
+	12 CW04_foil
+	12 CW05_foil
+	12 CW06_foil
+	12 CW07_foil
+	12 CW08_foil
+	12 CW09_foil
+	12 CW10_foil
+	12 CW11_foil
+	12 CW12_foil
+	12 CW13_foil
+	12 CU01_foil
+	12 CU02_foil
+	12 CU03_foil
+	12 CU04_foil
+	12 CU05_foil
+	12 CU06_foil
+	12 CU07_foil
+	12 CU08_foil
+	12 CU09_foil
+	12 CU10_foil
+	12 CU11_foil
+	12 CU12_foil
+	12 CU13_foil
+	12 CI13 more removal_foil
+	12 CB01_foil
+	12 CB02_foil
+	12 CB03_foil
+	12 CB04_foil
+	12 CB05_foil
+	12 CB06_foil
+	12 CB07_foil
+	12 CB08_foil
+	12 CB09_foil
+	12 CB10_foil
+	12 CB11_foil
+	12 CB12_foil
+	12 CB13_foil
+	12 CI01 Information Recovery Crew_foil
+	12 CI03 Tepid Tamer_foil
+	12 CI04 Striking Reflection_foil
+	12 CI02 Exuberant Archaeologist_foil
+	12 CR01_foil
+	12 CR02_foil
+	12 CR03_foil
+	12 CR04_foil
+	12 CR05_foil
+	12 CR06_foil
+	12 CR07_foil
+	12 CR08_foil
+	12 CR09 Crasher Mech_foil
+	12 CR10_foil
+	12 CR11_foil
+	12 CR12_foil
+	12 CR13_foil
+	12 CI09 Back to Market_foil
+	12 CI10 Center Mass_foil
+	12 CI11 Murky Politics_foil
+	12 CI12 Removal_foil
+	12 CG01_foil
+	12 CG02_foil
+	12 CG03_foil
+	12 CG04_foil
+	12 CG05_foil
+	12 CG06_foil
+	12 CG07_foil
+	12 CG08_foil
+	12 CG09_foil
+	12 CG10_foil
+	12 CG11_foil
+	12 CG12_foil
+	12 CG13_foil
+	12 CI05_foil
+	12 CI06 Unbothered Alchemist_foil
+	12 CI07 removal_foil
+	12 CI08 Scouting Party_foil
+	6 UW01_foil
+	6 UW02_foil
+	6 UW03_foil
+	6 UW04_foil
+	6 UW05_foil
+	6 UW06 Astral Slide_foil
+	6 UW07_foil
+	6 UW08_foil
+	6 UW09_foil
+	6 UW10_foil
+	6 UU01_foil
+	6 UU02_foil
+	6 UU03_foil
+	6 UU04_foil
+	6 UU05_foil
+	6 UU06_foil
+	6 UU07_foil
+	6 UU08_foil
+	6 UU09_foil
+	6 UU10_foil
+	6 UB01_foil
+	6 UB02_foil
+	6 UB03_foil
+	6 UB04_foil
+	6 UB05_foil
+	6 UB06_foil
+	6 UB07_foil
+	6 UB08_foil
+	6 UB09_foil
+	6 UB10_foil
+	6 UR01_foil
+	6 UR02_foil
+	6 UR03_foil
+	6 UR04_foil
+	6 UR05_foil
+	6 UR06_foil
+	6 UR07_foil
+	6 UR08_foil
+	6 UR09_foil
+	6 UR10_foil
+	6 UG01_foil
+	6 UG02_foil
+	6 UG03_foil
+	6 UG04_foil
+	6 UG05_foil
+	6 UG06_foil
+	6 UG07_foil
+	6 UG08_foil
+	6 UG09_foil
+	6 UG10_foil
+	2 RW01_foil
+	2 RW02_foil
+	2 RW03_foil
+	2 RW04_foil
+	2 RW05_foil
+	2 RW06_foil
+	2 RW07_foil
+	2 RU01_foil
+	2 RU02_foil
+	2 RU03_foil
+	2 RU04_foil
+	2 RU05_foil
+	2 RU06_foil
+	2 RU07_foil
+	2 RB01_foil
+	2 RB02_foil
+	2 RB03_foil
+	2 RB04_foil
+	2 RB05_foil
+	2 RB06_foil
+	2 RB07_foil
+	2 RR01_foil
+	2 RR02_foil
+	2 RR03_foil
+	2 RR04_foil
+	2 RR05_foil
+	2 RR06_foil
+	2 RR07_foil
+	2 RG01_foil
+	2 RI02_foil
+	2 RG03_foil
+	2 RI04_foil
+	2 RG05_foil
+	2 RG06_foil
+	2 RI07_foil
+	1 MW01_foil
+	1 MW02_foil
+	1 MU01_foil
+	1 MU02_foil
+	1 MB01_foil
+	1 MB02_foil
+	1 MR01_foil
+	1 MR02_foil
+	1 MG01_foil
+	1 MG02_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	2 RM01_foil
+	2 RM01_foil
+	2 RM01_foil
+	2 RM01_foil
+	2 RM01_foil
+	2 RM01_foil
+	2 RM01_foil
+	2 RM01_foil
+	2 RM01_foil
+	2 RM01_foil
+	12 CA01 Ursine Temple_foil
+	12 CA02 Citysprout Bonsai_foil
+	12 CA03 Far Off Horizon_foil
+	12 CA04 Digital Song_foil
+	12 CA05 Gilded Tea Room_foil
+	6 UC01 Crystallizing Aether_foil
+	6 UA02 Surveyor001_foil
+	6 UA03 Gilded Viewing Room_foil
+	6 UA04_foil
+	6 UA05_foil
+	12 CL01_foil
+	6 UL01_foil
+	6 UL02_foil
+	6 UL03_foil
+	6 UL04_foil
+	6 UL05_foil
+	6 UX01 Cloudslicer Fleet_foil
+	6 UX02_foil
+	6 UX03_foil
+	6 UX04_foil
+	6 UX05_foil
+	2 RX01_foil
+	2 RX02 Gilded Bar_foil
+	2 RX03 Nightshifter Engine_foil
+	2 RX04 Marching Clock_foil
+	2 RX05_foil
+	2 RX06_foil
+	2 RX07_foil
+	2 RX08 Veil of Hunger_foil
+	1 MX01_foil
+	1 MX02_foil
+	1 MX03_foil
+	1 MX04_foil
+	1 MX05_foil
+	6 UI01 Night Market Runner_foil
+	6 UI10_foil
+	6 UI09_foil
+	6 UI08_foil
+	6 UI07_foil
+	6 UI06_foil
+	6 UI05_foil
+	6 UI04_foil
+	6 UI03_foil
+	6 UI02_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	6 UM01_foil
+	12 UM01_foil
+	12 UM01_foil
+	12 UM01_foil
+	12 UM01_foil
+	12 UM01_foil
+	12 UM01_foil
+	12 UM01_foil
+	12 UM01_foil
+	12 UM01_foil
+	12 UM01_foil
+	12 UM01_foil
+	12 UM01_foil
+	12 UM01_foil
+	12 UM01_foil
+	12 UM01_foil
+	2 RI01 Memory Restored_foil
+	2 RG02_foil
+	2 RI03_foil
+	2 RG04_foil
+	2 RI05_foil
+	2 RI06_foil
+	2 RG07_foil
+	6 Triome_foil
+	6 Triome_foil
+	6 Triome_foil
+	6 Triome_foil
+	6 Triome_foil
+	6 Triome_foil
+	6 Triome_foil
+	6 Triome_foil
+	6 Triome_foil
+	6 Triome_foil
 [wildcard(1)]
 	6 CW01
 	6 CW02

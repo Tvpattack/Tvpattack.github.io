@@ -12232,404 +12232,404 @@
 	8 Drifting Sands
 	8 Flying Counter
 [foil(1)]
-	12 Rustic Cultivator
-	12 Wind Worn Peaks
-	12 Light of Hope
-	12 History's Weave
-	12 Fall Through Reality
-	12 Meirel Pathwalker
-	12 Staggering Spires
-	12 Pathfinder Wurm
-	12 Rising Haze
-	12 Meirel Caretaker
-	12 Outlands Rescinder
-	12 Outlander Mercenary
-	12 Fadove Lawkeeper
-	12 Fadove Air Supplier
-	12 Veteran Party
-	12 Cleric of the Dawn
-	12 Focus of Fadove
-	12 Outfoxed
-	12 Apprentices Drake
-	12 Crystalline Cover
-	12 Tiderock Passage
-	12 Fold the Truth
-	12 Consult Eternity
-	12 Pristine Denial
-	12 Reshape Eternity
-	12 Pathwrought Overseer
-	12 Veneer Walker
-	12 Outlands Trailblazer
-	12 Vestige Prowler
-	12 Ridgeback Dragonturtle
-	12 Bropheria
-	12 Gripping Truths
-	12 Migratory Flotilla
-	12 Fly Away With Me
-	12 Aspect of Moth
-	12 You Cant Face Me
-	12 Duskcharm Drake
-	12 Eroding River
-	12 Foolish Footing
-	12 Smogborn Pilferer
-	12 Avakin Trapper
-	12 Hedgecrow
-	12 Scaled Rippler
-	12 Left for the Crows
-	12 Relentless Truthseeker
-	12 Otherworldly Entrance
-	12 Pathborn Stinger
-	12 Voidborn Horror
-	12 Avakin Devotee
-	12 Pioneer's Premonition
-	12 Basalt Hammer
-	12 Clanless Combatant
-	12 Willbournes Flame
-	12 Fiery Absolver
-	12 Drougth Adventurer
-	12 Warforged Pair
-	12 Mordel Hammer
-	12 Pathborn Spitter
-	12 Mordel Flamespeaker
-	12 Drakes Intuition
-	12 Smelt Corruption
-	12 Mordel Shaper
-	12 Shifting Landscape
-	12 Depthscout
-	12 Disciple of the Thicket
-	12 Enduring Woodland
-	12 Surubim Harpoon
-	12 Meirel Traveller
-	12 Shard Bearer
-	12 Clanless Weaver
-	12 Illusion Reamer
-	12 Voice of the Thicket
-	12 Inspiring Recruit
-	12 Dance of Discovery
-	12 Outland Pair
-	12 Outlands Rescuer
-	12 Stand Your Ground
-	12 Guide With and Through
-	12 Teachings of the Coiled
-	12 The Strength to Overcome
-	12 Turbulent Aether
-	12 Dust Converter
-	12 Avakin Adventurer
-	12 Meirel Drifter
-	12 Pathworn Blade
-	12 Power from Beyond
-	12 Calign
-	12 Captivate
-	12 Adventurous Pair
-	12 Drougth Attuner
-	6 Perspective Shift
-	12 Enlisted Arms
-	12 Emigrating Pilgrim
-	12 Mana Compression
-	12 Drougth Oracle
-	12 Enlightening Crescents
-	12 Mutated Pioneer
-	12 Somber Marsh
-	12 Fiery Chasm
-	12 Barren Fissure
-	12 Sodden Cavern
-	12 Rainforest Spring
-	12 Roaring Cascade
-	12 Cleft River
-	12 Splintered Thicket
-	12 Carrigol Spires
-	12 Dawnshroud Castle
-	12 Formless Frontier
-	12 Glittering Vale
-	12 Sainard Boneyard
-	12 Soarwing Coast
-	12 Highland Vale
-	12 Tectonic Rime
-	12 Desolate Barrens
-	12 Tranquil Stream
-	12 Alpine Meadow
-	12 Jagged Crag
-	12 Crackling Expanse
-	6 Morraire Shimmer Patrol
-	6 Coiling Jailer
-	6 Sisters in Sorrow
-	6 Feather Piper
-	6 Whisperer of the Paths
-	6 Sunlace Panthera
-	6 Shadow of Grace
-	6 Latent Powerstone
-	6 Pathward Riftcalling
-	6 Menithel Demon
-	6 Cydina Storm Drake
-	6 Flowsnail
-	6 Mordel Spiritcaller
-	6 Ignelscor Frontliner
-	6 Promise of Hunger
-	6 Balutr Runners
-	6 Drake Mentor
-	6 Boundless Flight
-	6 Upsurge Nemato-Gnathi
-	6 Duraval Starmapper
-	6 Kaln-Ocean Harmonizer
-	6 Outlands Duelists
-	6 Meirel Pathrunner
-	6 Those Lost in the Paths
-	6 Calamitous Koi
-	6 Omen of Hunger
-	6 Ardent Grief
-	6 Ignelscor Weaver
-	6 Mourncast Disciple
-	6 Remnants of the War
-	6 Monument to Forever
-	6 Kilnhart Smoghorn
-	6 Ambitious Haze
-	6 Drakesteel Effigy
-	6 Clerics Claymore
-	6 Crystalline Refraction
-	6 Homestead Pair
-	12 Parading Terrain
-	6 Discover Uncertainty
-	12 When Words Dont Work
-	6 Iconic Challenger
-	6 Unweave
-	6 Concealing Ruins
-	6 Blade Reifier
-	6 Ignelscor Witch
-	6 Kornas Forward
-	6 Meirel Evacuator
-	6 Unending Exploration
-	6 Cascading Cleave
-	6 Persisting Timepiece
-	6 Vineglare Enclave
-	6 Inkblot Artist
-	6 Reflected Inclination
-	6 Wandering Travellers
-	6 Bloomrock Enclave
-	6 Brightblossom Enclave
-	6 Dawnbreak Resort
-	6 Devoted Riftpike
-	6 Errant Pillar
-	6 Exhausting Foundation
-	6 Glowspore Enclave
-	6 Hostile Pillars
-	6 Listless Monument
-	6 Mistlake Enclave
-	6 Moonglow Enclave
-	6 Ominous Temple
-	6 Roaming Ruins
-	6 Soaring Tethers
-	6 Sunswept Prairie
-	6 Thyrsine Way
-	6 Vibrant Knoll
-	6 Windy Weft
-	2 Binding Pools
-	2 Frontier Sanctuary
-	2 Mirdrim Summit
-	2 Splitting Caldera
-	2 Winnowing Tower
-	1 Tavern Sanctum
-	12 Bosket Peak
-	6 Outlands Recruiter
-	6 Julius Skyknight of Morriare
-	6 Yearn for the Sky
-	6 Marching Partisan
-	6 Outland Riftsower
-	6 Clanless Tunneler
-	6 Coalesced Company
-	6 Inspiring Dunes
-	6 Hengs Intercession
-	6 Mentor of Engagement
-	6 Winding Guide
-	6 Safeguarded Pair
-	6 Peacewarden
-	6 Chimarel Clearing
-	6 Ancient Sigils
-	6 Storm Striker
-	6 Dreamgill Salamander
-	6 Embracing Intonation
-	6 Moonscale Koi
-	6 Vertical Shift
-	6 Waterscape Mystic
-	6 I Know What You Mean to Me
-	6 Rest For a New World
-	6 Relentless Spellseeker
-	6 Cliffside Surveyor
-	6 Skycliff Flow
-	6 Slipstream Cyprinus
-	6 Mesmeric Peaks
-	6 Parasitic Roots
-	6 Howling Gasp
-	6 I Wont Stand Alone
-	6 Ditto Dagger
-	6 Lizturbance
-	6 Dissenting Experience
-	6 Omenspeaker Avakin
-	6 Your Strength is Fading
-	6 Bloodstained Fields
-	6 Spire of Rebirth
-	6 Murkross Spiritcaller
-	6 Gold-Streaked Obelisks
-	6 Fervent Canyon
-	6 Ignelscor Jidiao
-	6 Boundless Hollow
-	6 Rend Hope
-	6 Awakened Wurm
-	6 Moonlit Congregation
-	6 Bare Your Fangs
-	6 Lost Sunset
-	6 Counterinsurgency
-	6 Haphazard and Unbound
-	6 New Mordel Fireweaver
-	6 Seasoned Flamefinder
-	6 Broodmages Furor
-	6 Our March Wont End
-	6 Call to Revolution
-	6 Shimmer From Beyond
-	6 Encouraging Passage
-	6 Fritter Skitter
-	6 Dawncoil Burnisher
-	6 Ranging Symbiote
-	6 Leyline Weaver
-	6 Murkross Shaman
-	6 Virulent Attendant
-	6 Cervus Sprouting
-	6 Unexpected Predator
-	6 Cartographers Survey
-	6 Hunters Strength
-	6 Keras Appointed
-	6 Nurtured Landscape
-	6 Outlands Caretaker
-	6 Snowscaper Bakunawa
-	6 Awakened Reactionary
-	6 Crustacean Surge
-	2 Extraplanar Portal
-	2 Soul Shatter
-	2 Korna Adventuring Historian
-	2 Zoslera Exiled Visionary
-	2 Trade Routes
-	2 Where Our Paths Meet
-	2 Aurel Born Through Discord
-	2 Sonnet Meirel Lancer
-	1 Marie Hungerbound
-	2 Skyskif Flying Fish
-	2 Gael Spiteflame Phoenix
-	2 Jothi Awakened Flock
-	2 Jothi
-	2 Tofnet Ranger
-	2 Axoladen Adventurer
-	2 Lasting Discovery
-	2 Trailing Tethers
-	2 Prismatic Drake
-	2 Ikorian Skyshark
-	2 Nirvanha Bloom
-	1 Forgiving Monument
-	1 I Will Walk My Own Path
-	2 Pathshaping
-	2 Kaln-Ocean Streamliner
-	2 Soaring Chorus
-	2 Shrouded Pathcensor
-	2 Chirps Spice Seeker
-	2 Melodia Explorer at Heart
-	1 Outlands Chimera
-	2 Lisse Bound by the King
-	2 Lorenz Ascendant King of Alira
-	2 Soul of Vinimroth
-	2 Starling
-	2 Cerise Auger of Flow
-	2 Realmshaper
-	2 Campsite
-	2 Starfall Outlook
-	2 The Calm Belt
-	2 Wavehorn, Great Winding Wizard
-	2 Heng Hien Reifer of Justice
-	2 Mordel Civil War
-	2 Resurrection Pools
-	1 Themia, Steward of Sanctity
-	1 Zesha, Dream Hedonist
-	1 Lisse Hope Through Sin
-	1 Argent, Flash of Mirdrim
-	1 Maal and Sevol, Twin Sentries
-	1 Scout, Maw of the Moon
-	1 Prophellos, Hungering Manipulator
-	1 Reichen, Verdant Guard
-	1 The Shattering of Meirel
-	2 Sanctum Trader
-	2 Mass Mutation
-	2 Ancient Interference
-	2 Probe the Veil
-	2 Lithify
-	2 Cascading Reflections
-	1 Shifting Spire
-	2 Kindred Spirits
-	2 Liminal Ambiguity
-	12 Experience Cultivator
-	2 Podinaetremata
-	2 A Flock is Born
-	2 Branching Paths
-	2 Meso Meso
-	2 Defector of Mordel
-	2 Exhuberant Genesis
-	2 Emergent Parasitism
-	2 Mordel Peacekeeper
-	2 Idol of Reconstruction
-	2 Called to Eternity
-	2 Shifting Dream
-	6 Abandoned Sanctum
-	2 Parallellism
-	2 Kalim, Shivta's Ear
-	2 Avlod Charm
-	2 Gluttony
-	2 Personal Sins
-	2 Bone Salesman
-	2 Mordel Charm
-	2 Fadove Charm
-	2 Longneck Marketwatch
-	2 Fossil Laundering
-	2 Continuity Gap
-	2 Market Negotiator
-	2 Burgeoning Town
-	2 Burgeoning Mindscape
-	2 Burgeoning Pith
-	2 Burgeoning Rockfall
-	2 Burgeoning Jungle
-	2 Burgeoning Peaks
-	2 Burgeoning Path
-	12 Drifting Crevasse
-	12 Drifting Field
-	12 Drifting Isle
-	12 Drifting Jungle
-	12 Drifting Mire
-	12 Drifting Peak
-	12 Drifting Sands
-	2 Outlands Charm
-	2 Deino Charm
-	2 Ignelscor Charm
-	2 Magic of Ignelscor
-	2 Call of Ancestry
-	2 Shivta, Vinimroth's Blade
-	12 Flying Counter
-	2 Tangled Heart
-	2 Numa, On Hope's Trail
-	2 Carrigol Tender
-	2 Heron Drake
-	2 Reid, Unrelenting Dias
-	2 Murkross's Hold
-	2 Late-Leaf Elk
-	2 Deeplost Traveller
-	2 Awakened Titan
-	2 Marblewrought Titan
-	2 Coven of the Black Sun
-	2 Poison Pincher
-	2 Radioactive Rumna
-	2 Oracle of Multaph
-	2 Faloden Barrier Scout
-	2 Kaln-Ocean Seahorse
-	2 Coralwisp Entity
-	2 Warpath Wurm
-	2 Miori, Outlands Future
-	2 Terramorphic Singularity
-	2 Form of the Paths
-	2 Stinging Surveyor
+	12 Rustic Cultivator_foil
+	12 Wind Worn Peaks_foil
+	12 Light of Hope_foil
+	12 History's Weave_foil
+	12 Fall Through Reality_foil
+	12 Meirel Pathwalker_foil
+	12 Staggering Spires_foil
+	12 Pathfinder Wurm_foil
+	12 Rising Haze_foil
+	12 Meirel Caretaker_foil
+	12 Outlands Rescinder_foil
+	12 Outlander Mercenary_foil
+	12 Fadove Lawkeeper_foil
+	12 Fadove Air Supplier_foil
+	12 Veteran Party_foil
+	12 Cleric of the Dawn_foil
+	12 Focus of Fadove_foil
+	12 Outfoxed_foil
+	12 Apprentices Drake_foil
+	12 Crystalline Cover_foil
+	12 Tiderock Passage_foil
+	12 Fold the Truth_foil
+	12 Consult Eternity_foil
+	12 Pristine Denial_foil
+	12 Reshape Eternity_foil
+	12 Pathwrought Overseer_foil
+	12 Veneer Walker_foil
+	12 Outlands Trailblazer_foil
+	12 Vestige Prowler_foil
+	12 Ridgeback Dragonturtle_foil
+	12 Bropheria_foil
+	12 Gripping Truths_foil
+	12 Migratory Flotilla_foil
+	12 Fly Away With Me_foil
+	12 Aspect of Moth_foil
+	12 You Cant Face Me_foil
+	12 Duskcharm Drake_foil
+	12 Eroding River_foil
+	12 Foolish Footing_foil
+	12 Smogborn Pilferer_foil
+	12 Avakin Trapper_foil
+	12 Hedgecrow_foil
+	12 Scaled Rippler_foil
+	12 Left for the Crows_foil
+	12 Relentless Truthseeker_foil
+	12 Otherworldly Entrance_foil
+	12 Pathborn Stinger_foil
+	12 Voidborn Horror_foil
+	12 Avakin Devotee_foil
+	12 Pioneer's Premonition_foil
+	12 Basalt Hammer_foil
+	12 Clanless Combatant_foil
+	12 Willbournes Flame_foil
+	12 Fiery Absolver_foil
+	12 Drougth Adventurer_foil
+	12 Warforged Pair_foil
+	12 Mordel Hammer_foil
+	12 Pathborn Spitter_foil
+	12 Mordel Flamespeaker_foil
+	12 Drakes Intuition_foil
+	12 Smelt Corruption_foil
+	12 Mordel Shaper_foil
+	12 Shifting Landscape_foil
+	12 Depthscout_foil
+	12 Disciple of the Thicket_foil
+	12 Enduring Woodland_foil
+	12 Surubim Harpoon_foil
+	12 Meirel Traveller_foil
+	12 Shard Bearer_foil
+	12 Clanless Weaver_foil
+	12 Illusion Reamer_foil
+	12 Voice of the Thicket_foil
+	12 Inspiring Recruit_foil
+	12 Dance of Discovery_foil
+	12 Outland Pair_foil
+	12 Outlands Rescuer_foil
+	12 Stand Your Ground_foil
+	12 Guide With and Through_foil
+	12 Teachings of the Coiled_foil
+	12 The Strength to Overcome_foil
+	12 Turbulent Aether_foil
+	12 Dust Converter_foil
+	12 Avakin Adventurer_foil
+	12 Meirel Drifter_foil
+	12 Pathworn Blade_foil
+	12 Power from Beyond_foil
+	12 Calign_foil
+	12 Captivate_foil
+	12 Adventurous Pair_foil
+	12 Drougth Attuner_foil
+	6 Perspective Shift_foil
+	12 Enlisted Arms_foil
+	12 Emigrating Pilgrim_foil
+	12 Mana Compression_foil
+	12 Drougth Oracle_foil
+	12 Enlightening Crescents_foil
+	12 Mutated Pioneer_foil
+	12 Somber Marsh_foil
+	12 Fiery Chasm_foil
+	12 Barren Fissure_foil
+	12 Sodden Cavern_foil
+	12 Rainforest Spring_foil
+	12 Roaring Cascade_foil
+	12 Cleft River_foil
+	12 Splintered Thicket_foil
+	12 Carrigol Spires_foil
+	12 Dawnshroud Castle_foil
+	12 Formless Frontier_foil
+	12 Glittering Vale_foil
+	12 Sainard Boneyard_foil
+	12 Soarwing Coast_foil
+	12 Highland Vale_foil
+	12 Tectonic Rime_foil
+	12 Desolate Barrens_foil
+	12 Tranquil Stream_foil
+	12 Alpine Meadow_foil
+	12 Jagged Crag_foil
+	12 Crackling Expanse_foil
+	6 Morraire Shimmer Patrol_foil
+	6 Coiling Jailer_foil
+	6 Sisters in Sorrow_foil
+	6 Feather Piper_foil
+	6 Whisperer of the Paths_foil
+	6 Sunlace Panthera_foil
+	6 Shadow of Grace_foil
+	6 Latent Powerstone_foil
+	6 Pathward Riftcalling_foil
+	6 Menithel Demon_foil
+	6 Cydina Storm Drake_foil
+	6 Flowsnail_foil
+	6 Mordel Spiritcaller_foil
+	6 Ignelscor Frontliner_foil
+	6 Promise of Hunger_foil
+	6 Balutr Runners_foil
+	6 Drake Mentor_foil
+	6 Boundless Flight_foil
+	6 Upsurge Nemato-Gnathi_foil
+	6 Duraval Starmapper_foil
+	6 Kaln-Ocean Harmonizer_foil
+	6 Outlands Duelists_foil
+	6 Meirel Pathrunner_foil
+	6 Those Lost in the Paths_foil
+	6 Calamitous Koi_foil
+	6 Omen of Hunger_foil
+	6 Ardent Grief_foil
+	6 Ignelscor Weaver_foil
+	6 Mourncast Disciple_foil
+	6 Remnants of the War_foil
+	6 Monument to Forever_foil
+	6 Kilnhart Smoghorn_foil
+	6 Ambitious Haze_foil
+	6 Drakesteel Effigy_foil
+	6 Clerics Claymore_foil
+	6 Crystalline Refraction_foil
+	6 Homestead Pair_foil
+	12 Parading Terrain_foil
+	6 Discover Uncertainty_foil
+	12 When Words Dont Work_foil
+	6 Iconic Challenger_foil
+	6 Unweave_foil
+	6 Concealing Ruins_foil
+	6 Blade Reifier_foil
+	6 Ignelscor Witch_foil
+	6 Kornas Forward_foil
+	6 Meirel Evacuator_foil
+	6 Unending Exploration_foil
+	6 Cascading Cleave_foil
+	6 Persisting Timepiece_foil
+	6 Vineglare Enclave_foil
+	6 Inkblot Artist_foil
+	6 Reflected Inclination_foil
+	6 Wandering Travellers_foil
+	6 Bloomrock Enclave_foil
+	6 Brightblossom Enclave_foil
+	6 Dawnbreak Resort_foil
+	6 Devoted Riftpike_foil
+	6 Errant Pillar_foil
+	6 Exhausting Foundation_foil
+	6 Glowspore Enclave_foil
+	6 Hostile Pillars_foil
+	6 Listless Monument_foil
+	6 Mistlake Enclave_foil
+	6 Moonglow Enclave_foil
+	6 Ominous Temple_foil
+	6 Roaming Ruins_foil
+	6 Soaring Tethers_foil
+	6 Sunswept Prairie_foil
+	6 Thyrsine Way_foil
+	6 Vibrant Knoll_foil
+	6 Windy Weft_foil
+	2 Binding Pools_foil
+	2 Frontier Sanctuary_foil
+	2 Mirdrim Summit_foil
+	2 Splitting Caldera_foil
+	2 Winnowing Tower_foil
+	1 Tavern Sanctum_foil
+	12 Bosket Peak_foil
+	6 Outlands Recruiter_foil
+	6 Julius Skyknight of Morriare_foil
+	6 Yearn for the Sky_foil
+	6 Marching Partisan_foil
+	6 Outland Riftsower_foil
+	6 Clanless Tunneler_foil
+	6 Coalesced Company_foil
+	6 Inspiring Dunes_foil
+	6 Hengs Intercession_foil
+	6 Mentor of Engagement_foil
+	6 Winding Guide_foil
+	6 Safeguarded Pair_foil
+	6 Peacewarden_foil
+	6 Chimarel Clearing_foil
+	6 Ancient Sigils_foil
+	6 Storm Striker_foil
+	6 Dreamgill Salamander_foil
+	6 Embracing Intonation_foil
+	6 Moonscale Koi_foil
+	6 Vertical Shift_foil
+	6 Waterscape Mystic_foil
+	6 I Know What You Mean to Me_foil
+	6 Rest For a New World_foil
+	6 Relentless Spellseeker_foil
+	6 Cliffside Surveyor_foil
+	6 Skycliff Flow_foil
+	6 Slipstream Cyprinus_foil
+	6 Mesmeric Peaks_foil
+	6 Parasitic Roots_foil
+	6 Howling Gasp_foil
+	6 I Wont Stand Alone_foil
+	6 Ditto Dagger_foil
+	6 Lizturbance_foil
+	6 Dissenting Experience_foil
+	6 Omenspeaker Avakin_foil
+	6 Your Strength is Fading_foil
+	6 Bloodstained Fields_foil
+	6 Spire of Rebirth_foil
+	6 Murkross Spiritcaller_foil
+	6 Gold-Streaked Obelisks_foil
+	6 Fervent Canyon_foil
+	6 Ignelscor Jidiao_foil
+	6 Boundless Hollow_foil
+	6 Rend Hope_foil
+	6 Awakened Wurm_foil
+	6 Moonlit Congregation_foil
+	6 Bare Your Fangs_foil
+	6 Lost Sunset_foil
+	6 Counterinsurgency_foil
+	6 Haphazard and Unbound_foil
+	6 New Mordel Fireweaver_foil
+	6 Seasoned Flamefinder_foil
+	6 Broodmages Furor_foil
+	6 Our March Wont End_foil
+	6 Call to Revolution_foil
+	6 Shimmer From Beyond_foil
+	6 Encouraging Passage_foil
+	6 Fritter Skitter_foil
+	6 Dawncoil Burnisher_foil
+	6 Ranging Symbiote_foil
+	6 Leyline Weaver_foil
+	6 Murkross Shaman_foil
+	6 Virulent Attendant_foil
+	6 Cervus Sprouting_foil
+	6 Unexpected Predator_foil
+	6 Cartographers Survey_foil
+	6 Hunters Strength_foil
+	6 Keras Appointed_foil
+	6 Nurtured Landscape_foil
+	6 Outlands Caretaker_foil
+	6 Snowscaper Bakunawa_foil
+	6 Awakened Reactionary_foil
+	6 Crustacean Surge_foil
+	2 Extraplanar Portal_foil
+	2 Soul Shatter_foil
+	2 Korna Adventuring Historian_foil
+	2 Zoslera Exiled Visionary_foil
+	2 Trade Routes_foil
+	2 Where Our Paths Meet_foil
+	2 Aurel Born Through Discord_foil
+	2 Sonnet Meirel Lancer_foil
+	1 Marie Hungerbound_foil
+	2 Skyskif Flying Fish_foil
+	2 Gael Spiteflame Phoenix_foil
+	2 Jothi Awakened Flock_foil
+	2 Jothi_foil
+	2 Tofnet Ranger_foil
+	2 Axoladen Adventurer_foil
+	2 Lasting Discovery_foil
+	2 Trailing Tethers_foil
+	2 Prismatic Drake_foil
+	2 Ikorian Skyshark_foil
+	2 Nirvanha Bloom_foil
+	1 Forgiving Monument_foil
+	1 I Will Walk My Own Path_foil
+	2 Pathshaping_foil
+	2 Kaln-Ocean Streamliner_foil
+	2 Soaring Chorus_foil
+	2 Shrouded Pathcensor_foil
+	2 Chirps Spice Seeker_foil
+	2 Melodia Explorer at Heart_foil
+	1 Outlands Chimera_foil
+	2 Lisse Bound by the King_foil
+	2 Lorenz Ascendant King of Alira_foil
+	2 Soul of Vinimroth_foil
+	2 Starling_foil
+	2 Cerise Auger of Flow_foil
+	2 Realmshaper_foil
+	2 Campsite_foil
+	2 Starfall Outlook_foil
+	2 The Calm Belt_foil
+	2 Wavehorn, Great Winding Wizard_foil
+	2 Heng Hien Reifer of Justice_foil
+	2 Mordel Civil War_foil
+	2 Resurrection Pools_foil
+	1 Themia, Steward of Sanctity_foil
+	1 Zesha, Dream Hedonist_foil
+	1 Lisse Hope Through Sin_foil
+	1 Argent, Flash of Mirdrim_foil
+	1 Maal and Sevol, Twin Sentries_foil
+	1 Scout, Maw of the Moon_foil
+	1 Prophellos, Hungering Manipulator_foil
+	1 Reichen, Verdant Guard_foil
+	1 The Shattering of Meirel_foil
+	2 Sanctum Trader_foil
+	2 Mass Mutation_foil
+	2 Ancient Interference_foil
+	2 Probe the Veil_foil
+	2 Lithify_foil
+	2 Cascading Reflections_foil
+	1 Shifting Spire_foil
+	2 Kindred Spirits_foil
+	2 Liminal Ambiguity_foil
+	12 Experience Cultivator_foil
+	2 Podinaetremata_foil
+	2 A Flock is Born_foil
+	2 Branching Paths_foil
+	2 Meso Meso_foil
+	2 Defector of Mordel_foil
+	2 Exhuberant Genesis_foil
+	2 Emergent Parasitism_foil
+	2 Mordel Peacekeeper_foil
+	2 Idol of Reconstruction_foil
+	2 Called to Eternity_foil
+	2 Shifting Dream_foil
+	6 Abandoned Sanctum_foil
+	2 Parallellism_foil
+	2 Kalim, Shivta's Ear_foil
+	2 Avlod Charm_foil
+	2 Gluttony_foil
+	2 Personal Sins_foil
+	2 Bone Salesman_foil
+	2 Mordel Charm_foil
+	2 Fadove Charm_foil
+	2 Longneck Marketwatch_foil
+	2 Fossil Laundering_foil
+	2 Continuity Gap_foil
+	2 Market Negotiator_foil
+	2 Burgeoning Town_foil
+	2 Burgeoning Mindscape_foil
+	2 Burgeoning Pith_foil
+	2 Burgeoning Rockfall_foil
+	2 Burgeoning Jungle_foil
+	2 Burgeoning Peaks_foil
+	2 Burgeoning Path_foil
+	12 Drifting Crevasse_foil
+	12 Drifting Field_foil
+	12 Drifting Isle_foil
+	12 Drifting Jungle_foil
+	12 Drifting Mire_foil
+	12 Drifting Peak_foil
+	12 Drifting Sands_foil
+	2 Outlands Charm_foil
+	2 Deino Charm_foil
+	2 Ignelscor Charm_foil
+	2 Magic of Ignelscor_foil
+	2 Call of Ancestry_foil
+	2 Shivta, Vinimroth's Blade_foil
+	12 Flying Counter_foil
+	2 Tangled Heart_foil
+	2 Numa, On Hope's Trail_foil
+	2 Carrigol Tender_foil
+	2 Heron Drake_foil
+	2 Reid, Unrelenting Dias_foil
+	2 Murkross's Hold_foil
+	2 Late-Leaf Elk_foil
+	2 Deeplost Traveller_foil
+	2 Awakened Titan_foil
+	2 Marblewrought Titan_foil
+	2 Coven of the Black Sun_foil
+	2 Poison Pincher_foil
+	2 Radioactive Rumna_foil
+	2 Oracle of Multaph_foil
+	2 Faloden Barrier Scout_foil
+	2 Kaln-Ocean Seahorse_foil
+	2 Coralwisp Entity_foil
+	2 Warpath Wurm_foil
+	2 Miori, Outlands Future_foil
+	2 Terramorphic Singularity_foil
+	2 Form of the Paths_foil
+	2 Stinging Surveyor_foil
 [wildcard(1)]
 	6 Rustic Cultivator
 	6 Wind Worn Peaks

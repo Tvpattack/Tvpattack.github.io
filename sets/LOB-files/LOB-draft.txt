@@ -8405,272 +8405,272 @@
 	8 Remove Trap
 	8 Hitodenchak
 [foil(1)]
-	6 Book of Secret Arts
-	2 Dragon Capture Jar
-	12 Mystical Capture Chain
-	12 Prismatic Bulb
-	12 Rainbow Flower
-	6 Temple of Skulls
-	6 Ancient Jar
-	6 Golgoil
-	6 Bat
-	12 Man-Eating Treasure Chest
-	6 Metal Dragon
-	2 Giant Mech-Soldier
-	6 Mech Mole Zombie
-	6 Steel Ogre Grotto 1
-	6 Statue of Easter Island
-	2 Cyber Soldier of Darkworld
-	2 Giant Soldier of Stone
-	12 Patrol Robo
-	12 Hard Armor
-	12 Beast Fangs
-	12 Dragon Treasure
-	6 Electro-Whip
-	12 Gust Fan
-	6 Laser Cannon Armor
-	12 Legendary Sword
-	12 Machine Conversion Factory
-	12 Power of Kaishin
-	6 Silver Bow and Arrow
-	12 Violet Crystal
-	12 Happy Lover
-	6 Hourglass of Courage
-	12 Hourglass of Life
-	12 Petit Angel
-	12 Shining Friendship
-	6 Spirit of the Harp
-	6 Meda Bat
-	6 Frenzied Panda
-	12 Mabarrel
-	6 Beaver Warrior
-	6 Skull Red Bird
-	6 Punished Eagle
-	12 Droll Bird
-	12 Kurama
-	12 Fiend Reflection 2
-	12 Spirit of the Books
-	6 Bolt Penguin
-	12 Rare Fish
-	12 Turtle Tiger
-	6 Tiger Axe
-	12 Rabid Horseman
-	6 Wood Clown
-	12 Hitotsu-Me Giant
-	12 Midnight Fiend
-	2 Ryu-Kishin
-	12 Tyhone
-	12 Synchar
-	12 Meotoko
-	2 Red-Eyes Black Dragon
-	6 Tri-Horned Dragon
-	12 Archfiend Mirror
-	6 Roaring Ocean Snake
-	2 Yormungarde
-	6 Twin Long Rods 1
-	6 Sanwitch
-	6 Succubus Knight
-	12 Dark Plant
-	6 Witty Phantom
-	6 Dig Beak
-	6 Shadow Who Controls the Dark
-	12 Rhaimundos of the Red Sword
-	6 Megirus Light
-	12 Phantom Dewan
-	12 Dark King of the Abyss
-	6 Tomozaurus
-	12 Two-Mouth Darkruler
-	12 Uraby
-	2 Blue-Eyes White Dragon
-	6 Curse of Dragon
-	6 Lesser Dragon
-	2 Winged Dragon, Guardian of the Fortress 1
-	2 Winged Dragon, Guardian of the Fortress 2
-	6 Wicked Dragon with the Ersatz Head
-	6 Tripwire Beast
-	12 Kaiser Dragon
-	12 Petit Dragon
-	12 That Which Feeds on Life
-	6 One-Eyed Shield Dragon
-	12 Monster Egg
-	12 Little D
-	12 Fire Eye
-	6 Flame Ghost
-	6 Empress Judge
-	12 Mammoth Graveyard
-	6 Mystical Elf
-	2 Battle Warrior
-	2 Celtic Guardian
-	6 Fairywitch
-	12 Musician King
-	6 Dragoness the Wicked Knight
-	2 Gaia the Dragon Champion
-	12 Doriado
-	12 Muse-A
-	2 Gaia The Fierce Knight
-	2 Armed Ninja
-	6 Armaill
-	6 Beautiful Headhuntress
-	6 Warrior of Tradition
-	6 Flame Swordsman
-	12 Kagemusha of the Blue Flame
-	6 Karbonala Warrior
-	6 Minomushi Warrior
-	6 St Joan
-	6 M-Warrior 1
-	6 M-Warrior 2
-	2 Dark Magician
-	6 Fireyarou
-	12 Flame Manipulator
-	6 Vermillion Sparrow
-	6 Kamionwizard
-	2 Boo Koo
-	6 Alinsection
-	12 Basic Insect
-	6 Giant Flea
-	6 Man-Eater Bug
-	12 Hercules Beetle
-	12 Kuwagata Alpha
-	6 Kwagar Hercules
-	12 Larvas
-	6 Mon Larvas
-	2 Winged Cleaver
-	12 Drooling Lizard
-	12 Zarigun
-	12 Furious Sea King
-	2 Wow Warrior
-	12 Enchanting Mermaid
-	12 Root Water
-	6 Terra the Terrible
-	12 Man Eater
-	6 Man-Eating Plant
-	6 Abyss Flower
-	6 Darkfire Dragon
-	12 Rose Spectre of Dunn
-	2 Wodan the Resident of the Forest
-	12 Bean Soldier
-	12 Firegrass
-	6 Flower Wolf
-	12 Wilmee
-	12 Masaki the Legendary Swordsman
-	6 Oscillo Hero
-	6 Wattkid
-	6 Nightmare Scorpion
-	12 Dark Gray
-	6 Eyearmor
-	6 Doron
-	6 Misairuzame
-	6 Harpie Lady
-	6 Kumootoko
-	2 Reaper of the Cards
-	2 Tao the Chanter
-	6 Djinn the Watcher of the Wind
-	2 Hane-Hane
-	6 One Who Hunts Souls
-	12 Secretarian of Secrets
-	12 Silver Fang
-	6 Pragticul
-	6 Gate Deeg
-	6 Skullbird
-	12 Skelegon
-	12 Drdek
-	6 Akihiron
-	12 Bone Mouse
-	12 Spike Seadra
-	6 Dark Artist
-	12 Skull Servant
-	6 Armored Starfish
-	12 The 13th Grave
-	12 Zombie Warrior
-	6 Fire Reaper
-	12 Curtain of the Dark Ones
-	12 Haniwa
-	12 Lucky Trinket
-	6 Steel Shell
-	12 Tatsunootoshigo
-	12 The Melting Red Shadow
-	2 Trap Hole
-	12 Wings of Wicked Flame
-	6 Yamatano Dragon Scroll
-	2 The Seal of Orichalcos
-	12 LaMoon
-	6 Takuhee
-	6 Fusionist
-	2 Aqua Madoor
-	12 Dissolverrock
-	12 Hinotama Soul
-	6 Hurricail
-	12 LaLa Li-oon
-	2 Weather Control
-	6 Mavelus
-	6 Stone Ghost
-	12 Water Element
-	6 Charubin the Fire Knight
-	12 King Fog
-	12 Green Phantom King
-	6 Kaminari Attack
-	12 Thunder Kid
-	12 Nemuriko
-	12 Living Vase
-	6 Darkworld Thorns
-	12 Mystical Sheep 2
-	12 Ray and Temperature
-	6 Sand Stone
-	2 Invigoration
-	12 Mystical Moon
-	12 Vile Germs
-	2 Blue Medicine
-	12 Corroding Shark
-	2 Fissure
-	2 Goblins Secret Remedy
-	6 Gravedigger Ghoul
-	12 Hinotama
-	12 Marmot of Nefariousness
-	2 Monster Reborn
-	12 Raise Body Heat
-	2 Red Medicine
-	12 Rouge Doll
-	12 Sparks
-	12 Trial of Nightmare
-	12 White Dolphin
-	12 Ancient Forest
-	12 Canyon
-	12 Fire Prison
-	12 Mystic Plasma Zone
-	6 Mythical Forest
-	6 Mythical Mountain
-	6 Mythical Sogen
-	6 Mythical Umi
-	6 Mythical Wasteland
-	6 Mythical Yami
-	12 Shadows Light
-	12 Umiiruka
-	2 Exodia the Forbidden One
-	2 Left Arm of the Forbidden One
-	2 Left Leg of the Forbidden One
-	2 Right Arm of the Forbidden One
-	2 Right Leg of the Forbidden One
-	12 Burning Spear
-	12 Candle of Fate
-	12 Castle Walls
-	6 Dark Energy
-	2 Dark Hole
-	2 Final Flame
-	12 Follow Wind
-	12 Graveyard and the Hand of Invitation
-	12 Mystery Hand
-	6 Ookazi
-	2 Polymerization
-	6 Pot of Greed
-	2 Raigeki
-	2 Reinforcements
-	12 Remove Trap
-	2 Stop Defense
-	2 Swords of Revealing Light
-	2 Two-Pronged Attack
-	6 Yashinoki
-	6 Shifting Obelisks
-	12 Hitodenchak
+	6 Book of Secret Arts_foil
+	2 Dragon Capture Jar_foil
+	12 Mystical Capture Chain_foil
+	12 Prismatic Bulb_foil
+	12 Rainbow Flower_foil
+	6 Temple of Skulls_foil
+	6 Ancient Jar_foil
+	6 Golgoil_foil
+	6 Bat_foil
+	12 Man-Eating Treasure Chest_foil
+	6 Metal Dragon_foil
+	2 Giant Mech-Soldier_foil
+	6 Mech Mole Zombie_foil
+	6 Steel Ogre Grotto 1_foil
+	6 Statue of Easter Island_foil
+	2 Cyber Soldier of Darkworld_foil
+	2 Giant Soldier of Stone_foil
+	12 Patrol Robo_foil
+	12 Hard Armor_foil
+	12 Beast Fangs_foil
+	12 Dragon Treasure_foil
+	6 Electro-Whip_foil
+	12 Gust Fan_foil
+	6 Laser Cannon Armor_foil
+	12 Legendary Sword_foil
+	12 Machine Conversion Factory_foil
+	12 Power of Kaishin_foil
+	6 Silver Bow and Arrow_foil
+	12 Violet Crystal_foil
+	12 Happy Lover_foil
+	6 Hourglass of Courage_foil
+	12 Hourglass of Life_foil
+	12 Petit Angel_foil
+	12 Shining Friendship_foil
+	6 Spirit of the Harp_foil
+	6 Meda Bat_foil
+	6 Frenzied Panda_foil
+	12 Mabarrel_foil
+	6 Beaver Warrior_foil
+	6 Skull Red Bird_foil
+	6 Punished Eagle_foil
+	12 Droll Bird_foil
+	12 Kurama_foil
+	12 Fiend Reflection 2_foil
+	12 Spirit of the Books_foil
+	6 Bolt Penguin_foil
+	12 Rare Fish_foil
+	12 Turtle Tiger_foil
+	6 Tiger Axe_foil
+	12 Rabid Horseman_foil
+	6 Wood Clown_foil
+	12 Hitotsu-Me Giant_foil
+	12 Midnight Fiend_foil
+	2 Ryu-Kishin_foil
+	12 Tyhone_foil
+	12 Synchar_foil
+	12 Meotoko_foil
+	2 Red-Eyes Black Dragon_foil
+	6 Tri-Horned Dragon_foil
+	12 Archfiend Mirror_foil
+	6 Roaring Ocean Snake_foil
+	2 Yormungarde_foil
+	6 Twin Long Rods 1_foil
+	6 Sanwitch_foil
+	6 Succubus Knight_foil
+	12 Dark Plant_foil
+	6 Witty Phantom_foil
+	6 Dig Beak_foil
+	6 Shadow Who Controls the Dark_foil
+	12 Rhaimundos of the Red Sword_foil
+	6 Megirus Light_foil
+	12 Phantom Dewan_foil
+	12 Dark King of the Abyss_foil
+	6 Tomozaurus_foil
+	12 Two-Mouth Darkruler_foil
+	12 Uraby_foil
+	2 Blue-Eyes White Dragon_foil
+	6 Curse of Dragon_foil
+	6 Lesser Dragon_foil
+	2 Winged Dragon, Guardian of the Fortress 1_foil
+	2 Winged Dragon, Guardian of the Fortress 2_foil
+	6 Wicked Dragon with the Ersatz Head_foil
+	6 Tripwire Beast_foil
+	12 Kaiser Dragon_foil
+	12 Petit Dragon_foil
+	12 That Which Feeds on Life_foil
+	6 One-Eyed Shield Dragon_foil
+	12 Monster Egg_foil
+	12 Little D_foil
+	12 Fire Eye_foil
+	6 Flame Ghost_foil
+	6 Empress Judge_foil
+	12 Mammoth Graveyard_foil
+	6 Mystical Elf_foil
+	2 Battle Warrior_foil
+	2 Celtic Guardian_foil
+	6 Fairywitch_foil
+	12 Musician King_foil
+	6 Dragoness the Wicked Knight_foil
+	2 Gaia the Dragon Champion_foil
+	12 Doriado_foil
+	12 Muse-A_foil
+	2 Gaia The Fierce Knight_foil
+	2 Armed Ninja_foil
+	6 Armaill_foil
+	6 Beautiful Headhuntress_foil
+	6 Warrior of Tradition_foil
+	6 Flame Swordsman_foil
+	12 Kagemusha of the Blue Flame_foil
+	6 Karbonala Warrior_foil
+	6 Minomushi Warrior_foil
+	6 St Joan_foil
+	6 M-Warrior 1_foil
+	6 M-Warrior 2_foil
+	2 Dark Magician_foil
+	6 Fireyarou_foil
+	12 Flame Manipulator_foil
+	6 Vermillion Sparrow_foil
+	6 Kamionwizard_foil
+	2 Boo Koo_foil
+	6 Alinsection_foil
+	12 Basic Insect_foil
+	6 Giant Flea_foil
+	6 Man-Eater Bug_foil
+	12 Hercules Beetle_foil
+	12 Kuwagata Alpha_foil
+	6 Kwagar Hercules_foil
+	12 Larvas_foil
+	6 Mon Larvas_foil
+	2 Winged Cleaver_foil
+	12 Drooling Lizard_foil
+	12 Zarigun_foil
+	12 Furious Sea King_foil
+	2 Wow Warrior_foil
+	12 Enchanting Mermaid_foil
+	12 Root Water_foil
+	6 Terra the Terrible_foil
+	12 Man Eater_foil
+	6 Man-Eating Plant_foil
+	6 Abyss Flower_foil
+	6 Darkfire Dragon_foil
+	12 Rose Spectre of Dunn_foil
+	2 Wodan the Resident of the Forest_foil
+	12 Bean Soldier_foil
+	12 Firegrass_foil
+	6 Flower Wolf_foil
+	12 Wilmee_foil
+	12 Masaki the Legendary Swordsman_foil
+	6 Oscillo Hero_foil
+	6 Wattkid_foil
+	6 Nightmare Scorpion_foil
+	12 Dark Gray_foil
+	6 Eyearmor_foil
+	6 Doron_foil
+	6 Misairuzame_foil
+	6 Harpie Lady_foil
+	6 Kumootoko_foil
+	2 Reaper of the Cards_foil
+	2 Tao the Chanter_foil
+	6 Djinn the Watcher of the Wind_foil
+	2 Hane-Hane_foil
+	6 One Who Hunts Souls_foil
+	12 Secretarian of Secrets_foil
+	12 Silver Fang_foil
+	6 Pragticul_foil
+	6 Gate Deeg_foil
+	6 Skullbird_foil
+	12 Skelegon_foil
+	12 Drdek_foil
+	6 Akihiron_foil
+	12 Bone Mouse_foil
+	12 Spike Seadra_foil
+	6 Dark Artist_foil
+	12 Skull Servant_foil
+	6 Armored Starfish_foil
+	12 The 13th Grave_foil
+	12 Zombie Warrior_foil
+	6 Fire Reaper_foil
+	12 Curtain of the Dark Ones_foil
+	12 Haniwa_foil
+	12 Lucky Trinket_foil
+	6 Steel Shell_foil
+	12 Tatsunootoshigo_foil
+	12 The Melting Red Shadow_foil
+	2 Trap Hole_foil
+	12 Wings of Wicked Flame_foil
+	6 Yamatano Dragon Scroll_foil
+	2 The Seal of Orichalcos_foil
+	12 LaMoon_foil
+	6 Takuhee_foil
+	6 Fusionist_foil
+	2 Aqua Madoor_foil
+	12 Dissolverrock_foil
+	12 Hinotama Soul_foil
+	6 Hurricail_foil
+	12 LaLa Li-oon_foil
+	2 Weather Control_foil
+	6 Mavelus_foil
+	6 Stone Ghost_foil
+	12 Water Element_foil
+	6 Charubin the Fire Knight_foil
+	12 King Fog_foil
+	12 Green Phantom King_foil
+	6 Kaminari Attack_foil
+	12 Thunder Kid_foil
+	12 Nemuriko_foil
+	12 Living Vase_foil
+	6 Darkworld Thorns_foil
+	12 Mystical Sheep 2_foil
+	12 Ray and Temperature_foil
+	6 Sand Stone_foil
+	2 Invigoration_foil
+	12 Mystical Moon_foil
+	12 Vile Germs_foil
+	2 Blue Medicine_foil
+	12 Corroding Shark_foil
+	2 Fissure_foil
+	2 Goblins Secret Remedy_foil
+	6 Gravedigger Ghoul_foil
+	12 Hinotama_foil
+	12 Marmot of Nefariousness_foil
+	2 Monster Reborn_foil
+	12 Raise Body Heat_foil
+	2 Red Medicine_foil
+	12 Rouge Doll_foil
+	12 Sparks_foil
+	12 Trial of Nightmare_foil
+	12 White Dolphin_foil
+	12 Ancient Forest_foil
+	12 Canyon_foil
+	12 Fire Prison_foil
+	12 Mystic Plasma Zone_foil
+	6 Mythical Forest_foil
+	6 Mythical Mountain_foil
+	6 Mythical Sogen_foil
+	6 Mythical Umi_foil
+	6 Mythical Wasteland_foil
+	6 Mythical Yami_foil
+	12 Shadows Light_foil
+	12 Umiiruka_foil
+	2 Exodia the Forbidden One_foil
+	2 Left Arm of the Forbidden One_foil
+	2 Left Leg of the Forbidden One_foil
+	2 Right Arm of the Forbidden One_foil
+	2 Right Leg of the Forbidden One_foil
+	12 Burning Spear_foil
+	12 Candle of Fate_foil
+	12 Castle Walls_foil
+	6 Dark Energy_foil
+	2 Dark Hole_foil
+	2 Final Flame_foil
+	12 Follow Wind_foil
+	12 Graveyard and the Hand of Invitation_foil
+	12 Mystery Hand_foil
+	6 Ookazi_foil
+	2 Polymerization_foil
+	6 Pot of Greed_foil
+	2 Raigeki_foil
+	2 Reinforcements_foil
+	12 Remove Trap_foil
+	2 Stop Defense_foil
+	2 Swords of Revealing Light_foil
+	2 Two-Pronged Attack_foil
+	6 Yashinoki_foil
+	6 Shifting Obelisks_foil
+	12 Hitodenchak_foil
 [wildcard(1)]
 	15 Book of Secret Arts
 	7 Dragon Capture Jar

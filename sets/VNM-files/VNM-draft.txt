@@ -8769,310 +8769,310 @@
 	8 Splendid Genesis
 	8 Volatile Visions
 [foil(1)]
-	6 Drake Wrangler
-	6 Tofnet Riftstalker
-	6 Passage Overseer
-	6 Bruin Wanderer
-	6 Avakin Riftseeker
-	6 Untamed Drake
-	6 Aeon Awakener
-	6 Bulwark of the Thicket
-	6 Multaphs Riftwarden
-	12 Rush Down
-	12 Purge the Clanless
-	6 Survivors Instinct
-	6 Entrance of Hunger
-	12 Prismatism
-	6 Aerial Roost
-	6 Soul Fire
-	12 Dust to Life
-	6 Hired Enforcer
-	6 Perplexing Ray
-	6 Clanless Usurper
-	6 Opportunistic Scavenger
-	6 Outlands Bulwark
-	6 Mischievous Fox
-	6 Roduth's Guard
-	6 Ageless History
-	6 Icebound Reinforcements
-	6 Blossoming Mentor
-	6 Accord Mentor
-	6 Eternal Mentor
-	6 Conflict Mentor
-	6 Outcast Mentor
-	12 Fadove Initiate
-	12 Fadove Trainer
-	6 Trusted Companion
-	12 Fadove Tracker
-	12 Outlands Marauder
-	12 Wandering Soul
-	12 Fadove Drillmaster
-	12 Oathkeep Wurm
-	12 Drake Rider
-	6 Radiant Guide
-	12 Covetous Fox
-	12 Rebuke the Foul
-	12 Maddened by Hunger
-	6 Fadove Bodyguard
-	6 Combat Diviner
-	12 Frostborn Sentinel
-	12 Respite Partisan
-	12 Due Dismissal
-	6 Denied by Nature
-	12 Repel the Invasion
-	6 Storm Bearer
-	6 Resolute Watcher
-	6 Avakin Sayer
-	6 Avlod Diviner
-	6 Aspiring Mount
-	12 Cooing Foundling
-	12 Avakin Avenger
-	12 Gateway Guardian
-	12 Avakin Riftwalker
-	12 Rift Tender
-	12 Waking Words
-	12 Avakin Cleaner
-	12 Avakin Assaulter
-	6 Scornful Pursuit
-	12 Left for the Crows
-	12 Weight of Betrayal
-	12 Iconic Resurgence
-	12 Avlod Necklace
-	6 Avakin Mentor
-	6 Shaman of Rites Lost
-	6 Avakin Hireblade
-	12 Frontline Assaulter
-	12 Minotaur Riftcaller
-	6 Fervent Incandescence
-	12 Mordel Patrol
-	12 Tenuous Empowerment
-	12 Mordel Drillmaster
-	12 Verem-Volcano Rumbler
-	12 Stalking Entity
-	12 Iconic Resolution
-	12 Conscripted by the Clanless
-	12 Clanless Destruction
-	12 Unexpected Discovery
-	6 Brood Protector
-	6 Minotaur Outlander
-	6 Mordel Excursionist
-	12 Lavaskimmer Wurm
-	6 Burnout
-	12 Farming Wurm
-	12 Awakened Harmony
-	12 Mordel Formgiver
-	12 Outlands Diviner
-	12 Bruin Clankeeper
-	12 Multaphs Watch
-	12 Progeny of Mordel
-	12 Iconic Altercation
-	12 Boon of Roduth
-	12 Ripped into Eternity
-	6 Rifttouched Ursine
-	6 Triumphant Riftcaller
-	6 Forest Assailant
-	6 Progeny of Bruin
-	12 Rippling Crustacean
-	12 Starbright Entity
-	12 Aspiring Entity
-	12 Wings of New Horizons
-	12 Rip to Tomorrow
-	12 Powerstone Claw
-	12 Wandering Entity
-	12 Pinnacle Skitter
-	6 Tidepool Scuttler
-	6 Explorers Compass
-	6 Pinnacle Wanderer
-	6 Frostnip Watcher
-	6 Shroud Walkers
-	6 Verem-Volcano Stalker
-	12 Power of Oath
-	12 Iconic Absolution
-	6 Wipe Away the Wicked
-	6 Stalwart Resolution
-	6 Fadove Willshaper
-	6 Returned from Beyond
-	6 Rift Burn
-	12 Windshaper Drake
-	6 Study the Rifts
-	12 Blessing of Uth
-	6 Multaphs Resplendant
-	12 Bruin Outlander
-	12 Dark Lessons
-	6 Chromaboon Blade
-	12 Towering Protector
-	6 Sage of the Aeons
-	12 Avakin Opportunist
-	12 Sage of Truths
-	12 Stalwart Guard
-	12 Outlands Wanderer
-	12 Frostborn Glimmer
-	12 Kaln-Ocean Cloak
-	12 Suffused Memories
-	12 Search For Wisdom
-	12 Avakin Watcher
-	12 Transient Eternity
-	12 Abrupt Death
-	12 Fleeting Ruin
-	12 Impetuous Eradication
-	12 Ephemeral Ordinance
-	12 Vanishing Resolve
-	12 Cursory Casualty
-	12 Transitory Refuge
-	12 Evanescent Impasse
-	12 Sublime Liquidation
-	6 Mistblade Rogue
-	6 Manifesting Ardor
-	6 Prismatic Powerstone
-	12 Razorshell Drake
-	6 Verem-Volcano Warrior
-	6 Outlands Protector
-	6 Smoldering Entity
-	6 Skywatch Entity
-	6 Giants Blade
-	12 Voidborn Entity
-	12 Chittering Entity
-	12 Riftborn Flames
-	12 Shining Idol
-	12 Triumphant Entrance
-	6 Midnight Raven
-	12 Outlands Riftbearer
-	12 Mordel Clanwarden
-	12 Warden of the Lost
-	12 Warforged Herald
-	12 Iconic Incident
-	12 Mordel Warrior
-	12 Keeper of Calm
-	12 Avlod Bulwark
-	6 Faloden Thickets
-	6 Faloden Tear-Warden
-	6 Tofnet Predator
-	12 Remnant Awakener
-	12 Waterspout
-	6 Malevolent Naginata
-	6 Skillful Blade
-	6 Tattered Entity
-	6 Crowned Entity
-	12 Flaming Iron
-	6 Usher of the Lost
-	6 Breaking the Mold
-	2 Ruins of Multa
-	2 Multaph Riftborn God
-	2 Will of Roduth
-	2 Will of Multaph
-	2 Will of Destruction
-	2 The Great Tear
-	2 Multaph's Respite
-	2 The Wandering Cook
-	2 Najael Travelling Shaman
-	6 Called by the Void
-	2 Ruins of Uth
-	2 Will of Hunger
-	2 Roduth God of Conflict
-	2 Thargle
-	2 Rip to Yesterday
-	12 Bark of Tofnet Plains
-	12 Kaln-Ocean Wispop
-	12 Pathborn Crackle
-	12 Guardian of Faloden Woods
-	12 Outlands Frostalker
-	12 Fog Walker
-	12 Dromencals Respite
-	12 Outlands Respite
-	2 Melodia Voidtouched
-	2 Calia Oracle of Tofnet Plains
-	2 Ola Kaln-Ocean Spellkeeper
-	2 Kier Acolyte of Avlod Respite
-	2 Vane Verem-Volcano Scorcher
-	2 Somma, Blade of Faloden Woods
-	2 Khestri Fadove Clanleader
-	2 Shivta, Avlod Clanleader
-	2 Urkial Outlands Clanleader
-	2 Bruin Mentor
-	2 Raze the Clanless
-	2 Prismatic Offense
-	2 Korna, Vinimroth Historian
-	2 Zoslera Mordel Clanleader
-	2 Prophellos Pathborn Hunger
-	2 Dust for Dust
-	2 Pinnacle of Vinimroth
-	2 Attuned Shimmer
-	2 Bushy Shimmer
-	2 Wild Shimmer
-	2 Curious Shimmer
-	2 Pouncing Shimmer
-	2 Runed Spire
-	2 Fadove Pathwarden
-	2 Path of Insight
-	2 Path of Revival
-	2 Keeper of Faloden Woods
-	2 Mistveil Drake
-	2 Mordel Combatant
-	2 Bearer of Change
-	2 Mordel Razer
-	2 Pathborn Aggression
-	2 Eternities Weaver
-	2 Guardian Roost
-	2 Path to Restoration
-	2 Path to Ages
-	2 Breach of Protection
-	2 Breach of Sanity
-	2 Breach of Malice
-	2 Breach of Nature
-	2 Breach of Mortality
-	2 Breach of the Unknown
-	2 Path of the Grove
-	2 Pathborn Drake
-	2 Outlands Pathwarden
-	12 Fadove Reinforcement
-	12 Avlod Pathshaper
-	12 Outlands Traveller
-	12 Mordel Reinforcement
-	12 Outlands Guardian
-	12 Paths Strider
-	6 Path of the Proud
-	6 Path of the Roost
-	6 Path of the Rift
-	6 Path of the Brood
-	6 Path of the Mighty
-	12 Pathbound Bloom
-	1 Crackling Plains
-	1 Restored Plains
-	1 Splintered Island
-	1 Furrowed Mountain
-	1 Restored Island
-	1 Restored Swamp
-	1 Restored Mountain
-	1 Restored Forest
-	1 Rip to Today
-	1 Divided Forest
-	1 Sundered Swamp
-	6 Unstable Rift
-	1 Spire of Hunger
-	1 Shimmering Path
-	1 Flashing Path
-	12 Tethers of Insanity
-	12 Eternity Siphon
-	6 Tofnet Thrummer
-	2 Faloden Scavenger
-	12 Grazed by the Endless
-	6 Choked Essence
-	1 Enduring Sapling
-	12 Avakin Hazeweaver
-	2 Verem-Volcano Keeper
-	1 Restored Fault
-	12 Ash to Hope
-	6 Scouts Bow
-	6 Paragon of Unknown Sights
-	2 Dustfall
-	6 Common Enemy
-	6 Power Null
-	2 Weavehorn Chimera
-	12 Ethereal Exposure
-	12 Impunity of Souls
-	12 Scars of Oil
-	12 Splendid Genesis
-	12 Volatile Visions
+	6 Drake Wrangler_foil
+	6 Tofnet Riftstalker_foil
+	6 Passage Overseer_foil
+	6 Bruin Wanderer_foil
+	6 Avakin Riftseeker_foil
+	6 Untamed Drake_foil
+	6 Aeon Awakener_foil
+	6 Bulwark of the Thicket_foil
+	6 Multaphs Riftwarden_foil
+	12 Rush Down_foil
+	12 Purge the Clanless_foil
+	6 Survivors Instinct_foil
+	6 Entrance of Hunger_foil
+	12 Prismatism_foil
+	6 Aerial Roost_foil
+	6 Soul Fire_foil
+	12 Dust to Life_foil
+	6 Hired Enforcer_foil
+	6 Perplexing Ray_foil
+	6 Clanless Usurper_foil
+	6 Opportunistic Scavenger_foil
+	6 Outlands Bulwark_foil
+	6 Mischievous Fox_foil
+	6 Roduth's Guard_foil
+	6 Ageless History_foil
+	6 Icebound Reinforcements_foil
+	6 Blossoming Mentor_foil
+	6 Accord Mentor_foil
+	6 Eternal Mentor_foil
+	6 Conflict Mentor_foil
+	6 Outcast Mentor_foil
+	12 Fadove Initiate_foil
+	12 Fadove Trainer_foil
+	6 Trusted Companion_foil
+	12 Fadove Tracker_foil
+	12 Outlands Marauder_foil
+	12 Wandering Soul_foil
+	12 Fadove Drillmaster_foil
+	12 Oathkeep Wurm_foil
+	12 Drake Rider_foil
+	6 Radiant Guide_foil
+	12 Covetous Fox_foil
+	12 Rebuke the Foul_foil
+	12 Maddened by Hunger_foil
+	6 Fadove Bodyguard_foil
+	6 Combat Diviner_foil
+	12 Frostborn Sentinel_foil
+	12 Respite Partisan_foil
+	12 Due Dismissal_foil
+	6 Denied by Nature_foil
+	12 Repel the Invasion_foil
+	6 Storm Bearer_foil
+	6 Resolute Watcher_foil
+	6 Avakin Sayer_foil
+	6 Avlod Diviner_foil
+	6 Aspiring Mount_foil
+	12 Cooing Foundling_foil
+	12 Avakin Avenger_foil
+	12 Gateway Guardian_foil
+	12 Avakin Riftwalker_foil
+	12 Rift Tender_foil
+	12 Waking Words_foil
+	12 Avakin Cleaner_foil
+	12 Avakin Assaulter_foil
+	6 Scornful Pursuit_foil
+	12 Left for the Crows_foil
+	12 Weight of Betrayal_foil
+	12 Iconic Resurgence_foil
+	12 Avlod Necklace_foil
+	6 Avakin Mentor_foil
+	6 Shaman of Rites Lost_foil
+	6 Avakin Hireblade_foil
+	12 Frontline Assaulter_foil
+	12 Minotaur Riftcaller_foil
+	6 Fervent Incandescence_foil
+	12 Mordel Patrol_foil
+	12 Tenuous Empowerment_foil
+	12 Mordel Drillmaster_foil
+	12 Verem-Volcano Rumbler_foil
+	12 Stalking Entity_foil
+	12 Iconic Resolution_foil
+	12 Conscripted by the Clanless_foil
+	12 Clanless Destruction_foil
+	12 Unexpected Discovery_foil
+	6 Brood Protector_foil
+	6 Minotaur Outlander_foil
+	6 Mordel Excursionist_foil
+	12 Lavaskimmer Wurm_foil
+	6 Burnout_foil
+	12 Farming Wurm_foil
+	12 Awakened Harmony_foil
+	12 Mordel Formgiver_foil
+	12 Outlands Diviner_foil
+	12 Bruin Clankeeper_foil
+	12 Multaphs Watch_foil
+	12 Progeny of Mordel_foil
+	12 Iconic Altercation_foil
+	12 Boon of Roduth_foil
+	12 Ripped into Eternity_foil
+	6 Rifttouched Ursine_foil
+	6 Triumphant Riftcaller_foil
+	6 Forest Assailant_foil
+	6 Progeny of Bruin_foil
+	12 Rippling Crustacean_foil
+	12 Starbright Entity_foil
+	12 Aspiring Entity_foil
+	12 Wings of New Horizons_foil
+	12 Rip to Tomorrow_foil
+	12 Powerstone Claw_foil
+	12 Wandering Entity_foil
+	12 Pinnacle Skitter_foil
+	6 Tidepool Scuttler_foil
+	6 Explorers Compass_foil
+	6 Pinnacle Wanderer_foil
+	6 Frostnip Watcher_foil
+	6 Shroud Walkers_foil
+	6 Verem-Volcano Stalker_foil
+	12 Power of Oath_foil
+	12 Iconic Absolution_foil
+	6 Wipe Away the Wicked_foil
+	6 Stalwart Resolution_foil
+	6 Fadove Willshaper_foil
+	6 Returned from Beyond_foil
+	6 Rift Burn_foil
+	12 Windshaper Drake_foil
+	6 Study the Rifts_foil
+	12 Blessing of Uth_foil
+	6 Multaphs Resplendant_foil
+	12 Bruin Outlander_foil
+	12 Dark Lessons_foil
+	6 Chromaboon Blade_foil
+	12 Towering Protector_foil
+	6 Sage of the Aeons_foil
+	12 Avakin Opportunist_foil
+	12 Sage of Truths_foil
+	12 Stalwart Guard_foil
+	12 Outlands Wanderer_foil
+	12 Frostborn Glimmer_foil
+	12 Kaln-Ocean Cloak_foil
+	12 Suffused Memories_foil
+	12 Search For Wisdom_foil
+	12 Avakin Watcher_foil
+	12 Transient Eternity_foil
+	12 Abrupt Death_foil
+	12 Fleeting Ruin_foil
+	12 Impetuous Eradication_foil
+	12 Ephemeral Ordinance_foil
+	12 Vanishing Resolve_foil
+	12 Cursory Casualty_foil
+	12 Transitory Refuge_foil
+	12 Evanescent Impasse_foil
+	12 Sublime Liquidation_foil
+	6 Mistblade Rogue_foil
+	6 Manifesting Ardor_foil
+	6 Prismatic Powerstone_foil
+	12 Razorshell Drake_foil
+	6 Verem-Volcano Warrior_foil
+	6 Outlands Protector_foil
+	6 Smoldering Entity_foil
+	6 Skywatch Entity_foil
+	6 Giants Blade_foil
+	12 Voidborn Entity_foil
+	12 Chittering Entity_foil
+	12 Riftborn Flames_foil
+	12 Shining Idol_foil
+	12 Triumphant Entrance_foil
+	6 Midnight Raven_foil
+	12 Outlands Riftbearer_foil
+	12 Mordel Clanwarden_foil
+	12 Warden of the Lost_foil
+	12 Warforged Herald_foil
+	12 Iconic Incident_foil
+	12 Mordel Warrior_foil
+	12 Keeper of Calm_foil
+	12 Avlod Bulwark_foil
+	6 Faloden Thickets_foil
+	6 Faloden Tear-Warden_foil
+	6 Tofnet Predator_foil
+	12 Remnant Awakener_foil
+	12 Waterspout_foil
+	6 Malevolent Naginata_foil
+	6 Skillful Blade_foil
+	6 Tattered Entity_foil
+	6 Crowned Entity_foil
+	12 Flaming Iron_foil
+	6 Usher of the Lost_foil
+	6 Breaking the Mold_foil
+	2 Ruins of Multa_foil
+	2 Multaph Riftborn God_foil
+	2 Will of Roduth_foil
+	2 Will of Multaph_foil
+	2 Will of Destruction_foil
+	2 The Great Tear_foil
+	2 Multaph's Respite_foil
+	2 The Wandering Cook_foil
+	2 Najael Travelling Shaman_foil
+	6 Called by the Void_foil
+	2 Ruins of Uth_foil
+	2 Will of Hunger_foil
+	2 Roduth God of Conflict_foil
+	2 Thargle_foil
+	2 Rip to Yesterday_foil
+	12 Bark of Tofnet Plains_foil
+	12 Kaln-Ocean Wispop_foil
+	12 Pathborn Crackle_foil
+	12 Guardian of Faloden Woods_foil
+	12 Outlands Frostalker_foil
+	12 Fog Walker_foil
+	12 Dromencals Respite_foil
+	12 Outlands Respite_foil
+	2 Melodia Voidtouched_foil
+	2 Calia Oracle of Tofnet Plains_foil
+	2 Ola Kaln-Ocean Spellkeeper_foil
+	2 Kier Acolyte of Avlod Respite_foil
+	2 Vane Verem-Volcano Scorcher_foil
+	2 Somma, Blade of Faloden Woods_foil
+	2 Khestri Fadove Clanleader_foil
+	2 Shivta, Avlod Clanleader_foil
+	2 Urkial Outlands Clanleader_foil
+	2 Bruin Mentor_foil
+	2 Raze the Clanless_foil
+	2 Prismatic Offense_foil
+	2 Korna, Vinimroth Historian_foil
+	2 Zoslera Mordel Clanleader_foil
+	2 Prophellos Pathborn Hunger_foil
+	2 Dust for Dust_foil
+	2 Pinnacle of Vinimroth_foil
+	2 Attuned Shimmer_foil
+	2 Bushy Shimmer_foil
+	2 Wild Shimmer_foil
+	2 Curious Shimmer_foil
+	2 Pouncing Shimmer_foil
+	2 Runed Spire_foil
+	2 Fadove Pathwarden_foil
+	2 Path of Insight_foil
+	2 Path of Revival_foil
+	2 Keeper of Faloden Woods_foil
+	2 Mistveil Drake_foil
+	2 Mordel Combatant_foil
+	2 Bearer of Change_foil
+	2 Mordel Razer_foil
+	2 Pathborn Aggression_foil
+	2 Eternities Weaver_foil
+	2 Guardian Roost_foil
+	2 Path to Restoration_foil
+	2 Path to Ages_foil
+	2 Breach of Protection_foil
+	2 Breach of Sanity_foil
+	2 Breach of Malice_foil
+	2 Breach of Nature_foil
+	2 Breach of Mortality_foil
+	2 Breach of the Unknown_foil
+	2 Path of the Grove_foil
+	2 Pathborn Drake_foil
+	2 Outlands Pathwarden_foil
+	12 Fadove Reinforcement_foil
+	12 Avlod Pathshaper_foil
+	12 Outlands Traveller_foil
+	12 Mordel Reinforcement_foil
+	12 Outlands Guardian_foil
+	12 Paths Strider_foil
+	6 Path of the Proud_foil
+	6 Path of the Roost_foil
+	6 Path of the Rift_foil
+	6 Path of the Brood_foil
+	6 Path of the Mighty_foil
+	12 Pathbound Bloom_foil
+	1 Crackling Plains_foil
+	1 Restored Plains_foil
+	1 Splintered Island_foil
+	1 Furrowed Mountain_foil
+	1 Restored Island_foil
+	1 Restored Swamp_foil
+	1 Restored Mountain_foil
+	1 Restored Forest_foil
+	1 Rip to Today_foil
+	1 Divided Forest_foil
+	1 Sundered Swamp_foil
+	6 Unstable Rift_foil
+	1 Spire of Hunger_foil
+	1 Shimmering Path_foil
+	1 Flashing Path_foil
+	12 Tethers of Insanity_foil
+	12 Eternity Siphon_foil
+	6 Tofnet Thrummer_foil
+	2 Faloden Scavenger_foil
+	12 Grazed by the Endless_foil
+	6 Choked Essence_foil
+	1 Enduring Sapling_foil
+	12 Avakin Hazeweaver_foil
+	2 Verem-Volcano Keeper_foil
+	1 Restored Fault_foil
+	12 Ash to Hope_foil
+	6 Scouts Bow_foil
+	6 Paragon of Unknown Sights_foil
+	2 Dustfall_foil
+	6 Common Enemy_foil
+	6 Power Null_foil
+	2 Weavehorn Chimera_foil
+	12 Ethereal Exposure_foil
+	12 Impunity of Souls_foil
+	12 Scars of Oil_foil
+	12 Splendid Genesis_foil
+	12 Volatile Visions_foil
 [wildcard(1)]
 	15 Drake Wrangler
 	15 Tofnet Riftstalker

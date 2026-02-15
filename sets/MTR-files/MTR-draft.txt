@@ -3198,128 +3198,128 @@
 	8 Eternal Drought
 	8 Bio Plant
 [foil(1)]
-	12 Neo, the Magic Swordsman
-	12 Dark Shade
-	12 Beaked Snake
-	12 Fiend Reflection 1
-	12 Air Eater
-	12 Cyber Commander
-	12 Violent Rain
-	12 True Solitude
-	12 Ocubeam
-	12 Flame Viper
-	12 Prevent Rat
-	12 Invader from Another Dimension
-	12 Needle Worm
-	12 Eldeen
-	12 Big Eye
-	12 Ill Witch
-	12 Protector of the Throne
-	12 Goddess With the Third Eye
-	12 Kanan the Swordmistress
-	12 Nekogal 1
-	12 The Wicked Worm Beast
-	12 Goddess of Whim
-	12 Ice Water
-	12 Aqua Snake
-	12 Change Slime
-	12 The Little Swordsman of Aile
-	12 Launcher Spider
-	12 Trent
-	12 Zanki
-	12 Masked Sorceror
-	12 Ryu Kishin Powered
-	12 Shadow Ghoul
-	12 Bolt Escargot
-	12 Grappler
-	12 Wetha
-	12 Garoozis
-	12 Gyakutenno Megami
-	12 Beautiful Beast Trainer
-	12 Dragon Statue
-	12 Kojikocy
-	12 Monstrous Bird
-	12 Faith Bird
-	12 Destroyer Golem
-	12 Hyo
-	12 Behegon
-	12 Penguin Soldier
-	12 Kanikabuto
-	12 Boulder Tortoise
-	12 Hyosube
-	12 Yado Karu
-	12 Jellyfish
-	12 Night Lizard
-	12 Megasonic Eye
-	12 Lord of Zemia
-	12 Baron of the Fiend Sword
-	12 Sword Slasher
-	12 Shadow Specter
-	12 Yaranzo
-	12 Madjinn Gunn
-	12 The Snake Hair
-	12 Wretched Ghost of the Attic
-	12 Ground Attacker Bugroth
-	12 Barrel Lily
-	12 Torike
-	12 Monster Tamer
-	12 Pendulum Machine
-	12 Burglar
-	12 Battle Steer
-	12 Shovel Crusher
-	12 Laughing Flower
-	12 The Thing That Hides in the Mud
-	12 Master & Expert
-	12 Rock Spirit
-	12 The Nordic Lights
-	12 Arlownay
-	12 Alpha Wolf
-	12 Germ Infection
-	12 Yaiba Robo
-	12 Gokibore
-	12 Mooyan Curry
-	12 Ancient Sorcerer
-	12 Fairy's Gift
-	12 Gale Dogra
-	12 D. D. Warrior
-	12 Killer Needle
-	12 Leogun
-	12 Supporter In the Shadows
-	12 Blast Sphere
-	12 Fiend Sword
-	12 Holograh
-	12 Imaginary Arc Tower
-	12 Wild Kitchen
-	12 Area 33
-	12 Prison Island - Cell Block 5 & 6
-	12 Peaks of Blisstopia
-	12 Supreme Marine Fortress Magnum Overbase
-	12 Vegetation of Blisstopia
-	12 Beast Battlefield Barrier
-	12 Feverous Spirit Stadium
-	12 Autumn Leaves of Blisstopia
-	12 Royal Rebel's Arena
-	12 Shining City Nights
-	12 Silvermountain of Blisstopia
-	12 Berserker Colosseum
-	12 Zombie Carnival
-	12 Griffore
-	12 Demolition Fusegate Scrapgate
-	12 Terraforming
-	12 Tremendous Fire
-	12 Just Desserts
-	12 Water Omotics
-	12 Armored Zombie
-	12 Mystic Horseman
-	12 Genin
-	12 Needle Ball
-	12 Moon Envoy
-	12 Claw Reacher
-	12 Metal Guardian
-	12 Ancient Brain
-	12 Ancient Tool
-	12 Eternal Drought
-	12 Bio Plant
+	12 Neo, the Magic Swordsman_foil
+	12 Dark Shade_foil
+	12 Beaked Snake_foil
+	12 Fiend Reflection 1_foil
+	12 Air Eater_foil
+	12 Cyber Commander_foil
+	12 Violent Rain_foil
+	12 True Solitude_foil
+	12 Ocubeam_foil
+	12 Flame Viper_foil
+	12 Prevent Rat_foil
+	12 Invader from Another Dimension_foil
+	12 Needle Worm_foil
+	12 Eldeen_foil
+	12 Big Eye_foil
+	12 Ill Witch_foil
+	12 Protector of the Throne_foil
+	12 Goddess With the Third Eye_foil
+	12 Kanan the Swordmistress_foil
+	12 Nekogal 1_foil
+	12 The Wicked Worm Beast_foil
+	12 Goddess of Whim_foil
+	12 Ice Water_foil
+	12 Aqua Snake_foil
+	12 Change Slime_foil
+	12 The Little Swordsman of Aile_foil
+	12 Launcher Spider_foil
+	12 Trent_foil
+	12 Zanki_foil
+	12 Masked Sorceror_foil
+	12 Ryu Kishin Powered_foil
+	12 Shadow Ghoul_foil
+	12 Bolt Escargot_foil
+	12 Grappler_foil
+	12 Wetha_foil
+	12 Garoozis_foil
+	12 Gyakutenno Megami_foil
+	12 Beautiful Beast Trainer_foil
+	12 Dragon Statue_foil
+	12 Kojikocy_foil
+	12 Monstrous Bird_foil
+	12 Faith Bird_foil
+	12 Destroyer Golem_foil
+	12 Hyo_foil
+	12 Behegon_foil
+	12 Penguin Soldier_foil
+	12 Kanikabuto_foil
+	12 Boulder Tortoise_foil
+	12 Hyosube_foil
+	12 Yado Karu_foil
+	12 Jellyfish_foil
+	12 Night Lizard_foil
+	12 Megasonic Eye_foil
+	12 Lord of Zemia_foil
+	12 Baron of the Fiend Sword_foil
+	12 Sword Slasher_foil
+	12 Shadow Specter_foil
+	12 Yaranzo_foil
+	12 Madjinn Gunn_foil
+	12 The Snake Hair_foil
+	12 Wretched Ghost of the Attic_foil
+	12 Ground Attacker Bugroth_foil
+	12 Barrel Lily_foil
+	12 Torike_foil
+	12 Monster Tamer_foil
+	12 Pendulum Machine_foil
+	12 Burglar_foil
+	12 Battle Steer_foil
+	12 Shovel Crusher_foil
+	12 Laughing Flower_foil
+	12 The Thing That Hides in the Mud_foil
+	12 Master & Expert_foil
+	12 Rock Spirit_foil
+	12 The Nordic Lights_foil
+	12 Arlownay_foil
+	12 Alpha Wolf_foil
+	12 Germ Infection_foil
+	12 Yaiba Robo_foil
+	12 Gokibore_foil
+	12 Mooyan Curry_foil
+	12 Ancient Sorcerer_foil
+	12 Fairy's Gift_foil
+	12 Gale Dogra_foil
+	12 D. D. Warrior_foil
+	12 Killer Needle_foil
+	12 Leogun_foil
+	12 Supporter In the Shadows_foil
+	12 Blast Sphere_foil
+	12 Fiend Sword_foil
+	12 Holograh_foil
+	12 Imaginary Arc Tower_foil
+	12 Wild Kitchen_foil
+	12 Area 33_foil
+	12 Prison Island - Cell Block 5 & 6_foil
+	12 Peaks of Blisstopia_foil
+	12 Supreme Marine Fortress Magnum Overbase_foil
+	12 Vegetation of Blisstopia_foil
+	12 Beast Battlefield Barrier_foil
+	12 Feverous Spirit Stadium_foil
+	12 Autumn Leaves of Blisstopia_foil
+	12 Royal Rebel's Arena_foil
+	12 Shining City Nights_foil
+	12 Silvermountain of Blisstopia_foil
+	12 Berserker Colosseum_foil
+	12 Zombie Carnival_foil
+	12 Griffore_foil
+	12 Demolition Fusegate Scrapgate_foil
+	12 Terraforming_foil
+	12 Tremendous Fire_foil
+	12 Just Desserts_foil
+	12 Water Omotics_foil
+	12 Armored Zombie_foil
+	12 Mystic Horseman_foil
+	12 Genin_foil
+	12 Needle Ball_foil
+	12 Moon Envoy_foil
+	12 Claw Reacher_foil
+	12 Metal Guardian_foil
+	12 Ancient Brain_foil
+	12 Ancient Tool_foil
+	12 Eternal Drought_foil
+	12 Bio Plant_foil
 [wildcard(1)]
 	6 Neo, the Magic Swordsman
 	6 Dark Shade
