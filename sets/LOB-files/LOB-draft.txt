@@ -11,7 +11,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/312_Ancient Telescope.png"
 				}
-			}
+			},
 			{
 				"name": "Ancient Telescope_foil",
 				"rarity": "special",
@@ -35,7 +35,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/313_Bag of Holding.png"
 				}
-			}
+			},
 			{
 				"name": "Bag of Holding_foil",
 				"rarity": "special",
@@ -59,7 +59,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/210_Book of Secret Arts.png"
 				}
-			}
+			},
 			{
 				"name": "Book of Secret Arts_foil",
 				"rarity": "uncommon",
@@ -83,7 +83,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/52_Dragon Capture Jar.png"
 				}
-			}
+			},
 			{
 				"name": "Dragon Capture Jar_foil",
 				"rarity": "rare",
@@ -107,7 +107,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/314_Mental Lock.png"
 				}
-			}
+			},
 			{
 				"name": "Mental Lock_foil",
 				"rarity": "special",
@@ -131,7 +131,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/33_Mystical Capture Chain.png"
 				}
-			}
+			},
 			{
 				"name": "Mystical Capture Chain_foil",
 				"rarity": "common",
@@ -155,7 +155,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/249_Prismatic Bulb.png"
 				}
-			}
+			},
 			{
 				"name": "Prismatic Bulb_foil",
 				"rarity": "common",
@@ -179,7 +179,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/250_Rainbow Flower.png"
 				}
-			}
+			},
 			{
 				"name": "Rainbow Flower_foil",
 				"rarity": "common",
@@ -203,7 +203,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/104_Temple of Skulls.png"
 				}
-			}
+			},
 			{
 				"name": "Temple of Skulls_foil",
 				"rarity": "uncommon",
@@ -227,7 +227,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/174_Ancient Jar.png"
 				}
-			}
+			},
 			{
 				"name": "Ancient Jar_foil",
 				"rarity": "uncommon",
@@ -251,7 +251,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/184_Golgoil.png"
 				}
-			}
+			},
 			{
 				"name": "Golgoil_foil",
 				"rarity": "uncommon",
@@ -275,7 +275,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/17_Bat.png"
 				}
-			}
+			},
 			{
 				"name": "Bat_foil",
 				"rarity": "uncommon",
@@ -299,7 +299,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/289_Gradius.png"
 				}
-			}
+			},
 			{
 				"name": "Gradius_foil",
 				"rarity": "special",
@@ -323,7 +323,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/290_Gradius Option.png"
 				}
-			}
+			},
 			{
 				"name": "Gradius Option_foil",
 				"rarity": "special",
@@ -347,7 +347,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/96_Man-Eating Treasure Chest.png"
 				}
-			}
+			},
 			{
 				"name": "Man-Eating Treasure Chest_foil",
 				"rarity": "common",
@@ -371,7 +371,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/248_Metal Dragon.png"
 				}
-			}
+			},
 			{
 				"name": "Metal Dragon_foil",
 				"rarity": "uncommon",
@@ -395,7 +395,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/245_Giant Mech-Soldier.png"
 				}
-			}
+			},
 			{
 				"name": "Giant Mech-Soldier_foil",
 				"rarity": "rare",
@@ -419,7 +419,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/224_Mech Mole Zombie.png"
 				}
-			}
+			},
 			{
 				"name": "Mech Mole Zombie_foil",
 				"rarity": "uncommon",
@@ -443,7 +443,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/253_Steel Ogre Grotto 1.png"
 				}
-			}
+			},
 			{
 				"name": "Steel Ogre Grotto 1_foil",
 				"rarity": "uncommon",
@@ -467,7 +467,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/252_Statue of Easter Island.png"
 				}
-			}
+			},
 			{
 				"name": "Statue of Easter Island_foil",
 				"rarity": "uncommon",
@@ -491,7 +491,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/83_Cyber Soldier of Darkworld.png"
 				}
-			}
+			},
 			{
 				"name": "Cyber Soldier of Darkworld_foil",
 				"rarity": "rare",
@@ -515,7 +515,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/183_Giant Soldier of Stone.png"
 				}
-			}
+			},
 			{
 				"name": "Giant Soldier of Stone_foil",
 				"rarity": "rare",
@@ -539,7 +539,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/194_Patrol Robo.png"
 				}
-			}
+			},
 			{
 				"name": "Patrol Robo_foil",
 				"rarity": "common",
@@ -563,7 +563,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/24_Hard Armor.png"
 				}
-			}
+			},
 			{
 				"name": "Hard Armor_foil",
 				"rarity": "common",
@@ -587,7 +587,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/144_Beast Fangs.png"
 				}
-			}
+			},
 			{
 				"name": "Beast Fangs_foil",
 				"rarity": "common",
@@ -611,7 +611,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/287_Cyclon Laser.png"
 				}
-			}
+			},
 			{
 				"name": "Cyclon Laser_foil",
 				"rarity": "special",
@@ -635,7 +635,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/115_Dragon Treasure.png"
 				}
-			}
+			},
 			{
 				"name": "Dragon Treasure_foil",
 				"rarity": "common",
@@ -659,7 +659,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/116_Electro-Whip.png"
 				}
-			}
+			},
 			{
 				"name": "Electro-Whip_foil",
 				"rarity": "uncommon",
@@ -683,7 +683,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/185_Gust Fan.png"
 				}
-			}
+			},
 			{
 				"name": "Gust Fan_foil",
 				"rarity": "common",
@@ -707,7 +707,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/246_Laser Cannon Armor.png"
 				}
-			}
+			},
 			{
 				"name": "Laser Cannon Armor_foil",
 				"rarity": "uncommon",
@@ -731,7 +731,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/28_Legendary Sword.png"
 				}
-			}
+			},
 			{
 				"name": "Legendary Sword_foil",
 				"rarity": "common",
@@ -755,7 +755,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/247_Machine Conversion Factory.png"
 				}
-			}
+			},
 			{
 				"name": "Machine Conversion Factory_foil",
 				"rarity": "common",
@@ -779,7 +779,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/64_Power of Kaishin.png"
 				}
-			}
+			},
 			{
 				"name": "Power of Kaishin_foil",
 				"rarity": "common",
@@ -803,7 +803,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/197_Silver Bow and Arrow.png"
 				}
-			}
+			},
 			{
 				"name": "Silver Bow and Arrow_foil",
 				"rarity": "uncommon",
@@ -827,7 +827,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/284_Sword of Dark Destruction.png"
 				}
-			}
+			},
 			{
 				"name": "Sword of Dark Destruction_foil",
 				"rarity": "special",
@@ -851,7 +851,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/107_Violet Crystal.png"
 				}
-			}
+			},
 			{
 				"name": "Violet Crystal_foil",
 				"rarity": "common",
@@ -875,7 +875,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/272_Basic Fault LOB.png"
 				}
-			}
+			},
 			{
 				"name": "Basic Fault LOB_foil",
 				"rarity": "common",
@@ -899,7 +899,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/271_Basic Forest LOB.png"
 				}
-			}
+			},
 			{
 				"name": "Basic Forest LOB_foil",
 				"rarity": "common",
@@ -923,7 +923,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/268_Basic Island LOB.png"
 				}
-			}
+			},
 			{
 				"name": "Basic Island LOB_foil",
 				"rarity": "common",
@@ -947,7 +947,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/270_Basic Mountain LOB.png"
 				}
-			}
+			},
 			{
 				"name": "Basic Mountain LOB_foil",
 				"rarity": "common",
@@ -971,7 +971,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/267_Basic Plains LOB.png"
 				}
-			}
+			},
 			{
 				"name": "Basic Plains LOB_foil",
 				"rarity": "common",
@@ -995,7 +995,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/269_Basic Swamp LOB.png"
 				}
-			}
+			},
 			{
 				"name": "Basic Swamp LOB_foil",
 				"rarity": "common",
@@ -1019,7 +1019,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/23_Happy Lover.png"
 				}
-			}
+			},
 			{
 				"name": "Happy Lover_foil",
 				"rarity": "common",
@@ -1043,7 +1043,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/26_Hourglass of Courage.png"
 				}
-			}
+			},
 			{
 				"name": "Hourglass of Courage_foil",
 				"rarity": "uncommon",
@@ -1067,7 +1067,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/186_Hourglass of Life.png"
 				}
-			}
+			},
 			{
 				"name": "Hourglass of Life_foil",
 				"rarity": "common",
@@ -1091,7 +1091,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/37_Petit Angel.png"
 				}
-			}
+			},
 			{
 				"name": "Petit Angel_foil",
 				"rarity": "common",
@@ -1115,7 +1115,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/42_Shining Friendship.png"
 				}
-			}
+			},
 			{
 				"name": "Shining Friendship_foil",
 				"rarity": "common",
@@ -1139,7 +1139,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/308_Soul of the Pure.png"
 				}
-			}
+			},
 			{
 				"name": "Soul of the Pure_foil",
 				"rarity": "special",
@@ -1163,7 +1163,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/43_Spirit of the Harp.png"
 				}
-			}
+			},
 			{
 				"name": "Spirit of the Harp_foil",
 				"rarity": "uncommon",
@@ -1187,7 +1187,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/225_Meda Bat.png"
 				}
-			}
+			},
 			{
 				"name": "Meda Bat_foil",
 				"rarity": "uncommon",
@@ -1211,7 +1211,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/123_Frenzied Panda.png"
 				}
-			}
+			},
 			{
 				"name": "Frenzied Panda_foil",
 				"rarity": "uncommon",
@@ -1235,7 +1235,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/94_Mabarrel.png"
 				}
-			}
+			},
 			{
 				"name": "Mabarrel_foil",
 				"rarity": "common",
@@ -1259,7 +1259,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/19_Beaver Warrior.png"
 				}
-			}
+			},
 			{
 				"name": "Beaver Warrior_foil",
 				"rarity": "uncommon",
@@ -1283,7 +1283,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/234_Skull Red Bird.png"
 				}
-			}
+			},
 			{
 				"name": "Skull Red Bird_foil",
 				"rarity": "uncommon",
@@ -1307,7 +1307,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/230_Punished Eagle.png"
 				}
-			}
+			},
 			{
 				"name": "Punished Eagle_foil",
 				"rarity": "uncommon",
@@ -1331,7 +1331,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/181_Droll Bird.png"
 				}
-			}
+			},
 			{
 				"name": "Droll Bird_foil",
 				"rarity": "common",
@@ -1355,7 +1355,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/5_Kurama.png"
 				}
-			}
+			},
 			{
 				"name": "Kurama_foil",
 				"rarity": "common",
@@ -1379,7 +1379,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/20_Fiend Reflection 2.png"
 				}
-			}
+			},
 			{
 				"name": "Fiend Reflection 2_foil",
 				"rarity": "common",
@@ -1403,7 +1403,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/69_Spirit of the Books.png"
 				}
-			}
+			},
 			{
 				"name": "Spirit of the Books_foil",
 				"rarity": "common",
@@ -1427,7 +1427,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/209_Bolt Penguin.png"
 				}
-			}
+			},
 			{
 				"name": "Bolt Penguin_foil",
 				"rarity": "uncommon",
@@ -1451,7 +1451,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/65_Rare Fish.png"
 				}
-			}
+			},
 			{
 				"name": "Rare Fish_foil",
 				"rarity": "common",
@@ -1475,7 +1475,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/72_Turtle Tiger.png"
 				}
-			}
+			},
 			{
 				"name": "Turtle Tiger_foil",
 				"rarity": "common",
@@ -1499,7 +1499,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/45_Tiger Axe.png"
 				}
-			}
+			},
 			{
 				"name": "Tiger Axe_foil",
 				"rarity": "uncommon",
@@ -1523,7 +1523,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/302_Leo Wizard.png"
 				}
-			}
+			},
 			{
 				"name": "Leo Wizard_foil",
 				"rarity": "special",
@@ -1547,7 +1547,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/129_Rabid Horseman.png"
 				}
-			}
+			},
 			{
 				"name": "Rabid Horseman_foil",
 				"rarity": "common",
@@ -1571,7 +1571,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/141_Wood Clown.png"
 				}
-			}
+			},
 			{
 				"name": "Wood Clown_foil",
 				"rarity": "uncommon",
@@ -1595,7 +1595,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/154_Hitotsu-Me Giant.png"
 				}
-			}
+			},
 			{
 				"name": "Hitotsu-Me Giant_foil",
 				"rarity": "common",
@@ -1619,7 +1619,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/97_Midnight Fiend.png"
 				}
-			}
+			},
 			{
 				"name": "Midnight Fiend_foil",
 				"rarity": "common",
@@ -1643,7 +1643,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/232_Ryu-Kishin.png"
 				}
-			}
+			},
 			{
 				"name": "Ryu-Kishin_foil",
 				"rarity": "rare",
@@ -1667,7 +1667,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/106_Tyhone.png"
 				}
-			}
+			},
 			{
 				"name": "Tyhone_foil",
 				"rarity": "common",
@@ -1691,7 +1691,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/200_Synchar.png"
 				}
-			}
+			},
 			{
 				"name": "Synchar_foil",
 				"rarity": "common",
@@ -1715,7 +1715,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/283_Mystic Clown.png"
 				}
-			}
+			},
 			{
 				"name": "Mystic Clown_foil",
 				"rarity": "special",
@@ -1739,7 +1739,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/190_Meotoko.png"
 				}
-			}
+			},
 			{
 				"name": "Meotoko_foil",
 				"rarity": "common",
@@ -1763,7 +1763,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/99_Red-Eyes Black Dragon.png"
 				}
-			}
+			},
 			{
 				"name": "Red-Eyes Black Dragon_foil",
 				"rarity": "rare",
@@ -1787,7 +1787,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/71_Tri-Horned Dragon.png"
 				}
-			}
+			},
 			{
 				"name": "Tri-Horned Dragon_foil",
 				"rarity": "uncommon",
@@ -1811,7 +1811,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/175_Archfiend Mirror.png"
 				}
-			}
+			},
 			{
 				"name": "Archfiend Mirror_foil",
 				"rarity": "common",
@@ -1835,7 +1835,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/231_Roaring Ocean Snake.png"
 				}
-			}
+			},
 			{
 				"name": "Roaring Ocean Snake_foil",
 				"rarity": "uncommon",
@@ -1859,7 +1859,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/244_Yormungarde.png"
 				}
-			}
+			},
 			{
 				"name": "Yormungarde_foil",
 				"rarity": "rare",
@@ -1883,7 +1883,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/73_Twin Long Rods 1.png"
 				}
-			}
+			},
 			{
 				"name": "Twin Long Rods 1_foil",
 				"rarity": "uncommon",
@@ -1907,7 +1907,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/233_Sanwitch.png"
 				}
-			}
+			},
 			{
 				"name": "Sanwitch_foil",
 				"rarity": "uncommon",
@@ -1931,7 +1931,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/103_Succubus Knight.png"
 				}
-			}
+			},
 			{
 				"name": "Succubus Knight_foil",
 				"rarity": "uncommon",
@@ -1955,7 +1955,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/88_Dark Plant.png"
 				}
-			}
+			},
 			{
 				"name": "Dark Plant_foil",
 				"rarity": "common",
@@ -1979,7 +1979,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/108_Witty Phantom.png"
 				}
-			}
+			},
 			{
 				"name": "Witty Phantom_foil",
 				"rarity": "uncommon",
@@ -2003,7 +2003,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/179_Dig Beak.png"
 				}
-			}
+			},
 			{
 				"name": "Dig Beak_foil",
 				"rarity": "uncommon",
@@ -2027,7 +2027,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/101_Shadow Who Controls the Dark.png"
 				}
-			}
+			},
 			{
 				"name": "Shadow Who Controls the Dark_foil",
 				"rarity": "uncommon",
@@ -2051,7 +2051,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/132_Rhaimundos of the Red Sword.png"
 				}
-			}
+			},
 			{
 				"name": "Rhaimundos of the Red Sword_foil",
 				"rarity": "common",
@@ -2075,7 +2075,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/226_Megirus Light.png"
 				}
-			}
+			},
 			{
 				"name": "Megirus Light_foil",
 				"rarity": "uncommon",
@@ -2099,7 +2099,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/195_Phantom Dewan.png"
 				}
-			}
+			},
 			{
 				"name": "Phantom Dewan_foil",
 				"rarity": "common",
@@ -2123,7 +2123,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/87_Dark King of the Abyss.png"
 				}
-			}
+			},
 			{
 				"name": "Dark King of the Abyss_foil",
 				"rarity": "common",
@@ -2147,7 +2147,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/168_Tomozaurus.png"
 				}
-			}
+			},
 			{
 				"name": "Tomozaurus_foil",
 				"rarity": "uncommon",
@@ -2171,7 +2171,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/138_Two-Mouth Darkruler.png"
 				}
-			}
+			},
 			{
 				"name": "Two-Mouth Darkruler_foil",
 				"rarity": "common",
@@ -2195,7 +2195,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/169_Uraby.png"
 				}
-			}
+			},
 			{
 				"name": "Uraby_foil",
 				"rarity": "common",
@@ -2219,7 +2219,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/208_Blue-Eyes White Dragon.png"
 				}
-			}
+			},
 			{
 				"name": "Blue-Eyes White Dragon_foil",
 				"rarity": "rare",
@@ -2243,7 +2243,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/81_Curse of Dragon.png"
 				}
-			}
+			},
 			{
 				"name": "Curse of Dragon_foil",
 				"rarity": "uncommon",
@@ -2267,7 +2267,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/158_Lesser Dragon.png"
 				}
-			}
+			},
 			{
 				"name": "Lesser Dragon_foil",
 				"rarity": "uncommon",
@@ -2291,7 +2291,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/242_Winged Dragon, Guardian of the Fortress 1.png"
 				}
-			}
+			},
 			{
 				"name": "Winged Dragon, Guardian of the Fortress 1_foil",
 				"rarity": "rare",
@@ -2315,7 +2315,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/243_Winged Dragon, Guardian of the Fortress 2.png"
 				}
-			}
+			},
 			{
 				"name": "Winged Dragon, Guardian of the Fortress 2_foil",
 				"rarity": "rare",
@@ -2339,7 +2339,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/241_Wicked Dragon with the Ersatz Head.png"
 				}
-			}
+			},
 			{
 				"name": "Wicked Dragon with the Ersatz Head_foil",
 				"rarity": "uncommon",
@@ -2363,7 +2363,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/137_Tripwire Beast.png"
 				}
-			}
+			},
 			{
 				"name": "Tripwire Beast_foil",
 				"rarity": "uncommon",
@@ -2387,7 +2387,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/188_Kaiser Dragon.png"
 				}
-			}
+			},
 			{
 				"name": "Kaiser Dragon_foil",
 				"rarity": "common",
@@ -2411,7 +2411,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/38_Petit Dragon.png"
 				}
-			}
+			},
 			{
 				"name": "Petit Dragon_foil",
 				"rarity": "common",
@@ -2435,7 +2435,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/136_That Which Feeds on Life.png"
 				}
-			}
+			},
 			{
 				"name": "That Which Feeds on Life_foil",
 				"rarity": "common",
@@ -2459,7 +2459,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/35_One-Eyed Shield Dragon.png"
 				}
-			}
+			},
 			{
 				"name": "One-Eyed Shield Dragon_foil",
 				"rarity": "uncommon",
@@ -2483,7 +2483,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/30_Monster Egg.png"
 				}
-			}
+			},
 			{
 				"name": "Monster Egg_foil",
 				"rarity": "common",
@@ -2507,7 +2507,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/127_Little D.png"
 				}
-			}
+			},
 			{
 				"name": "Little D_foil",
 				"rarity": "common",
@@ -2531,7 +2531,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/118_Fire Eye.png"
 				}
-			}
+			},
 			{
 				"name": "Fire Eye_foil",
 				"rarity": "common",
@@ -2555,7 +2555,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/215_Flame Ghost.png"
 				}
-			}
+			},
 			{
 				"name": "Flame Ghost_foil",
 				"rarity": "uncommon",
@@ -2579,7 +2579,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/213_Empress Judge.png"
 				}
-			}
+			},
 			{
 				"name": "Empress Judge_foil",
 				"rarity": "uncommon",
@@ -2603,7 +2603,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/95_Mammoth Graveyard.png"
 				}
-			}
+			},
 			{
 				"name": "Mammoth Graveyard_foil",
 				"rarity": "common",
@@ -2627,7 +2627,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/34_Mystical Elf.png"
 				}
-			}
+			},
 			{
 				"name": "Mystical Elf_foil",
 				"rarity": "uncommon",
@@ -2651,7 +2651,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/18_Battle Warrior.png"
 				}
-			}
+			},
 			{
 				"name": "Battle Warrior_foil",
 				"rarity": "rare",
@@ -2675,7 +2675,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/145_Celtic Guardian.png"
 				}
-			}
+			},
 			{
 				"name": "Celtic Guardian_foil",
 				"rarity": "rare",
@@ -2699,7 +2699,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/301_Key Mace 2.png"
 				}
-			}
+			},
 			{
 				"name": "Key Mace 2_foil",
 				"rarity": "special",
@@ -2723,7 +2723,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/214_Fairywitch.png"
 				}
-			}
+			},
 			{
 				"name": "Fairywitch_foil",
 				"rarity": "uncommon",
@@ -2747,7 +2747,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/32_Musician King.png"
 				}
-			}
+			},
 			{
 				"name": "Musician King_foil",
 				"rarity": "common",
@@ -2771,7 +2771,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/212_Dragoness the Wicked Knight.png"
 				}
-			}
+			},
 			{
 				"name": "Dragoness the Wicked Knight_foil",
 				"rarity": "uncommon",
@@ -2795,7 +2795,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/219_Gaia the Dragon Champion.png"
 				}
-			}
+			},
 			{
 				"name": "Gaia the Dragon Champion_foil",
 				"rarity": "rare",
@@ -2819,7 +2819,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/146_Doriado.png"
 				}
-			}
+			},
 			{
 				"name": "Doriado_foil",
 				"rarity": "common",
@@ -2843,7 +2843,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/31_Muse-A.png"
 				}
-			}
+			},
 			{
 				"name": "Muse-A_foil",
 				"rarity": "common",
@@ -2867,7 +2867,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/149_Gaia The Fierce Knight.png"
 				}
-			}
+			},
 			{
 				"name": "Gaia The Fierce Knight_foil",
 				"rarity": "rare",
@@ -2891,7 +2891,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/79_Armed Ninja.png"
 				}
-			}
+			},
 			{
 				"name": "Armed Ninja_foil",
 				"rarity": "rare",
@@ -2915,7 +2915,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/291_Ansatsu.png"
 				}
-			}
+			},
 			{
 				"name": "Ansatsu_foil",
 				"rarity": "special",
@@ -2939,7 +2939,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/206_Armaill.png"
 				}
-			}
+			},
 			{
 				"name": "Armaill_foil",
 				"rarity": "uncommon",
@@ -2963,7 +2963,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/207_Beautiful Headhuntress.png"
 				}
-			}
+			},
 			{
 				"name": "Beautiful Headhuntress_foil",
 				"rarity": "uncommon",
@@ -2987,7 +2987,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/238_Warrior of Tradition.png"
 				}
-			}
+			},
 			{
 				"name": "Warrior of Tradition_foil",
 				"rarity": "uncommon",
@@ -3011,7 +3011,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/216_Flame Swordsman.png"
 				}
-			}
+			},
 			{
 				"name": "Flame Swordsman_foil",
 				"rarity": "uncommon",
@@ -3035,7 +3035,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/4_Kagemusha of the Blue Flame.png"
 				}
-			}
+			},
 			{
 				"name": "Kagemusha of the Blue Flame_foil",
 				"rarity": "common",
@@ -3059,7 +3059,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/57_Karbonala Warrior.png"
 				}
-			}
+			},
 			{
 				"name": "Karbonala Warrior_foil",
 				"rarity": "uncommon",
@@ -3083,7 +3083,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/191_Minomushi Warrior.png"
 				}
-			}
+			},
 			{
 				"name": "Minomushi Warrior_foil",
 				"rarity": "uncommon",
@@ -3107,7 +3107,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/285_Sonic Maid.png"
 				}
-			}
+			},
 			{
 				"name": "Sonic Maid_foil",
 				"rarity": "special",
@@ -3131,7 +3131,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/44_St Joan.png"
 				}
-			}
+			},
 			{
 				"name": "St Joan_foil",
 				"rarity": "uncommon",
@@ -3155,7 +3155,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/59_M-Warrior 1.png"
 				}
-			}
+			},
 			{
 				"name": "M-Warrior 1_foil",
 				"rarity": "uncommon",
@@ -3179,7 +3179,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/160_M-Warrior 2.png"
 				}
-			}
+			},
 			{
 				"name": "M-Warrior 2_foil",
 				"rarity": "uncommon",
@@ -3203,7 +3203,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/211_Dark Magician.png"
 				}
-			}
+			},
 			{
 				"name": "Dark Magician_foil",
 				"rarity": "rare",
@@ -3227,7 +3227,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/121_Fireyarou.png"
 				}
-			}
+			},
 			{
 				"name": "Fireyarou_foil",
 				"rarity": "uncommon",
@@ -3251,7 +3251,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/122_Flame Manipulator.png"
 				}
-			}
+			},
 			{
 				"name": "Flame Manipulator_foil",
 				"rarity": "common",
@@ -3275,7 +3275,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/237_Vermillion Sparrow.png"
 				}
-			}
+			},
 			{
 				"name": "Vermillion Sparrow_foil",
 				"rarity": "uncommon",
@@ -3299,7 +3299,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/222_Kamionwizard.png"
 				}
-			}
+			},
 			{
 				"name": "Kamionwizard_foil",
 				"rarity": "uncommon",
@@ -3323,7 +3323,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/296_Fiends Hand.png"
 				}
-			}
+			},
 			{
 				"name": "Fiends Hand_foil",
 				"rarity": "special",
@@ -3347,7 +3347,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/177_Boo Koo.png"
 				}
-			}
+			},
 			{
 				"name": "Boo Koo_foil",
 				"rarity": "rare",
@@ -3371,7 +3371,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/173_Alinsection.png"
 				}
-			}
+			},
 			{
 				"name": "Alinsection_foil",
 				"rarity": "uncommon",
@@ -3395,7 +3395,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/143_Basic Insect.png"
 				}
-			}
+			},
 			{
 				"name": "Basic Insect_foil",
 				"rarity": "common",
@@ -3419,7 +3419,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/150_Giant Flea.png"
 				}
-			}
+			},
 			{
 				"name": "Giant Flea_foil",
 				"rarity": "uncommon",
@@ -3443,7 +3443,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/162_Man-Eater Bug.png"
 				}
-			}
+			},
 			{
 				"name": "Man-Eater Bug_foil",
 				"rarity": "uncommon",
@@ -3467,7 +3467,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/153_Hercules Beetle.png"
 				}
-			}
+			},
 			{
 				"name": "Hercules Beetle_foil",
 				"rarity": "common",
@@ -3491,7 +3491,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/156_Kuwagata Alpha.png"
 				}
-			}
+			},
 			{
 				"name": "Kuwagata Alpha_foil",
 				"rarity": "common",
@@ -3515,7 +3515,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/157_Kwagar Hercules.png"
 				}
-			}
+			},
 			{
 				"name": "Kwagar Hercules_foil",
 				"rarity": "uncommon",
@@ -3539,7 +3539,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/126_Larvas.png"
 				}
-			}
+			},
 			{
 				"name": "Larvas_foil",
 				"rarity": "common",
@@ -3563,7 +3563,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/192_Mon Larvas.png"
 				}
-			}
+			},
 			{
 				"name": "Mon Larvas_foil",
 				"rarity": "uncommon",
@@ -3587,7 +3587,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/139_Winged Cleaver.png"
 				}
-			}
+			},
 			{
 				"name": "Winged Cleaver_foil",
 				"rarity": "rare",
@@ -3611,7 +3611,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/303_Lisark.png"
 				}
-			}
+			},
 			{
 				"name": "Lisark_foil",
 				"rarity": "special",
@@ -3635,7 +3635,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/147_Drooling Lizard.png"
 				}
-			}
+			},
 			{
 				"name": "Drooling Lizard_foil",
 				"rarity": "common",
@@ -3659,7 +3659,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/77_Zarigun.png"
 				}
-			}
+			},
 			{
 				"name": "Zarigun_foil",
 				"rarity": "common",
@@ -3683,7 +3683,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/297_Great White.png"
 				}
-			}
+			},
 			{
 				"name": "Great White_foil",
 				"rarity": "special",
@@ -3707,7 +3707,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/280_Kappa Avenger.png"
 				}
-			}
+			},
 			{
 				"name": "Kappa Avenger_foil",
 				"rarity": "special",
@@ -3731,7 +3731,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/54_Furious Sea King.png"
 				}
-			}
+			},
 			{
 				"name": "Furious Sea King_foil",
 				"rarity": "common",
@@ -3755,7 +3755,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/76_Wow Warrior.png"
 				}
-			}
+			},
 			{
 				"name": "Wow Warrior_foil",
 				"rarity": "rare",
@@ -3779,7 +3779,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/53_Enchanting Mermaid.png"
 				}
-			}
+			},
 			{
 				"name": "Enchanting Mermaid_foil",
 				"rarity": "common",
@@ -3803,7 +3803,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/67_Root Water.png"
 				}
-			}
+			},
 			{
 				"name": "Root Water_foil",
 				"rarity": "common",
@@ -3827,7 +3827,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/135_Terra the Terrible.png"
 				}
-			}
+			},
 			{
 				"name": "Terra the Terrible_foil",
 				"rarity": "uncommon",
@@ -3851,7 +3851,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/161_Man Eater.png"
 				}
-			}
+			},
 			{
 				"name": "Man Eater_foil",
 				"rarity": "common",
@@ -3875,7 +3875,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/163_Man-Eating Plant.png"
 				}
-			}
+			},
 			{
 				"name": "Man-Eating Plant_foil",
 				"rarity": "uncommon",
@@ -3899,7 +3899,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/142_Abyss Flower.png"
 				}
-			}
+			},
 			{
 				"name": "Abyss Flower_foil",
 				"rarity": "uncommon",
@@ -3923,7 +3923,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/89_Darkfire Dragon.png"
 				}
-			}
+			},
 			{
 				"name": "Darkfire Dragon_foil",
 				"rarity": "uncommon",
@@ -3947,7 +3947,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/166_Rose Spectre of Dunn.png"
 				}
-			}
+			},
 			{
 				"name": "Rose Spectre of Dunn_foil",
 				"rarity": "common",
@@ -3971,7 +3971,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/171_Wodan the Resident of the Forest.png"
 				}
-			}
+			},
 			{
 				"name": "Wodan the Resident of the Forest_foil",
 				"rarity": "rare",
@@ -3995,7 +3995,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/176_Bean Soldier.png"
 				}
-			}
+			},
 			{
 				"name": "Bean Soldier_foil",
 				"rarity": "common",
@@ -4019,7 +4019,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/120_Firegrass.png"
 				}
-			}
+			},
 			{
 				"name": "Firegrass_foil",
 				"rarity": "common",
@@ -4043,7 +4043,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/217_Flower Wolf.png"
 				}
-			}
+			},
 			{
 				"name": "Flower Wolf_foil",
 				"rarity": "uncommon",
@@ -4067,7 +4067,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/204_Wilmee.png"
 				}
-			}
+			},
 			{
 				"name": "Wilmee_foil",
 				"rarity": "common",
@@ -4091,7 +4091,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/8_Masaki the Legendary Swordsman.png"
 				}
-			}
+			},
 			{
 				"name": "Masaki the Legendary Swordsman_foil",
 				"rarity": "common",
@@ -4115,7 +4115,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/36_Oscillo Hero.png"
 				}
-			}
+			},
 			{
 				"name": "Oscillo Hero_foil",
 				"rarity": "uncommon",
@@ -4139,7 +4139,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/239_Wattkid.png"
 				}
-			}
+			},
 			{
 				"name": "Wattkid_foil",
 				"rarity": "uncommon",
@@ -4163,7 +4163,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/193_Nightmare Scorpion.png"
 				}
-			}
+			},
 			{
 				"name": "Nightmare Scorpion_foil",
 				"rarity": "uncommon",
@@ -4187,7 +4187,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/2_Dark Gray.png"
 				}
-			}
+			},
 			{
 				"name": "Dark Gray_foil",
 				"rarity": "common",
@@ -4211,7 +4211,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/295_Embryonic Beast.png"
 				}
-			}
+			},
 			{
 				"name": "Embryonic Beast_foil",
 				"rarity": "special",
@@ -4235,7 +4235,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/182_Eyearmor.png"
 				}
-			}
+			},
 			{
 				"name": "Eyearmor_foil",
 				"rarity": "uncommon",
@@ -4259,7 +4259,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/114_Doron.png"
 				}
-			}
+			},
 			{
 				"name": "Doron_foil",
 				"rarity": "uncommon",
@@ -4283,7 +4283,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/61_Misairuzame.png"
 				}
-			}
+			},
 			{
 				"name": "Misairuzame_foil",
 				"rarity": "uncommon",
@@ -4307,7 +4307,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/220_Harpie Lady.png"
 				}
-			}
+			},
 			{
 				"name": "Harpie Lady_foil",
 				"rarity": "uncommon",
@@ -4331,7 +4331,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/298_Harpie Lady Sisters.png"
 				}
-			}
+			},
 			{
 				"name": "Harpie Lady Sisters_foil",
 				"rarity": "special",
@@ -4355,7 +4355,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/155_Kumootoko.png"
 				}
-			}
+			},
 			{
 				"name": "Kumootoko_foil",
 				"rarity": "uncommon",
@@ -4379,7 +4379,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/66_Reaper of the Cards.png"
 				}
-			}
+			},
 			{
 				"name": "Reaper of the Cards_foil",
 				"rarity": "rare",
@@ -4403,7 +4403,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/201_Tao the Chanter.png"
 				}
-			}
+			},
 			{
 				"name": "Tao the Chanter_foil",
 				"rarity": "rare",
@@ -4427,7 +4427,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/51_Djinn the Watcher of the Wind.png"
 				}
-			}
+			},
 			{
 				"name": "Djinn the Watcher of the Wind_foil",
 				"rarity": "uncommon",
@@ -4451,7 +4451,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/124_Hane-Hane.png"
 				}
-			}
+			},
 			{
 				"name": "Hane-Hane_foil",
 				"rarity": "rare",
@@ -4475,7 +4475,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/228_One Who Hunts Souls.png"
 				}
-			}
+			},
 			{
 				"name": "One Who Hunts Souls_foil",
 				"rarity": "uncommon",
@@ -4499,7 +4499,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/196_Secretarian of Secrets.png"
 				}
-			}
+			},
 			{
 				"name": "Secretarian of Secrets_foil",
 				"rarity": "common",
@@ -4523,7 +4523,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/311_Vishwar Randi.png"
 				}
-			}
+			},
 			{
 				"name": "Vishwar Randi_foil",
 				"rarity": "special",
@@ -4547,7 +4547,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/167_Silver Fang.png"
 				}
-			}
+			},
 			{
 				"name": "Silver Fang_foil",
 				"rarity": "common",
@@ -4571,7 +4571,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/229_Pragticul.png"
 				}
-			}
+			},
 			{
 				"name": "Pragticul_foil",
 				"rarity": "uncommon",
@@ -4595,7 +4595,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/91_Gate Deeg.png"
 				}
-			}
+			},
 			{
 				"name": "Gate Deeg_foil",
 				"rarity": "uncommon",
@@ -4619,7 +4619,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/198_Skullbird.png"
 				}
-			}
+			},
 			{
 				"name": "Skullbird_foil",
 				"rarity": "uncommon",
@@ -4643,7 +4643,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/15_Skelegon.png"
 				}
-			}
+			},
 			{
 				"name": "Skelegon_foil",
 				"rarity": "common",
@@ -4667,7 +4667,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/180_Drdek.png"
 				}
-			}
+			},
 			{
 				"name": "Drdek_foil",
 				"rarity": "common",
@@ -4691,7 +4691,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/47_Akihiron.png"
 				}
-			}
+			},
 			{
 				"name": "Akihiron_foil",
 				"rarity": "uncommon",
@@ -4715,7 +4715,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/80_Bone Mouse.png"
 				}
-			}
+			},
 			{
 				"name": "Bone Mouse_foil",
 				"rarity": "common",
@@ -4739,7 +4739,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/68_Spike Seadra.png"
 				}
-			}
+			},
 			{
 				"name": "Spike Seadra_foil",
 				"rarity": "common",
@@ -4763,7 +4763,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/84_Dark Artist.png"
 				}
-			}
+			},
 			{
 				"name": "Dark Artist_foil",
 				"rarity": "uncommon",
@@ -4787,7 +4787,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/305_Phantom Ghost.png"
 				}
-			}
+			},
 			{
 				"name": "Phantom Ghost_foil",
 				"rarity": "special",
@@ -4811,7 +4811,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/102_Skull Servant.png"
 				}
-			}
+			},
 			{
 				"name": "Skull Servant_foil",
 				"rarity": "common",
@@ -4835,7 +4835,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/49_Armored Starfish.png"
 				}
-			}
+			},
 			{
 				"name": "Armored Starfish_foil",
 				"rarity": "uncommon",
@@ -4859,7 +4859,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/78_The 13th Grave.png"
 				}
-			}
+			},
 			{
 				"name": "The 13th Grave_foil",
 				"rarity": "common",
@@ -4883,7 +4883,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/109_Zombie Warrior.png"
 				}
-			}
+			},
 			{
 				"name": "Zombie Warrior_foil",
 				"rarity": "common",
@@ -4907,7 +4907,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/119_Fire Reaper.png"
 				}
-			}
+			},
 			{
 				"name": "Fire Reaper_foil",
 				"rarity": "uncommon",
@@ -4931,7 +4931,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/82_Curtain of the Dark Ones.png"
 				}
-			}
+			},
 			{
 				"name": "Curtain of the Dark Ones_foil",
 				"rarity": "common",
@@ -4955,7 +4955,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/294_Elegant Egotist.png"
 				}
-			}
+			},
 			{
 				"name": "Elegant Egotist_foil",
 				"rarity": "special",
@@ -4979,7 +4979,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/273_Elfs Light.png"
 				}
-			}
+			},
 			{
 				"name": "Elfs Light_foil",
 				"rarity": "special",
@@ -5003,7 +5003,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/152_Haniwa.png"
 				}
-			}
+			},
 			{
 				"name": "Haniwa_foil",
 				"rarity": "common",
@@ -5027,7 +5027,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/29_Lucky Trinket.png"
 				}
-			}
+			},
 			{
 				"name": "Lucky Trinket_foil",
 				"rarity": "common",
@@ -5051,7 +5051,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/70_Steel Shell.png"
 				}
-			}
+			},
 			{
 				"name": "Steel Shell_foil",
 				"rarity": "uncommon",
@@ -5075,7 +5075,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/202_Tatsunootoshigo.png"
 				}
-			}
+			},
 			{
 				"name": "Tatsunootoshigo_foil",
 				"rarity": "common",
@@ -5099,7 +5099,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/60_The Melting Red Shadow.png"
 				}
-			}
+			},
 			{
 				"name": "The Melting Red Shadow_foil",
 				"rarity": "common",
@@ -5123,7 +5123,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/236_Trap Hole.png"
 				}
-			}
+			},
 			{
 				"name": "Trap Hole_foil",
 				"rarity": "rare",
@@ -5147,7 +5147,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/310_Ultimate Offering.png"
 				}
-			}
+			},
 			{
 				"name": "Ultimate Offering_foil",
 				"rarity": "special",
@@ -5171,7 +5171,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/140_Wings of Wicked Flame.png"
 				}
-			}
+			},
 			{
 				"name": "Wings of Wicked Flame_foil",
 				"rarity": "common",
@@ -5195,7 +5195,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/205_Yamatano Dragon Scroll.png"
 				}
-			}
+			},
 			{
 				"name": "Yamatano Dragon Scroll_foil",
 				"rarity": "uncommon",
@@ -5219,7 +5219,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/251_The Seal of Orichalcos.png"
 				}
-			}
+			},
 			{
 				"name": "The Seal of Orichalcos_foil",
 				"rarity": "rare",
@@ -5243,7 +5243,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/27_LaMoon.png"
 				}
-			}
+			},
 			{
 				"name": "LaMoon_foil",
 				"rarity": "common",
@@ -5267,7 +5267,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/235_Takuhee.png"
 				}
-			}
+			},
 			{
 				"name": "Takuhee_foil",
 				"rarity": "uncommon",
@@ -5291,7 +5291,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/218_Fusionist.png"
 				}
-			}
+			},
 			{
 				"name": "Fusionist_foil",
 				"rarity": "uncommon",
@@ -5315,7 +5315,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/48_Aqua Madoor.png"
 				}
-			}
+			},
 			{
 				"name": "Aqua Madoor_foil",
 				"rarity": "rare",
@@ -5339,7 +5339,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/113_Dissolverrock.png"
 				}
-			}
+			},
 			{
 				"name": "Dissolverrock_foil",
 				"rarity": "common",
@@ -5363,7 +5363,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/125_Hinotama Soul.png"
 				}
-			}
+			},
 			{
 				"name": "Hinotama Soul_foil",
 				"rarity": "common",
@@ -5387,7 +5387,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/56_Hurricail.png"
 				}
-			}
+			},
 			{
 				"name": "Hurricail_foil",
 				"rarity": "uncommon",
@@ -5411,7 +5411,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/189_LaLa Li-oon.png"
 				}
-			}
+			},
 			{
 				"name": "LaLa Li-oon_foil",
 				"rarity": "common",
@@ -5435,7 +5435,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/240_Weather Control.png"
 				}
-			}
+			},
 			{
 				"name": "Weather Control_foil",
 				"rarity": "rare",
@@ -5459,7 +5459,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/223_Mavelus.png"
 				}
-			}
+			},
 			{
 				"name": "Mavelus_foil",
 				"rarity": "uncommon",
@@ -5483,7 +5483,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/134_Stone Ghost.png"
 				}
-			}
+			},
 			{
 				"name": "Stone Ghost_foil",
 				"rarity": "uncommon",
@@ -5507,7 +5507,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/74_Water Element.png"
 				}
-			}
+			},
 			{
 				"name": "Water Element_foil",
 				"rarity": "common",
@@ -5531,7 +5531,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/112_Charubin the Fire Knight.png"
 				}
-			}
+			},
 			{
 				"name": "Charubin the Fire Knight_foil",
 				"rarity": "uncommon",
@@ -5555,7 +5555,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/58_King Fog.png"
 				}
-			}
+			},
 			{
 				"name": "King Fog_foil",
 				"rarity": "common",
@@ -5579,7 +5579,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/151_Green Phantom King.png"
 				}
-			}
+			},
 			{
 				"name": "Green Phantom King_foil",
 				"rarity": "common",
@@ -5603,7 +5603,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/221_Kaminari Attack.png"
 				}
-			}
+			},
 			{
 				"name": "Kaminari Attack_foil",
 				"rarity": "uncommon",
@@ -5627,7 +5627,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/275_The Judgement Hand.png"
 				}
-			}
+			},
 			{
 				"name": "The Judgement Hand_foil",
 				"rarity": "special",
@@ -5651,7 +5651,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/203_Thunder Kid.png"
 				}
-			}
+			},
 			{
 				"name": "Thunder Kid_foil",
 				"rarity": "common",
@@ -5675,7 +5675,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/63_Nemuriko.png"
 				}
-			}
+			},
 			{
 				"name": "Nemuriko_foil",
 				"rarity": "common",
@@ -5699,7 +5699,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/159_Living Vase.png"
 				}
-			}
+			},
 			{
 				"name": "Living Vase_foil",
 				"rarity": "common",
@@ -5723,7 +5723,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/90_Darkworld Thorns.png"
 				}
-			}
+			},
 			{
 				"name": "Darkworld Thorns_foil",
 				"rarity": "uncommon",
@@ -5747,7 +5747,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/165_Mystical Sheep 2.png"
 				}
-			}
+			},
 			{
 				"name": "Mystical Sheep 2_foil",
 				"rarity": "common",
@@ -5771,7 +5771,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/39_Ray and Temperature.png"
 				}
-			}
+			},
 			{
 				"name": "Ray and Temperature_foil",
 				"rarity": "common",
@@ -5795,7 +5795,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/41_Sand Stone.png"
 				}
-			}
+			},
 			{
 				"name": "Sand Stone_foil",
 				"rarity": "uncommon",
@@ -5819,7 +5819,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/187_Invigoration.png"
 				}
-			}
+			},
 			{
 				"name": "Invigoration_foil",
 				"rarity": "rare",
@@ -5843,7 +5843,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/62_Mystical Moon.png"
 				}
-			}
+			},
 			{
 				"name": "Mystical Moon_foil",
 				"rarity": "common",
@@ -5867,7 +5867,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/170_Vile Germs.png"
 				}
-			}
+			},
 			{
 				"name": "Vile Germs_foil",
 				"rarity": "common",
@@ -5891,7 +5891,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/286_Ascent From Snakes.png"
 				}
-			}
+			},
 			{
 				"name": "Ascent From Snakes_foil",
 				"rarity": "special",
@@ -5915,7 +5915,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/1_Blue Medicine.png"
 				}
-			}
+			},
 			{
 				"name": "Blue Medicine_foil",
 				"rarity": "rare",
@@ -5939,7 +5939,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/282_Called by the Void.png"
 				}
-			}
+			},
 			{
 				"name": "Called by the Void_foil",
 				"rarity": "special",
@@ -5963,7 +5963,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/278_Consult Eternity.png"
 				}
-			}
+			},
 			{
 				"name": "Consult Eternity_foil",
 				"rarity": "special",
@@ -5987,7 +5987,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/50_Corroding Shark.png"
 				}
-			}
+			},
 			{
 				"name": "Corroding Shark_foil",
 				"rarity": "common",
@@ -6011,7 +6011,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/292_Dark-Piercing Light.png"
 				}
-			}
+			},
 			{
 				"name": "Dark-Piercing Light_foil",
 				"rarity": "special",
@@ -6035,7 +6035,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/293_Deathly Bellow.png"
 				}
-			}
+			},
 			{
 				"name": "Deathly Bellow_foil",
 				"rarity": "special",
@@ -6059,7 +6059,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/279_Denied by Nature.png"
 				}
-			}
+			},
 			{
 				"name": "Denied by Nature_foil",
 				"rarity": "special",
@@ -6083,7 +6083,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/288_Discover Uncertainty.png"
 				}
-			}
+			},
 			{
 				"name": "Discover Uncertainty_foil",
 				"rarity": "special",
@@ -6107,7 +6107,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/148_Fissure.png"
 				}
-			}
+			},
 			{
 				"name": "Fissure_foil",
 				"rarity": "rare",
@@ -6131,7 +6131,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/22_Goblins Secret Remedy.png"
 				}
-			}
+			},
 			{
 				"name": "Goblins Secret Remedy_foil",
 				"rarity": "rare",
@@ -6155,7 +6155,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/92_Gravedigger Ghoul.png"
 				}
-			}
+			},
 			{
 				"name": "Gravedigger Ghoul_foil",
 				"rarity": "uncommon",
@@ -6179,7 +6179,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/25_Hinotama.png"
 				}
-			}
+			},
 			{
 				"name": "Hinotama_foil",
 				"rarity": "common",
@@ -6203,7 +6203,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/300_Into the Unknown.png"
 				}
-			}
+			},
 			{
 				"name": "Into the Unknown_foil",
 				"rarity": "special",
@@ -6227,7 +6227,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/276_Light of Hope.png"
 				}
-			}
+			},
 			{
 				"name": "Light of Hope_foil",
 				"rarity": "special",
@@ -6251,7 +6251,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/164_Marmot of Nefariousness.png"
 				}
-			}
+			},
 			{
 				"name": "Marmot of Nefariousness_foil",
 				"rarity": "common",
@@ -6275,7 +6275,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/227_Monster Reborn.png"
 				}
-			}
+			},
 			{
 				"name": "Monster Reborn_foil",
 				"rarity": "rare",
@@ -6299,7 +6299,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/304_Nefairious Archfiend.png"
 				}
-			}
+			},
 			{
 				"name": "Nefairious Archfiend_foil",
 				"rarity": "special",
@@ -6323,7 +6323,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/130_Raise Body Heat.png"
 				}
-			}
+			},
 			{
 				"name": "Raise Body Heat_foil",
 				"rarity": "common",
@@ -6347,7 +6347,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/12_Red Medicine.png"
 				}
-			}
+			},
 			{
 				"name": "Red Medicine_foil",
 				"rarity": "rare",
@@ -6371,7 +6371,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/307_Reverse Trap.png"
 				}
-			}
+			},
 			{
 				"name": "Reverse Trap_foil",
 				"rarity": "special",
@@ -6395,7 +6395,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/40_Rouge Doll.png"
 				}
-			}
+			},
 			{
 				"name": "Rouge Doll_foil",
 				"rarity": "common",
@@ -6419,7 +6419,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/133_Sparks.png"
 				}
-			}
+			},
 			{
 				"name": "Sparks_foil",
 				"rarity": "common",
@@ -6443,7 +6443,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/277_Sun-Scorched Tempering.png"
 				}
-			}
+			},
 			{
 				"name": "Sun-Scorched Tempering_foil",
 				"rarity": "special",
@@ -6467,7 +6467,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/309_Survivors Hospitality.png"
 				}
-			}
+			},
 			{
 				"name": "Survivors Hospitality_foil",
 				"rarity": "special",
@@ -6491,7 +6491,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/299_The Inexperienced Spy.png"
 				}
-			}
+			},
 			{
 				"name": "The Inexperienced Spy_foil",
 				"rarity": "special",
@@ -6515,7 +6515,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/105_Trial of Nightmare.png"
 				}
-			}
+			},
 			{
 				"name": "Trial of Nightmare_foil",
 				"rarity": "common",
@@ -6539,7 +6539,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/281_Veto.png"
 				}
-			}
+			},
 			{
 				"name": "Veto_foil",
 				"rarity": "special",
@@ -6563,7 +6563,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/75_White Dolphin.png"
 				}
-			}
+			},
 			{
 				"name": "White Dolphin_foil",
 				"rarity": "common",
@@ -6587,7 +6587,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/254_Ancient Forest.png"
 				}
-			}
+			},
 			{
 				"name": "Ancient Forest_foil",
 				"rarity": "common",
@@ -6611,7 +6611,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/255_Canyon.png"
 				}
-			}
+			},
 			{
 				"name": "Canyon_foil",
 				"rarity": "common",
@@ -6635,7 +6635,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/256_Fire Prison.png"
 				}
-			}
+			},
 			{
 				"name": "Fire Prison_foil",
 				"rarity": "common",
@@ -6659,7 +6659,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/257_Mystic Plasma Zone.png"
 				}
-			}
+			},
 			{
 				"name": "Mystic Plasma Zone_foil",
 				"rarity": "common",
@@ -6683,7 +6683,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/258_Mythical Forest.png"
 				}
-			}
+			},
 			{
 				"name": "Mythical Forest_foil",
 				"rarity": "uncommon",
@@ -6707,7 +6707,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/259_Mythical Mountain.png"
 				}
-			}
+			},
 			{
 				"name": "Mythical Mountain_foil",
 				"rarity": "uncommon",
@@ -6731,7 +6731,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/260_Mythical Sogen.png"
 				}
-			}
+			},
 			{
 				"name": "Mythical Sogen_foil",
 				"rarity": "uncommon",
@@ -6755,7 +6755,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/261_Mythical Umi.png"
 				}
-			}
+			},
 			{
 				"name": "Mythical Umi_foil",
 				"rarity": "uncommon",
@@ -6779,7 +6779,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/262_Mythical Wasteland.png"
 				}
-			}
+			},
 			{
 				"name": "Mythical Wasteland_foil",
 				"rarity": "uncommon",
@@ -6803,7 +6803,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/263_Mythical Yami.png"
 				}
-			}
+			},
 			{
 				"name": "Mythical Yami_foil",
 				"rarity": "uncommon",
@@ -6827,7 +6827,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/264_Shadows Light.png"
 				}
-			}
+			},
 			{
 				"name": "Shadows Light_foil",
 				"rarity": "common",
@@ -6851,7 +6851,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/266_Umiiruka.png"
 				}
-			}
+			},
 			{
 				"name": "Umiiruka_foil",
 				"rarity": "common",
@@ -6875,7 +6875,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/3_Exodia the Forbidden One.png"
 				}
-			}
+			},
 			{
 				"name": "Exodia the Forbidden One_foil",
 				"rarity": "rare",
@@ -6899,7 +6899,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/6_Left Arm of the Forbidden One.png"
 				}
-			}
+			},
 			{
 				"name": "Left Arm of the Forbidden One_foil",
 				"rarity": "rare",
@@ -6923,7 +6923,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/7_Left Leg of the Forbidden One.png"
 				}
-			}
+			},
 			{
 				"name": "Left Leg of the Forbidden One_foil",
 				"rarity": "rare",
@@ -6947,7 +6947,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/13_Right Arm of the Forbidden One.png"
 				}
-			}
+			},
 			{
 				"name": "Right Arm of the Forbidden One_foil",
 				"rarity": "rare",
@@ -6971,7 +6971,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/14_Right Leg of the Forbidden One.png"
 				}
-			}
+			},
 			{
 				"name": "Right Leg of the Forbidden One_foil",
 				"rarity": "rare",
@@ -6995,7 +6995,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/12t_Extra Rulings for Silver.png"
 				}
-			}
+			},
 			{
 				"name": "Extra Rulings for Silver_foil",
 				"rarity": "common",
@@ -7019,7 +7019,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/5t_Sanctum Reminder.png"
 				}
-			}
+			},
 			{
 				"name": "Sanctum Reminder_foil",
 				"rarity": "common",
@@ -7043,7 +7043,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/110_Burning Spear.png"
 				}
-			}
+			},
 			{
 				"name": "Burning Spear_foil",
 				"rarity": "common",
@@ -7067,7 +7067,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/111_Candle of Fate.png"
 				}
-			}
+			},
 			{
 				"name": "Candle of Fate_foil",
 				"rarity": "common",
@@ -7091,7 +7091,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/178_Castle Walls.png"
 				}
-			}
+			},
 			{
 				"name": "Castle Walls_foil",
 				"rarity": "common",
@@ -7115,7 +7115,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/85_Dark Energy.png"
 				}
-			}
+			},
 			{
 				"name": "Dark Energy_foil",
 				"rarity": "uncommon",
@@ -7139,7 +7139,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/86_Dark Hole.png"
 				}
-			}
+			},
 			{
 				"name": "Dark Hole_foil",
 				"rarity": "rare",
@@ -7163,7 +7163,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/117_Final Flame.png"
 				}
-			}
+			},
 			{
 				"name": "Final Flame_foil",
 				"rarity": "rare",
@@ -7187,7 +7187,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/21_Follow Wind.png"
 				}
-			}
+			},
 			{
 				"name": "Follow Wind_foil",
 				"rarity": "common",
@@ -7211,7 +7211,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/93_Graveyard and the Hand of Invitation.png"
 				}
-			}
+			},
 			{
 				"name": "Graveyard and the Hand of Invitation_foil",
 				"rarity": "common",
@@ -7235,7 +7235,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/98_Mystery Hand.png"
 				}
-			}
+			},
 			{
 				"name": "Mystery Hand_foil",
 				"rarity": "common",
@@ -7259,7 +7259,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/128_Ookazi.png"
 				}
-			}
+			},
 			{
 				"name": "Ookazi_foil",
 				"rarity": "uncommon",
@@ -7283,7 +7283,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/9_Polymerization.png"
 				}
-			}
+			},
 			{
 				"name": "Polymerization_foil",
 				"rarity": "rare",
@@ -7307,7 +7307,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/10_Pot of Greed.png"
 				}
-			}
+			},
 			{
 				"name": "Pot of Greed_foil",
 				"rarity": "uncommon",
@@ -7331,7 +7331,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/11_Raigeki.png"
 				}
-			}
+			},
 			{
 				"name": "Raigeki_foil",
 				"rarity": "rare",
@@ -7355,7 +7355,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/306_Raimei.png"
 				}
-			}
+			},
 			{
 				"name": "Raimei_foil",
 				"rarity": "special",
@@ -7379,7 +7379,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/131_Reinforcements.png"
 				}
-			}
+			},
 			{
 				"name": "Reinforcements_foil",
 				"rarity": "rare",
@@ -7403,7 +7403,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/100_Remove Trap.png"
 				}
-			}
+			},
 			{
 				"name": "Remove Trap_foil",
 				"rarity": "common",
@@ -7427,7 +7427,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/16_Stop Defense.png"
 				}
-			}
+			},
 			{
 				"name": "Stop Defense_foil",
 				"rarity": "rare",
@@ -7451,7 +7451,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/199_Swords of Revealing Light.png"
 				}
-			}
+			},
 			{
 				"name": "Swords of Revealing Light_foil",
 				"rarity": "rare",
@@ -7475,7 +7475,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/274_The Great Tear.png"
 				}
-			}
+			},
 			{
 				"name": "The Great Tear_foil",
 				"rarity": "special",
@@ -7499,7 +7499,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/46_Two-Pronged Attack.png"
 				}
-			}
+			},
 			{
 				"name": "Two-Pronged Attack_foil",
 				"rarity": "rare",
@@ -7523,7 +7523,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/172_Yashinoki.png"
 				}
-			}
+			},
 			{
 				"name": "Yashinoki_foil",
 				"rarity": "uncommon",
@@ -7547,7 +7547,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/1t_Lifelink Counter.png"
 				}
-			}
+			},
 			{
 				"name": "Lifelink Counter_foil",
 				"rarity": "common",
@@ -7571,7 +7571,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/2t_Menace Counter.png"
 				}
-			}
+			},
 			{
 				"name": "Menace Counter_foil",
 				"rarity": "common",
@@ -7595,7 +7595,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/3t_Plus 1 Plus 1 Counter.png"
 				}
-			}
+			},
 			{
 				"name": "Plus 1 Plus 1 Counter_foil",
 				"rarity": "common",
@@ -7619,7 +7619,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/4t_Reach Counter.png"
 				}
-			}
+			},
 			{
 				"name": "Reach Counter_foil",
 				"rarity": "common",
@@ -7643,7 +7643,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/7t_Stun Counter.png"
 				}
-			}
+			},
 			{
 				"name": "Stun Counter_foil",
 				"rarity": "common",
@@ -7667,7 +7667,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/8t_Vigilance Counter.png"
 				}
-			}
+			},
 			{
 				"name": "Vigilance Counter_foil",
 				"rarity": "common",
@@ -7691,7 +7691,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/14t_Robot Token LOB.png"
 				}
-			}
+			},
 			{
 				"name": "Robot Token LOB_foil",
 				"rarity": "common",
@@ -7715,7 +7715,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/15t_Wall Token.png"
 				}
-			}
+			},
 			{
 				"name": "Wall Token_foil",
 				"rarity": "common",
@@ -7739,7 +7739,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/10t_Demon Token.png"
 				}
-			}
+			},
 			{
 				"name": "Demon Token_foil",
 				"rarity": "common",
@@ -7763,7 +7763,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/9t_Dragon Token LOB.png"
 				}
-			}
+			},
 			{
 				"name": "Dragon Token LOB_foil",
 				"rarity": "common",
@@ -7787,7 +7787,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/11t_Elemental Token.png"
 				}
-			}
+			},
 			{
 				"name": "Elemental Token_foil",
 				"rarity": "common",
@@ -7811,7 +7811,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/13t_Insect Plant Token.png"
 				}
-			}
+			},
 			{
 				"name": "Insect Plant Token_foil",
 				"rarity": "common",
@@ -7835,7 +7835,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/6t_Shapeshifter Token LOB.png"
 				}
-			}
+			},
 			{
 				"name": "Shapeshifter Token LOB_foil",
 				"rarity": "common",
@@ -7859,7 +7859,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/265_Shifting Obelisks.png"
 				}
-			}
+			},
 			{
 				"name": "Shifting Obelisks_foil",
 				"rarity": "uncommon",
@@ -7883,7 +7883,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/317_Severed Precipice.png"
 				}
-			}
+			},
 			{
 				"name": "Severed Precipice_foil",
 				"rarity": "special",
@@ -7907,7 +7907,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/318_Sulking Fortress.png"
 				}
-			}
+			},
 			{
 				"name": "Sulking Fortress_foil",
 				"rarity": "special",
@@ -7931,7 +7931,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/316_Mudbound Stream.png"
 				}
-			}
+			},
 			{
 				"name": "Mudbound Stream_foil",
 				"rarity": "special",
@@ -7955,7 +7955,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/315_Carved Sward.png"
 				}
-			}
+			},
 			{
 				"name": "Carved Sward_foil",
 				"rarity": "special",
@@ -7979,7 +7979,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/16t_Castle Token.png"
 				}
-			}
+			},
 			{
 				"name": "Castle Token_foil",
 				"rarity": "common",
@@ -8003,7 +8003,7 @@
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/LOB-files/img/55_Hitodenchak.png"
 				}
-			}
+			},
 			{
 				"name": "Hitodenchak_foil",
 				"rarity": "common",

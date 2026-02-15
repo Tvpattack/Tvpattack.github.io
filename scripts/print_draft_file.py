@@ -97,7 +97,7 @@ def generateFile(code):
 				draft_string += '''		"image_uris": {
 					"en": "''' + utils.get_picurl(set_data, card) + '''"
 				}
-			}''' + (''',''' if x != len(set_data['cards']) - 1 and suffix == "_foil" else '''''') + '''
+			}''' + (''',''' if x != len(set_data['cards']) - 1 or suffix != "_foil" else '''''') + '''
 		'''
 
 	draft_string += ''']
