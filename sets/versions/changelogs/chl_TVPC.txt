@@ -1,4 +1,399 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CW11 Diffusive Justice added.
+CU11 Seawing Skimmer added.
+CU13 Endless Comfort added.
+CI13 Isolate Perfection added.
+CB01 Weight of Betrayal added.
+CB02 Missed Timing added.
+CB03 Pulp the Flesh added.
+CB04 Arboreal Aberration added.
+CB05 Ravenous Myconid added.
+CB06 Groundskeepers added.
+CB07 Silver Moth added.
+CB08 Secret Extractor added.
+CB09 Treeline Scythes added.
+CB10 Gnubok added.
+CB11 Geometrauma added.
+CI03 Whisper Squad added.
+CR11 Carapace Cracker added.
+CI12 Idolization added.
+CG11 Parastrider added.
+CI05 Insect Rider added.
+CI07 Sensation Robbery added.
+UW06 Astral Shift added.
+UB01 The Origin of Wurms added.
+RW01 Roost of Bound Dragons added.
+RW02 Ground Warfare added.
+RW03 Forward Legion added.
+UW06 added.
+RU01 Copy Land added.
+RU02 Psychological Warfare added.
+RU03 Shattered Aurora added.
+RB01 Blight Mound added.
+RB02 Siege Warfare added.
+RR01 Mechanized Warfare added.
+RG01 Wild Defiance added.
+RI02 Parallel Worlds added.
+RI04 Unconventional Warfare added.
+RI07 Open the Vault added.
+MU01 Dawnshroud Heirloom added.
+C06 Ursine Temple added.
+C04 Citysprout Bonsai added.
+C02 Far Off Horizon added.
+C05 Digital Song added.
+C03 Gilded Tea Room added.
+U02 Surveyor001 added.
+U04 Gilded Viewing Room added.
+UW10 Scourge of Defiance added.
+U05 added.
+C01 Search Grid added.
+UI10 Scourge of Monotony added.
+U03 Cloudslicer Fleet added.
+UU10 Scourge of Ignorance added.
+UB10 Scourge of Equality added.
+UR10 Scourge of Tradition added.
+UG10 Scourge of Magic added.
+RM01 Crown of Conquest added.
+RX04 Venerated Crystal added.
+RX06 Mazemind Tome added.
+MX01 Expel Apathy added.
+UI09 Second Look added.
+UI08 Omen of the Stars added.
+UM01 Roaming War Fortress added.
+UM01 Treedropper Attack added.
+UM01 Waterway Liaison added.
+CM01 Sand's Blessing added.
+RG02 Ancient Warfare added.
+U06 Triome added.
+U07 Triome added.
+U08 Triome added.
+U09 Triome added.
+U10 Triome added.
+U11 Triome added.
+U12 Triome added.
+U13 Triome added.
+U14 Triome added.
+U15 Triome added.
+Idolization added.
+RX05 Heretical Failure added.
+U01 Lifeblood Factory added.
+Scourge of Defiance added.
+Scourge of Ignorance added.
+Scourge of Equality added.
+Scourge of Tradition added.
+Scourge of Magic added.
+Scourge of Monotony added.
+Weight of Betrayal added.
+Pest Token added.
+Insect Plant added.
+Merfolk added.
+Geometrauma added.
+CB14 added.
+CB15 added.
+CB16 added.
+CB17 added.
+CG14 added.
+CG15 added.
+CG16 added.
+CG17 added.
+CI14 Daring Duo added.
+CI15 added.
+CI16 added.
+CI17 Pathogenic Breach added.
+CR14 added.
+CR15 added.
+CR16 added.
+CR17 added.
+CU14 added.
+CU15 added.
+CU16 added.
+CU17 added.
+CW14 added.
+CW15 added.
+CW16 added.
+CW17 added.
+Fractal added.
+Approach added.
+
+CW11 removed.
+CU11 removed.
+CU13 removed.
+CI13 more removal removed.
+CB01 removed.
+CB02 removed.
+CB03 removed.
+CB04 removed.
+CB05 removed.
+CB06 removed.
+CB07 removed.
+CB08 removed.
+CB09 removed.
+CB10 removed.
+CB11 removed.
+CI03 Tepid Tamer removed.
+CR11 removed.
+CI12 Removal removed.
+CG11 removed.
+CI05 removed.
+CI07 removal removed.
+UW06 Astral Slide removed.
+UW10 removed.
+UU10 removed.
+UB01 removed.
+UB10 removed.
+UR10 removed.
+UG10 removed.
+RW01 removed.
+RW02 removed.
+RW03 removed.
+RW06 removed.
+RU01 removed.
+RU02 removed.
+RU03 removed.
+RB01 removed.
+RB02 removed.
+RR01 removed.
+RG01 removed.
+RI02 removed.
+RI04 removed.
+RI07 removed.
+MU01 removed.
+RM01 removed.
+CA01 Ursine Temple removed.
+CA02 Citysprout Bonsai removed.
+CA03 Far Off Horizon removed.
+CA04 Digital Song removed.
+CA05 Gilded Tea Room removed.
+UA02 Surveyor001 removed.
+UA03 Gilded Viewing Room removed.
+UA04 removed.
+UA05 removed.
+CL01 removed.
+UL01 removed.
+UL02 removed.
+UL03 removed.
+UL04 removed.
+UL05 removed.
+UX01 Cloudslicer Fleet removed.
+UX02 removed.
+UX03 removed.
+UX04 removed.
+UX05 removed.
+RX01 removed.
+RX04 Marching Clock removed.
+RX05 removed.
+RX06 removed.
+MX01 removed.
+UI10 removed.
+UI09 removed.
+UI08 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+The Clock removed.
+RG02 removed.
+Triome removed.
+Triome removed.
+Triome removed.
+Triome removed.
+Triome removed.
+Triome removed.
+Triome removed.
+Triome removed.
+Triome removed.
+Triome removed.
+Cloudslicer Fleet removed.
+
+CI01 Information Recovery Crew
+
+CI04 Striking Reflection
+rules_text: Whenever this creature attacks, you may change the size of another target creature you control to 3/2 until end of turn. => Whenever this creature enters or attacks, you may change the size of another target creature to 3/2 until end of turn.
+Warp {I} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+CI02 Exuberant Archaeologist
+
+CR09 Crasher Mech
+cost: {2}{R}{R} => {2}{R}
+rules_text: This creature can't attack or block alone.
+Whenever this creature attacks, up to one target creature you control with power 2 or less can't be blocked this turn. => This creature can't attack alone.
+Whenever this creature attacks, up to one target creature you control with power 2 or less can't be blocked this turn.
+pt: 5/5 => 4/3
+
+CI09 Back to Market
+
+CI10 Center Mass
+
+CI11 Murky Politics
+type: Instant => Sorcery
+rules_text: Target creature gets +2/-2 until end of turn. You gain 2 life. => Target creature gets +3/-3 until end of turn. You gain 3 life.
+
+CI06 Unbothered Alchemist
+rules_text: When this creature enters, create a trace of Alchemist's Vial in your hand. [i](Traces are cards that become copies when they enter public zones.)[/i]
+Artifact {2} |
+When this artifact enters, draw a card. 
+{1}, {T}, Sacrifice this artifact: Target creature can't attack or block this turn. => When this creature enters, trace a card named Alchemist's Vial into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+{T}: Add {C}{C}. You can't spend this mana to cast nonartifact spells.
+
+CI08 Scouting Party
+cost: {3}{I}{I} => {4}{I}{I}
+rules_text: First strike
+Healing 3 [i](Damage dealt by this creature also causes you to gain 3 life.)[/i]
+[i]Channel[/i] — {2}, Discard this: Search your library for a Fault card, reveal it, put it into your hand, then shuffle. => This creature has first strike during your turn. [i](This creature deals combat damage before creatures without first strike.)[/i]
+Healing 3 [i](Damage dealt by this creature also causes you to gain 3 life.)[/i]
+Faultcycling {2I} [i]({2I}, Discard this card: Search your library for a Fault card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 4/3 => 5/4
+
+UU09
+type:  => Sorcery
+
+RM01
+cost: {R}{G} => {G}{W}
+
+RM01
+cost: {G}{W} => {W}{B}
+
+RM01
+cost: {W}{B} => {U}{R}
+
+RM01
+cost: {U}{R} => {B}{G}
+
+RM01
+cost: {B}{G} => {R}{W}
+
+RM01
+cost: {R}{W} => {G}{U}
+
+UC01 Crystallizing Aether
+type: Sorcery => Instant
+rules_text: Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Draw a card. => Create a Crystal token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}.”)[/i]
+Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+RX02 Gilded Bar
+rules_text: When this land enters the battlefield, create a trace of Your Past in your hand. [i](Traces are cards that become copies when they enter public zones.)[/i]
+{T}: Add {C}.
+Sorcery |{3}| 
+Exile target creature card from your graveyard. You may return it to your hand. If you don't, draw a card. => When this land enters the battlefield, create a trace of Your Past in your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+{T}: Add {C}.
+
+RX03 Nightshifter Engine
+rules_text: Ward—Pay 3 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]
+All spells and all creatures have wither. [i](They deal damage to creatures in the form of -1/-1 counters.)[/i]
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Ward—Pay 3 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]
+All creatures and spells have wither. [i](They deal damage to creatures in the form of -1/-1 counters.)[/i]
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+RX08 Veil of Hunger
+type: Legendary Planeswalker — Prophellos => Legendary Planeswalker — Ketresis
+
+UI01 Night Market Runner
+rules_text: Haste, healing 1 [i](Damage dealt by this creature also causes you to gain 1 life.)[/i]
+Whenever this creature attacks, exile up to one target card from a graveyard. If you do, each opponent loses 1 life. => Haste, healing 1 [i](Damage dealt by this creature also causes you to gain 1 life.)[/i]
+Whenever this creature attacks, exile up to one target card from a graveyard.
+
+UM01
+cost: {W}{U} => {B}{G}
+
+UM01
+cost: {B}{G} => {G}{U}
+
+UM01
+type: Sorcery => 
+cost: {B}{R} => {G}{W}
+rules_text: Create a 3/1 red and black TYPE creature token with trample, haste and lifelink. Sacrifice a permanent you control at the beginning of your next end step if you control a creature token.
+Flashback {B}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => 
+
+UM01
+cost: {G}{U} => {I}{B}
+
+UM01
+cost: {G}{W} => {I}{G}
+
+UM01
+cost: {I}{B} => {I}{R}
+
+UM01
+cost: {I}{G} => {I}{U}
+
+UM01
+cost: {I}{R} => {I}{W}
+
+UM01
+cost: {I}{U} => {R}{G}
+
+UM01
+cost: {I}{W} => {R}{W}
+
+UM01
+cost: {R}{G} => {U}{B}
+
+UM01
+cost: {R}{W} => {U}{R}
+
+UM01
+cost: {U}{B} => {W}{B}
+
+UM01
+cost: {U}{R} => {B}{G}
+
+UM01
+cost: {W}{B} => {B}{R}
+
+UM01
+cost: {W}{U} => {G}{U}
+
+UM01
+cost: {B}{G} => {G}{W}
+
+UM01
+cost: {B}{R} => {I}{B}
+
+UM01
+cost: {G}{U} => {I}{G}
+
+UM01
+cost: {G}{W} => {I}{R}
+
+UM01
+cost: {I}{B} => {I}{U}
+
+UM01
+cost: {I}{G} => {I}{W}
+
+UM01
+cost: {I}{R} => {R}{G}
+
+UM01
+cost: {I}{U} => {R}{W}
+
+UM01
+cost: {I}{W} => {U}{B}
+
+UM01
+cost: {R}{G} => {U}{R}
+
+UM01
+cost: {R}{W} => {W}{B}
+
+Murky Politics
+type: Instant => Sorcery
+rules_text: Target creature gets +2/-2 until end of turn. You gain 2 life. => Target creature gets +3/-3 until end of turn. You gain 3 life.
+
+RI01 Memory Restored
+
+RI03
+type:  => Creature
+cost:  => {1}{I}
+rules_text:  => Devoid [i](This card has no color.)[/i]
+Ingest [i](Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)[/i]
+{1}{I}, Put an ingested card into its owner's graveyard:
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
