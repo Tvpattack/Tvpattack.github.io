@@ -1,4 +1,244 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CW Territorial Lirrac added.
+CW Twilight Feline added.
+CW Meirel Sweeper added.
+CW Combat Trauler added.
+CW Community Forager added.
+CW Inspiring Pegasus added.
+CW07 Somni Strider added.
+CW Diffusive Justice added.
+CU Beachcombing Avakin added.
+CU Seawing Skimmer added.
+CU Endless Comfort added.
+CI Isolate Perfection added.
+CB Weight of Betrayal added.
+CB Missed Timing added.
+CB Pulp the Flesh added.
+CB Arboreal Aberration added.
+CB Ravenous Myconid added.
+CB Groundskeepers added.
+CB Silver Moth added.
+CB Secret Extractor added.
+CB Treeline Scythes added.
+CB Gnubok added.
+CB Geometrauma added.
+CB Soul Drain added.
+CB Bound to the Grid added.
+CI Information Recovery Crew added.
+CI Whisper Squad added.
+CI Striking Reflection added.
+CI Exuberant Archaeologist added.
+CR Crasher Mech added.
+CR Carapace Cracker added.
+CI Back to Market added.
+CI Center Mass added.
+CI Murky Politics added.
+CI Idolization added.
+CG Parastrider added.
+CI Insect Rider added.
+CI Unbothered Alchemist added.
+CI Sensation Robbery added.
+CI Scouting Party added.
+CR Firewall Breach added.
+UM Marker of Aberration added.
+C Ursine Temple added.
+C Citysprout Bonsai added.
+C Far Off Horizon added.
+C Digital Song added.
+C Gilded Tea Room added.
+C Search Grid added.
+UM01 Soul Famine added.
+UM01 Ignelscor Fangbearer added.
+CM01 added.
+CM01 added.
+CM01 added.
+CM01 added.
+CM Abhorrent Transformation added.
+CM01 added.
+CM01 added.
+CM01 added.
+CM01 added.
+CM01 added.
+CM01 added.
+CM01 added.
+CM01 added.
+CM01 added.
+CM Sand's Blessing added.
+CB Captain's Orders added.
+CB Life-Like Taxidermy added.
+CB Gone Fishing added.
+CB Phishing Breach added.
+CG Predation Breach added.
+CI Docile Duo added.
+CI Outerbelt Acolyte added.
+CI Aurelia-7 added.
+CI Pathogenic Breach added.
+CU Data Breach added.
+CW Breaching Justice added.
+Fractal added.
+Plant added.
+Eye added.
+Angel added.
+Fish added.
+
+CW01 removed.
+CW02 removed.
+CW03 removed.
+CW04 removed.
+CW05 removed.
+CW06 removed.
+CW07 removed.
+CW11 Diffusive Justice removed.
+CU01 removed.
+CU11 Seawing Skimmer removed.
+CU13 Endless Comfort removed.
+CI13 Isolate Perfection removed.
+CB01 Weight of Betrayal removed.
+CB02 Missed Timing removed.
+CB03 Pulp the Flesh removed.
+CB04 Arboreal Aberration removed.
+CB05 Ravenous Myconid removed.
+CB06 Groundskeepers removed.
+CB07 Silver Moth removed.
+CB08 Secret Extractor removed.
+CB09 Treeline Scythes removed.
+CB10 Gnubok removed.
+CB11 Geometrauma removed.
+CB12 removed.
+CB13 removed.
+CI01 Information Recovery Crew removed.
+CI03 Whisper Squad removed.
+CI04 Striking Reflection removed.
+CI02 Exuberant Archaeologist removed.
+CR09 Crasher Mech removed.
+CR11 Carapace Cracker removed.
+CI09 Back to Market removed.
+CI10 Center Mass removed.
+CI11 Murky Politics removed.
+CI12 Idolization removed.
+CG11 Parastrider removed.
+CI05 Insect Rider removed.
+CI06 Unbothered Alchemist removed.
+CI07 Sensation Robbery removed.
+CI08 Scouting Party removed.
+C06 Ursine Temple removed.
+C04 Citysprout Bonsai removed.
+C02 Far Off Horizon removed.
+C05 Digital Song removed.
+C03 Gilded Tea Room removed.
+C01 Search Grid removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+UM01 removed.
+CM01 Sand's Blessing removed.
+CB14 removed.
+CB15 removed.
+CB16 removed.
+CB17 removed.
+CG17 removed.
+CI14 Daring Duo removed.
+CI15 removed.
+CI16 removed.
+CI17 Pathogenic Breach removed.
+CR17 removed.
+CU17 removed.
+CW17 removed.
+
+UM01
+cost: {B}{R} => {R}{G}
+
+UM01
+cost: {R}{G} => {G}{W}
+
+UM01
+cost: {G}{W} => {W}{B}
+
+UM01
+cost: {W}{B} => {U}{R}
+
+UM01
+cost: {U}{R} => {B}{G}
+
+UM01
+cost: {B}{G} => {R}{W}
+
+UM01
+cost: {R}{W} => {G}{U}
+
+UM01
+cost: {G}{U} => {I}{W}
+
+UM01
+cost: {I}{W} => {I}{U}
+
+UM01
+cost: {I}{U} => {I}{R}
+
+UM01
+cost: {I}{B} => {B}{G}
+
+UM01
+cost: {I}{R} => {G}{U}
+
+UM01
+cost: {B}{G} => {G}{W}
+
+UM01
+cost: {G}{U} => {I}{G}
+
+UM01
+cost: {G}{W} => {I}{R}
+
+UM01
+cost: {I}{B} => {I}{U}
+
+UM01
+cost: {I}{G} => {I}{W}
+
+UM01
+cost: {I}{R} => {R}{G}
+
+UM01
+cost: {I}{U} => {R}{W}
+
+UM01
+cost: {I}{W} => {U}{B}
+
+UM01
+cost: {R}{G} => {U}{R}
+
+UM01
+cost: {R}{W} => {W}{B}
+
+Fractal
+
+Approach
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III, IV — [i]It started slowly at first. The initial breach was uneventful, a single download. Within the day however, the machines all through the plane began to run a new program...[/i]
+V — You may cast the exiled spell without paying its mana cost.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[i]It started slowly at first. The initial breach was uneventful, a single download. Within the day however, the machines all through the plane began to run a new program...[/i]
+You may cast the exiled spell without paying its mana cost.
+​
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CW11 Diffusive Justice added.

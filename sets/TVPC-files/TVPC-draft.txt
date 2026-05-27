@@ -1,171 +1,199 @@
 ﻿[CustomCards]
 	[
 		{
-				"name": "CW01",
+				"name": "CW Territorial Lirrac",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "10",
+				"mana_cost": "{W}",
+				"type": "Creature — Beast",
+				"collector_number": "16",
 				"foil": false,
 
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/16_CW Territorial Lirrac_back.jpg"
+					}
+				},
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/10_CW01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/16_CW Territorial Lirrac_front.jpg"
 				}
 			},
 			{
-				"name": "CW01_foil",
+				"name": "CW Territorial Lirrac_foil",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "10",
+				"mana_cost": "{W}",
+				"type": "Creature — Beast",
+				"collector_number": "16",
 				"foil": true,
 
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/16_CW Territorial Lirrac_back.jpg"
+					}
+				},
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/10_CW01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/16_CW Territorial Lirrac_front.jpg"
 				}
 			},
 			{
-				"name": "CW02",
+				"name": "CW Twilight Feline",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "11",
+				"mana_cost": "{W}",
+				"type": "Creature — Cat",
+				"collector_number": "17",
 				"foil": false,
 
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/17_CW Twilight Feline_back.jpg"
+					}
+				},
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/11_CW02.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/17_CW Twilight Feline_front.jpg"
 				}
 			},
 			{
-				"name": "CW02_foil",
+				"name": "CW Twilight Feline_foil",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "11",
+				"mana_cost": "{W}",
+				"type": "Creature — Cat",
+				"collector_number": "17",
 				"foil": true,
 
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/17_CW Twilight Feline_back.jpg"
+					}
+				},
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/11_CW02.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/17_CW Twilight Feline_front.jpg"
 				}
 			},
 			{
-				"name": "CW03",
+				"name": "CW Meirel Sweeper",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "12",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/12_CW03.jpg"
-				}
-			},
-			{
-				"name": "CW03_foil",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "12",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/12_CW03.jpg"
-				}
-			},
-			{
-				"name": "CW04",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "13",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/13_CW04.jpg"
-				}
-			},
-			{
-				"name": "CW04_foil",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "13",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/13_CW04.jpg"
-				}
-			},
-			{
-				"name": "CW05",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "14",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/14_CW05.jpg"
-				}
-			},
-			{
-				"name": "CW05_foil",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "14",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/14_CW05.jpg"
-				}
-			},
-			{
-				"name": "CW06",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Human Cleric",
 				"collector_number": "15",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/15_CW06.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/15_CW Meirel Sweeper.jpg"
 				}
 			},
 			{
-				"name": "CW06_foil",
+				"name": "CW Meirel Sweeper_foil",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Human Cleric",
 				"collector_number": "15",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/15_CW06.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/15_CW Meirel Sweeper.jpg"
 				}
 			},
 			{
-				"name": "CW07",
+				"name": "CW Combat Trauler",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "16",
+				"mana_cost": "{2}{W}",
+				"type": "Artifact Creature — Robot Warrior",
+				"collector_number": "11",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/16_CW07.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/11_CW Combat Trauler.jpg"
 				}
 			},
 			{
-				"name": "CW07_foil",
+				"name": "CW Combat Trauler_foil",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "16",
+				"mana_cost": "{2}{W}",
+				"type": "Artifact Creature — Robot Warrior",
+				"collector_number": "11",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/16_CW07.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/11_CW Combat Trauler.jpg"
+				}
+			},
+			{
+				"name": "CW Community Forager",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Rabbit Scout",
+				"collector_number": "12",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/12_CW Community Forager.jpg"
+				}
+			},
+			{
+				"name": "CW Community Forager_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Rabbit Scout",
+				"collector_number": "12",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/12_CW Community Forager.jpg"
+				}
+			},
+			{
+				"name": "CW Inspiring Pegasus",
+				"rarity": "common",
+				"mana_cost": "{2}{W}",
+				"type": "Creature — Pegasus",
+				"collector_number": "14",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/14_CW Inspiring Pegasus.jpg"
+				}
+			},
+			{
+				"name": "CW Inspiring Pegasus_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{W}",
+				"type": "Creature — Pegasus",
+				"collector_number": "14",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/14_CW Inspiring Pegasus.jpg"
+				}
+			},
+			{
+				"name": "CW07 Somni Strider",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Worm Horse Mount",
+				"collector_number": "18",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/18_CW07 Somni Strider.jpg"
+				}
+			},
+			{
+				"name": "CW07 Somni Strider_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Worm Horse Mount",
+				"collector_number": "18",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/18_CW07 Somni Strider.jpg"
 				}
 			},
 			{
@@ -173,11 +201,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "17",
+				"collector_number": "19",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/17_CW08.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/19_CW08.jpg"
 				}
 			},
 			{
@@ -185,11 +213,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "17",
+				"collector_number": "19",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/17_CW08.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/19_CW08.jpg"
 				}
 			},
 			{
@@ -197,11 +225,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "18",
+				"collector_number": "20",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/18_CW09.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/20_CW09.jpg"
 				}
 			},
 			{
@@ -209,11 +237,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "18",
+				"collector_number": "20",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/18_CW09.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/20_CW09.jpg"
 				}
 			},
 			{
@@ -221,11 +249,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "19",
+				"collector_number": "21",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/19_CW10.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/21_CW10.jpg"
 				}
 			},
 			{
@@ -233,35 +261,35 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "19",
+				"collector_number": "21",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/19_CW10.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/21_CW10.jpg"
 				}
 			},
 			{
-				"name": "CW11 Diffusive Justice",
+				"name": "CW Diffusive Justice",
 				"rarity": "common",
 				"mana_cost": "{4}{W}{W}",
 				"type": "Creature — Horror Wizard",
-				"collector_number": "20",
+				"collector_number": "13",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/20_CW11 Diffusive Justice.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/13_CW Diffusive Justice.jpg"
 				}
 			},
 			{
-				"name": "CW11 Diffusive Justice_foil",
+				"name": "CW Diffusive Justice_foil",
 				"rarity": "common",
 				"mana_cost": "{4}{W}{W}",
 				"type": "Creature — Horror Wizard",
-				"collector_number": "20",
+				"collector_number": "13",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/20_CW11 Diffusive Justice.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/13_CW Diffusive Justice.jpg"
 				}
 			},
 			{
@@ -269,11 +297,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "21",
+				"collector_number": "22",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/21_CW12.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/22_CW12.jpg"
 				}
 			},
 			{
@@ -281,11 +309,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "21",
+				"collector_number": "22",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/21_CW12.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/22_CW12.jpg"
 				}
 			},
 			{
@@ -293,11 +321,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "22",
+				"collector_number": "23",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/22_CW13.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/23_CW13.jpg"
 				}
 			},
 			{
@@ -305,35 +333,49 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "22",
+				"collector_number": "23",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/22_CW13.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/23_CW13.jpg"
 				}
 			},
 			{
-				"name": "CU01",
+				"name": "CU Beachcombing Avakin",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
+				"mana_cost": "{U}",
+				"type": "Creature — Bird",
 				"collector_number": "46",
 				"foil": false,
 
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/46_CU Beachcombing Avakin_back.jpg"
+					}
+				},
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/46_CU01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/46_CU Beachcombing Avakin_front.jpg"
 				}
 			},
 			{
-				"name": "CU01_foil",
+				"name": "CU Beachcombing Avakin_foil",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
+				"mana_cost": "{U}",
+				"type": "Creature — Bird",
 				"collector_number": "46",
 				"foil": true,
 
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/46_CU Beachcombing Avakin_back.jpg"
+					}
+				},
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/46_CU01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/46_CU Beachcombing Avakin_front.jpg"
 				}
 			},
 			{
@@ -341,11 +383,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "47",
+				"collector_number": "50",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/47_CU02.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/50_CU02.jpg"
 				}
 			},
 			{
@@ -353,11 +395,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "47",
+				"collector_number": "50",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/47_CU02.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/50_CU02.jpg"
 				}
 			},
 			{
@@ -365,11 +407,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "48",
+				"collector_number": "51",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/48_CU03.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/51_CU03.jpg"
 				}
 			},
 			{
@@ -377,11 +419,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "48",
+				"collector_number": "51",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/48_CU03.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/51_CU03.jpg"
 				}
 			},
 			{
@@ -389,11 +431,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "49",
+				"collector_number": "52",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/49_CU04.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/52_CU04.jpg"
 				}
 			},
 			{
@@ -401,11 +443,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "49",
+				"collector_number": "52",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/49_CU04.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/52_CU04.jpg"
 				}
 			},
 			{
@@ -413,11 +455,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "50",
+				"collector_number": "53",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/50_CU05.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/53_CU05.jpg"
 				}
 			},
 			{
@@ -425,11 +467,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "50",
+				"collector_number": "53",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/50_CU05.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/53_CU05.jpg"
 				}
 			},
 			{
@@ -437,11 +479,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "51",
+				"collector_number": "54",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/51_CU06.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/54_CU06.jpg"
 				}
 			},
 			{
@@ -449,11 +491,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "51",
+				"collector_number": "54",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/51_CU06.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/54_CU06.jpg"
 				}
 			},
 			{
@@ -461,11 +503,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "52",
+				"collector_number": "55",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/52_CU07.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/55_CU07.jpg"
 				}
 			},
 			{
@@ -473,11 +515,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "52",
+				"collector_number": "55",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/52_CU07.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/55_CU07.jpg"
 				}
 			},
 			{
@@ -485,11 +527,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "53",
+				"collector_number": "56",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/53_CU08.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/56_CU08.jpg"
 				}
 			},
 			{
@@ -497,11 +539,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "53",
+				"collector_number": "56",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/53_CU08.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/56_CU08.jpg"
 				}
 			},
 			{
@@ -509,11 +551,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "54",
+				"collector_number": "57",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/54_CU09.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/57_CU09.jpg"
 				}
 			},
 			{
@@ -521,11 +563,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "54",
+				"collector_number": "57",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/54_CU09.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/57_CU09.jpg"
 				}
 			},
 			{
@@ -533,11 +575,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "55",
+				"collector_number": "58",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/55_CU10.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/58_CU10.jpg"
 				}
 			},
 			{
@@ -545,35 +587,35 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "55",
+				"collector_number": "58",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/55_CU10.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/58_CU10.jpg"
 				}
 			},
 			{
-				"name": "CU11 Seawing Skimmer",
+				"name": "CU Seawing Skimmer",
 				"rarity": "common",
 				"mana_cost": "{4}{U}{U}",
 				"type": "Creature — Drake Fish",
-				"collector_number": "56",
+				"collector_number": "49",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/56_CU11 Seawing Skimmer.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/49_CU Seawing Skimmer.jpg"
 				}
 			},
 			{
-				"name": "CU11 Seawing Skimmer_foil",
+				"name": "CU Seawing Skimmer_foil",
 				"rarity": "common",
 				"mana_cost": "{4}{U}{U}",
 				"type": "Creature — Drake Fish",
-				"collector_number": "56",
+				"collector_number": "49",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/56_CU11 Seawing Skimmer.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/49_CU Seawing Skimmer.jpg"
 				}
 			},
 			{
@@ -581,11 +623,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "57",
+				"collector_number": "59",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/57_CU12.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/59_CU12.jpg"
 				}
 			},
 			{
@@ -593,481 +635,481 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "57",
+				"collector_number": "59",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/57_CU12.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/59_CU12.jpg"
 				}
 			},
 			{
-				"name": "CU13 Endless Comfort",
+				"name": "CU Endless Comfort",
 				"rarity": "common",
 				"mana_cost": "{1}{U}",
 				"type": "Sorcery",
-				"collector_number": "58",
+				"collector_number": "48",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/58_CU13 Endless Comfort.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/48_CU Endless Comfort.jpg"
 				}
 			},
 			{
-				"name": "CU13 Endless Comfort_foil",
+				"name": "CU Endless Comfort_foil",
 				"rarity": "common",
 				"mana_cost": "{1}{U}",
 				"type": "Sorcery",
-				"collector_number": "58",
+				"collector_number": "48",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/58_CU13 Endless Comfort.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/48_CU Endless Comfort.jpg"
 				}
 			},
 			{
-				"name": "CI13 Isolate Perfection",
+				"name": "CI Isolate Perfection",
 				"rarity": "common",
 				"mana_cost": "{2}{C}{C}",
 				"type": "Sorcery",
-				"collector_number": "203",
+				"collector_number": "199",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/203_CI13 Isolate Perfection.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/199_CI Isolate Perfection.jpg"
 				}
 			},
 			{
-				"name": "CI13 Isolate Perfection_foil",
+				"name": "CI Isolate Perfection_foil",
 				"rarity": "common",
 				"mana_cost": "{2}{C}{C}",
 				"type": "Sorcery",
-				"collector_number": "203",
+				"collector_number": "199",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/203_CI13 Isolate Perfection.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/199_CI Isolate Perfection.jpg"
 				}
 			},
 			{
-				"name": "CB01 Weight of Betrayal",
+				"name": "CB Weight of Betrayal",
 				"rarity": "common",
 				"mana_cost": "{B}",
 				"type": "Enchantment — Aura",
-				"collector_number": "82",
+				"collector_number": "98",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/82_CB01 Weight of Betrayal.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/98_CB Weight of Betrayal.jpg"
 				}
 			},
 			{
-				"name": "CB01 Weight of Betrayal_foil",
+				"name": "CB Weight of Betrayal_foil",
 				"rarity": "common",
 				"mana_cost": "{B}",
 				"type": "Enchantment — Aura",
-				"collector_number": "82",
+				"collector_number": "98",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/82_CB01 Weight of Betrayal.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/98_CB Weight of Betrayal.jpg"
 				}
 			},
 			{
-				"name": "CB02 Missed Timing",
+				"name": "CB Missed Timing",
 				"rarity": "common",
 				"mana_cost": "{3}{B}",
 				"type": "Instant",
-				"collector_number": "83",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/83_CB02 Missed Timing.jpg"
-				}
-			},
-			{
-				"name": "CB02 Missed Timing_foil",
-				"rarity": "common",
-				"mana_cost": "{3}{B}",
-				"type": "Instant",
-				"collector_number": "83",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/83_CB02 Missed Timing.jpg"
-				}
-			},
-			{
-				"name": "CB03 Pulp the Flesh",
-				"rarity": "common",
-				"mana_cost": "{1}{B}",
-				"type": "Instant",
-				"collector_number": "84",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/84_CB03 Pulp the Flesh.jpg"
-				}
-			},
-			{
-				"name": "CB03 Pulp the Flesh_foil",
-				"rarity": "common",
-				"mana_cost": "{1}{B}",
-				"type": "Instant",
-				"collector_number": "84",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/84_CB03 Pulp the Flesh.jpg"
-				}
-			},
-			{
-				"name": "CB04 Arboreal Aberration",
-				"rarity": "common",
-				"mana_cost": "{B}",
-				"type": "Creature — Horror",
-				"collector_number": "85",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/85_CB04 Arboreal Aberration.jpg"
-				}
-			},
-			{
-				"name": "CB04 Arboreal Aberration_foil",
-				"rarity": "common",
-				"mana_cost": "{B}",
-				"type": "Creature — Horror",
-				"collector_number": "85",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/85_CB04 Arboreal Aberration.jpg"
-				}
-			},
-			{
-				"name": "CB05 Ravenous Myconid",
-				"rarity": "common",
-				"mana_cost": "{1}{B}",
-				"type": "Creature — Fungus",
-				"collector_number": "86",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/86_CB05 Ravenous Myconid.jpg"
-				}
-			},
-			{
-				"name": "CB05 Ravenous Myconid_foil",
-				"rarity": "common",
-				"mana_cost": "{1}{B}",
-				"type": "Creature — Fungus",
-				"collector_number": "86",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/86_CB05 Ravenous Myconid.jpg"
-				}
-			},
-			{
-				"name": "CB06 Groundskeepers",
-				"rarity": "common",
-				"mana_cost": "{1}{B}",
-				"type": "Creature — Human Citizen",
-				"collector_number": "87",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/87_CB06 Groundskeepers.jpg"
-				}
-			},
-			{
-				"name": "CB06 Groundskeepers_foil",
-				"rarity": "common",
-				"mana_cost": "{1}{B}",
-				"type": "Creature — Human Citizen",
-				"collector_number": "87",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/87_CB06 Groundskeepers.jpg"
-				}
-			},
-			{
-				"name": "CB07 Silver Moth",
-				"rarity": "common",
-				"mana_cost": "{2}{B}",
-				"type": "Artifact Creature — Insect Drone",
-				"collector_number": "88",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/88_CB07 Silver Moth.jpg"
-				}
-			},
-			{
-				"name": "CB07 Silver Moth_foil",
-				"rarity": "common",
-				"mana_cost": "{2}{B}",
-				"type": "Artifact Creature — Insect Drone",
-				"collector_number": "88",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/88_CB07 Silver Moth.jpg"
-				}
-			},
-			{
-				"name": "CB08 Secret Extractor",
-				"rarity": "common",
-				"mana_cost": "{2}{B}",
-				"type": "Creature — Human Rogue",
-				"collector_number": "89",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/89_CB08 Secret Extractor.jpg"
-				}
-			},
-			{
-				"name": "CB08 Secret Extractor_foil",
-				"rarity": "common",
-				"mana_cost": "{2}{B}",
-				"type": "Creature — Human Rogue",
-				"collector_number": "89",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/89_CB08 Secret Extractor.jpg"
-				}
-			},
-			{
-				"name": "CB09 Treeline Scythes",
-				"rarity": "common",
-				"mana_cost": "{3}{B}",
-				"type": "Creature — Dinosaur",
 				"collector_number": "90",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/90_CB09 Treeline Scythes.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/90_CB Missed Timing.jpg"
 				}
 			},
 			{
-				"name": "CB09 Treeline Scythes_foil",
+				"name": "CB Missed Timing_foil",
 				"rarity": "common",
 				"mana_cost": "{3}{B}",
-				"type": "Creature — Dinosaur",
+				"type": "Instant",
 				"collector_number": "90",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/90_CB09 Treeline Scythes.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/90_CB Missed Timing.jpg"
 				}
 			},
 			{
-				"name": "CB10 Gnubok",
+				"name": "CB Pulp the Flesh",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Instant",
+				"collector_number": "92",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/92_CB Pulp the Flesh.jpg"
+				}
+			},
+			{
+				"name": "CB Pulp the Flesh_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Instant",
+				"collector_number": "92",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/92_CB Pulp the Flesh.jpg"
+				}
+			},
+			{
+				"name": "CB Arboreal Aberration",
+				"rarity": "common",
+				"mana_cost": "{B}",
+				"type": "Creature — Horror",
+				"collector_number": "82",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/82_CB Arboreal Aberration.jpg"
+				}
+			},
+			{
+				"name": "CB Arboreal Aberration_foil",
+				"rarity": "common",
+				"mana_cost": "{B}",
+				"type": "Creature — Horror",
+				"collector_number": "82",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/82_CB Arboreal Aberration.jpg"
+				}
+			},
+			{
+				"name": "CB Ravenous Myconid",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Creature — Fungus",
+				"collector_number": "93",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/93_CB Ravenous Myconid.jpg"
+				}
+			},
+			{
+				"name": "CB Ravenous Myconid_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Creature — Fungus",
+				"collector_number": "93",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/93_CB Ravenous Myconid.jpg"
+				}
+			},
+			{
+				"name": "CB Groundskeepers",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Creature — Human Citizen",
+				"collector_number": "88",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/88_CB Groundskeepers.jpg"
+				}
+			},
+			{
+				"name": "CB Groundskeepers_foil",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Creature — Human Citizen",
+				"collector_number": "88",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/88_CB Groundskeepers.jpg"
+				}
+			},
+			{
+				"name": "CB Silver Moth",
+				"rarity": "common",
+				"mana_cost": "{2}{B}",
+				"type": "Artifact Creature — Insect Drone",
+				"collector_number": "95",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/95_CB Silver Moth.jpg"
+				}
+			},
+			{
+				"name": "CB Silver Moth_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{B}",
+				"type": "Artifact Creature — Insect Drone",
+				"collector_number": "95",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/95_CB Silver Moth.jpg"
+				}
+			},
+			{
+				"name": "CB Secret Extractor",
+				"rarity": "common",
+				"mana_cost": "{2}{B}",
+				"type": "Creature — Human Rogue",
+				"collector_number": "94",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/94_CB Secret Extractor.jpg"
+				}
+			},
+			{
+				"name": "CB Secret Extractor_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{B}",
+				"type": "Creature — Human Rogue",
+				"collector_number": "94",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/94_CB Secret Extractor.jpg"
+				}
+			},
+			{
+				"name": "CB Treeline Scythes",
+				"rarity": "common",
+				"mana_cost": "{3}{B}",
+				"type": "Creature — Dinosaur",
+				"collector_number": "97",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/97_CB Treeline Scythes.jpg"
+				}
+			},
+			{
+				"name": "CB Treeline Scythes_foil",
+				"rarity": "common",
+				"mana_cost": "{3}{B}",
+				"type": "Creature — Dinosaur",
+				"collector_number": "97",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/97_CB Treeline Scythes.jpg"
+				}
+			},
+			{
+				"name": "CB Gnubok",
 				"rarity": "common",
 				"mana_cost": "{3}{B}",
 				"type": "Creature — Crocodile",
-				"collector_number": "91",
+				"collector_number": "86",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/91_CB10 Gnubok_back.jpg"
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/86_CB Gnubok_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/91_CB10 Gnubok_front.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/86_CB Gnubok_front.jpg"
 				}
 			},
 			{
-				"name": "CB10 Gnubok_foil",
+				"name": "CB Gnubok_foil",
 				"rarity": "common",
 				"mana_cost": "{3}{B}",
 				"type": "Creature — Crocodile",
-				"collector_number": "91",
+				"collector_number": "86",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/91_CB10 Gnubok_back.jpg"
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/86_CB Gnubok_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/91_CB10 Gnubok_front.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/86_CB Gnubok_front.jpg"
 				}
 			},
 			{
-				"name": "CB11 Geometrauma",
+				"name": "CB Geometrauma",
 				"rarity": "common",
 				"mana_cost": "{4}{B}{B}",
 				"type": "Creature — Human Beast",
-				"collector_number": "92",
+				"collector_number": "85",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/92_CB11 Geometrauma.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/85_CB Geometrauma.jpg"
 				}
 			},
 			{
-				"name": "CB11 Geometrauma_foil",
+				"name": "CB Geometrauma_foil",
 				"rarity": "common",
 				"mana_cost": "{4}{B}{B}",
 				"type": "Creature — Human Beast",
-				"collector_number": "92",
+				"collector_number": "85",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/92_CB11 Geometrauma.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/85_CB Geometrauma.jpg"
 				}
 			},
 			{
-				"name": "CB12",
+				"name": "CB Soul Drain",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "93",
+				"mana_cost": "{2}{B}",
+				"type": "Sorcery",
+				"collector_number": "96",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/93_CB12.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/96_CB Soul Drain.jpg"
 				}
 			},
 			{
-				"name": "CB12_foil",
+				"name": "CB Soul Drain_foil",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "93",
+				"mana_cost": "{2}{B}",
+				"type": "Sorcery",
+				"collector_number": "96",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/93_CB12.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/96_CB Soul Drain.jpg"
 				}
 			},
 			{
-				"name": "CB13",
+				"name": "CB Bound to the Grid",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "94",
+				"mana_cost": "{3}{B}",
+				"type": "Enchantment",
+				"collector_number": "83",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/94_CB13.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/83_CB Bound to the Grid.jpg"
 				}
 			},
 			{
-				"name": "CB13_foil",
+				"name": "CB Bound to the Grid_foil",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "94",
+				"mana_cost": "{3}{B}",
+				"type": "Enchantment",
+				"collector_number": "83",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/94_CB13.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/83_CB Bound to the Grid.jpg"
 				}
 			},
 			{
-				"name": "CI01 Information Recovery Crew",
+				"name": "CI Information Recovery Crew",
 				"rarity": "common",
 				"mana_cost": "{C}",
 				"type": "Creature — Human Scout",
-				"collector_number": "191",
+				"collector_number": "197",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/191_CI01 Information Recovery Crew.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/197_CI Information Recovery Crew.jpg"
 				}
 			},
 			{
-				"name": "CI01 Information Recovery Crew_foil",
+				"name": "CI Information Recovery Crew_foil",
 				"rarity": "common",
 				"mana_cost": "{C}",
 				"type": "Creature — Human Scout",
-				"collector_number": "191",
+				"collector_number": "197",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/191_CI01 Information Recovery Crew.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/197_CI Information Recovery Crew.jpg"
 				}
 			},
 			{
-				"name": "CI03 Whisper Squad",
+				"name": "CI Whisper Squad",
 				"rarity": "common",
 				"mana_cost": "{1}{C}",
 				"type": "Creature — Human Scout",
-				"collector_number": "193",
+				"collector_number": "207",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/193_CI03 Whisper Squad.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/207_CI Whisper Squad.jpg"
 				}
 			},
 			{
-				"name": "CI03 Whisper Squad_foil",
+				"name": "CI Whisper Squad_foil",
 				"rarity": "common",
 				"mana_cost": "{1}{C}",
 				"type": "Creature — Human Scout",
-				"collector_number": "193",
+				"collector_number": "207",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/193_CI03 Whisper Squad.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/207_CI Whisper Squad.jpg"
 				}
 			},
 			{
-				"name": "CI04 Striking Reflection",
+				"name": "CI Striking Reflection",
 				"rarity": "common",
 				"mana_cost": "{2}{C}",
 				"type": "Creature — Reflection",
-				"collector_number": "194",
+				"collector_number": "205",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/194_CI04 Striking Reflection.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/205_CI Striking Reflection.jpg"
 				}
 			},
 			{
-				"name": "CI04 Striking Reflection_foil",
+				"name": "CI Striking Reflection_foil",
 				"rarity": "common",
 				"mana_cost": "{2}{C}",
 				"type": "Creature — Reflection",
-				"collector_number": "194",
+				"collector_number": "205",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/194_CI04 Striking Reflection.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/205_CI Striking Reflection.jpg"
 				}
 			},
 			{
-				"name": "CI02 Exuberant Archaeologist",
+				"name": "CI Exuberant Archaeologist",
 				"rarity": "common",
 				"mana_cost": "{1}{C}",
 				"type": "Creature — Human Scout",
-				"collector_number": "192",
+				"collector_number": "195",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/192_CI02 Exuberant Archaeologist.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/195_CI Exuberant Archaeologist.jpg"
 				}
 			},
 			{
-				"name": "CI02 Exuberant Archaeologist_foil",
+				"name": "CI Exuberant Archaeologist_foil",
 				"rarity": "common",
 				"mana_cost": "{1}{C}",
 				"type": "Creature — Human Scout",
-				"collector_number": "192",
+				"collector_number": "195",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/192_CI02 Exuberant Archaeologist.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/195_CI Exuberant Archaeologist.jpg"
 				}
 			},
 			{
@@ -1075,11 +1117,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "118",
+				"collector_number": "121",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/118_CR01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/121_CR01.jpg"
 				}
 			},
 			{
@@ -1087,11 +1129,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "118",
+				"collector_number": "121",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/118_CR01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/121_CR01.jpg"
 				}
 			},
 			{
@@ -1099,11 +1141,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "119",
+				"collector_number": "122",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/119_CR02.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/122_CR02.jpg"
 				}
 			},
 			{
@@ -1111,11 +1153,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "119",
+				"collector_number": "122",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/119_CR02.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/122_CR02.jpg"
 				}
 			},
 			{
@@ -1123,11 +1165,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "120",
+				"collector_number": "123",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/120_CR03.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/123_CR03.jpg"
 				}
 			},
 			{
@@ -1135,11 +1177,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "120",
+				"collector_number": "123",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/120_CR03.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/123_CR03.jpg"
 				}
 			},
 			{
@@ -1147,11 +1189,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "121",
+				"collector_number": "124",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/121_CR04.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/124_CR04.jpg"
 				}
 			},
 			{
@@ -1159,11 +1201,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "121",
+				"collector_number": "124",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/121_CR04.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/124_CR04.jpg"
 				}
 			},
 			{
@@ -1171,11 +1213,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "122",
+				"collector_number": "125",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/122_CR05.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/125_CR05.jpg"
 				}
 			},
 			{
@@ -1183,11 +1225,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "122",
+				"collector_number": "125",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/122_CR05.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/125_CR05.jpg"
 				}
 			},
 			{
@@ -1195,11 +1237,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "123",
+				"collector_number": "126",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/123_CR06.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/126_CR06.jpg"
 				}
 			},
 			{
@@ -1207,11 +1249,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "123",
+				"collector_number": "126",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/123_CR06.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/126_CR06.jpg"
 				}
 			},
 			{
@@ -1219,11 +1261,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "124",
+				"collector_number": "127",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/124_CR07.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/127_CR07.jpg"
 				}
 			},
 			{
@@ -1231,11 +1273,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "124",
+				"collector_number": "127",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/124_CR07.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/127_CR07.jpg"
 				}
 			},
 			{
@@ -1243,11 +1285,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "125",
+				"collector_number": "128",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/125_CR08.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/128_CR08.jpg"
 				}
 			},
 			{
@@ -1255,35 +1297,35 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "125",
+				"collector_number": "128",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/125_CR08.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/128_CR08.jpg"
 				}
 			},
 			{
-				"name": "CR09 Crasher Mech",
+				"name": "CR Crasher Mech",
 				"rarity": "common",
 				"mana_cost": "{2}{R}",
 				"type": "Artifact Creature — Construct",
-				"collector_number": "126",
+				"collector_number": "119",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/126_CR09 Crasher Mech.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/119_CR Crasher Mech.jpg"
 				}
 			},
 			{
-				"name": "CR09 Crasher Mech_foil",
+				"name": "CR Crasher Mech_foil",
 				"rarity": "common",
 				"mana_cost": "{2}{R}",
 				"type": "Artifact Creature — Construct",
-				"collector_number": "126",
+				"collector_number": "119",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/126_CR09 Crasher Mech.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/119_CR Crasher Mech.jpg"
 				}
 			},
 			{
@@ -1291,11 +1333,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "127",
+				"collector_number": "129",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/127_CR10.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/129_CR10.jpg"
 				}
 			},
 			{
@@ -1303,35 +1345,35 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "127",
+				"collector_number": "129",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/127_CR10.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/129_CR10.jpg"
 				}
 			},
 			{
-				"name": "CR11 Carapace Cracker",
+				"name": "CR Carapace Cracker",
 				"rarity": "common",
 				"mana_cost": "{4}{R}{R}",
 				"type": "Creature — Crab Soldier",
-				"collector_number": "128",
+				"collector_number": "118",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/128_CR11 Carapace Cracker.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/118_CR Carapace Cracker.jpg"
 				}
 			},
 			{
-				"name": "CR11 Carapace Cracker_foil",
+				"name": "CR Carapace Cracker_foil",
 				"rarity": "common",
 				"mana_cost": "{4}{R}{R}",
 				"type": "Creature — Crab Soldier",
-				"collector_number": "128",
+				"collector_number": "118",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/128_CR11 Carapace Cracker.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/118_CR Carapace Cracker.jpg"
 				}
 			},
 			{
@@ -1339,11 +1381,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "129",
+				"collector_number": "130",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/129_CR12.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/130_CR12.jpg"
 				}
 			},
 			{
@@ -1351,11 +1393,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "129",
+				"collector_number": "130",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/129_CR12.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/130_CR12.jpg"
 				}
 			},
 			{
@@ -1363,11 +1405,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "130",
+				"collector_number": "131",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/130_CR13.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/131_CR13.jpg"
 				}
 			},
 			{
@@ -1375,107 +1417,107 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "130",
+				"collector_number": "131",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/130_CR13.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/131_CR13.jpg"
 				}
 			},
 			{
-				"name": "CI09 Back to Market",
+				"name": "CI Back to Market",
 				"rarity": "common",
 				"mana_cost": "{C}",
 				"type": "Sorcery",
-				"collector_number": "199",
+				"collector_number": "192",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/199_CI09 Back to Market.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/192_CI Back to Market.jpg"
 				}
 			},
 			{
-				"name": "CI09 Back to Market_foil",
+				"name": "CI Back to Market_foil",
 				"rarity": "common",
 				"mana_cost": "{C}",
 				"type": "Sorcery",
-				"collector_number": "199",
+				"collector_number": "192",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/199_CI09 Back to Market.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/192_CI Back to Market.jpg"
 				}
 			},
 			{
-				"name": "CI10 Center Mass",
+				"name": "CI Center Mass",
 				"rarity": "common",
 				"mana_cost": "{C}",
 				"type": "Instant",
+				"collector_number": "193",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/193_CI Center Mass.jpg"
+				}
+			},
+			{
+				"name": "CI Center Mass_foil",
+				"rarity": "common",
+				"mana_cost": "{C}",
+				"type": "Instant",
+				"collector_number": "193",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/193_CI Center Mass.jpg"
+				}
+			},
+			{
+				"name": "CI Murky Politics",
+				"rarity": "common",
+				"mana_cost": "{1}{C}",
+				"type": "Sorcery",
 				"collector_number": "200",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/200_CI10 Center Mass.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/200_CI Murky Politics.jpg"
 				}
 			},
 			{
-				"name": "CI10 Center Mass_foil",
+				"name": "CI Murky Politics_foil",
 				"rarity": "common",
-				"mana_cost": "{C}",
-				"type": "Instant",
+				"mana_cost": "{1}{C}",
+				"type": "Sorcery",
 				"collector_number": "200",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/200_CI10 Center Mass.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/200_CI Murky Politics.jpg"
 				}
 			},
 			{
-				"name": "CI11 Murky Politics",
-				"rarity": "common",
-				"mana_cost": "{1}{C}",
-				"type": "Sorcery",
-				"collector_number": "201",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/201_CI11 Murky Politics.jpg"
-				}
-			},
-			{
-				"name": "CI11 Murky Politics_foil",
-				"rarity": "common",
-				"mana_cost": "{1}{C}",
-				"type": "Sorcery",
-				"collector_number": "201",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/201_CI11 Murky Politics.jpg"
-				}
-			},
-			{
-				"name": "CI12 Idolization",
+				"name": "CI Idolization",
 				"rarity": "common",
 				"mana_cost": "{1}{C}",
 				"type": "Instant",
-				"collector_number": "202",
+				"collector_number": "196",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/202_CI12 Idolization.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/196_CI Idolization.jpg"
 				}
 			},
 			{
-				"name": "CI12 Idolization_foil",
+				"name": "CI Idolization_foil",
 				"rarity": "common",
 				"mana_cost": "{1}{C}",
 				"type": "Instant",
-				"collector_number": "202",
+				"collector_number": "196",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/202_CI12 Idolization.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/196_CI Idolization.jpg"
 				}
 			},
 			{
@@ -1483,11 +1525,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "155",
+				"collector_number": "157",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/155_CG01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/157_CG01.jpg"
 				}
 			},
 			{
@@ -1495,11 +1537,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "155",
+				"collector_number": "157",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/155_CG01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/157_CG01.jpg"
 				}
 			},
 			{
@@ -1507,11 +1549,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "156",
+				"collector_number": "158",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/156_CG02.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/158_CG02.jpg"
 				}
 			},
 			{
@@ -1519,11 +1561,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "156",
+				"collector_number": "158",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/156_CG02.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/158_CG02.jpg"
 				}
 			},
 			{
@@ -1531,11 +1573,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "157",
+				"collector_number": "159",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/157_CG03.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/159_CG03.jpg"
 				}
 			},
 			{
@@ -1543,11 +1585,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "157",
+				"collector_number": "159",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/157_CG03.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/159_CG03.jpg"
 				}
 			},
 			{
@@ -1555,11 +1597,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "158",
+				"collector_number": "160",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/158_CG04.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/160_CG04.jpg"
 				}
 			},
 			{
@@ -1567,11 +1609,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "158",
+				"collector_number": "160",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/158_CG04.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/160_CG04.jpg"
 				}
 			},
 			{
@@ -1579,11 +1621,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "159",
+				"collector_number": "161",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/159_CG05.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/161_CG05.jpg"
 				}
 			},
 			{
@@ -1591,11 +1633,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "159",
+				"collector_number": "161",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/159_CG05.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/161_CG05.jpg"
 				}
 			},
 			{
@@ -1603,11 +1645,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "160",
+				"collector_number": "162",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/160_CG06.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/162_CG06.jpg"
 				}
 			},
 			{
@@ -1615,11 +1657,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "160",
+				"collector_number": "162",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/160_CG06.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/162_CG06.jpg"
 				}
 			},
 			{
@@ -1627,11 +1669,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "161",
+				"collector_number": "163",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/161_CG07.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/163_CG07.jpg"
 				}
 			},
 			{
@@ -1639,11 +1681,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "161",
+				"collector_number": "163",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/161_CG07.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/163_CG07.jpg"
 				}
 			},
 			{
@@ -1651,11 +1693,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "162",
+				"collector_number": "164",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/162_CG08.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/164_CG08.jpg"
 				}
 			},
 			{
@@ -1663,11 +1705,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "162",
+				"collector_number": "164",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/162_CG08.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/164_CG08.jpg"
 				}
 			},
 			{
@@ -1675,11 +1717,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "163",
+				"collector_number": "165",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/163_CG09.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/165_CG09.jpg"
 				}
 			},
 			{
@@ -1687,11 +1729,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "163",
+				"collector_number": "165",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/163_CG09.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/165_CG09.jpg"
 				}
 			},
 			{
@@ -1699,11 +1741,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "164",
+				"collector_number": "166",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/164_CG10.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/166_CG10.jpg"
 				}
 			},
 			{
@@ -1711,35 +1753,35 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "164",
+				"collector_number": "166",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/164_CG10.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/166_CG10.jpg"
 				}
 			},
 			{
-				"name": "CG11 Parastrider",
+				"name": "CG Parastrider",
 				"rarity": "common",
 				"mana_cost": "{4}{G}{G}",
 				"type": "Creature — Spider Fungus",
-				"collector_number": "165",
+				"collector_number": "155",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/165_CG11 Parastrider.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/155_CG Parastrider.jpg"
 				}
 			},
 			{
-				"name": "CG11 Parastrider_foil",
+				"name": "CG Parastrider_foil",
 				"rarity": "common",
 				"mana_cost": "{4}{G}{G}",
 				"type": "Creature — Spider Fungus",
-				"collector_number": "165",
+				"collector_number": "155",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/165_CG11 Parastrider.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/155_CG Parastrider.jpg"
 				}
 			},
 			{
@@ -1747,11 +1789,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "166",
+				"collector_number": "167",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/166_CG12.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/167_CG12.jpg"
 				}
 			},
 			{
@@ -1759,11 +1801,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "166",
+				"collector_number": "167",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/166_CG12.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/167_CG12.jpg"
 				}
 			},
 			{
@@ -1771,11 +1813,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "167",
+				"collector_number": "168",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/167_CG13.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/168_CG13.jpg"
 				}
 			},
 			{
@@ -1783,121 +1825,121 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "167",
+				"collector_number": "168",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/167_CG13.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/168_CG13.jpg"
 				}
 			},
 			{
-				"name": "CI05 Insect Rider",
+				"name": "CI Insect Rider",
 				"rarity": "common",
 				"mana_cost": "{2}{C}",
 				"type": "Creature — Human Insect Scout",
-				"collector_number": "195",
+				"collector_number": "198",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/195_CI05 Insect Rider.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/198_CI Insect Rider.jpg"
 				}
 			},
 			{
-				"name": "CI05 Insect Rider_foil",
+				"name": "CI Insect Rider_foil",
 				"rarity": "common",
 				"mana_cost": "{2}{C}",
 				"type": "Creature — Human Insect Scout",
-				"collector_number": "195",
+				"collector_number": "198",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/195_CI05 Insect Rider.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/198_CI Insect Rider.jpg"
 				}
 			},
 			{
-				"name": "CI06 Unbothered Alchemist",
+				"name": "CI Unbothered Alchemist",
 				"rarity": "common",
 				"mana_cost": "{3}{C}",
 				"type": "Creature — Human Wizard",
-				"collector_number": "196",
+				"collector_number": "206",
 				"foil": false,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/196_CI06 Unbothered Alchemist_back.jpg"
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/206_CI Unbothered Alchemist_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/196_CI06 Unbothered Alchemist_front.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/206_CI Unbothered Alchemist_front.jpg"
 				}
 			},
 			{
-				"name": "CI06 Unbothered Alchemist_foil",
+				"name": "CI Unbothered Alchemist_foil",
 				"rarity": "common",
 				"mana_cost": "{3}{C}",
 				"type": "Creature — Human Wizard",
-				"collector_number": "196",
+				"collector_number": "206",
 				"foil": true,
 
 				"back": {
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/196_CI06 Unbothered Alchemist_back.jpg"
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/206_CI Unbothered Alchemist_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/196_CI06 Unbothered Alchemist_front.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/206_CI Unbothered Alchemist_front.jpg"
 				}
 			},
 			{
-				"name": "CI07 Sensation Robbery",
+				"name": "CI Sensation Robbery",
 				"rarity": "common",
 				"mana_cost": "{5}{C}{C}",
 				"type": "Enchantment Creature — Icon Incarnation",
-				"collector_number": "197",
+				"collector_number": "204",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/197_CI07 Sensation Robbery.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/204_CI Sensation Robbery.jpg"
 				}
 			},
 			{
-				"name": "CI07 Sensation Robbery_foil",
+				"name": "CI Sensation Robbery_foil",
 				"rarity": "common",
 				"mana_cost": "{5}{C}{C}",
 				"type": "Enchantment Creature — Icon Incarnation",
-				"collector_number": "197",
+				"collector_number": "204",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/197_CI07 Sensation Robbery.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/204_CI Sensation Robbery.jpg"
 				}
 			},
 			{
-				"name": "CI08 Scouting Party",
+				"name": "CI Scouting Party",
 				"rarity": "common",
 				"mana_cost": "{4}{C}{C}",
 				"type": "Creature — Rabbit Soldier Scout",
-				"collector_number": "198",
+				"collector_number": "203",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/198_CI08 Scouting Party.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/203_CI Scouting Party.jpg"
 				}
 			},
 			{
-				"name": "CI08 Scouting Party_foil",
+				"name": "CI Scouting Party_foil",
 				"rarity": "common",
 				"mana_cost": "{4}{C}{C}",
 				"type": "Creature — Rabbit Soldier Scout",
-				"collector_number": "198",
+				"collector_number": "203",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/198_CI08 Scouting Party.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/203_CI Scouting Party.jpg"
 				}
 			},
 			{
@@ -4003,27 +4045,27 @@
 				}
 			},
 			{
-				"name": "MR02",
-				"rarity": "mythic",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "136",
+				"name": "CR Firewall Breach",
+				"rarity": "common",
+				"mana_cost": "{6}{R}{R}",
+				"type": "Sorcery",
+				"collector_number": "120",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/136_MR02.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/120_CR Firewall Breach.jpg"
 				}
 			},
 			{
-				"name": "MR02_foil",
-				"rarity": "mythic",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "136",
+				"name": "CR Firewall Breach_foil",
+				"rarity": "common",
+				"mana_cost": "{6}{R}{R}",
+				"type": "Sorcery",
+				"collector_number": "120",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/136_MR02.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/120_CR Firewall Breach.jpg"
 				}
 			},
 			{
@@ -4123,9 +4165,33 @@
 				}
 			},
 			{
+				"name": "UM Marker of Aberration",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{B}{R}",
+				"type": "Artifact",
+				"collector_number": "251",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/251_UM Marker of Aberration.jpg"
+				}
+			},
+			{
+				"name": "UM Marker of Aberration_foil",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{B}{R}",
+				"type": "Artifact",
+				"collector_number": "251",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/251_UM Marker of Aberration.jpg"
+				}
+			},
+			{
 				"name": "UM01",
 				"rarity": "uncommon",
-				"mana_cost": "{B}{R}",
+				"mana_cost": "{R}{G}",
 				"type": "",
 				"collector_number": "269",
 				"foil": false,
@@ -4137,7 +4203,7 @@
 			{
 				"name": "UM01_foil",
 				"rarity": "uncommon",
-				"mana_cost": "{B}{R}",
+				"mana_cost": "{R}{G}",
 				"type": "",
 				"collector_number": "269",
 				"foil": true,
@@ -4149,7 +4215,7 @@
 			{
 				"name": "UM01",
 				"rarity": "uncommon",
-				"mana_cost": "{R}{G}",
+				"mana_cost": "{G}{W}",
 				"type": "",
 				"collector_number": "270",
 				"foil": false,
@@ -4161,7 +4227,7 @@
 			{
 				"name": "UM01_foil",
 				"rarity": "uncommon",
-				"mana_cost": "{R}{G}",
+				"mana_cost": "{G}{W}",
 				"type": "",
 				"collector_number": "270",
 				"foil": true,
@@ -4173,7 +4239,7 @@
 			{
 				"name": "UM01",
 				"rarity": "uncommon",
-				"mana_cost": "{G}{W}",
+				"mana_cost": "{W}{B}",
 				"type": "",
 				"collector_number": "271",
 				"foil": false,
@@ -4185,7 +4251,7 @@
 			{
 				"name": "UM01_foil",
 				"rarity": "uncommon",
-				"mana_cost": "{G}{W}",
+				"mana_cost": "{W}{B}",
 				"type": "",
 				"collector_number": "271",
 				"foil": true,
@@ -4197,7 +4263,7 @@
 			{
 				"name": "UM01",
 				"rarity": "uncommon",
-				"mana_cost": "{W}{B}",
+				"mana_cost": "{U}{R}",
 				"type": "",
 				"collector_number": "272",
 				"foil": false,
@@ -4209,7 +4275,7 @@
 			{
 				"name": "UM01_foil",
 				"rarity": "uncommon",
-				"mana_cost": "{W}{B}",
+				"mana_cost": "{U}{R}",
 				"type": "",
 				"collector_number": "272",
 				"foil": true,
@@ -4221,7 +4287,7 @@
 			{
 				"name": "UM01",
 				"rarity": "uncommon",
-				"mana_cost": "{U}{R}",
+				"mana_cost": "{B}{G}",
 				"type": "",
 				"collector_number": "273",
 				"foil": false,
@@ -4233,7 +4299,7 @@
 			{
 				"name": "UM01_foil",
 				"rarity": "uncommon",
-				"mana_cost": "{U}{R}",
+				"mana_cost": "{B}{G}",
 				"type": "",
 				"collector_number": "273",
 				"foil": true,
@@ -4245,7 +4311,7 @@
 			{
 				"name": "UM01",
 				"rarity": "uncommon",
-				"mana_cost": "{B}{G}",
+				"mana_cost": "{R}{W}",
 				"type": "",
 				"collector_number": "274",
 				"foil": false,
@@ -4257,7 +4323,7 @@
 			{
 				"name": "UM01_foil",
 				"rarity": "uncommon",
-				"mana_cost": "{B}{G}",
+				"mana_cost": "{R}{W}",
 				"type": "",
 				"collector_number": "274",
 				"foil": true,
@@ -4269,7 +4335,7 @@
 			{
 				"name": "UM01",
 				"rarity": "uncommon",
-				"mana_cost": "{R}{W}",
+				"mana_cost": "{G}{U}",
 				"type": "",
 				"collector_number": "275",
 				"foil": false,
@@ -4281,7 +4347,7 @@
 			{
 				"name": "UM01_foil",
 				"rarity": "uncommon",
-				"mana_cost": "{R}{W}",
+				"mana_cost": "{G}{U}",
 				"type": "",
 				"collector_number": "275",
 				"foil": true,
@@ -4291,39 +4357,15 @@
 				}
 			},
 			{
-				"name": "UM01",
-				"rarity": "uncommon",
-				"mana_cost": "{G}{U}",
-				"type": "",
-				"collector_number": "276",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/276_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01_foil",
-				"rarity": "uncommon",
-				"mana_cost": "{G}{U}",
-				"type": "",
-				"collector_number": "276",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/276_UM01.jpg"
-				}
-			},
-			{
 				"name": "RM01",
 				"rarity": "rare",
 				"mana_cost": "{W}{U}",
 				"type": "",
-				"collector_number": "235",
+				"collector_number": "248",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/235_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/248_RM01.jpg"
 				}
 			},
 			{
@@ -4331,11 +4373,11 @@
 				"rarity": "rare",
 				"mana_cost": "{W}{U}",
 				"type": "",
-				"collector_number": "235",
+				"collector_number": "248",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/235_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/248_RM01.jpg"
 				}
 			},
 			{
@@ -4343,11 +4385,11 @@
 				"rarity": "rare",
 				"mana_cost": "{U}{B}",
 				"type": "",
-				"collector_number": "227",
+				"collector_number": "249",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/227_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/249_RM01.jpg"
 				}
 			},
 			{
@@ -4355,11 +4397,11 @@
 				"rarity": "rare",
 				"mana_cost": "{U}{B}",
 				"type": "",
-				"collector_number": "227",
+				"collector_number": "249",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/227_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/249_RM01.jpg"
 				}
 			},
 			{
@@ -4367,11 +4409,11 @@
 				"rarity": "rare",
 				"mana_cost": "{B}{R}",
 				"type": "",
-				"collector_number": "228",
+				"collector_number": "241",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/228_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/241_RM01.jpg"
 				}
 			},
 			{
@@ -4379,11 +4421,11 @@
 				"rarity": "rare",
 				"mana_cost": "{B}{R}",
 				"type": "",
-				"collector_number": "228",
+				"collector_number": "241",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/228_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/241_RM01.jpg"
 				}
 			},
 			{
@@ -4391,11 +4433,11 @@
 				"rarity": "rare",
 				"mana_cost": "{G}{W}",
 				"type": "",
-				"collector_number": "229",
+				"collector_number": "246",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/229_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/246_RM01.jpg"
 				}
 			},
 			{
@@ -4403,11 +4445,11 @@
 				"rarity": "rare",
 				"mana_cost": "{G}{W}",
 				"type": "",
-				"collector_number": "229",
+				"collector_number": "246",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/229_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/246_RM01.jpg"
 				}
 			},
 			{
@@ -4415,11 +4457,11 @@
 				"rarity": "rare",
 				"mana_cost": "{W}{B}",
 				"type": "",
-				"collector_number": "230",
+				"collector_number": "243",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/230_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/243_RM01.jpg"
 				}
 			},
 			{
@@ -4427,11 +4469,11 @@
 				"rarity": "rare",
 				"mana_cost": "{W}{B}",
 				"type": "",
-				"collector_number": "230",
+				"collector_number": "243",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/230_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/243_RM01.jpg"
 				}
 			},
 			{
@@ -4439,11 +4481,11 @@
 				"rarity": "rare",
 				"mana_cost": "{U}{R}",
 				"type": "",
-				"collector_number": "231",
+				"collector_number": "244",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/231_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/244_RM01.jpg"
 				}
 			},
 			{
@@ -4451,11 +4493,11 @@
 				"rarity": "rare",
 				"mana_cost": "{U}{R}",
 				"type": "",
-				"collector_number": "231",
+				"collector_number": "244",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/231_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/244_RM01.jpg"
 				}
 			},
 			{
@@ -4463,11 +4505,11 @@
 				"rarity": "rare",
 				"mana_cost": "{B}{G}",
 				"type": "",
-				"collector_number": "233",
+				"collector_number": "245",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/233_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/245_RM01.jpg"
 				}
 			},
 			{
@@ -4475,11 +4517,11 @@
 				"rarity": "rare",
 				"mana_cost": "{B}{G}",
 				"type": "",
-				"collector_number": "233",
+				"collector_number": "245",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/233_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/245_RM01.jpg"
 				}
 			},
 			{
@@ -4487,11 +4529,11 @@
 				"rarity": "rare",
 				"mana_cost": "{R}{W}",
 				"type": "",
-				"collector_number": "232",
+				"collector_number": "242",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/232_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/242_RM01.jpg"
 				}
 			},
 			{
@@ -4499,11 +4541,11 @@
 				"rarity": "rare",
 				"mana_cost": "{R}{W}",
 				"type": "",
-				"collector_number": "232",
+				"collector_number": "242",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/232_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/242_RM01.jpg"
 				}
 			},
 			{
@@ -4511,11 +4553,11 @@
 				"rarity": "rare",
 				"mana_cost": "{G}{U}",
 				"type": "",
-				"collector_number": "234",
+				"collector_number": "247",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/234_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/247_RM01.jpg"
 				}
 			},
 			{
@@ -4523,15 +4565,15 @@
 				"rarity": "rare",
 				"mana_cost": "{G}{U}",
 				"type": "",
-				"collector_number": "234",
+				"collector_number": "247",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/234_RM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/247_RM01.jpg"
 				}
 			},
 			{
-				"name": "C06 Ursine Temple",
+				"name": "C Ursine Temple",
 				"rarity": "common",
 				"mana_cost": "{3}",
 				"type": "Artifact",
@@ -4542,15 +4584,15 @@
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/282_C06 Ursine Temple_back.jpg"
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/282_C Ursine Temple_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/282_C06 Ursine Temple_front.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/282_C Ursine Temple_front.jpg"
 				}
 			},
 			{
-				"name": "C06 Ursine Temple_foil",
+				"name": "C Ursine Temple_foil",
 				"rarity": "common",
 				"mana_cost": "{3}",
 				"type": "Artifact",
@@ -4561,15 +4603,15 @@
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/282_C06 Ursine Temple_back.jpg"
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/282_C Ursine Temple_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/282_C06 Ursine Temple_front.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/282_C Ursine Temple_front.jpg"
 				}
 			},
 			{
-				"name": "C04 Citysprout Bonsai",
+				"name": "C Citysprout Bonsai",
 				"rarity": "common",
 				"mana_cost": "{2}",
 				"type": "Artifact",
@@ -4577,11 +4619,11 @@
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/281_C04 Citysprout Bonsai.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/281_C Citysprout Bonsai.jpg"
 				}
 			},
 			{
-				"name": "C04 Citysprout Bonsai_foil",
+				"name": "C Citysprout Bonsai_foil",
 				"rarity": "common",
 				"mana_cost": "{2}",
 				"type": "Artifact",
@@ -4589,11 +4631,73 @@
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/281_C04 Citysprout Bonsai.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/281_C Citysprout Bonsai.jpg"
 				}
 			},
 			{
-				"name": "C02 Far Off Horizon",
+				"name": "C Far Off Horizon",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "290",
+				"foil": false,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/290_C Far Off Horizon_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/290_C Far Off Horizon_front.jpg"
+				}
+			},
+			{
+				"name": "C Far Off Horizon_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "290",
+				"foil": true,
+
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/290_C Far Off Horizon_back.jpg"
+					}
+				},
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/290_C Far Off Horizon_front.jpg"
+				}
+			},
+			{
+				"name": "C Digital Song",
+				"rarity": "common",
+				"mana_cost": "{2}",
+				"type": "Creature — Bird",
+				"collector_number": "2",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2_C Digital Song.jpg"
+				}
+			},
+			{
+				"name": "C Digital Song_foil",
+				"rarity": "common",
+				"mana_cost": "{2}",
+				"type": "Creature — Bird",
+				"collector_number": "2",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2_C Digital Song.jpg"
+				}
+			},
+			{
+				"name": "C Gilded Tea Room",
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Land",
@@ -4604,15 +4708,15 @@
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/291_C02 Far Off Horizon_back.jpg"
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/291_C Gilded Tea Room_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/291_C02 Far Off Horizon_front.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/291_C Gilded Tea Room_front.jpg"
 				}
 			},
 			{
-				"name": "C02 Far Off Horizon_foil",
+				"name": "C Gilded Tea Room_foil",
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Land",
@@ -4623,73 +4727,11 @@
 					"name": "",
 					"type": "",
 					"image_uris": {
-						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/291_C02 Far Off Horizon_back.jpg"
+						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/291_C Gilded Tea Room_back.jpg"
 					}
 				},
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/291_C02 Far Off Horizon_front.jpg"
-				}
-			},
-			{
-				"name": "C05 Digital Song",
-				"rarity": "common",
-				"mana_cost": "{2}",
-				"type": "Creature — Bird",
-				"collector_number": "2",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2_C05 Digital Song.jpg"
-				}
-			},
-			{
-				"name": "C05 Digital Song_foil",
-				"rarity": "common",
-				"mana_cost": "{2}",
-				"type": "Creature — Bird",
-				"collector_number": "2",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2_C05 Digital Song.jpg"
-				}
-			},
-			{
-				"name": "C03 Gilded Tea Room",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "Land",
-				"collector_number": "292",
-				"foil": false,
-
-				"back": {
-					"name": "",
-					"type": "",
-					"image_uris": {
-						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/292_C03 Gilded Tea Room_back.jpg"
-					}
-				},
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/292_C03 Gilded Tea Room_front.jpg"
-				}
-			},
-			{
-				"name": "C03 Gilded Tea Room_foil",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "Land",
-				"collector_number": "292",
-				"foil": true,
-
-				"back": {
-					"name": "",
-					"type": "",
-					"image_uris": {
-						"en": "https://Tvpattack.github.io/sets/TVPC-files/img/292_C03 Gilded Tea Room_back.jpg"
-					}
-				},
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/292_C03 Gilded Tea Room_front.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/291_C Gilded Tea Room_front.jpg"
 				}
 			},
 			{
@@ -4827,27 +4869,27 @@
 				}
 			},
 			{
-				"name": "C01 Search Grid",
+				"name": "C Search Grid",
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Land",
-				"collector_number": "290",
+				"collector_number": "292",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/290_C01 Search Grid.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/292_C Search Grid.jpg"
 				}
 			},
 			{
-				"name": "C01 Search Grid_foil",
+				"name": "C Search Grid_foil",
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Land",
-				"collector_number": "290",
+				"collector_number": "292",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/290_C01 Search Grid.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/292_C Search Grid.jpg"
 				}
 			},
 			{
@@ -5013,11 +5055,11 @@
 				"rarity": "rare",
 				"mana_cost": "{R}{G}",
 				"type": "Artifact",
-				"collector_number": "236",
+				"collector_number": "250",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/236_RM01 Crown of Conquest.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/250_RM01 Crown of Conquest.jpg"
 				}
 			},
 			{
@@ -5025,11 +5067,11 @@
 				"rarity": "rare",
 				"mana_cost": "{R}{G}",
 				"type": "Artifact",
-				"collector_number": "236",
+				"collector_number": "250",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/236_RM01 Crown of Conquest.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/250_RM01 Crown of Conquest.jpg"
 				}
 			},
 			{
@@ -5195,11 +5237,11 @@
 				"rarity": "mythic",
 				"mana_cost": "{2}{B}{G}",
 				"type": "Sorcery",
-				"collector_number": "226",
+				"collector_number": "240",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/226_MX01 Expel Apathy.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/240_MX01 Expel Apathy.jpg"
 				}
 			},
 			{
@@ -5207,11 +5249,11 @@
 				"rarity": "mythic",
 				"mana_cost": "{2}{B}{G}",
 				"type": "Sorcery",
-				"collector_number": "226",
+				"collector_number": "240",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/226_MX01 Expel Apathy.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/240_MX01 Expel Apathy.jpg"
 				}
 			},
 			{
@@ -5531,11 +5573,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{C}{W}",
 				"type": "",
-				"collector_number": "277",
+				"collector_number": "252",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/277_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/252_UM01.jpg"
 				}
 			},
 			{
@@ -5543,11 +5585,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{C}{W}",
 				"type": "",
-				"collector_number": "277",
+				"collector_number": "252",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/277_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/252_UM01.jpg"
 				}
 			},
 			{
@@ -5555,11 +5597,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{C}{U}",
 				"type": "",
-				"collector_number": "237",
+				"collector_number": "265",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/237_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/265_UM01.jpg"
 				}
 			},
 			{
@@ -5567,35 +5609,35 @@
 				"rarity": "uncommon",
 				"mana_cost": "{C}{U}",
 				"type": "",
-				"collector_number": "237",
+				"collector_number": "265",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/237_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/265_UM01.jpg"
 				}
 			},
 			{
-				"name": "UM01",
+				"name": "UM01 Soul Famine",
 				"rarity": "uncommon",
 				"mana_cost": "{C}{B}",
-				"type": "",
-				"collector_number": "238",
+				"type": "Sorcery",
+				"collector_number": "278",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/238_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/278_UM01 Soul Famine.jpg"
 				}
 			},
 			{
-				"name": "UM01_foil",
+				"name": "UM01 Soul Famine_foil",
 				"rarity": "uncommon",
 				"mana_cost": "{C}{B}",
-				"type": "",
-				"collector_number": "238",
+				"type": "Sorcery",
+				"collector_number": "278",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/238_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/278_UM01 Soul Famine.jpg"
 				}
 			},
 			{
@@ -5603,11 +5645,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{C}{R}",
 				"type": "",
-				"collector_number": "239",
+				"collector_number": "253",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/239_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/253_UM01.jpg"
 				}
 			},
 			{
@@ -5615,11 +5657,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{C}{R}",
 				"type": "",
-				"collector_number": "239",
+				"collector_number": "253",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/239_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/253_UM01.jpg"
 				}
 			},
 			{
@@ -5627,11 +5669,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{1}{W}{U}",
 				"type": "Artifact — Vehicle",
-				"collector_number": "278",
+				"collector_number": "277",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/278_UM01 Roaming War Fortress.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/277_UM01 Roaming War Fortress.jpg"
 				}
 			},
 			{
@@ -5639,11 +5681,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{1}{W}{U}",
 				"type": "Artifact — Vehicle",
-				"collector_number": "278",
+				"collector_number": "277",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/278_UM01 Roaming War Fortress.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/277_UM01 Roaming War Fortress.jpg"
 				}
 			},
 			{
@@ -5651,11 +5693,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{B}{G}",
 				"type": "",
-				"collector_number": "240",
+				"collector_number": "254",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/240_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/254_UM01.jpg"
 				}
 			},
 			{
@@ -5663,11 +5705,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{B}{G}",
 				"type": "",
-				"collector_number": "240",
+				"collector_number": "254",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/240_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/254_UM01.jpg"
 				}
 			},
 			{
@@ -5699,11 +5741,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{G}{U}",
 				"type": "",
-				"collector_number": "241",
+				"collector_number": "255",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/241_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/255_UM01.jpg"
 				}
 			},
 			{
@@ -5711,11 +5753,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{G}{U}",
 				"type": "",
-				"collector_number": "241",
+				"collector_number": "255",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/241_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/255_UM01.jpg"
 				}
 			},
 			{
@@ -5723,11 +5765,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{G}{W}",
 				"type": "",
-				"collector_number": "242",
+				"collector_number": "256",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/242_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/256_UM01.jpg"
 				}
 			},
 			{
@@ -5735,35 +5777,35 @@
 				"rarity": "uncommon",
 				"mana_cost": "{G}{W}",
 				"type": "",
-				"collector_number": "242",
+				"collector_number": "256",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/242_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/256_UM01.jpg"
 				}
 			},
 			{
-				"name": "UM01",
+				"name": "UM01 Ignelscor Fangbearer",
 				"rarity": "uncommon",
-				"mana_cost": "{C}{B}",
-				"type": "",
-				"collector_number": "243",
+				"mana_cost": "{1}{C}{B}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "276",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/243_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/276_UM01 Ignelscor Fangbearer.jpg"
 				}
 			},
 			{
-				"name": "UM01_foil",
+				"name": "UM01 Ignelscor Fangbearer_foil",
 				"rarity": "uncommon",
-				"mana_cost": "{C}{B}",
-				"type": "",
-				"collector_number": "243",
+				"mana_cost": "{1}{C}{B}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "276",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/243_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/276_UM01 Ignelscor Fangbearer.jpg"
 				}
 			},
 			{
@@ -5795,11 +5837,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{C}{R}",
 				"type": "",
-				"collector_number": "244",
+				"collector_number": "257",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/244_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/257_UM01.jpg"
 				}
 			},
 			{
@@ -5807,11 +5849,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{C}{R}",
 				"type": "",
-				"collector_number": "244",
+				"collector_number": "257",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/244_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/257_UM01.jpg"
 				}
 			},
 			{
@@ -5819,11 +5861,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{C}{U}",
 				"type": "",
-				"collector_number": "245",
+				"collector_number": "258",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/245_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/258_UM01.jpg"
 				}
 			},
 			{
@@ -5831,11 +5873,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{C}{U}",
 				"type": "",
-				"collector_number": "245",
+				"collector_number": "258",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/245_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/258_UM01.jpg"
 				}
 			},
 			{
@@ -5843,11 +5885,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{C}{W}",
 				"type": "",
-				"collector_number": "246",
+				"collector_number": "259",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/246_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/259_UM01.jpg"
 				}
 			},
 			{
@@ -5855,11 +5897,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{C}{W}",
 				"type": "",
-				"collector_number": "246",
+				"collector_number": "259",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/246_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/259_UM01.jpg"
 				}
 			},
 			{
@@ -5867,11 +5909,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{R}{G}",
 				"type": "",
-				"collector_number": "247",
+				"collector_number": "260",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/247_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/260_UM01.jpg"
 				}
 			},
 			{
@@ -5879,11 +5921,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{R}{G}",
 				"type": "",
-				"collector_number": "247",
+				"collector_number": "260",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/247_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/260_UM01.jpg"
 				}
 			},
 			{
@@ -5891,11 +5933,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{R}{W}",
 				"type": "",
-				"collector_number": "248",
+				"collector_number": "261",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/248_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/261_UM01.jpg"
 				}
 			},
 			{
@@ -5903,11 +5945,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{R}{W}",
 				"type": "",
-				"collector_number": "248",
+				"collector_number": "261",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/248_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/261_UM01.jpg"
 				}
 			},
 			{
@@ -5915,11 +5957,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{U}{B}",
 				"type": "",
-				"collector_number": "249",
+				"collector_number": "262",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/249_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/262_UM01.jpg"
 				}
 			},
 			{
@@ -5927,11 +5969,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{U}{B}",
 				"type": "",
-				"collector_number": "249",
+				"collector_number": "262",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/249_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/262_UM01.jpg"
 				}
 			},
 			{
@@ -5939,11 +5981,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{U}{R}",
 				"type": "",
-				"collector_number": "250",
+				"collector_number": "263",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/250_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/263_UM01.jpg"
 				}
 			},
 			{
@@ -5951,11 +5993,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{U}{R}",
 				"type": "",
-				"collector_number": "250",
+				"collector_number": "263",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/250_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/263_UM01.jpg"
 				}
 			},
 			{
@@ -5963,11 +6005,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{W}{B}",
 				"type": "",
-				"collector_number": "251",
+				"collector_number": "264",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/251_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/264_UM01.jpg"
 				}
 			},
 			{
@@ -5975,11 +6017,11 @@
 				"rarity": "uncommon",
 				"mana_cost": "{W}{B}",
 				"type": "",
-				"collector_number": "251",
+				"collector_number": "264",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/251_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/264_UM01.jpg"
 				}
 			},
 			{
@@ -6007,363 +6049,363 @@
 				}
 			},
 			{
-				"name": "UM01",
+				"name": "CM01",
 				"rarity": "common",
 				"mana_cost": "{B}{G}",
 				"type": "",
-				"collector_number": "252",
+				"collector_number": "238",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/252_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/238_CM01.jpg"
 				}
 			},
 			{
-				"name": "UM01_foil",
+				"name": "CM01_foil",
 				"rarity": "common",
 				"mana_cost": "{B}{G}",
 				"type": "",
-				"collector_number": "252",
+				"collector_number": "238",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/252_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/238_CM01.jpg"
 				}
 			},
 			{
-				"name": "UM01",
+				"name": "CM01",
 				"rarity": "common",
 				"mana_cost": "{B}{R}",
 				"type": "",
-				"collector_number": "253",
+				"collector_number": "239",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/253_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/239_CM01.jpg"
 				}
 			},
 			{
-				"name": "UM01_foil",
+				"name": "CM01_foil",
 				"rarity": "common",
 				"mana_cost": "{B}{R}",
 				"type": "",
-				"collector_number": "253",
+				"collector_number": "239",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/253_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/239_CM01.jpg"
 				}
 			},
 			{
-				"name": "UM01",
+				"name": "CM01",
 				"rarity": "common",
 				"mana_cost": "{G}{U}",
 				"type": "",
-				"collector_number": "254",
+				"collector_number": "228",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/254_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/228_CM01.jpg"
 				}
 			},
 			{
-				"name": "UM01_foil",
+				"name": "CM01_foil",
 				"rarity": "common",
 				"mana_cost": "{G}{U}",
 				"type": "",
-				"collector_number": "254",
+				"collector_number": "228",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/254_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/228_CM01.jpg"
 				}
 			},
 			{
-				"name": "UM01",
+				"name": "CM01",
 				"rarity": "common",
 				"mana_cost": "{G}{W}",
 				"type": "",
-				"collector_number": "255",
+				"collector_number": "230",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/255_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/230_CM01.jpg"
 				}
 			},
 			{
-				"name": "UM01_foil",
+				"name": "CM01_foil",
 				"rarity": "common",
 				"mana_cost": "{G}{W}",
 				"type": "",
-				"collector_number": "255",
+				"collector_number": "230",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/255_UM01.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/230_CM01.jpg"
 				}
 			},
 			{
-				"name": "UM01",
+				"name": "CM Abhorrent Transformation",
 				"rarity": "common",
 				"mana_cost": "{C}{B}",
-				"type": "",
-				"collector_number": "256",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/256_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01_foil",
-				"rarity": "common",
-				"mana_cost": "{C}{B}",
-				"type": "",
-				"collector_number": "256",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/256_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01",
-				"rarity": "common",
-				"mana_cost": "{C}{G}",
-				"type": "",
-				"collector_number": "257",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/257_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01_foil",
-				"rarity": "common",
-				"mana_cost": "{C}{G}",
-				"type": "",
-				"collector_number": "257",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/257_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01",
-				"rarity": "common",
-				"mana_cost": "{C}{R}",
-				"type": "",
-				"collector_number": "258",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/258_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01_foil",
-				"rarity": "common",
-				"mana_cost": "{C}{R}",
-				"type": "",
-				"collector_number": "258",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/258_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01",
-				"rarity": "common",
-				"mana_cost": "{C}{U}",
-				"type": "",
-				"collector_number": "265",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/265_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01_foil",
-				"rarity": "common",
-				"mana_cost": "{C}{U}",
-				"type": "",
-				"collector_number": "265",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/265_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01",
-				"rarity": "common",
-				"mana_cost": "{C}{W}",
-				"type": "",
-				"collector_number": "259",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/259_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01_foil",
-				"rarity": "common",
-				"mana_cost": "{C}{W}",
-				"type": "",
-				"collector_number": "259",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/259_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01",
-				"rarity": "common",
-				"mana_cost": "{R}{G}",
-				"type": "",
-				"collector_number": "260",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/260_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01_foil",
-				"rarity": "common",
-				"mana_cost": "{R}{G}",
-				"type": "",
-				"collector_number": "260",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/260_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01",
-				"rarity": "common",
-				"mana_cost": "{R}{W}",
-				"type": "",
-				"collector_number": "261",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/261_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01_foil",
-				"rarity": "common",
-				"mana_cost": "{R}{W}",
-				"type": "",
-				"collector_number": "261",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/261_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01",
-				"rarity": "common",
-				"mana_cost": "{U}{B}",
-				"type": "",
-				"collector_number": "262",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/262_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01_foil",
-				"rarity": "common",
-				"mana_cost": "{U}{B}",
-				"type": "",
-				"collector_number": "262",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/262_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01",
-				"rarity": "common",
-				"mana_cost": "{U}{R}",
-				"type": "",
-				"collector_number": "263",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/263_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01_foil",
-				"rarity": "common",
-				"mana_cost": "{U}{R}",
-				"type": "",
-				"collector_number": "263",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/263_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01",
-				"rarity": "common",
-				"mana_cost": "{W}{B}",
-				"type": "",
-				"collector_number": "264",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/264_UM01.jpg"
-				}
-			},
-			{
-				"name": "UM01_foil",
-				"rarity": "common",
-				"mana_cost": "{W}{B}",
-				"type": "",
-				"collector_number": "264",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/264_UM01.jpg"
-				}
-			},
-			{
-				"name": "CM01 Sand's Blessing",
-				"rarity": "common",
-				"mana_cost": "{2}{W}{U}",
 				"type": "Instant",
 				"collector_number": "225",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/225_CM01 Sand's Blessing.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/225_CM Abhorrent Transformation.jpg"
 				}
 			},
 			{
-				"name": "CM01 Sand's Blessing_foil",
+				"name": "CM Abhorrent Transformation_foil",
 				"rarity": "common",
-				"mana_cost": "{2}{W}{U}",
+				"mana_cost": "{C}{B}",
 				"type": "Instant",
 				"collector_number": "225",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/225_CM01 Sand's Blessing.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/225_CM Abhorrent Transformation.jpg"
+				}
+			},
+			{
+				"name": "CM01",
+				"rarity": "common",
+				"mana_cost": "{C}{G}",
+				"type": "",
+				"collector_number": "233",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/233_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01_foil",
+				"rarity": "common",
+				"mana_cost": "{C}{G}",
+				"type": "",
+				"collector_number": "233",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/233_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01",
+				"rarity": "common",
+				"mana_cost": "{C}{R}",
+				"type": "",
+				"collector_number": "229",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/229_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01_foil",
+				"rarity": "common",
+				"mana_cost": "{C}{R}",
+				"type": "",
+				"collector_number": "229",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/229_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01",
+				"rarity": "common",
+				"mana_cost": "{C}{U}",
+				"type": "",
+				"collector_number": "231",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/231_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01_foil",
+				"rarity": "common",
+				"mana_cost": "{C}{U}",
+				"type": "",
+				"collector_number": "231",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/231_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01",
+				"rarity": "common",
+				"mana_cost": "{C}{W}",
+				"type": "",
+				"collector_number": "232",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/232_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01_foil",
+				"rarity": "common",
+				"mana_cost": "{C}{W}",
+				"type": "",
+				"collector_number": "232",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/232_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01",
+				"rarity": "common",
+				"mana_cost": "{R}{G}",
+				"type": "",
+				"collector_number": "227",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/227_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01_foil",
+				"rarity": "common",
+				"mana_cost": "{R}{G}",
+				"type": "",
+				"collector_number": "227",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/227_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01",
+				"rarity": "common",
+				"mana_cost": "{R}{W}",
+				"type": "",
+				"collector_number": "234",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/234_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01_foil",
+				"rarity": "common",
+				"mana_cost": "{R}{W}",
+				"type": "",
+				"collector_number": "234",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/234_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01",
+				"rarity": "common",
+				"mana_cost": "{U}{B}",
+				"type": "",
+				"collector_number": "235",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/235_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01_foil",
+				"rarity": "common",
+				"mana_cost": "{U}{B}",
+				"type": "",
+				"collector_number": "235",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/235_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01",
+				"rarity": "common",
+				"mana_cost": "{U}{R}",
+				"type": "",
+				"collector_number": "236",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/236_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01_foil",
+				"rarity": "common",
+				"mana_cost": "{U}{R}",
+				"type": "",
+				"collector_number": "236",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/236_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01",
+				"rarity": "common",
+				"mana_cost": "{W}{B}",
+				"type": "",
+				"collector_number": "237",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/237_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM01_foil",
+				"rarity": "common",
+				"mana_cost": "{W}{B}",
+				"type": "",
+				"collector_number": "237",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/237_CM01.jpg"
+				}
+			},
+			{
+				"name": "CM Sand's Blessing",
+				"rarity": "common",
+				"mana_cost": "{2}{W}{U}",
+				"type": "Instant",
+				"collector_number": "226",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/226_CM Sand's Blessing.jpg"
+				}
+			},
+			{
+				"name": "CM Sand's Blessing_foil",
+				"rarity": "common",
+				"mana_cost": "{2}{W}{U}",
+				"type": "Instant",
+				"collector_number": "226",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/226_CM Sand's Blessing.jpg"
 				}
 			},
 			{
@@ -7043,11 +7085,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Creature — Pest",
-				"collector_number": "4",
+				"collector_number": "9",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/4t_Pest Token.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/9t_Pest Token.jpg"
 				}
 			},
 			{
@@ -7055,11 +7097,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Creature — Pest",
-				"collector_number": "4",
+				"collector_number": "9",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/4t_Pest Token.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/9t_Pest Token.jpg"
 				}
 			},
 			{
@@ -7067,11 +7109,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Creature — Insect Plant",
-				"collector_number": "2",
+				"collector_number": "7",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2t_Insect Plant.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/7t_Insect Plant.jpg"
 				}
 			},
 			{
@@ -7079,11 +7121,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Creature — Insect Plant",
-				"collector_number": "2",
+				"collector_number": "7",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2t_Insect Plant.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/7t_Insect Plant.jpg"
 				}
 			},
 			{
@@ -7091,11 +7133,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Creature — Merfolk",
-				"collector_number": "3",
+				"collector_number": "8",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/3t_Merfolk.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/8t_Merfolk.jpg"
 				}
 			},
 			{
@@ -7103,11 +7145,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Creature — Merfolk",
-				"collector_number": "3",
+				"collector_number": "8",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/3t_Merfolk.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/8t_Merfolk.jpg"
 				}
 			},
 			{
@@ -7135,99 +7177,99 @@
 				}
 			},
 			{
-				"name": "CB14",
+				"name": "CB Captain's Orders",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "95",
+				"mana_cost": "{1}{B}{B}",
+				"type": "Sorcery",
+				"collector_number": "84",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/95_CB14.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/84_CB Captain's Orders.jpg"
 				}
 			},
 			{
-				"name": "CB14_foil",
+				"name": "CB Captain's Orders_foil",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "95",
+				"mana_cost": "{1}{B}{B}",
+				"type": "Sorcery",
+				"collector_number": "84",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/95_CB14.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/84_CB Captain's Orders.jpg"
 				}
 			},
 			{
-				"name": "CB15",
+				"name": "CB Life-Like Taxidermy",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "96",
+				"mana_cost": "{2}{B}",
+				"type": "Instant",
+				"collector_number": "89",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/96_CB15.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/89_CB Life-Like Taxidermy.jpg"
 				}
 			},
 			{
-				"name": "CB15_foil",
+				"name": "CB Life-Like Taxidermy_foil",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "96",
+				"mana_cost": "{2}{B}",
+				"type": "Instant",
+				"collector_number": "89",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/96_CB15.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/89_CB Life-Like Taxidermy.jpg"
 				}
 			},
 			{
-				"name": "CB16",
+				"name": "CB Gone Fishing",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "97",
+				"mana_cost": "{3}{B}{B}",
+				"type": "Sorcery",
+				"collector_number": "87",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/97_CB16.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/87_CB Gone Fishing.jpg"
 				}
 			},
 			{
-				"name": "CB16_foil",
+				"name": "CB Gone Fishing_foil",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "97",
+				"mana_cost": "{3}{B}{B}",
+				"type": "Sorcery",
+				"collector_number": "87",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/97_CB16.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/87_CB Gone Fishing.jpg"
 				}
 			},
 			{
-				"name": "CB17",
+				"name": "CB Phishing Breach",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "98",
+				"mana_cost": "{6}{B}{B}",
+				"type": "Sorcery",
+				"collector_number": "91",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/98_CB17.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/91_CB Phishing Breach.jpg"
 				}
 			},
 			{
-				"name": "CB17_foil",
+				"name": "CB Phishing Breach_foil",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "98",
+				"mana_cost": "{6}{B}{B}",
+				"type": "Sorcery",
+				"collector_number": "91",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/98_CB17.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/91_CB Phishing Breach.jpg"
 				}
 			},
 			{
@@ -7235,11 +7277,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "168",
+				"collector_number": "169",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/168_CG14.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/169_CG14.jpg"
 				}
 			},
 			{
@@ -7247,11 +7289,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "168",
+				"collector_number": "169",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/168_CG14.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/169_CG14.jpg"
 				}
 			},
 			{
@@ -7259,11 +7301,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "169",
+				"collector_number": "170",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/169_CG15.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/170_CG15.jpg"
 				}
 			},
 			{
@@ -7271,11 +7313,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "169",
+				"collector_number": "170",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/169_CG15.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/170_CG15.jpg"
 				}
 			},
 			{
@@ -7283,11 +7325,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "170",
+				"collector_number": "171",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/170_CG16.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/171_CG16.jpg"
 				}
 			},
 			{
@@ -7295,131 +7337,131 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "170",
-				"foil": true,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/170_CG16.jpg"
-				}
-			},
-			{
-				"name": "CG17",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "171",
-				"foil": false,
-
-				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/171_CG17.jpg"
-				}
-			},
-			{
-				"name": "CG17_foil",
-				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
 				"collector_number": "171",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/171_CG17.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/171_CG16.jpg"
 				}
 			},
 			{
-				"name": "CI14 Daring Duo",
+				"name": "CG Predation Breach",
+				"rarity": "common",
+				"mana_cost": "{6}{G}{G}",
+				"type": "Sorcery",
+				"collector_number": "156",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/156_CG Predation Breach.jpg"
+				}
+			},
+			{
+				"name": "CG Predation Breach_foil",
+				"rarity": "common",
+				"mana_cost": "{6}{G}{G}",
+				"type": "Sorcery",
+				"collector_number": "156",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/156_CG Predation Breach.jpg"
+				}
+			},
+			{
+				"name": "CI Docile Duo",
 				"rarity": "common",
 				"mana_cost": "{1}{C}",
 				"type": "Creature — Human Scout",
-				"collector_number": "204",
+				"collector_number": "194",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/204_CI14 Daring Duo.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/194_CI Docile Duo.jpg"
 				}
 			},
 			{
-				"name": "CI14 Daring Duo_foil",
+				"name": "CI Docile Duo_foil",
 				"rarity": "common",
 				"mana_cost": "{1}{C}",
 				"type": "Creature — Human Scout",
-				"collector_number": "204",
+				"collector_number": "194",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/204_CI14 Daring Duo.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/194_CI Docile Duo.jpg"
 				}
 			},
 			{
-				"name": "CI15",
+				"name": "CI Outerbelt Acolyte",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "205",
+				"mana_cost": "{3}{C}",
+				"type": "Creature — Human Cleric",
+				"collector_number": "201",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/205_CI15.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/201_CI Outerbelt Acolyte.jpg"
 				}
 			},
 			{
-				"name": "CI15_foil",
+				"name": "CI Outerbelt Acolyte_foil",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "205",
+				"mana_cost": "{3}{C}",
+				"type": "Creature — Human Cleric",
+				"collector_number": "201",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/205_CI15.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/201_CI Outerbelt Acolyte.jpg"
 				}
 			},
 			{
-				"name": "CI16",
+				"name": "CI Aurelia-7",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "206",
+				"mana_cost": "{4}{C}",
+				"type": "Artifact — Spacecraft",
+				"collector_number": "191",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/206_CI16.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/191_CI Aurelia-7.jpg"
 				}
 			},
 			{
-				"name": "CI16_foil",
+				"name": "CI Aurelia-7_foil",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "206",
+				"mana_cost": "{4}{C}",
+				"type": "Artifact — Spacecraft",
+				"collector_number": "191",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/206_CI16.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/191_CI Aurelia-7.jpg"
 				}
 			},
 			{
-				"name": "CI17 Pathogenic Breach",
+				"name": "CI Pathogenic Breach",
 				"rarity": "common",
 				"mana_cost": "{6}{C}{C}",
 				"type": "Sorcery",
-				"collector_number": "207",
+				"collector_number": "202",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/207_CI17 Pathogenic Breach.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/202_CI Pathogenic Breach.jpg"
 				}
 			},
 			{
-				"name": "CI17 Pathogenic Breach_foil",
+				"name": "CI Pathogenic Breach_foil",
 				"rarity": "common",
 				"mana_cost": "{6}{C}{C}",
 				"type": "Sorcery",
-				"collector_number": "207",
+				"collector_number": "202",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/207_CI17 Pathogenic Breach.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/202_CI Pathogenic Breach.jpg"
 				}
 			},
 			{
@@ -7427,11 +7469,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "131",
+				"collector_number": "132",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/131_CR14.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/132_CR14.jpg"
 				}
 			},
 			{
@@ -7439,11 +7481,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "131",
+				"collector_number": "132",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/131_CR14.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/132_CR14.jpg"
 				}
 			},
 			{
@@ -7451,11 +7493,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "132",
+				"collector_number": "133",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/132_CR15.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/133_CR15.jpg"
 				}
 			},
 			{
@@ -7463,11 +7505,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "132",
+				"collector_number": "133",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/132_CR15.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/133_CR15.jpg"
 				}
 			},
 			{
@@ -7475,11 +7517,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "133",
+				"collector_number": "134",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/133_CR16.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/134_CR16.jpg"
 				}
 			},
 			{
@@ -7487,35 +7529,35 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "133",
+				"collector_number": "134",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/133_CR16.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/134_CR16.jpg"
 				}
 			},
 			{
-				"name": "CR17",
-				"rarity": "common",
+				"name": "MR02",
+				"rarity": "mythic",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "134",
+				"collector_number": "136",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/134_CR17.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/136_MR02.jpg"
 				}
 			},
 			{
-				"name": "CR17_foil",
-				"rarity": "common",
+				"name": "MR02_foil",
+				"rarity": "mythic",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "134",
+				"collector_number": "136",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/134_CR17.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/136_MR02.jpg"
 				}
 			},
 			{
@@ -7523,11 +7565,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "59",
+				"collector_number": "60",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/59_CU14.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/60_CU14.jpg"
 				}
 			},
 			{
@@ -7535,11 +7577,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "59",
+				"collector_number": "60",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/59_CU14.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/60_CU14.jpg"
 				}
 			},
 			{
@@ -7547,11 +7589,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "60",
+				"collector_number": "61",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/60_CU15.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/61_CU15.jpg"
 				}
 			},
 			{
@@ -7559,11 +7601,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "60",
+				"collector_number": "61",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/60_CU15.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/61_CU15.jpg"
 				}
 			},
 			{
@@ -7571,11 +7613,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "61",
+				"collector_number": "62",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/61_CU16.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/62_CU16.jpg"
 				}
 			},
 			{
@@ -7583,35 +7625,35 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "61",
+				"collector_number": "62",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/61_CU16.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/62_CU16.jpg"
 				}
 			},
 			{
-				"name": "CU17",
+				"name": "CU Data Breach",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "62",
+				"mana_cost": "{6}{U}{U}",
+				"type": "Sorcery",
+				"collector_number": "47",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/62_CU17.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/47_CU Data Breach.jpg"
 				}
 			},
 			{
-				"name": "CU17_foil",
+				"name": "CU Data Breach_foil",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "62",
+				"mana_cost": "{6}{U}{U}",
+				"type": "Sorcery",
+				"collector_number": "47",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/62_CU17.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/47_CU Data Breach.jpg"
 				}
 			},
 			{
@@ -7619,11 +7661,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "23",
+				"collector_number": "24",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/23_CW14.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/24_CW14.jpg"
 				}
 			},
 			{
@@ -7631,11 +7673,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "23",
+				"collector_number": "24",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/23_CW14.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/24_CW14.jpg"
 				}
 			},
 			{
@@ -7643,11 +7685,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "24",
+				"collector_number": "25",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/24_CW15.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/25_CW15.jpg"
 				}
 			},
 			{
@@ -7655,11 +7697,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "24",
+				"collector_number": "25",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/24_CW15.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/25_CW15.jpg"
 				}
 			},
 			{
@@ -7667,11 +7709,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "25",
+				"collector_number": "26",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/25_CW16.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/26_CW16.jpg"
 				}
 			},
 			{
@@ -7679,35 +7721,35 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "",
-				"collector_number": "25",
+				"collector_number": "26",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/25_CW16.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/26_CW16.jpg"
 				}
 			},
 			{
-				"name": "CW17",
+				"name": "CW Breaching Justice",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "26",
+				"mana_cost": "{6}{W}{W}",
+				"type": "Sorcery",
+				"collector_number": "10",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/26_CW17.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/10_CW Breaching Justice.jpg"
 				}
 			},
 			{
-				"name": "CW17_foil",
+				"name": "CW Breaching Justice_foil",
 				"rarity": "common",
-				"mana_cost": "",
-				"type": "",
-				"collector_number": "26",
+				"mana_cost": "{6}{W}{W}",
+				"type": "Sorcery",
+				"collector_number": "10",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/26_CW17.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/10_CW Breaching Justice.jpg"
 				}
 			},
 			{
@@ -7715,11 +7757,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Creature — Fractal",
-				"collector_number": "1",
+				"collector_number": "4",
 				"foil": false,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/1t_Fractal.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/4t_Fractal.jpg"
 				}
 			},
 			{
@@ -7727,11 +7769,11 @@
 				"rarity": "common",
 				"mana_cost": "",
 				"type": "Token Creature — Fractal",
-				"collector_number": "1",
+				"collector_number": "4",
 				"foil": true,
 
 				"image_uris": {
-					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/1t_Fractal.jpg"
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/4t_Fractal.jpg"
 				}
 			},
 			{
@@ -7756,6 +7798,126 @@
 
 				"image_uris": {
 					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/1_Approach.jpg"
+				}
+			},
+			{
+				"name": "Fractal",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Fractal",
+				"collector_number": "6",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/6t_Fractal.jpg"
+				}
+			},
+			{
+				"name": "Fractal_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Fractal",
+				"collector_number": "6",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/6t_Fractal.jpg"
+				}
+			},
+			{
+				"name": "Plant",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Plant",
+				"collector_number": "3",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/3t_Plant.jpg"
+				}
+			},
+			{
+				"name": "Plant_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Plant",
+				"collector_number": "3",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/3t_Plant.jpg"
+				}
+			},
+			{
+				"name": "Eye",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Eye",
+				"collector_number": "2",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2t_Eye.jpg"
+				}
+			},
+			{
+				"name": "Eye_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Eye",
+				"collector_number": "2",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/2t_Eye.jpg"
+				}
+			},
+			{
+				"name": "Angel",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Angel",
+				"collector_number": "1",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/1t_Angel.jpg"
+				}
+			},
+			{
+				"name": "Angel_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Angel",
+				"collector_number": "1",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/1t_Angel.jpg"
+				}
+			},
+			{
+				"name": "Fish",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Fish",
+				"collector_number": "5",
+				"foil": false,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/5t_Fish.jpg"
+				}
+			},
+			{
+				"name": "Fish_foil",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Fish",
+				"collector_number": "5",
+				"foil": true,
+
+				"image_uris": {
+					"en": "https://Tvpattack.github.io/sets/TVPC-files/img/5t_Fish.jpg"
 				}
 			}
 		]
@@ -7803,7 +7965,6 @@
 	1 MB01
 	1 MB02
 	1 MR01
-	1 MR02
 	1 MG01
 	1 MG02
 	2 RM01
@@ -7835,6 +7996,7 @@
 	2 RI06
 	2 RG07
 	2 RX05 Heretical Failure
+	1 MR02
 [uncommon(3)]
 	4 UW01
 	4 UW02
@@ -7883,7 +8045,7 @@
 	4 UW06
 	4 UM01
 	4 UM01
-	4 UM01
+	4 UM Marker of Aberration
 	4 UM01
 	4 UM01
 	4 UM01
@@ -7913,14 +8075,14 @@
 	4 UI02
 	4 UM01
 	4 UM01
-	4 UM01
+	4 UM01 Soul Famine
 	4 UM01
 	4 UM01 Roaming War Fortress
 	4 UM01
 	4 UM01 Treedropper Attack
 	4 UM01
 	4 UM01
-	4 UM01
+	4 UM01 Ignelscor Fangbearer
 	4 UM01
 	4 UM01
 	4 UM01
@@ -7944,20 +8106,20 @@
 	4 U01 Lifeblood Factory
 	4 Scourge of Tradition
 [common(6)]
-	8 CW01
-	8 CW02
-	8 CW03
-	8 CW04
-	8 CW05
-	8 CW06
-	8 CW07
+	8 CW Territorial Lirrac
+	8 CW Twilight Feline
+	8 CW Meirel Sweeper
+	8 CW Combat Trauler
+	8 CW Community Forager
+	8 CW Inspiring Pegasus
+	8 CW07 Somni Strider
 	8 CW08
 	8 CW09
 	8 CW10
-	8 CW11 Diffusive Justice
+	8 CW Diffusive Justice
 	8 CW12
 	8 CW13
-	8 CU01
+	8 CU Beachcombing Avakin
 	8 CU02
 	8 CU03
 	8 CU04
@@ -7967,27 +8129,27 @@
 	8 CU08
 	8 CU09
 	8 CU10
-	8 CU11 Seawing Skimmer
+	8 CU Seawing Skimmer
 	8 CU12
-	8 CU13 Endless Comfort
-	8 CI13 Isolate Perfection
-	8 CB01 Weight of Betrayal
-	8 CB02 Missed Timing
-	8 CB03 Pulp the Flesh
-	8 CB04 Arboreal Aberration
-	8 CB05 Ravenous Myconid
-	8 CB06 Groundskeepers
-	8 CB07 Silver Moth
-	8 CB08 Secret Extractor
-	8 CB09 Treeline Scythes
-	8 CB10 Gnubok
-	8 CB11 Geometrauma
-	8 CB12
-	8 CB13
-	8 CI01 Information Recovery Crew
-	8 CI03 Whisper Squad
-	8 CI04 Striking Reflection
-	8 CI02 Exuberant Archaeologist
+	8 CU Endless Comfort
+	8 CI Isolate Perfection
+	8 CB Weight of Betrayal
+	8 CB Missed Timing
+	8 CB Pulp the Flesh
+	8 CB Arboreal Aberration
+	8 CB Ravenous Myconid
+	8 CB Groundskeepers
+	8 CB Silver Moth
+	8 CB Secret Extractor
+	8 CB Treeline Scythes
+	8 CB Gnubok
+	8 CB Geometrauma
+	8 CB Soul Drain
+	8 CB Bound to the Grid
+	8 CI Information Recovery Crew
+	8 CI Whisper Squad
+	8 CI Striking Reflection
+	8 CI Exuberant Archaeologist
 	8 CR01
 	8 CR02
 	8 CR03
@@ -7996,15 +8158,15 @@
 	8 CR06
 	8 CR07
 	8 CR08
-	8 CR09 Crasher Mech
+	8 CR Crasher Mech
 	8 CR10
-	8 CR11 Carapace Cracker
+	8 CR Carapace Cracker
 	8 CR12
 	8 CR13
-	8 CI09 Back to Market
-	8 CI10 Center Mass
-	8 CI11 Murky Politics
-	8 CI12 Idolization
+	8 CI Back to Market
+	8 CI Center Mass
+	8 CI Murky Politics
+	8 CI Idolization
 	8 CG01
 	8 CG02
 	8 CG03
@@ -8015,74 +8177,74 @@
 	8 CG08
 	8 CG09
 	8 CG10
-	8 CG11 Parastrider
+	8 CG Parastrider
 	8 CG12
 	8 CG13
-	8 CI05 Insect Rider
-	8 CI06 Unbothered Alchemist
-	8 CI07 Sensation Robbery
-	8 CI08 Scouting Party
-	8 C06 Ursine Temple
-	8 C04 Citysprout Bonsai
-	8 C02 Far Off Horizon
-	8 C05 Digital Song
-	8 C03 Gilded Tea Room
-	8 C01 Search Grid
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 CM01 Sand's Blessing
-	8 CB14
-	8 CB15
-	8 CB16
-	8 CB17
+	8 CI Insect Rider
+	8 CI Unbothered Alchemist
+	8 CI Sensation Robbery
+	8 CI Scouting Party
+	8 CR Firewall Breach
+	8 C Ursine Temple
+	8 C Citysprout Bonsai
+	8 C Far Off Horizon
+	8 C Digital Song
+	8 C Gilded Tea Room
+	8 C Search Grid
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM Abhorrent Transformation
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM Sand's Blessing
+	8 CB Captain's Orders
+	8 CB Life-Like Taxidermy
+	8 CB Gone Fishing
+	8 CB Phishing Breach
 	8 CG14
 	8 CG15
 	8 CG16
-	8 CG17
-	8 CI14 Daring Duo
-	8 CI15
-	8 CI16
-	8 CI17 Pathogenic Breach
+	8 CG Predation Breach
+	8 CI Docile Duo
+	8 CI Outerbelt Acolyte
+	8 CI Aurelia-7
+	8 CI Pathogenic Breach
 	8 CR14
 	8 CR15
 	8 CR16
-	8 CR17
 	8 CU14
 	8 CU15
 	8 CU16
-	8 CU17
+	8 CU Data Breach
 	8 CW14
 	8 CW15
 	8 CW16
-	8 CW17
+	8 CW Breaching Justice
 	8 Approach
 [common | masterpiece(1)]
-	8 CW01
-	8 CW02
-	8 CW03
-	8 CW04
-	8 CW05
-	8 CW06
-	8 CW07
+	8 CW Territorial Lirrac
+	8 CW Twilight Feline
+	8 CW Meirel Sweeper
+	8 CW Combat Trauler
+	8 CW Community Forager
+	8 CW Inspiring Pegasus
+	8 CW07 Somni Strider
 	8 CW08
 	8 CW09
 	8 CW10
-	8 CW11 Diffusive Justice
+	8 CW Diffusive Justice
 	8 CW12
 	8 CW13
-	8 CU01
+	8 CU Beachcombing Avakin
 	8 CU02
 	8 CU03
 	8 CU04
@@ -8092,27 +8254,27 @@
 	8 CU08
 	8 CU09
 	8 CU10
-	8 CU11 Seawing Skimmer
+	8 CU Seawing Skimmer
 	8 CU12
-	8 CU13 Endless Comfort
-	8 CI13 Isolate Perfection
-	8 CB01 Weight of Betrayal
-	8 CB02 Missed Timing
-	8 CB03 Pulp the Flesh
-	8 CB04 Arboreal Aberration
-	8 CB05 Ravenous Myconid
-	8 CB06 Groundskeepers
-	8 CB07 Silver Moth
-	8 CB08 Secret Extractor
-	8 CB09 Treeline Scythes
-	8 CB10 Gnubok
-	8 CB11 Geometrauma
-	8 CB12
-	8 CB13
-	8 CI01 Information Recovery Crew
-	8 CI03 Whisper Squad
-	8 CI04 Striking Reflection
-	8 CI02 Exuberant Archaeologist
+	8 CU Endless Comfort
+	8 CI Isolate Perfection
+	8 CB Weight of Betrayal
+	8 CB Missed Timing
+	8 CB Pulp the Flesh
+	8 CB Arboreal Aberration
+	8 CB Ravenous Myconid
+	8 CB Groundskeepers
+	8 CB Silver Moth
+	8 CB Secret Extractor
+	8 CB Treeline Scythes
+	8 CB Gnubok
+	8 CB Geometrauma
+	8 CB Soul Drain
+	8 CB Bound to the Grid
+	8 CI Information Recovery Crew
+	8 CI Whisper Squad
+	8 CI Striking Reflection
+	8 CI Exuberant Archaeologist
 	8 CR01
 	8 CR02
 	8 CR03
@@ -8121,15 +8283,15 @@
 	8 CR06
 	8 CR07
 	8 CR08
-	8 CR09 Crasher Mech
+	8 CR Crasher Mech
 	8 CR10
-	8 CR11 Carapace Cracker
+	8 CR Carapace Cracker
 	8 CR12
 	8 CR13
-	8 CI09 Back to Market
-	8 CI10 Center Mass
-	8 CI11 Murky Politics
-	8 CI12 Idolization
+	8 CI Back to Market
+	8 CI Center Mass
+	8 CI Murky Politics
+	8 CI Idolization
 	8 CG01
 	8 CG02
 	8 CG03
@@ -8140,74 +8302,74 @@
 	8 CG08
 	8 CG09
 	8 CG10
-	8 CG11 Parastrider
+	8 CG Parastrider
 	8 CG12
 	8 CG13
-	8 CI05 Insect Rider
-	8 CI06 Unbothered Alchemist
-	8 CI07 Sensation Robbery
-	8 CI08 Scouting Party
-	8 C06 Ursine Temple
-	8 C04 Citysprout Bonsai
-	8 C02 Far Off Horizon
-	8 C05 Digital Song
-	8 C03 Gilded Tea Room
-	8 C01 Search Grid
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 UM01
-	8 CM01 Sand's Blessing
-	8 CB14
-	8 CB15
-	8 CB16
-	8 CB17
+	8 CI Insect Rider
+	8 CI Unbothered Alchemist
+	8 CI Sensation Robbery
+	8 CI Scouting Party
+	8 CR Firewall Breach
+	8 C Ursine Temple
+	8 C Citysprout Bonsai
+	8 C Far Off Horizon
+	8 C Digital Song
+	8 C Gilded Tea Room
+	8 C Search Grid
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM Abhorrent Transformation
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM01
+	8 CM Sand's Blessing
+	8 CB Captain's Orders
+	8 CB Life-Like Taxidermy
+	8 CB Gone Fishing
+	8 CB Phishing Breach
 	8 CG14
 	8 CG15
 	8 CG16
-	8 CG17
-	8 CI14 Daring Duo
-	8 CI15
-	8 CI16
-	8 CI17 Pathogenic Breach
+	8 CG Predation Breach
+	8 CI Docile Duo
+	8 CI Outerbelt Acolyte
+	8 CI Aurelia-7
+	8 CI Pathogenic Breach
 	8 CR14
 	8 CR15
 	8 CR16
-	8 CR17
 	8 CU14
 	8 CU15
 	8 CU16
-	8 CU17
+	8 CU Data Breach
 	8 CW14
 	8 CW15
 	8 CW16
-	8 CW17
+	8 CW Breaching Justice
 	8 Approach
 [foil(1)]
-	12 CW01_foil
-	12 CW02_foil
-	12 CW03_foil
-	12 CW04_foil
-	12 CW05_foil
-	12 CW06_foil
-	12 CW07_foil
+	12 CW Territorial Lirrac_foil
+	12 CW Twilight Feline_foil
+	12 CW Meirel Sweeper_foil
+	12 CW Combat Trauler_foil
+	12 CW Community Forager_foil
+	12 CW Inspiring Pegasus_foil
+	12 CW07 Somni Strider_foil
 	12 CW08_foil
 	12 CW09_foil
 	12 CW10_foil
-	12 CW11 Diffusive Justice_foil
+	12 CW Diffusive Justice_foil
 	12 CW12_foil
 	12 CW13_foil
-	12 CU01_foil
+	12 CU Beachcombing Avakin_foil
 	12 CU02_foil
 	12 CU03_foil
 	12 CU04_foil
@@ -8217,27 +8379,27 @@
 	12 CU08_foil
 	12 CU09_foil
 	12 CU10_foil
-	12 CU11 Seawing Skimmer_foil
+	12 CU Seawing Skimmer_foil
 	12 CU12_foil
-	12 CU13 Endless Comfort_foil
-	12 CI13 Isolate Perfection_foil
-	12 CB01 Weight of Betrayal_foil
-	12 CB02 Missed Timing_foil
-	12 CB03 Pulp the Flesh_foil
-	12 CB04 Arboreal Aberration_foil
-	12 CB05 Ravenous Myconid_foil
-	12 CB06 Groundskeepers_foil
-	12 CB07 Silver Moth_foil
-	12 CB08 Secret Extractor_foil
-	12 CB09 Treeline Scythes_foil
-	12 CB10 Gnubok_foil
-	12 CB11 Geometrauma_foil
-	12 CB12_foil
-	12 CB13_foil
-	12 CI01 Information Recovery Crew_foil
-	12 CI03 Whisper Squad_foil
-	12 CI04 Striking Reflection_foil
-	12 CI02 Exuberant Archaeologist_foil
+	12 CU Endless Comfort_foil
+	12 CI Isolate Perfection_foil
+	12 CB Weight of Betrayal_foil
+	12 CB Missed Timing_foil
+	12 CB Pulp the Flesh_foil
+	12 CB Arboreal Aberration_foil
+	12 CB Ravenous Myconid_foil
+	12 CB Groundskeepers_foil
+	12 CB Silver Moth_foil
+	12 CB Secret Extractor_foil
+	12 CB Treeline Scythes_foil
+	12 CB Gnubok_foil
+	12 CB Geometrauma_foil
+	12 CB Soul Drain_foil
+	12 CB Bound to the Grid_foil
+	12 CI Information Recovery Crew_foil
+	12 CI Whisper Squad_foil
+	12 CI Striking Reflection_foil
+	12 CI Exuberant Archaeologist_foil
 	12 CR01_foil
 	12 CR02_foil
 	12 CR03_foil
@@ -8246,15 +8408,15 @@
 	12 CR06_foil
 	12 CR07_foil
 	12 CR08_foil
-	12 CR09 Crasher Mech_foil
+	12 CR Crasher Mech_foil
 	12 CR10_foil
-	12 CR11 Carapace Cracker_foil
+	12 CR Carapace Cracker_foil
 	12 CR12_foil
 	12 CR13_foil
-	12 CI09 Back to Market_foil
-	12 CI10 Center Mass_foil
-	12 CI11 Murky Politics_foil
-	12 CI12 Idolization_foil
+	12 CI Back to Market_foil
+	12 CI Center Mass_foil
+	12 CI Murky Politics_foil
+	12 CI Idolization_foil
 	12 CG01_foil
 	12 CG02_foil
 	12 CG03_foil
@@ -8265,13 +8427,13 @@
 	12 CG08_foil
 	12 CG09_foil
 	12 CG10_foil
-	12 CG11 Parastrider_foil
+	12 CG Parastrider_foil
 	12 CG12_foil
 	12 CG13_foil
-	12 CI05 Insect Rider_foil
-	12 CI06 Unbothered Alchemist_foil
-	12 CI07 Sensation Robbery_foil
-	12 CI08 Scouting Party_foil
+	12 CI Insect Rider_foil
+	12 CI Unbothered Alchemist_foil
+	12 CI Sensation Robbery_foil
+	12 CI Scouting Party_foil
 	6 UW01_foil
 	6 UW02_foil
 	6 UW03_foil
@@ -8359,11 +8521,12 @@
 	1 MB01_foil
 	1 MB02_foil
 	1 MR01_foil
-	1 MR02_foil
+	12 CR Firewall Breach_foil
 	1 MG01_foil
 	1 MG02_foil
 	6 UM01_foil
 	6 UM01_foil
+	6 UM Marker of Aberration_foil
 	6 UM01_foil
 	6 UM01_foil
 	6 UM01_foil
@@ -8371,7 +8534,6 @@
 	6 UM01_foil
 	6 UM01_foil
 	6 UM01_foil
-	6 UM01_foil
 	2 RM01_foil
 	2 RM01_foil
 	2 RM01_foil
@@ -8381,17 +8543,17 @@
 	2 RM01_foil
 	2 RM01_foil
 	2 RM01_foil
-	12 C06 Ursine Temple_foil
-	12 C04 Citysprout Bonsai_foil
-	12 C02 Far Off Horizon_foil
-	12 C05 Digital Song_foil
-	12 C03 Gilded Tea Room_foil
+	12 C Ursine Temple_foil
+	12 C Citysprout Bonsai_foil
+	12 C Far Off Horizon_foil
+	12 C Digital Song_foil
+	12 C Gilded Tea Room_foil
 	6 UC01 Crystallizing Aether_foil
 	6 U02 Surveyor001_foil
 	6 U04 Gilded Viewing Room_foil
 	6 UW10 Scourge of Defiance_foil
 	6 U05_foil
-	12 C01 Search Grid_foil
+	12 C Search Grid_foil
 	6 UI10 Scourge of Monotony_foil
 	6 U03 Cloudslicer Fleet_foil
 	6 UU10 Scourge of Ignorance_foil
@@ -8421,14 +8583,14 @@
 	6 UI02_foil
 	6 UM01_foil
 	6 UM01_foil
-	6 UM01_foil
+	6 UM01 Soul Famine_foil
 	6 UM01_foil
 	6 UM01 Roaming War Fortress_foil
 	6 UM01_foil
 	6 UM01 Treedropper Attack_foil
 	6 UM01_foil
 	6 UM01_foil
-	6 UM01_foil
+	6 UM01 Ignelscor Fangbearer_foil
 	6 UM01_foil
 	6 UM01_foil
 	6 UM01_foil
@@ -8439,21 +8601,21 @@
 	6 UM01_foil
 	6 UM01_foil
 	6 UM01 Waterway Liaison_foil
-	12 UM01_foil
-	12 UM01_foil
-	12 UM01_foil
-	12 UM01_foil
-	12 UM01_foil
-	12 UM01_foil
-	12 UM01_foil
-	12 UM01_foil
-	12 UM01_foil
-	12 UM01_foil
-	12 UM01_foil
-	12 UM01_foil
-	12 UM01_foil
-	12 UM01_foil
-	12 CM01 Sand's Blessing_foil
+	12 CM01_foil
+	12 CM01_foil
+	12 CM01_foil
+	12 CM01_foil
+	12 CM Abhorrent Transformation_foil
+	12 CM01_foil
+	12 CM01_foil
+	12 CM01_foil
+	12 CM01_foil
+	12 CM01_foil
+	12 CM01_foil
+	12 CM01_foil
+	12 CM01_foil
+	12 CM01_foil
+	12 CM Sand's Blessing_foil
 	2 RI01 Memory Restored_foil
 	2 RG02 Ancient Warfare_foil
 	2 RI03_foil
@@ -8474,46 +8636,46 @@
 	2 RX05 Heretical Failure_foil
 	6 U01 Lifeblood Factory_foil
 	6 Scourge of Tradition_foil
-	12 CB14_foil
-	12 CB15_foil
-	12 CB16_foil
-	12 CB17_foil
+	12 CB Captain's Orders_foil
+	12 CB Life-Like Taxidermy_foil
+	12 CB Gone Fishing_foil
+	12 CB Phishing Breach_foil
 	12 CG14_foil
 	12 CG15_foil
 	12 CG16_foil
-	12 CG17_foil
-	12 CI14 Daring Duo_foil
-	12 CI15_foil
-	12 CI16_foil
-	12 CI17 Pathogenic Breach_foil
+	12 CG Predation Breach_foil
+	12 CI Docile Duo_foil
+	12 CI Outerbelt Acolyte_foil
+	12 CI Aurelia-7_foil
+	12 CI Pathogenic Breach_foil
 	12 CR14_foil
 	12 CR15_foil
 	12 CR16_foil
-	12 CR17_foil
+	1 MR02_foil
 	12 CU14_foil
 	12 CU15_foil
 	12 CU16_foil
-	12 CU17_foil
+	12 CU Data Breach_foil
 	12 CW14_foil
 	12 CW15_foil
 	12 CW16_foil
-	12 CW17_foil
+	12 CW Breaching Justice_foil
 	12 Approach_foil
 [wildcard(1)]
-	6 CW01
-	6 CW02
-	6 CW03
-	6 CW04
-	6 CW05
-	6 CW06
-	6 CW07
+	6 CW Territorial Lirrac
+	6 CW Twilight Feline
+	6 CW Meirel Sweeper
+	6 CW Combat Trauler
+	6 CW Community Forager
+	6 CW Inspiring Pegasus
+	6 CW07 Somni Strider
 	6 CW08
 	6 CW09
 	6 CW10
-	6 CW11 Diffusive Justice
+	6 CW Diffusive Justice
 	6 CW12
 	6 CW13
-	6 CU01
+	6 CU Beachcombing Avakin
 	6 CU02
 	6 CU03
 	6 CU04
@@ -8523,27 +8685,27 @@
 	6 CU08
 	6 CU09
 	6 CU10
-	6 CU11 Seawing Skimmer
+	6 CU Seawing Skimmer
 	6 CU12
-	6 CU13 Endless Comfort
-	6 CI13 Isolate Perfection
-	6 CB01 Weight of Betrayal
-	6 CB02 Missed Timing
-	6 CB03 Pulp the Flesh
-	6 CB04 Arboreal Aberration
-	6 CB05 Ravenous Myconid
-	6 CB06 Groundskeepers
-	6 CB07 Silver Moth
-	6 CB08 Secret Extractor
-	6 CB09 Treeline Scythes
-	6 CB10 Gnubok
-	6 CB11 Geometrauma
-	6 CB12
-	6 CB13
-	6 CI01 Information Recovery Crew
-	6 CI03 Whisper Squad
-	6 CI04 Striking Reflection
-	6 CI02 Exuberant Archaeologist
+	6 CU Endless Comfort
+	6 CI Isolate Perfection
+	6 CB Weight of Betrayal
+	6 CB Missed Timing
+	6 CB Pulp the Flesh
+	6 CB Arboreal Aberration
+	6 CB Ravenous Myconid
+	6 CB Groundskeepers
+	6 CB Silver Moth
+	6 CB Secret Extractor
+	6 CB Treeline Scythes
+	6 CB Gnubok
+	6 CB Geometrauma
+	6 CB Soul Drain
+	6 CB Bound to the Grid
+	6 CI Information Recovery Crew
+	6 CI Whisper Squad
+	6 CI Striking Reflection
+	6 CI Exuberant Archaeologist
 	6 CR01
 	6 CR02
 	6 CR03
@@ -8552,15 +8714,15 @@
 	6 CR06
 	6 CR07
 	6 CR08
-	6 CR09 Crasher Mech
+	6 CR Crasher Mech
 	6 CR10
-	6 CR11 Carapace Cracker
+	6 CR Carapace Cracker
 	6 CR12
 	6 CR13
-	6 CI09 Back to Market
-	6 CI10 Center Mass
-	6 CI11 Murky Politics
-	6 CI12 Idolization
+	6 CI Back to Market
+	6 CI Center Mass
+	6 CI Murky Politics
+	6 CI Idolization
 	6 CG01
 	6 CG02
 	6 CG03
@@ -8571,13 +8733,13 @@
 	6 CG08
 	6 CG09
 	6 CG10
-	6 CG11 Parastrider
+	6 CG Parastrider
 	6 CG12
 	6 CG13
-	6 CI05 Insect Rider
-	6 CI06 Unbothered Alchemist
-	6 CI07 Sensation Robbery
-	6 CI08 Scouting Party
+	6 CI Insect Rider
+	6 CI Unbothered Alchemist
+	6 CI Sensation Robbery
+	6 CI Scouting Party
 	15 UW01
 	15 UW02
 	15 UW03
@@ -8665,11 +8827,12 @@
 	4 MB01
 	4 MB02
 	4 MR01
-	4 MR02
+	6 CR Firewall Breach
 	4 MG01
 	4 MG02
 	15 UM01
 	15 UM01
+	15 UM Marker of Aberration
 	15 UM01
 	15 UM01
 	15 UM01
@@ -8677,7 +8840,6 @@
 	15 UM01
 	15 UM01
 	15 UM01
-	15 UM01
 	7 RM01
 	7 RM01
 	7 RM01
@@ -8687,17 +8849,17 @@
 	7 RM01
 	7 RM01
 	7 RM01
-	6 C06 Ursine Temple
-	6 C04 Citysprout Bonsai
-	6 C02 Far Off Horizon
-	6 C05 Digital Song
-	6 C03 Gilded Tea Room
+	6 C Ursine Temple
+	6 C Citysprout Bonsai
+	6 C Far Off Horizon
+	6 C Digital Song
+	6 C Gilded Tea Room
 	15 UC01 Crystallizing Aether
 	15 U02 Surveyor001
 	15 U04 Gilded Viewing Room
 	15 UW10 Scourge of Defiance
 	15 U05
-	6 C01 Search Grid
+	6 C Search Grid
 	15 UI10 Scourge of Monotony
 	15 U03 Cloudslicer Fleet
 	15 UU10 Scourge of Ignorance
@@ -8727,14 +8889,14 @@
 	15 UI02
 	15 UM01
 	15 UM01
-	15 UM01
+	15 UM01 Soul Famine
 	15 UM01
 	15 UM01 Roaming War Fortress
 	15 UM01
 	15 UM01 Treedropper Attack
 	15 UM01
 	15 UM01
-	15 UM01
+	15 UM01 Ignelscor Fangbearer
 	15 UM01
 	15 UM01
 	15 UM01
@@ -8745,21 +8907,21 @@
 	15 UM01
 	15 UM01
 	15 UM01 Waterway Liaison
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 UM01
-	6 CM01 Sand's Blessing
+	6 CM01
+	6 CM01
+	6 CM01
+	6 CM01
+	6 CM Abhorrent Transformation
+	6 CM01
+	6 CM01
+	6 CM01
+	6 CM01
+	6 CM01
+	6 CM01
+	6 CM01
+	6 CM01
+	6 CM01
+	6 CM Sand's Blessing
 	7 RI01 Memory Restored
 	7 RG02 Ancient Warfare
 	7 RI03
@@ -8780,28 +8942,28 @@
 	7 RX05 Heretical Failure
 	15 U01 Lifeblood Factory
 	15 Scourge of Tradition
-	6 CB14
-	6 CB15
-	6 CB16
-	6 CB17
+	6 CB Captain's Orders
+	6 CB Life-Like Taxidermy
+	6 CB Gone Fishing
+	6 CB Phishing Breach
 	6 CG14
 	6 CG15
 	6 CG16
-	6 CG17
-	6 CI14 Daring Duo
-	6 CI15
-	6 CI16
-	6 CI17 Pathogenic Breach
+	6 CG Predation Breach
+	6 CI Docile Duo
+	6 CI Outerbelt Acolyte
+	6 CI Aurelia-7
+	6 CI Pathogenic Breach
 	6 CR14
 	6 CR15
 	6 CR16
-	6 CR17
+	4 MR02
 	6 CU14
 	6 CU15
 	6 CU16
-	6 CU17
+	6 CU Data Breach
 	6 CW14
 	6 CW15
 	6 CW16
-	6 CW17
+	6 CW Breaching Justice
 	6 Approach

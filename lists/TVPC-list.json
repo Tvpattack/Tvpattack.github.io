@@ -856,9 +856,9 @@
         "position": ""
     },
     {
-        "card_name": "CI01 Information Recovery Crew",
+        "card_name": "CI Aurelia-7",
         "number": 191,
-        "shape": "normal",
+        "shape": "leveler",
         "set": "TVPC",
         "rotated": false,
         "position": ""
@@ -904,7 +904,7 @@
         "position": ""
     },
     {
-        "card_name": "CI02 Exuberant Archaeologist",
+        "card_name": "CI Back to Market",
         "number": 192,
         "shape": "normal",
         "set": "TVPC",
@@ -912,7 +912,7 @@
         "position": ""
     },
     {
-        "card_name": "CW01",
+        "card_name": "CW Breaching Justice",
         "number": 10,
         "shape": "normal",
         "set": "TVPC",
@@ -920,15 +920,15 @@
         "position": ""
     },
     {
-        "card_name": "CU01",
+        "card_name": "CU Beachcombing Avakin",
         "number": 46,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CB01 Weight of Betrayal",
+        "card_name": "CB Arboreal Aberration",
         "number": 82,
         "shape": "normal",
         "set": "TVPC",
@@ -944,7 +944,7 @@
         "position": ""
     },
     {
-        "card_name": "CG01",
+        "card_name": "CG Parastrider",
         "number": 155,
         "shape": "normal",
         "set": "TVPC",
@@ -952,7 +952,7 @@
         "position": ""
     },
     {
-        "card_name": "CI03 Whisper Squad",
+        "card_name": "CI Center Mass",
         "number": 193,
         "shape": "normal",
         "set": "TVPC",
@@ -960,7 +960,7 @@
         "position": ""
     },
     {
-        "card_name": "CW02",
+        "card_name": "CW Combat Trauler",
         "number": 11,
         "shape": "normal",
         "set": "TVPC",
@@ -968,7 +968,7 @@
         "position": ""
     },
     {
-        "card_name": "CU02",
+        "card_name": "CU Data Breach",
         "number": 47,
         "shape": "normal",
         "set": "TVPC",
@@ -976,7 +976,7 @@
         "position": ""
     },
     {
-        "card_name": "CB02 Missed Timing",
+        "card_name": "CB Bound to the Grid",
         "number": 83,
         "shape": "normal",
         "set": "TVPC",
@@ -984,7 +984,7 @@
         "position": ""
     },
     {
-        "card_name": "CR01",
+        "card_name": "CR Carapace Cracker",
         "number": 118,
         "shape": "normal",
         "set": "TVPC",
@@ -992,7 +992,7 @@
         "position": ""
     },
     {
-        "card_name": "CG02",
+        "card_name": "CG Predation Breach",
         "number": 156,
         "shape": "normal",
         "set": "TVPC",
@@ -1000,7 +1000,7 @@
         "position": ""
     },
     {
-        "card_name": "CI04 Striking Reflection",
+        "card_name": "CI Docile Duo",
         "number": 194,
         "shape": "normal",
         "set": "TVPC",
@@ -1008,7 +1008,7 @@
         "position": ""
     },
     {
-        "card_name": "CW03",
+        "card_name": "CW Community Forager",
         "number": 12,
         "shape": "normal",
         "set": "TVPC",
@@ -1016,7 +1016,7 @@
         "position": ""
     },
     {
-        "card_name": "CU03",
+        "card_name": "CU Endless Comfort",
         "number": 48,
         "shape": "normal",
         "set": "TVPC",
@@ -1024,7 +1024,7 @@
         "position": ""
     },
     {
-        "card_name": "CB03 Pulp the Flesh",
+        "card_name": "CB Captain's Orders",
         "number": 84,
         "shape": "normal",
         "set": "TVPC",
@@ -1032,7 +1032,7 @@
         "position": ""
     },
     {
-        "card_name": "CR02",
+        "card_name": "CR Crasher Mech",
         "number": 119,
         "shape": "normal",
         "set": "TVPC",
@@ -1040,7 +1040,7 @@
         "position": ""
     },
     {
-        "card_name": "CG03",
+        "card_name": "CG01",
         "number": 157,
         "shape": "normal",
         "set": "TVPC",
@@ -1048,7 +1048,7 @@
         "position": ""
     },
     {
-        "card_name": "CI05 Insect Rider",
+        "card_name": "CI Exuberant Archaeologist",
         "number": 195,
         "shape": "normal",
         "set": "TVPC",
@@ -1056,7 +1056,7 @@
         "position": ""
     },
     {
-        "card_name": "CW04",
+        "card_name": "CW Diffusive Justice",
         "number": 13,
         "shape": "normal",
         "set": "TVPC",
@@ -1064,7 +1064,7 @@
         "position": ""
     },
     {
-        "card_name": "CU04",
+        "card_name": "CU Seawing Skimmer",
         "number": 49,
         "shape": "normal",
         "set": "TVPC",
@@ -1072,7 +1072,7 @@
         "position": ""
     },
     {
-        "card_name": "CB04 Arboreal Aberration",
+        "card_name": "CB Geometrauma",
         "number": 85,
         "shape": "normal",
         "set": "TVPC",
@@ -1080,7 +1080,7 @@
         "position": ""
     },
     {
-        "card_name": "CR03",
+        "card_name": "CR Firewall Breach",
         "number": 120,
         "shape": "normal",
         "set": "TVPC",
@@ -1088,7 +1088,7 @@
         "position": ""
     },
     {
-        "card_name": "CG04",
+        "card_name": "CG02",
         "number": 158,
         "shape": "normal",
         "set": "TVPC",
@@ -1096,15 +1096,15 @@
         "position": ""
     },
     {
-        "card_name": "CI06 Unbothered Alchemist",
+        "card_name": "CI Idolization",
         "number": 196,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CW05",
+        "card_name": "CW Inspiring Pegasus",
         "number": 14,
         "shape": "normal",
         "set": "TVPC",
@@ -1112,7 +1112,7 @@
         "position": ""
     },
     {
-        "card_name": "CU05",
+        "card_name": "CU02",
         "number": 50,
         "shape": "normal",
         "set": "TVPC",
@@ -1120,15 +1120,15 @@
         "position": ""
     },
     {
-        "card_name": "CB05 Ravenous Myconid",
+        "card_name": "CB Gnubok",
         "number": 86,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CR04",
+        "card_name": "CR01",
         "number": 121,
         "shape": "normal",
         "set": "TVPC",
@@ -1136,7 +1136,7 @@
         "position": ""
     },
     {
-        "card_name": "CG05",
+        "card_name": "CG03",
         "number": 159,
         "shape": "normal",
         "set": "TVPC",
@@ -1144,7 +1144,7 @@
         "position": ""
     },
     {
-        "card_name": "CI07 Sensation Robbery",
+        "card_name": "CI Information Recovery Crew",
         "number": 197,
         "shape": "normal",
         "set": "TVPC",
@@ -1152,7 +1152,7 @@
         "position": ""
     },
     {
-        "card_name": "CW06",
+        "card_name": "CW Meirel Sweeper",
         "number": 15,
         "shape": "normal",
         "set": "TVPC",
@@ -1160,7 +1160,7 @@
         "position": ""
     },
     {
-        "card_name": "CU06",
+        "card_name": "CU03",
         "number": 51,
         "shape": "normal",
         "set": "TVPC",
@@ -1168,7 +1168,7 @@
         "position": ""
     },
     {
-        "card_name": "CB06 Groundskeepers",
+        "card_name": "CB Gone Fishing",
         "number": 87,
         "shape": "normal",
         "set": "TVPC",
@@ -1176,7 +1176,7 @@
         "position": ""
     },
     {
-        "card_name": "CR05",
+        "card_name": "CR02",
         "number": 122,
         "shape": "normal",
         "set": "TVPC",
@@ -1184,7 +1184,7 @@
         "position": ""
     },
     {
-        "card_name": "CG06",
+        "card_name": "CG04",
         "number": 160,
         "shape": "normal",
         "set": "TVPC",
@@ -1192,7 +1192,7 @@
         "position": ""
     },
     {
-        "card_name": "CI08 Scouting Party",
+        "card_name": "CI Insect Rider",
         "number": 198,
         "shape": "normal",
         "set": "TVPC",
@@ -1200,15 +1200,15 @@
         "position": ""
     },
     {
-        "card_name": "CW07",
+        "card_name": "CW Territorial Lirrac",
         "number": 16,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CU07",
+        "card_name": "CU04",
         "number": 52,
         "shape": "normal",
         "set": "TVPC",
@@ -1216,7 +1216,7 @@
         "position": ""
     },
     {
-        "card_name": "CB07 Silver Moth",
+        "card_name": "CB Groundskeepers",
         "number": 88,
         "shape": "normal",
         "set": "TVPC",
@@ -1224,7 +1224,7 @@
         "position": ""
     },
     {
-        "card_name": "CR06",
+        "card_name": "CR03",
         "number": 123,
         "shape": "normal",
         "set": "TVPC",
@@ -1232,7 +1232,7 @@
         "position": ""
     },
     {
-        "card_name": "CG07",
+        "card_name": "CG05",
         "number": 161,
         "shape": "normal",
         "set": "TVPC",
@@ -1240,7 +1240,7 @@
         "position": ""
     },
     {
-        "card_name": "CI09 Back to Market",
+        "card_name": "CI Isolate Perfection",
         "number": 199,
         "shape": "normal",
         "set": "TVPC",
@@ -1248,15 +1248,15 @@
         "position": ""
     },
     {
-        "card_name": "CW08",
+        "card_name": "CW Twilight Feline",
         "number": 17,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CU08",
+        "card_name": "CU05",
         "number": 53,
         "shape": "normal",
         "set": "TVPC",
@@ -1264,7 +1264,7 @@
         "position": ""
     },
     {
-        "card_name": "CB08 Secret Extractor",
+        "card_name": "CB Life-Like Taxidermy",
         "number": 89,
         "shape": "normal",
         "set": "TVPC",
@@ -1272,7 +1272,7 @@
         "position": ""
     },
     {
-        "card_name": "CR07",
+        "card_name": "CR04",
         "number": 124,
         "shape": "normal",
         "set": "TVPC",
@@ -1280,7 +1280,7 @@
         "position": ""
     },
     {
-        "card_name": "CG08",
+        "card_name": "CG06",
         "number": 162,
         "shape": "normal",
         "set": "TVPC",
@@ -1288,7 +1288,7 @@
         "position": ""
     },
     {
-        "card_name": "CI10 Center Mass",
+        "card_name": "CI Murky Politics",
         "number": 200,
         "shape": "normal",
         "set": "TVPC",
@@ -1296,7 +1296,7 @@
         "position": ""
     },
     {
-        "card_name": "CW09",
+        "card_name": "CW07 Somni Strider",
         "number": 18,
         "shape": "normal",
         "set": "TVPC",
@@ -1304,7 +1304,7 @@
         "position": ""
     },
     {
-        "card_name": "CU09",
+        "card_name": "CU06",
         "number": 54,
         "shape": "normal",
         "set": "TVPC",
@@ -1312,7 +1312,7 @@
         "position": ""
     },
     {
-        "card_name": "CB09 Treeline Scythes",
+        "card_name": "CB Missed Timing",
         "number": 90,
         "shape": "normal",
         "set": "TVPC",
@@ -1320,7 +1320,7 @@
         "position": ""
     },
     {
-        "card_name": "CR08",
+        "card_name": "CR05",
         "number": 125,
         "shape": "normal",
         "set": "TVPC",
@@ -1328,7 +1328,7 @@
         "position": ""
     },
     {
-        "card_name": "CG09",
+        "card_name": "CG07",
         "number": 163,
         "shape": "normal",
         "set": "TVPC",
@@ -1336,7 +1336,7 @@
         "position": ""
     },
     {
-        "card_name": "CI11 Murky Politics",
+        "card_name": "CI Outerbelt Acolyte",
         "number": 201,
         "shape": "normal",
         "set": "TVPC",
@@ -1344,7 +1344,7 @@
         "position": ""
     },
     {
-        "card_name": "CW10",
+        "card_name": "CW08",
         "number": 19,
         "shape": "normal",
         "set": "TVPC",
@@ -1352,7 +1352,7 @@
         "position": ""
     },
     {
-        "card_name": "CU10",
+        "card_name": "CU07",
         "number": 55,
         "shape": "normal",
         "set": "TVPC",
@@ -1360,15 +1360,15 @@
         "position": ""
     },
     {
-        "card_name": "CB10 Gnubok",
+        "card_name": "CB Phishing Breach",
         "number": 91,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CR09 Crasher Mech",
+        "card_name": "CR06",
         "number": 126,
         "shape": "normal",
         "set": "TVPC",
@@ -1376,7 +1376,7 @@
         "position": ""
     },
     {
-        "card_name": "CG10",
+        "card_name": "CG08",
         "number": 164,
         "shape": "normal",
         "set": "TVPC",
@@ -1384,7 +1384,7 @@
         "position": ""
     },
     {
-        "card_name": "CI12 Idolization",
+        "card_name": "CI Pathogenic Breach",
         "number": 202,
         "shape": "normal",
         "set": "TVPC",
@@ -1392,7 +1392,7 @@
         "position": ""
     },
     {
-        "card_name": "CW11 Diffusive Justice",
+        "card_name": "CW09",
         "number": 20,
         "shape": "normal",
         "set": "TVPC",
@@ -1400,7 +1400,7 @@
         "position": ""
     },
     {
-        "card_name": "CU11 Seawing Skimmer",
+        "card_name": "CU08",
         "number": 56,
         "shape": "normal",
         "set": "TVPC",
@@ -1408,7 +1408,7 @@
         "position": ""
     },
     {
-        "card_name": "CB11 Geometrauma",
+        "card_name": "CB Pulp the Flesh",
         "number": 92,
         "shape": "normal",
         "set": "TVPC",
@@ -1416,7 +1416,7 @@
         "position": ""
     },
     {
-        "card_name": "CR10",
+        "card_name": "CR07",
         "number": 127,
         "shape": "normal",
         "set": "TVPC",
@@ -1424,7 +1424,7 @@
         "position": ""
     },
     {
-        "card_name": "CG11 Parastrider",
+        "card_name": "CG09",
         "number": 165,
         "shape": "normal",
         "set": "TVPC",
@@ -1432,7 +1432,7 @@
         "position": ""
     },
     {
-        "card_name": "CI13 Isolate Perfection",
+        "card_name": "CI Scouting Party",
         "number": 203,
         "shape": "normal",
         "set": "TVPC",
@@ -1440,7 +1440,7 @@
         "position": ""
     },
     {
-        "card_name": "CW12",
+        "card_name": "CW10",
         "number": 21,
         "shape": "normal",
         "set": "TVPC",
@@ -1448,7 +1448,7 @@
         "position": ""
     },
     {
-        "card_name": "CU12",
+        "card_name": "CU09",
         "number": 57,
         "shape": "normal",
         "set": "TVPC",
@@ -1456,7 +1456,7 @@
         "position": ""
     },
     {
-        "card_name": "CB12",
+        "card_name": "CB Ravenous Myconid",
         "number": 93,
         "shape": "normal",
         "set": "TVPC",
@@ -1464,7 +1464,7 @@
         "position": ""
     },
     {
-        "card_name": "CR11 Carapace Cracker",
+        "card_name": "CR08",
         "number": 128,
         "shape": "normal",
         "set": "TVPC",
@@ -1472,7 +1472,7 @@
         "position": ""
     },
     {
-        "card_name": "CG12",
+        "card_name": "CG10",
         "number": 166,
         "shape": "normal",
         "set": "TVPC",
@@ -1480,7 +1480,7 @@
         "position": ""
     },
     {
-        "card_name": "CI14 Daring Duo",
+        "card_name": "CI Sensation Robbery",
         "number": 204,
         "shape": "normal",
         "set": "TVPC",
@@ -1488,7 +1488,7 @@
         "position": ""
     },
     {
-        "card_name": "CW13",
+        "card_name": "CW12",
         "number": 22,
         "shape": "normal",
         "set": "TVPC",
@@ -1496,7 +1496,7 @@
         "position": ""
     },
     {
-        "card_name": "CU13 Endless Comfort",
+        "card_name": "CU10",
         "number": 58,
         "shape": "normal",
         "set": "TVPC",
@@ -1504,7 +1504,7 @@
         "position": ""
     },
     {
-        "card_name": "CB13",
+        "card_name": "CB Secret Extractor",
         "number": 94,
         "shape": "normal",
         "set": "TVPC",
@@ -1512,7 +1512,7 @@
         "position": ""
     },
     {
-        "card_name": "CR12",
+        "card_name": "CR10",
         "number": 129,
         "shape": "normal",
         "set": "TVPC",
@@ -1520,7 +1520,7 @@
         "position": ""
     },
     {
-        "card_name": "CG13",
+        "card_name": "CG12",
         "number": 167,
         "shape": "normal",
         "set": "TVPC",
@@ -1528,7 +1528,7 @@
         "position": ""
     },
     {
-        "card_name": "CI15",
+        "card_name": "CI Striking Reflection",
         "number": 205,
         "shape": "normal",
         "set": "TVPC",
@@ -1536,7 +1536,7 @@
         "position": ""
     },
     {
-        "card_name": "CW14",
+        "card_name": "CW13",
         "number": 23,
         "shape": "normal",
         "set": "TVPC",
@@ -1544,7 +1544,7 @@
         "position": ""
     },
     {
-        "card_name": "CU14",
+        "card_name": "CU12",
         "number": 59,
         "shape": "normal",
         "set": "TVPC",
@@ -1552,7 +1552,7 @@
         "position": ""
     },
     {
-        "card_name": "CB14",
+        "card_name": "CB Silver Moth",
         "number": 95,
         "shape": "normal",
         "set": "TVPC",
@@ -1560,7 +1560,7 @@
         "position": ""
     },
     {
-        "card_name": "CR13",
+        "card_name": "CR12",
         "number": 130,
         "shape": "normal",
         "set": "TVPC",
@@ -1568,7 +1568,7 @@
         "position": ""
     },
     {
-        "card_name": "CG14",
+        "card_name": "CG13",
         "number": 168,
         "shape": "normal",
         "set": "TVPC",
@@ -1576,15 +1576,15 @@
         "position": ""
     },
     {
-        "card_name": "CI16",
+        "card_name": "CI Unbothered Alchemist",
         "number": 206,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CW15",
+        "card_name": "CW14",
         "number": 24,
         "shape": "normal",
         "set": "TVPC",
@@ -1592,7 +1592,7 @@
         "position": ""
     },
     {
-        "card_name": "CU15",
+        "card_name": "CU14",
         "number": 60,
         "shape": "normal",
         "set": "TVPC",
@@ -1600,7 +1600,7 @@
         "position": ""
     },
     {
-        "card_name": "CB15",
+        "card_name": "CB Soul Drain",
         "number": 96,
         "shape": "normal",
         "set": "TVPC",
@@ -1608,7 +1608,7 @@
         "position": ""
     },
     {
-        "card_name": "CR14",
+        "card_name": "CR13",
         "number": 131,
         "shape": "normal",
         "set": "TVPC",
@@ -1616,7 +1616,7 @@
         "position": ""
     },
     {
-        "card_name": "CG15",
+        "card_name": "CG14",
         "number": 169,
         "shape": "normal",
         "set": "TVPC",
@@ -1624,7 +1624,7 @@
         "position": ""
     },
     {
-        "card_name": "CI17 Pathogenic Breach",
+        "card_name": "CI Whisper Squad",
         "number": 207,
         "shape": "normal",
         "set": "TVPC",
@@ -1632,7 +1632,7 @@
         "position": ""
     },
     {
-        "card_name": "CW16",
+        "card_name": "CW15",
         "number": 25,
         "shape": "normal",
         "set": "TVPC",
@@ -1640,7 +1640,7 @@
         "position": ""
     },
     {
-        "card_name": "CU16",
+        "card_name": "CU15",
         "number": 61,
         "shape": "normal",
         "set": "TVPC",
@@ -1648,7 +1648,7 @@
         "position": ""
     },
     {
-        "card_name": "CB16",
+        "card_name": "CB Treeline Scythes",
         "number": 97,
         "shape": "normal",
         "set": "TVPC",
@@ -1656,7 +1656,7 @@
         "position": ""
     },
     {
-        "card_name": "CR15",
+        "card_name": "CR14",
         "number": 132,
         "shape": "normal",
         "set": "TVPC",
@@ -1664,7 +1664,7 @@
         "position": ""
     },
     {
-        "card_name": "CG16",
+        "card_name": "CG15",
         "number": 170,
         "shape": "normal",
         "set": "TVPC",
@@ -1680,7 +1680,7 @@
         "position": ""
     },
     {
-        "card_name": "CW17",
+        "card_name": "CW16",
         "number": 26,
         "shape": "normal",
         "set": "TVPC",
@@ -1688,7 +1688,7 @@
         "position": ""
     },
     {
-        "card_name": "CU17",
+        "card_name": "CU16",
         "number": 62,
         "shape": "normal",
         "set": "TVPC",
@@ -1696,7 +1696,7 @@
         "position": ""
     },
     {
-        "card_name": "CB17",
+        "card_name": "CB Weight of Betrayal",
         "number": 98,
         "shape": "normal",
         "set": "TVPC",
@@ -1704,7 +1704,7 @@
         "position": ""
     },
     {
-        "card_name": "CR16",
+        "card_name": "CR15",
         "number": 133,
         "shape": "normal",
         "set": "TVPC",
@@ -1712,7 +1712,7 @@
         "position": ""
     },
     {
-        "card_name": "CG17",
+        "card_name": "CG16",
         "number": 171,
         "shape": "normal",
         "set": "TVPC",
@@ -1752,7 +1752,7 @@
         "position": ""
     },
     {
-        "card_name": "CR17",
+        "card_name": "CR16",
         "number": 134,
         "shape": "normal",
         "set": "TVPC",
@@ -1836,7 +1836,51 @@
     "a->gold",
     {
         "card_name": "UM01 Roaming War Fortress",
-        "number": 278,
+        "number": 277,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM Marker of Aberration",
+        "number": 251,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RM01 Crown of Conquest",
+        "number": 250,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM01 Ignelscor Fangbearer",
+        "number": 276,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM01 Waterway Liaison",
+        "number": 280,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1854,8 +1898,28 @@
         "position": ""
     },
     {
-        "card_name": "RM01 Crown of Conquest",
-        "number": 236,
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM01 Soul Famine",
+        "number": 278,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CM Sand's Blessing",
+        "number": 226,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1874,62 +1938,18 @@
         "card_name": "e"
     },
     {
-        "card_name": "UM01 Waterway Liaison",
-        "number": 280,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
         "card_name": "e"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CM01 Sand's Blessing",
+        "card_name": "CM Abhorrent Transformation",
         "number": 225,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1959,7 +1979,7 @@
     },
     {
         "card_name": "MX01 Expel Apathy",
-        "number": 226,
+        "number": 240,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1970,11 +1990,37 @@
     },
     {
         "card_name": "RM01",
-        "number": 234,
+        "number": 247,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CM01",
+        "number": 237,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -2116,7 +2162,7 @@
         "position": ""
     },
     {
-        "card_name": "C05 Digital Song",
+        "card_name": "C Digital Song",
         "number": 2,
         "shape": "normal",
         "set": "TVPC",
@@ -2124,7 +2170,7 @@
         "position": ""
     },
     {
-        "card_name": "C04 Citysprout Bonsai",
+        "card_name": "C Citysprout Bonsai",
         "number": 281,
         "shape": "normal",
         "set": "TVPC",
@@ -2132,7 +2178,7 @@
         "position": ""
     },
     {
-        "card_name": "C06 Ursine Temple",
+        "card_name": "C Ursine Temple",
         "number": 282,
         "shape": "transform double faced",
         "set": "TVPC",
@@ -2265,15 +2311,15 @@
         "position": ""
     },
     {
-        "card_name": "C01 Search Grid",
+        "card_name": "C Far Off Horizon",
         "number": 290,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "C02 Far Off Horizon",
+        "card_name": "C Gilded Tea Room",
         "number": 291,
         "shape": "transform double faced",
         "set": "TVPC",
@@ -2281,9 +2327,9 @@
         "position": ""
     },
     {
-        "card_name": "C03 Gilded Tea Room",
+        "card_name": "C Search Grid",
         "number": 292,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
@@ -2314,7 +2360,7 @@
     },
     "a->token",
     {
-        "card_name": "Fractal",
+        "card_name": "Angel",
         "number": 1,
         "shape": "token",
         "set": "TVPC",
@@ -2322,7 +2368,7 @@
         "position": ""
     },
     {
-        "card_name": "Insect Plant",
+        "card_name": "Eye",
         "number": 2,
         "shape": "token",
         "set": "TVPC",
@@ -2330,7 +2376,7 @@
         "position": ""
     },
     {
-        "card_name": "Merfolk",
+        "card_name": "Plant",
         "number": 3,
         "shape": "token",
         "set": "TVPC",
@@ -2338,8 +2384,48 @@
         "position": ""
     },
     {
-        "card_name": "Pest Token",
+        "card_name": "Fractal",
         "number": 4,
+        "shape": "token",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fish",
+        "number": 5,
+        "shape": "token",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fractal",
+        "number": 6,
+        "shape": "token",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Insect Plant",
+        "number": 7,
+        "shape": "token",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Merfolk",
+        "number": 8,
+        "shape": "token",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pest Token",
+        "number": 9,
         "shape": "token",
         "set": "TVPC",
         "rotated": false,

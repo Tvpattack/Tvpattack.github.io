@@ -5,119 +5,183 @@
 			<name>TVPC</name>
 			<longname>TVP Core 2026</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-11</releasedate>
+			<releasedate>2026-05-26</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
-			<name>CW01</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/10_CW01.jpg" num="10">TVPC</set>
+			<name>CW Territorial Lirrac</name>
+			<text>When this creature enters, create a trace of Territorial Roc into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
+---
+(Back): Territorial Roc</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/16_CW Territorial Lirrac_front.jpg" num="16a">TVPC</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
 				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
+			<related attach="transform">Territorial Roc</related>
 		</card>
 		<card>
-			<name>CW02</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/11_CW02.jpg" num="11">TVPC</set>
+			<name>Territorial Roc</name>
+			<text>Flying
+---
+(Front): CW Territorial Lirrac</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/16_CW Territorial Lirrac_back.jpg" num="16b">TVPC</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Trace Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
 				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
+			<related attach="transform">CW Territorial Lirrac</related>
 		</card>
 		<card>
-			<name>CW03</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/12_CW03.jpg" num="12">TVPC</set>
+			<name>CW Twilight Feline</name>
+			<text>When this creature enters, create a trace of Candlelight Vigil into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
+---
+(Back): Candlelight Vigil</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/17_CW Twilight Feline_front.jpg" num="17a">TVPC</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
 				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
+			<related attach="transform">Candlelight Vigil</related>
 		</card>
 		<card>
-			<name>CW04</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/13_CW04.jpg" num="13">TVPC</set>
+			<name>Candlelight Vigil</name>
+			<text>Enchant creature
+Enchanted creature gets +3/+2 and has vigilance.
+---
+(Front): CW Twilight Feline</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/17_CW Twilight Feline_back.jpg" num="17b">TVPC</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Trace Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
 				<colors>W</colors>
+				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related attach="transform">CW Twilight Feline</related>
 		</card>
 		<card>
-			<name>CW05</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/14_CW05.jpg" num="14">TVPC</set>
+			<name>CW Meirel Sweeper</name>
+			<text>Flash
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/15_CW Meirel Sweeper.jpg" num="15">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
 				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW06</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/15_CW06.jpg" num="15">TVPC</set>
+			<name>CW Combat Trauler</name>
+			<text>At the beginning of combat during your turn, up to one target creature you control gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/11_CW Combat Trauler.jpg" num="11">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Artifact Creature — Robot Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
 				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW07</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/16_CW07.jpg" num="16">TVPC</set>
+			<name>CW Community Forager</name>
+			<text>Whenever this creature or another creature you control enters, you gain 1 life.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/12_CW Community Forager.jpg" num="12">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Creature — Rabbit Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
 				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW Inspiring Pegasus</name>
+			<text>Flying, lifelink
+When this creature enters, creatures you control get +1/+1 until end of turn.
+Warp {W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/14_CW Inspiring Pegasus.jpg" num="14">TVPC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pegasus</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07 Somni Strider</name>
+			<text>Whenever this creature attacks while saddled, tap up to one target creature you don&apos;t control.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/18_CW07 Somni Strider.jpg" num="18">TVPC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Worm Horse Mount</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CW08</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/17_CW08.jpg" num="17">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/19_CW08.jpg" num="19">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -132,7 +196,7 @@
 		<card>
 			<name>CW09</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/18_CW09.jpg" num="18">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/20_CW09.jpg" num="20">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -147,7 +211,7 @@
 		<card>
 			<name>CW10</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/19_CW10.jpg" num="19">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/21_CW10.jpg" num="21">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -160,10 +224,10 @@
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CW11 Diffusive Justice</name>
+			<name>CW Diffusive Justice</name>
 			<text>When this creature enters, exile up to one other target noncreature, nonland permanent until this creature leaves the battlefield.
 Plainscycling {2W} ({2W}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/20_CW11 Diffusive Justice.jpg" num="20">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/13_CW Diffusive Justice.jpg" num="13">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -180,7 +244,7 @@ Plainscycling {2W} ({2W}, Discard this card: Search your library for a Plains ca
 		<card>
 			<name>CW12</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/21_CW12.jpg" num="21">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/22_CW12.jpg" num="22">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -195,7 +259,7 @@ Plainscycling {2W} ({2W}, Discard this card: Search your library for a Plains ca
 		<card>
 			<name>CW13</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/22_CW13.jpg" num="22">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/23_CW13.jpg" num="23">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -208,24 +272,48 @@ Plainscycling {2W} ({2W}, Discard this card: Search your library for a Plains ca
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CU01</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/46_CU01.jpg" num="46">TVPC</set>
+			<name>CU Beachcombing Avakin</name>
+			<text>When this creature enters, create a trace of Wishcoin Crab into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
+---
+(Back): Wishcoin Crab</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/46_CU Beachcombing Avakin_front.jpg" num="46a">TVPC</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
 				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
+			<related attach="transform">Wishcoin Crab</related>
+		</card>
+		<card>
+			<name>Wishcoin Crab</name>
+			<text>---
+(Front): CU Beachcombing Avakin</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/46_CU Beachcombing Avakin_back.jpg" num="46b">TVPC</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">CU Beachcombing Avakin</related>
 		</card>
 		<card>
 			<name>CU02</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/47_CU02.jpg" num="47">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/50_CU02.jpg" num="50">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -240,7 +328,7 @@ Plainscycling {2W} ({2W}, Discard this card: Search your library for a Plains ca
 		<card>
 			<name>CU03</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/48_CU03.jpg" num="48">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/51_CU03.jpg" num="51">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -255,7 +343,7 @@ Plainscycling {2W} ({2W}, Discard this card: Search your library for a Plains ca
 		<card>
 			<name>CU04</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/49_CU04.jpg" num="49">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/52_CU04.jpg" num="52">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -270,7 +358,7 @@ Plainscycling {2W} ({2W}, Discard this card: Search your library for a Plains ca
 		<card>
 			<name>CU05</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/50_CU05.jpg" num="50">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/53_CU05.jpg" num="53">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -285,7 +373,7 @@ Plainscycling {2W} ({2W}, Discard this card: Search your library for a Plains ca
 		<card>
 			<name>CU06</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/51_CU06.jpg" num="51">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/54_CU06.jpg" num="54">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -300,7 +388,7 @@ Plainscycling {2W} ({2W}, Discard this card: Search your library for a Plains ca
 		<card>
 			<name>CU07</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/52_CU07.jpg" num="52">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/55_CU07.jpg" num="55">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -315,7 +403,7 @@ Plainscycling {2W} ({2W}, Discard this card: Search your library for a Plains ca
 		<card>
 			<name>CU08</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/53_CU08.jpg" num="53">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/56_CU08.jpg" num="56">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -330,7 +418,7 @@ Plainscycling {2W} ({2W}, Discard this card: Search your library for a Plains ca
 		<card>
 			<name>CU09</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/54_CU09.jpg" num="54">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/57_CU09.jpg" num="57">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -345,7 +433,7 @@ Plainscycling {2W} ({2W}, Discard this card: Search your library for a Plains ca
 		<card>
 			<name>CU10</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/55_CU10.jpg" num="55">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/58_CU10.jpg" num="58">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -358,11 +446,11 @@ Plainscycling {2W} ({2W}, Discard this card: Search your library for a Plains ca
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CU11 Seawing Skimmer</name>
+			<name>CU Seawing Skimmer</name>
 			<text>Flying, vigilance
 When this creature enters, tap up to two target creatures.
 Islandcycling {2U} ({2U}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/56_CU11 Seawing Skimmer.jpg" num="56">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/49_CU Seawing Skimmer.jpg" num="49">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -379,7 +467,7 @@ Islandcycling {2U} ({2U}, Discard this card: Search your library for an Island c
 		<card>
 			<name>CU12</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/57_CU12.jpg" num="57">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/59_CU12.jpg" num="59">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -392,10 +480,10 @@ Islandcycling {2U} ({2U}, Discard this card: Search your library for an Island c
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CU13 Endless Comfort</name>
+			<name>CU Endless Comfort</name>
 			<text>Tap target creature and put four stun counters on it.
 Flashback {4}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/58_CU13 Endless Comfort.jpg" num="58">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/48_CU Endless Comfort.jpg" num="48">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -409,9 +497,9 @@ Flashback {4}{U}{U} (You may cast this card from your graveyard for its flashbac
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CI13 Isolate Perfection</name>
+			<name>CI Isolate Perfection</name>
 			<text>Choose a card type, then reveal the top seven cards of your library. Put up to three cards of the chosen type from among them into your hand and the rest of the revealed cards into your graveyard.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/203_CI13 Isolate Perfection.jpg" num="203">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/199_CI Isolate Perfection.jpg" num="199">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -425,11 +513,11 @@ Flashback {4}{U}{U} (You may cast this card from your graveyard for its flashbac
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CB01 Weight of Betrayal</name>
+			<name>CB Weight of Betrayal</name>
 			<text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Enchant creature
 Enchanted creature gets -1/-1. If you&apos;ve illuminated black, enchanted creature gets -5/-5 instead.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/82_CB01 Weight of Betrayal.jpg" num="82">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/98_CB Weight of Betrayal.jpg" num="98">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -443,9 +531,9 @@ Enchanted creature gets -1/-1. If you&apos;ve illuminated black, enchanted creat
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CB02 Missed Timing</name>
-			<text>Exile target creature or planeswalker, then you gain 2 life.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/83_CB02 Missed Timing.jpg" num="83">TVPC</set>
+			<name>CB Missed Timing</name>
+			<text>Exile target creature or planeswalker. You gain 2 life.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/90_CB Missed Timing.jpg" num="90">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -459,10 +547,10 @@ Enchanted creature gets -1/-1. If you&apos;ve illuminated black, enchanted creat
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CB03 Pulp the Flesh</name>
+			<name>CB Pulp the Flesh</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Draw two cards. Create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/84_CB03 Pulp the Flesh.jpg" num="84">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/92_CB Pulp the Flesh.jpg" num="92">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -476,10 +564,10 @@ Draw two cards. Create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CB04 Arboreal Aberration</name>
+			<name>CB Arboreal Aberration</name>
 			<text>Reach
 Whenever this creature attacks or dies, each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/85_CB04 Arboreal Aberration.jpg" num="85">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/82_CB Arboreal Aberration.jpg" num="82">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -494,10 +582,10 @@ Whenever this creature attacks or dies, each opponent loses 1 life and you gain 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB05 Ravenous Myconid</name>
+			<name>CB Ravenous Myconid</name>
 			<text>Whenever you sacrifice another creature, put a +1/+1 counter on this creature.
 {4}, Sacrifice a creature: Draw a card.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/86_CB05 Ravenous Myconid.jpg" num="86">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/93_CB Ravenous Myconid.jpg" num="93">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -512,10 +600,10 @@ Whenever this creature attacks or dies, each opponent loses 1 life and you gain 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB06 Groundskeepers</name>
+			<name>CB Groundskeepers</name>
 			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
 When this creature enters, exile up to one target card from a graveyard.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/87_CB06 Groundskeepers.jpg" num="87">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/88_CB Groundskeepers.jpg" num="88">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -530,10 +618,10 @@ When this creature enters, exile up to one target card from a graveyard.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB07 Silver Moth</name>
+			<name>CB Silver Moth</name>
 			<text>Flying
 Whenever you sacrifice a permanent, each opponent loses 1 life.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/88_CB07 Silver Moth.jpg" num="88">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/95_CB Silver Moth.jpg" num="95">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -548,9 +636,10 @@ Whenever you sacrifice a permanent, each opponent loses 1 life.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB08 Secret Extractor</name>
-			<text>When this creature enters, each opponent discards a card.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/89_CB08 Secret Extractor.jpg" num="89">TVPC</set>
+			<name>CB Secret Extractor</name>
+			<text>Menace
+When this creature enters, each opponent discards a card.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/94_CB Secret Extractor.jpg" num="94">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -565,10 +654,10 @@ Whenever you sacrifice a permanent, each opponent loses 1 life.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB09 Treeline Scythes</name>
+			<name>CB Treeline Scythes</name>
 			<text>Haste
 {1}: This creature gains flying until end of turn.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/90_CB09 Treeline Scythes.jpg" num="90">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/97_CB Treeline Scythes.jpg" num="97">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -583,11 +672,11 @@ Whenever you sacrifice a permanent, each opponent loses 1 life.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB10 Gnubok</name>
+			<name>CB Gnubok</name>
 			<text>When this creature dies, create a trace of Skeletal Crocodile into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
 ---
 (Back): Skeletal Crocodile</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/91_CB10 Gnubok_front.jpg" num="91a">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/86_CB Gnubok_front.jpg" num="86a">TVPC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -605,8 +694,8 @@ Whenever you sacrifice a permanent, each opponent loses 1 life.</text>
 		<card>
 			<name>Skeletal Crocodile</name>
 			<text>---
-(Front): CB10 Gnubok</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/91_CB10 Gnubok_back.jpg" num="91b">TVPC</set>
+(Front): CB Gnubok</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/86_CB Gnubok_back.jpg" num="86b">TVPC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -619,14 +708,14 @@ Whenever you sacrifice a permanent, each opponent loses 1 life.</text>
 				<pt>5/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">CB10 Gnubok</related>
+			<related attach="transform">CB Gnubok</related>
 		</card>
 		<card>
-			<name>CB11 Geometrauma</name>
+			<name>CB Geometrauma</name>
 			<text>Menace
 When this creature enters, each opponent loses 2 life and you gain 2 life.
 Swampcycling {2B} ({2B}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/92_CB11 Geometrauma.jpg" num="92">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/85_CB Geometrauma.jpg" num="85">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -641,40 +730,42 @@ Swampcycling {2B} ({2B}, Discard this card: Search your library for a Swamp card
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB12</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/93_CB12.jpg" num="93">TVPC</set>
+			<name>CB Soul Drain</name>
+			<text>Target opponent discards two cards. If fewer than two cards were discarded this way, you draw cards equal to the difference and that player loses that much life.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/96_CB Soul Drain.jpg" num="96">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
 				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB Bound to the Grid</name>
+			<text>At the beginning of your end step, each opponent loses 1 life and you gain 1 life. Then for each opponent who lost 3 or more life this turn, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/83_CB Bound to the Grid.jpg" num="83">TVPC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CB13</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/94_CB13.jpg" num="94">TVPC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>B</colors>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>CI01 Information Recovery Crew</name>
+			<name>CI Information Recovery Crew</name>
 			<text>Menace
 Whenever this creature deals combat damage to a player, look at the top two cards of your library. Put them back in any order, then you may draw a card. If you do, put a card from your hand on top of your library.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/191_CI01 Information Recovery Crew.jpg" num="191">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/197_CI Information Recovery Crew.jpg" num="197">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -689,10 +780,10 @@ Whenever this creature deals combat damage to a player, look at the top two card
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CI03 Whisper Squad</name>
+			<name>CI Whisper Squad</name>
 			<text>Healing 1 (Damage dealt by this creature also causes you to gain 1 life.)
 {2}{I}: Search your library for a card named Whisper Squad, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/193_CI03 Whisper Squad.jpg" num="193">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/207_CI Whisper Squad.jpg" num="207">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -707,10 +798,10 @@ Whenever this creature deals combat damage to a player, look at the top two card
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CI04 Striking Reflection</name>
+			<name>CI Striking Reflection</name>
 			<text>Whenever this creature enters or attacks, you may change the size of another target creature to 3/2 until end of turn.
 Warp {I} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/194_CI04 Striking Reflection.jpg" num="194">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/205_CI Striking Reflection.jpg" num="205">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -725,11 +816,11 @@ Warp {I} (You may cast this card from your hand for its warp cost. Exile this cr
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CI02 Exuberant Archaeologist</name>
+			<name>CI Exuberant Archaeologist</name>
 			<text>Flash
 When this creature enters the battlefield, exile up to one target nonland card from a graveyard.
 {3}{I}: Turn the exiled card face down. If you do, draw a card.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/192_CI02 Exuberant Archaeologist.jpg" num="192">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/195_CI Exuberant Archaeologist.jpg" num="195">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -746,7 +837,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
 		<card>
 			<name>CR01</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/118_CR01.jpg" num="118">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/121_CR01.jpg" num="121">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -761,7 +852,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
 		<card>
 			<name>CR02</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/119_CR02.jpg" num="119">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/122_CR02.jpg" num="122">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -776,7 +867,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
 		<card>
 			<name>CR03</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/120_CR03.jpg" num="120">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/123_CR03.jpg" num="123">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -791,7 +882,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
 		<card>
 			<name>CR04</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/121_CR04.jpg" num="121">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/124_CR04.jpg" num="124">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -806,7 +897,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
 		<card>
 			<name>CR05</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/122_CR05.jpg" num="122">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/125_CR05.jpg" num="125">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -821,7 +912,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
 		<card>
 			<name>CR06</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/123_CR06.jpg" num="123">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/126_CR06.jpg" num="126">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -836,7 +927,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
 		<card>
 			<name>CR07</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/124_CR07.jpg" num="124">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/127_CR07.jpg" num="127">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -851,7 +942,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
 		<card>
 			<name>CR08</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/125_CR08.jpg" num="125">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/128_CR08.jpg" num="128">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -864,10 +955,10 @@ When this creature enters the battlefield, exile up to one target nonland card f
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CR09 Crasher Mech</name>
+			<name>CR Crasher Mech</name>
 			<text>This creature can&apos;t attack alone.
 Whenever this creature attacks, up to one target creature you control with power 2 or less can&apos;t be blocked this turn.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/126_CR09 Crasher Mech.jpg" num="126">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/119_CR Crasher Mech.jpg" num="119">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -884,7 +975,7 @@ Whenever this creature attacks, up to one target creature you control with power
 		<card>
 			<name>CR10</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/127_CR10.jpg" num="127">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/129_CR10.jpg" num="129">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -897,11 +988,11 @@ Whenever this creature attacks, up to one target creature you control with power
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CR11 Carapace Cracker</name>
+			<name>CR Carapace Cracker</name>
 			<text>Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
 This creature can&apos;t be blocked by creatures with power 2 or less.
 Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/128_CR11 Carapace Cracker.jpg" num="128">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/118_CR Carapace Cracker.jpg" num="118">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -918,7 +1009,7 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 		<card>
 			<name>CR12</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/129_CR12.jpg" num="129">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/130_CR12.jpg" num="130">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -933,7 +1024,7 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 		<card>
 			<name>CR13</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/130_CR13.jpg" num="130">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/131_CR13.jpg" num="131">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -946,9 +1037,9 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CI09 Back to Market</name>
+			<name>CI Back to Market</name>
 			<text>Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/199_CI09 Back to Market.jpg" num="199">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/192_CI Back to Market.jpg" num="192">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -962,9 +1053,9 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CI10 Center Mass</name>
+			<name>CI Center Mass</name>
 			<text>This spell deals 1 damage to any target. Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/200_CI10 Center Mass.jpg" num="200">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/193_CI Center Mass.jpg" num="193">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -978,9 +1069,9 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CI11 Murky Politics</name>
+			<name>CI Murky Politics</name>
 			<text>Target creature gets +3/-3 until end of turn. You gain 3 life.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/201_CI11 Murky Politics.jpg" num="201">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/200_CI Murky Politics.jpg" num="200">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -994,9 +1085,9 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CI12 Idolization</name>
+			<name>CI Idolization</name>
 			<text>Tap target creature and put three stun counters on it. As long as it remains tapped, it&apos;s an enchantment. (Its not a creature. If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/202_CI12 Idolization.jpg" num="202">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/196_CI Idolization.jpg" num="196">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1012,7 +1103,7 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 		<card>
 			<name>CG01</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/155_CG01.jpg" num="155">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/157_CG01.jpg" num="157">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1027,7 +1118,7 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 		<card>
 			<name>CG02</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/156_CG02.jpg" num="156">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/158_CG02.jpg" num="158">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1042,7 +1133,7 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 		<card>
 			<name>CG03</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/157_CG03.jpg" num="157">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/159_CG03.jpg" num="159">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1057,7 +1148,7 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 		<card>
 			<name>CG04</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/158_CG04.jpg" num="158">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/160_CG04.jpg" num="160">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1072,7 +1163,7 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 		<card>
 			<name>CG05</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/159_CG05.jpg" num="159">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/161_CG05.jpg" num="161">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1087,7 +1178,7 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 		<card>
 			<name>CG06</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/160_CG06.jpg" num="160">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/162_CG06.jpg" num="162">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1102,7 +1193,7 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 		<card>
 			<name>CG07</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/161_CG07.jpg" num="161">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/163_CG07.jpg" num="163">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1117,7 +1208,7 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 		<card>
 			<name>CG08</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/162_CG08.jpg" num="162">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/164_CG08.jpg" num="164">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1132,7 +1223,7 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 		<card>
 			<name>CG09</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/163_CG09.jpg" num="163">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/165_CG09.jpg" num="165">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1147,7 +1238,7 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 		<card>
 			<name>CG10</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/164_CG10.jpg" num="164">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/166_CG10.jpg" num="166">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1160,11 +1251,11 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CG11 Parastrider</name>
+			<name>CG Parastrider</name>
 			<text>Reach
 Whenever this creature attacks or dies, you gain 2 life.
 Forestcycling {2G} ({2G}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/165_CG11 Parastrider.jpg" num="165">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/155_CG Parastrider.jpg" num="155">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1181,7 +1272,7 @@ Forestcycling {2G} ({2G}, Discard this card: Search your library for a Forest ca
 		<card>
 			<name>CG12</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/166_CG12.jpg" num="166">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/167_CG12.jpg" num="167">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1196,7 +1287,7 @@ Forestcycling {2G} ({2G}, Discard this card: Search your library for a Forest ca
 		<card>
 			<name>CG13</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/167_CG13.jpg" num="167">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/168_CG13.jpg" num="168">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1209,11 +1300,11 @@ Forestcycling {2G} ({2G}, Discard this card: Search your library for a Forest ca
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CI05 Insect Rider</name>
+			<name>CI Insect Rider</name>
 			<text>Flying
 When this creature enters, put a +1/+1 counter on up to one target creature if a spell or ability put a card into your hand this turn.
 Warp {I} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/195_CI05 Insect Rider.jpg" num="195">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/198_CI Insect Rider.jpg" num="198">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1228,12 +1319,12 @@ Warp {I} (You may cast this card from your hand for its warp cost. Exile this cr
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CI06 Unbothered Alchemist</name>
+			<name>CI Unbothered Alchemist</name>
 			<text>When this creature enters, trace a card named Alchemist&apos;s Vial into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
 {T}: Add {C}{C}. You can&apos;t spend this mana to cast nonartifact spells.
 ---
 (Back): Alchemist&apos;s Vial</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/196_CI06 Unbothered Alchemist_front.jpg" num="196a">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/206_CI Unbothered Alchemist_front.jpg" num="206a">TVPC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1253,8 +1344,8 @@ Warp {I} (You may cast this card from your hand for its warp cost. Exile this cr
 			<text>When this artifact enters, draw a card. 
 {1}, {T}, Sacrifice this artifact: Target creature can&apos;t attack or block this turn.
 ---
-(Front): CI06 Unbothered Alchemist</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/196_CI06 Unbothered Alchemist_back.jpg" num="196b">TVPC</set>
+(Front): CI Unbothered Alchemist</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/206_CI Unbothered Alchemist_back.jpg" num="206b">TVPC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1265,13 +1356,13 @@ Warp {I} (You may cast this card from your hand for its warp cost. Exile this cr
 				<coloridentity>I</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">CI06 Unbothered Alchemist</related>
+			<related attach="transform">CI Unbothered Alchemist</related>
 		</card>
 		<card>
-			<name>CI07 Sensation Robbery</name>
+			<name>CI Sensation Robbery</name>
 			<text>Whenever you attack, up to one target creature you control gains flying, menace, trample, and first strike until end of turn.
 Warp {1}{I} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/197_CI07 Sensation Robbery.jpg" num="197">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/204_CI Sensation Robbery.jpg" num="204">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1286,11 +1377,11 @@ Warp {1}{I} (You may cast this card from your hand for its warp cost. Exile this
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CI08 Scouting Party</name>
-			<text>This creature has first strike during your turn. (This creature deals combat damage before creatures without first strike.)
+			<name>CI Scouting Party</name>
+			<text>First strike
 Healing 3 (Damage dealt by this creature also causes you to gain 3 life.)
 Faultcycling {2I} ({2I}, Discard this card: Search your library for a Fault card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/198_CI08 Scouting Party.jpg" num="198">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/203_CI Scouting Party.jpg" num="203">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2656,19 +2747,21 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>MR02</name>
-			<text></text>
-			<set rarity="mythic" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/136_MR02.jpg" num="136">TVPC</set>
+			<name>CR Firewall Breach</name>
+			<text>Create two 3/3 red Plant creature tokens with haste and afflict 3. (Whenever that creature becomes blocked, defending player loses 3 life.)
+{1}{R}, Exile this card from your hand: Create a colorless Saga enchantment token named Approach with r{5}: &quot;You may cast the exiled spell without paying its mana cost.&quot;</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/120_CR Firewall Breach.jpg" num="120">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6RR</manacost>
+				<cmc>8</cmc>
 				<colors>R</colors>
+				<coloridentity>R</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>MG01</name>
@@ -2733,16 +2826,17 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/269_UM01.jpg" num="269">TVPC</set>
+			<name>UM Marker of Aberration</name>
+			<text>When this artifact enters, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)
+Blood and creatures you control have &quot;{T}, Sacrifice this permanent: Add {B} or {R}.&quot;</text>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/251_UM Marker of Aberration.jpg" num="251">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>BR</manacost>
-				<cmc>2</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 			</prop>
@@ -2751,7 +2845,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/270_UM01.jpg" num="270">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/269_UM01.jpg" num="269">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2767,7 +2861,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/271_UM01.jpg" num="271">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/270_UM01.jpg" num="270">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2783,7 +2877,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/272_UM01.jpg" num="272">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/271_UM01.jpg" num="271">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2799,7 +2893,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/273_UM01.jpg" num="273">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/272_UM01.jpg" num="272">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2815,7 +2909,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/274_UM01.jpg" num="274">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/273_UM01.jpg" num="273">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2831,7 +2925,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/275_UM01.jpg" num="275">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/274_UM01.jpg" num="274">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2847,7 +2941,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/276_UM01.jpg" num="276">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/275_UM01.jpg" num="275">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2863,7 +2957,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>RM01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/235_RM01.jpg" num="235">TVPC</set>
+			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/248_RM01.jpg" num="248">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2879,7 +2973,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>RM01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/227_RM01.jpg" num="227">TVPC</set>
+			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/249_RM01.jpg" num="249">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2895,7 +2989,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>RM01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/228_RM01.jpg" num="228">TVPC</set>
+			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/241_RM01.jpg" num="241">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2911,7 +3005,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>RM01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/229_RM01.jpg" num="229">TVPC</set>
+			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/246_RM01.jpg" num="246">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2927,7 +3021,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>RM01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/230_RM01.jpg" num="230">TVPC</set>
+			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/243_RM01.jpg" num="243">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2943,7 +3037,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>RM01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/231_RM01.jpg" num="231">TVPC</set>
+			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/244_RM01.jpg" num="244">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2959,7 +3053,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>RM01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/233_RM01.jpg" num="233">TVPC</set>
+			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/245_RM01.jpg" num="245">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2975,7 +3069,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>RM01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/232_RM01.jpg" num="232">TVPC</set>
+			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/242_RM01.jpg" num="242">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2991,7 +3085,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>RM01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/234_RM01.jpg" num="234">TVPC</set>
+			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/247_RM01.jpg" num="247">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3005,12 +3099,12 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>C06 Ursine Temple</name>
+			<name>C Ursine Temple</name>
 			<text>When this artifact enters, trace two cards named Grizzly Bears into your hand.
 {T}: Add one mana of any color.
 ---
 (Back): Grizzly Bears</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/282_C06 Ursine Temple_front.jpg" num="282a">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/282_C Ursine Temple_front.jpg" num="282a">TVPC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3026,8 +3120,8 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 		<card>
 			<name>Grizzly Bears</name>
 			<text>---
-(Front): C06 Ursine Temple</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/282_C06 Ursine Temple_back.jpg" num="282b">TVPC</set>
+(Front): C Ursine Temple</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/282_C Ursine Temple_back.jpg" num="282b">TVPC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3040,13 +3134,13 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">C06 Ursine Temple</related>
+			<related attach="transform">C Ursine Temple</related>
 		</card>
 		<card>
-			<name>C04 Citysprout Bonsai</name>
+			<name>C Citysprout Bonsai</name>
 			<text>When this artifact enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 {3}, {T}, Sacrifice this artifact and a token: Draw two cards.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/281_C04 Citysprout Bonsai.jpg" num="281">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/281_C Citysprout Bonsai.jpg" num="281">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3058,12 +3152,12 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>C02 Far Off Horizon</name>
+			<name>C Far Off Horizon</name>
 			<text>When this land enters, create a trace of Resource Extraction in your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
 {T}: Add {C}.
 ---
 (Back): Resource Extraction</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/291_C02 Far Off Horizon_front.jpg" num="291a">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/290_C Far Off Horizon_front.jpg" num="290a">TVPC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3079,8 +3173,8 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 			<name>Resource Extraction</name>
 			<text>Sacrifice a land. Draw a card.
 ---
-(Front): C02 Far Off Horizon</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/291_C02 Far Off Horizon_back.jpg" num="291b">TVPC</set>
+(Front): C Far Off Horizon</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/290_C Far Off Horizon_back.jpg" num="290b">TVPC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3090,13 +3184,13 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 				<cmc>2</cmc>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">C02 Far Off Horizon</related>
+			<related attach="transform">C Far Off Horizon</related>
 		</card>
 		<card>
-			<name>C05 Digital Song</name>
+			<name>C Digital Song</name>
 			<text>Flying
 This creature gets +1/+0 as long as you&apos;ve cast a nonpermanent spell this turn. (Instant and Sorcery spells are nonpermanents.)</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/2_C05 Digital Song.jpg" num="2">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/2_C Digital Song.jpg" num="2">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3109,12 +3203,12 @@ This creature gets +1/+0 as long as you&apos;ve cast a nonpermanent spell this t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>C03 Gilded Tea Room</name>
+			<name>C Gilded Tea Room</name>
 			<text>When this land enters, create a trace of Mana Cylix in your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
 {T}: Add {C}.
 ---
 (Back): Mana Cylix</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/292_C03 Gilded Tea Room_front.jpg" num="292a">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/291_C Gilded Tea Room_front.jpg" num="291a">TVPC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3130,8 +3224,8 @@ This creature gets +1/+0 as long as you&apos;ve cast a nonpermanent spell this t
 			<name>Mana Cylix</name>
 			<text>{1}, {T}: Add one mana of any color.
 ---
-(Front): C03 Gilded Tea Room</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/292_C03 Gilded Tea Room_back.jpg" num="292b">TVPC</set>
+(Front): C Gilded Tea Room</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/291_C Gilded Tea Room_back.jpg" num="291b">TVPC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3141,7 +3235,7 @@ This creature gets +1/+0 as long as you&apos;ve cast a nonpermanent spell this t
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">C03 Gilded Tea Room</related>
+			<related attach="transform">C Gilded Tea Room</related>
 		</card>
 		<card>
 			<name>UC01 Crystallizing Aether</name>
@@ -3243,9 +3337,9 @@ Your opponents can&apos;t cast spells as long as this creature attacked this tur
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>C01 Search Grid</name>
+			<name>C Search Grid</name>
 			<text>{T}, Sacrifice this land: Search your library or sanctum for a basic land card, then put it on the battlefield tapped. Shuffle if you searched your library this way.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/290_C01 Search Grid.jpg" num="290">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/292_C Search Grid.jpg" num="292">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3389,7 +3483,7 @@ This creature can&apos;t be blocked by creatures with power 2 or less.</text>
 		<card>
 			<name>RM01 Crown of Conquest</name>
 			<text>Raid — {T}, Sacrifice a land: Search your library for a land card, put it onto the battlefield tapped, then shuffle. If you attacked this turn, untap it.</text>
-			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/236_RM01 Crown of Conquest.jpg" num="236">TVPC</set>
+			<set rarity="rare" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/250_RM01 Crown of Conquest.jpg" num="250">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3519,7 +3613,7 @@ When there are four or more page counters on this artifact, exile it. If you do,
 		<card>
 			<name>MX01 Expel Apathy</name>
 			<text>Destroy all nonland permanents with no colors.</text>
-			<set rarity="mythic" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/226_MX01 Expel Apathy.jpg" num="226">TVPC</set>
+			<set rarity="mythic" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/240_MX01 Expel Apathy.jpg" num="240">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3733,7 +3827,7 @@ When this enchantment enters, you may search your sanctum for a land card with o
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/277_UM01.jpg" num="277">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/252_UM01.jpg" num="252">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3749,7 +3843,7 @@ When this enchantment enters, you may search your sanctum for a land card with o
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/237_UM01.jpg" num="237">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/265_UM01.jpg" num="265">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3763,25 +3857,25 @@ When this enchantment enters, you may search your sanctum for a land card with o
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/238_UM01.jpg" num="238">TVPC</set>
+			<name>UM01 Soul Famine</name>
+			<text>Each player sacrifices a creature, loses 2 life, and discards a card. If you sacrificed a permanent this way, draw a card.</text>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/278_UM01 Soul Famine.jpg" num="278">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>IB</manacost>
 				<cmc>2</cmc>
 				<colors>BI</colors>
 				<coloridentity>BI</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/239_UM01.jpg" num="239">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/253_UM01.jpg" num="253">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3798,7 +3892,7 @@ When this enchantment enters, you may search your sanctum for a land card with o
 			<name>UM01 Roaming War Fortress</name>
 			<text>Once each turn, whenever you tap a creature to crew a vehicle, you may exile it until this artifact leaves the battlefield. If you do, put a +1/+1 counter on this artifact. 
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/278_UM01 Roaming War Fortress.jpg" num="278">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/277_UM01 Roaming War Fortress.jpg" num="277">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3815,7 +3909,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/240_UM01.jpg" num="240">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/254_UM01.jpg" num="254">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3848,7 +3942,7 @@ Flashback {B}{R} (You may cast this card from your graveyard for its flashback c
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/241_UM01.jpg" num="241">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/255_UM01.jpg" num="255">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3864,7 +3958,7 @@ Flashback {B}{R} (You may cast this card from your graveyard for its flashback c
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/242_UM01.jpg" num="242">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/256_UM01.jpg" num="256">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3878,20 +3972,22 @@ Flashback {B}{R} (You may cast this card from your graveyard for its flashback c
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/243_UM01.jpg" num="243">TVPC</set>
+			<name>UM01 Ignelscor Fangbearer</name>
+			<text>Deathtouch
+When this creature enters, put a +1/+1 counter on up to one other target creature. You may have that creature become a 2/2 Snake in addition to its other types. (This effect lasts indefinitely.)</text>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/276_UM01 Ignelscor Fangbearer.jpg" num="276">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>IB</manacost>
-				<cmc>2</cmc>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1IB</manacost>
+				<cmc>3</cmc>
 				<colors>BI</colors>
 				<coloridentity>BI</coloridentity>
+				<pt>1/3</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UM01</name>
@@ -3912,7 +4008,7 @@ Flashback {B}{R} (You may cast this card from your graveyard for its flashback c
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/244_UM01.jpg" num="244">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/257_UM01.jpg" num="257">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3928,7 +4024,7 @@ Flashback {B}{R} (You may cast this card from your graveyard for its flashback c
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/245_UM01.jpg" num="245">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/258_UM01.jpg" num="258">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3944,7 +4040,7 @@ Flashback {B}{R} (You may cast this card from your graveyard for its flashback c
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/246_UM01.jpg" num="246">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/259_UM01.jpg" num="259">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3960,7 +4056,7 @@ Flashback {B}{R} (You may cast this card from your graveyard for its flashback c
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/247_UM01.jpg" num="247">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/260_UM01.jpg" num="260">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3976,7 +4072,7 @@ Flashback {B}{R} (You may cast this card from your graveyard for its flashback c
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/248_UM01.jpg" num="248">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/261_UM01.jpg" num="261">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3992,7 +4088,7 @@ Flashback {B}{R} (You may cast this card from your graveyard for its flashback c
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/249_UM01.jpg" num="249">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/262_UM01.jpg" num="262">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4008,7 +4104,7 @@ Flashback {B}{R} (You may cast this card from your graveyard for its flashback c
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/250_UM01.jpg" num="250">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/263_UM01.jpg" num="263">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4024,7 +4120,7 @@ Flashback {B}{R} (You may cast this card from your graveyard for its flashback c
 		<card>
 			<name>UM01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/251_UM01.jpg" num="251">TVPC</set>
+			<set rarity="uncommon" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/264_UM01.jpg" num="264">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4057,9 +4153,9 @@ Whenever you cast a blue spell, untap up to one other target creature.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
+			<name>CM01</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/252_UM01.jpg" num="252">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/238_CM01.jpg" num="238">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4073,9 +4169,9 @@ Whenever you cast a blue spell, untap up to one other target creature.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
+			<name>CM01</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/253_UM01.jpg" num="253">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/239_CM01.jpg" num="239">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4089,9 +4185,9 @@ Whenever you cast a blue spell, untap up to one other target creature.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
+			<name>CM01</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/254_UM01.jpg" num="254">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/228_CM01.jpg" num="228">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4105,9 +4201,9 @@ Whenever you cast a blue spell, untap up to one other target creature.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
+			<name>CM01</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/255_UM01.jpg" num="255">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/230_CM01.jpg" num="230">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4121,25 +4217,25 @@ Whenever you cast a blue spell, untap up to one other target creature.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/256_UM01.jpg" num="256">TVPC</set>
+			<name>CM Abhorrent Transformation</name>
+			<text>Until end of turn, target creature you control becomes a 5/1 black and silver Insect creature. You gain 2 life.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/225_CM Abhorrent Transformation.jpg" num="225">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>IB</manacost>
 				<cmc>2</cmc>
 				<colors>BI</colors>
 				<coloridentity>BI</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
+			<name>CM01</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/257_UM01.jpg" num="257">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/233_CM01.jpg" num="233">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4153,9 +4249,9 @@ Whenever you cast a blue spell, untap up to one other target creature.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
+			<name>CM01</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/258_UM01.jpg" num="258">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/229_CM01.jpg" num="229">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4169,9 +4265,9 @@ Whenever you cast a blue spell, untap up to one other target creature.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
+			<name>CM01</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/265_UM01.jpg" num="265">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/231_CM01.jpg" num="231">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4185,9 +4281,9 @@ Whenever you cast a blue spell, untap up to one other target creature.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
+			<name>CM01</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/259_UM01.jpg" num="259">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/232_CM01.jpg" num="232">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4201,9 +4297,9 @@ Whenever you cast a blue spell, untap up to one other target creature.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
+			<name>CM01</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/260_UM01.jpg" num="260">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/227_CM01.jpg" num="227">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4217,9 +4313,9 @@ Whenever you cast a blue spell, untap up to one other target creature.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
+			<name>CM01</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/261_UM01.jpg" num="261">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/234_CM01.jpg" num="234">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4233,9 +4329,9 @@ Whenever you cast a blue spell, untap up to one other target creature.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
+			<name>CM01</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/262_UM01.jpg" num="262">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/235_CM01.jpg" num="235">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4249,9 +4345,9 @@ Whenever you cast a blue spell, untap up to one other target creature.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
+			<name>CM01</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/263_UM01.jpg" num="263">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/236_CM01.jpg" num="236">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4265,9 +4361,9 @@ Whenever you cast a blue spell, untap up to one other target creature.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UM01</name>
+			<name>CM01</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/264_UM01.jpg" num="264">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/237_CM01.jpg" num="237">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4281,9 +4377,9 @@ Whenever you cast a blue spell, untap up to one other target creature.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CM01 Sand&apos;s Blessing</name>
+			<name>CM Sand&apos;s Blessing</name>
 			<text>You gain 2 life, draw two cards, and create two Blood tokens. (They&apos;re artifacts with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/225_CM01 Sand&apos;s Blessing.jpg" num="225">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/226_CM Sand&apos;s Blessing.jpg" num="226">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4761,7 +4857,7 @@ Enchanted creature gets -1/-1. If you&apos;ve illuminated black, enchanted creat
 		<card>
 			<name>Pest Token TVPC</name>
 			<text>When this creature dies, you gain 1 life.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/4t_Pest Token.jpg" num="4">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/9t_Pest Token.jpg" num="9">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4778,7 +4874,7 @@ Enchanted creature gets -1/-1. If you&apos;ve illuminated black, enchanted creat
 		<card>
 			<name>Insect Plant TVPC</name>
 			<text>Haste, trample, lifelink</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/2t_Insect Plant.jpg" num="2">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/7t_Insect Plant.jpg" num="7">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4795,7 +4891,7 @@ Enchanted creature gets -1/-1. If you&apos;ve illuminated black, enchanted creat
 		<card>
 			<name>Merfolk TVPC</name>
 			<text>This creature can&apos;t be blocked.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/3t_Merfolk.jpg" num="3">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/8t_Merfolk.jpg" num="8">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4830,69 +4926,76 @@ Swampcycling {2B}</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB14</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/95_CB14.jpg" num="95">TVPC</set>
+			<name>CB Captain&apos;s Orders</name>
+			<text>Choose one —
+• Target creature you don&apos;t control get -3/-3 until end of turn.
+• Each opponent loses 3 life and you gain 3 life. Create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/84_CB Captain&apos;s Orders.jpg" num="84">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
 				<colors>B</colors>
+				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CB15</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/96_CB15.jpg" num="96">TVPC</set>
+			<name>CB Life-Like Taxidermy</name>
+			<text>Return up to two target creature cards from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/89_CB Life-Like Taxidermy.jpg" num="89">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
 				<colors>B</colors>
+				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CB16</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/97_CB16.jpg" num="97">TVPC</set>
+			<name>CB Gone Fishing</name>
+			<text>Return target creature card from your graveyard to the battlefield. If it had mana value 3 or less, create a 3/2 black and green Fish creature token with healing 2. (Damage dealt by that creature also causes you to gain 2 life.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/87_CB Gone Fishing.jpg" num="87">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
 				<colors>B</colors>
+				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CB17</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/98_CB17.jpg" num="98">TVPC</set>
+			<name>CB Phishing Breach</name>
+			<text>Each opponent sacrifices a creature. Create two 3/2 black and green Fish creature tokens with healing 2. (Damage dealt by that creature also causes you to gain 2 life.)
+{1}{B}, Exile this card from your hand: Create a colorless Saga enchantment token named Approach with r{5}: &quot;You may cast the exiled spell without paying its mana cost.&quot;</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/91_CB Phishing Breach.jpg" num="91">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6BB</manacost>
+				<cmc>8</cmc>
 				<colors>B</colors>
+				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>CG14</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/168_CG14.jpg" num="168">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/169_CG14.jpg" num="169">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4907,7 +5010,7 @@ Swampcycling {2B}</text>
 		<card>
 			<name>CG15</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/169_CG15.jpg" num="169">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/170_CG15.jpg" num="170">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4922,7 +5025,7 @@ Swampcycling {2B}</text>
 		<card>
 			<name>CG16</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/170_CG16.jpg" num="170">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/171_CG16.jpg" num="171">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4935,25 +5038,27 @@ Swampcycling {2B}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CG17</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/171_CG17.jpg" num="171">TVPC</set>
+			<name>CG Predation Breach</name>
+			<text>Create two 0/0 green and blue Fractal creature tokens. Put X +1/+1 counters on them, where X is the number of lands you control.
+{1}{G}, Exile this card from your hand: Create a colorless Saga enchantment token named Approach with r{5}: &quot;You may cast the exiled spell without paying its mana cost.&quot;</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/156_CG Predation Breach.jpg" num="156">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6GG</manacost>
+				<cmc>8</cmc>
 				<colors>G</colors>
+				<coloridentity>G</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CI14 Daring Duo</name>
+			<name>CI Docile Duo</name>
 			<text>Double strike (This creature deals both first-strike and regular combat damage.)
 {1}{I}: This creature gets +1/-1 until end of turn.</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/204_CI14 Daring Duo.jpg" num="204">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/194_CI Docile Duo.jpg" num="194">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4968,40 +5073,46 @@ Swampcycling {2B}</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CI15</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/205_CI15.jpg" num="205">TVPC</set>
+			<name>CI Outerbelt Acolyte</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature dies, each opponent loses 2 life and you gain 2 life. If it was attacking, you may draw a card instead.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/201_CI Outerbelt Acolyte.jpg" num="201">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3I</manacost>
+				<cmc>4</cmc>
 				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI Aurelia-7</name>
+			<text>When this Spacecraft enters, exile up to one other target creature. Return it to the battlefield tapped or untapped under its owner&apos;s control at the beginning of the next end step.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It&apos;s an artifact creature at 6+.)
+[level 6+] Flying [4/4]</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/191_CI Aurelia-7.jpg" num="191">TVPC</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>4I</manacost>
+				<cmc>5</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CI16</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/206_CI16.jpg" num="206">TVPC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>I</colors>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>CI17 Pathogenic Breach</name>
-			<text>Create three 3/3 silver Fractal creature tokens with flying. You gain 3 life.
+			<name>CI Pathogenic Breach</name>
+			<text>Create three 3/3 silver Fractal creature tokens with flying.
 {1}{I}, Exile this card from your hand: Create a colorless Saga enchantment token named Approach with r{5}: &quot;You may cast the exiled spell without paying its mana cost.&quot;</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/207_CI17 Pathogenic Breach.jpg" num="207">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/202_CI Pathogenic Breach.jpg" num="202">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5017,7 +5128,7 @@ Swampcycling {2B}</text>
 		<card>
 			<name>CR14</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/131_CR14.jpg" num="131">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/132_CR14.jpg" num="132">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5032,7 +5143,7 @@ Swampcycling {2B}</text>
 		<card>
 			<name>CR15</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/132_CR15.jpg" num="132">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/133_CR15.jpg" num="133">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5047,7 +5158,7 @@ Swampcycling {2B}</text>
 		<card>
 			<name>CR16</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/133_CR16.jpg" num="133">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/134_CR16.jpg" num="134">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5060,9 +5171,9 @@ Swampcycling {2B}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CR17</name>
+			<name>MR02</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/134_CR17.jpg" num="134">TVPC</set>
+			<set rarity="mythic" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/136_MR02.jpg" num="136">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5077,7 +5188,7 @@ Swampcycling {2B}</text>
 		<card>
 			<name>CU14</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/59_CU14.jpg" num="59">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/60_CU14.jpg" num="60">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5092,7 +5203,7 @@ Swampcycling {2B}</text>
 		<card>
 			<name>CU15</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/60_CU15.jpg" num="60">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/61_CU15.jpg" num="61">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5107,7 +5218,7 @@ Swampcycling {2B}</text>
 		<card>
 			<name>CU16</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/61_CU16.jpg" num="61">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/62_CU16.jpg" num="62">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5120,24 +5231,26 @@ Swampcycling {2B}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CU17</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/62_CU17.jpg" num="62">TVPC</set>
+			<name>CU Data Breach</name>
+			<text>Draw a card, then create a 6/6 blue Eye creature token with a flying counter on it. It gains hexproof until your next turn.
+{1}{U}, Exile this card from your hand: Create a colorless Saga enchantment token named Approach with r{5}: &quot;You may cast the exiled spell without paying its mana cost.&quot;</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/47_CU Data Breach.jpg" num="47">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6UU</manacost>
+				<cmc>8</cmc>
 				<colors>U</colors>
+				<coloridentity>U</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>CW14</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/23_CW14.jpg" num="23">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/24_CW14.jpg" num="24">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5152,7 +5265,7 @@ Swampcycling {2B}</text>
 		<card>
 			<name>CW15</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/24_CW15.jpg" num="24">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/25_CW15.jpg" num="25">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5167,7 +5280,7 @@ Swampcycling {2B}</text>
 		<card>
 			<name>CW16</name>
 			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/25_CW16.jpg" num="25">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/26_CW16.jpg" num="26">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5180,24 +5293,26 @@ Swampcycling {2B}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CW17</name>
-			<text></text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/26_CW17.jpg" num="26">TVPC</set>
+			<name>CW Breaching Justice</name>
+			<text>Create a 2/2 white Angel creature token with flying and &quot;When this creature enters, destroy up to one target enchantment.&quot; Put three +1/+1 counters on it.
+{1}{W}, Exile this card from your hand: Create a colorless Saga enchantment token named Approach with r{5}: &quot;You may cast the exiled spell without paying its mana cost.&quot;</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/10_CW Breaching Justice.jpg" num="10">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6WW</manacost>
+				<cmc>8</cmc>
 				<colors>W</colors>
+				<coloridentity>W</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>Fractal TVPC</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/1t_Fractal.jpg" num="1">TVPC</set>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/4t_Fractal.jpg" num="4">TVPC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5214,8 +5329,8 @@ Swampcycling {2B}</text>
 		<card>
 			<name>Approach</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I, II, III, IV — It started slowly at first. The initial breach was uneventful, a single download. Within the day however, the machines all through the plane began to run a new program...
-V — You may cast the exiled spell without paying its mana cost.
+It started slowly at first. The initial breach was uneventful, a single download. Within the day however, the machines all through the plane began to run a new program...
+You may cast the exiled spell without paying its mana cost.
 ​</text>
 			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/1_Approach.jpg" num="1">TVPC</set>
 			<prop>
@@ -5227,6 +5342,93 @@ V — You may cast the exiled spell without paying its mana cost.
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fractal TVPC</name>
+			<text></text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/6t_Fractal.jpg" num="6">TVPC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Fractal</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UG</colors>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Plant TVPC</name>
+			<text>Haste
+Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/3t_Plant.jpg" num="3">TVPC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Eye TVPC</name>
+			<text></text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/2t_Eye.jpg" num="2">TVPC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Eye</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Angel TVPC</name>
+			<text>Flying
+When this creature enters, destroy up to one target enchantment.</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/1t_Angel.jpg" num="1">TVPC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Fish TVPC</name>
+			<text>Healing 2 (Damage dealt by this creature also causes you to gain 2 life.)</text>
+			<set rarity="common" picurl="https://Tvpattack.github.io/sets/TVPC-files/img/5t_Fish.jpg" num="5">TVPC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Fish</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BG</colors>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
