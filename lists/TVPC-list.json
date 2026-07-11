@@ -9,7 +9,7 @@
     },
     {
         "card_name": "MU01 Dawnshroud Heirloom",
-        "number": 63,
+        "number": 64,
         "shape": "transform double faced",
         "set": "TVPC",
         "rotated": false,
@@ -17,7 +17,7 @@
     },
     {
         "card_name": "MB01",
-        "number": 99,
+        "number": 100,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -25,7 +25,7 @@
     },
     {
         "card_name": "MR01",
-        "number": 135,
+        "number": 137,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -33,15 +33,15 @@
     },
     {
         "card_name": "MG01",
-        "number": 172,
+        "number": 174,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "RI01 Memory Restored",
-        "number": 208,
+        "card_name": "MI01 Normalcy Breaker",
+        "number": 210,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "MU02",
-        "number": 64,
+        "number": 65,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -65,7 +65,7 @@
     },
     {
         "card_name": "MB02",
-        "number": 100,
+        "number": 101,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "MR02",
-        "number": 136,
+        "number": 138,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -81,15 +81,15 @@
     },
     {
         "card_name": "MG02",
-        "number": 173,
+        "number": 175,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "RI02 Parallel Worlds",
-        "number": 209,
+        "card_name": "MI02",
+        "number": 211,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -105,7 +105,7 @@
     },
     {
         "card_name": "RU01 Copy Land",
-        "number": 65,
+        "number": 66,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -113,7 +113,7 @@
     },
     {
         "card_name": "RB01 Blight Mound",
-        "number": 101,
+        "number": 102,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -121,7 +121,7 @@
     },
     {
         "card_name": "RR01 Mechanized Warfare",
-        "number": 137,
+        "number": 139,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -129,15 +129,15 @@
     },
     {
         "card_name": "RG01 Wild Defiance",
-        "number": 174,
+        "number": 176,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "RI03",
-        "number": 210,
+        "card_name": "RI01 Memory Restored",
+        "number": 212,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -153,7 +153,7 @@
     },
     {
         "card_name": "RU02 Psychological Warfare",
-        "number": 66,
+        "number": 67,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -161,7 +161,7 @@
     },
     {
         "card_name": "RB02 Siege Warfare",
-        "number": 102,
+        "number": 103,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "RR02",
-        "number": 138,
+        "number": 140,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -177,15 +177,15 @@
     },
     {
         "card_name": "RG02 Ancient Warfare",
-        "number": 175,
+        "number": 177,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "RI04 Unconventional Warfare",
-        "number": 211,
+        "card_name": "RI02 Parallel Worlds",
+        "number": 213,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -201,7 +201,7 @@
     },
     {
         "card_name": "RU03 Shattered Aurora",
-        "number": 67,
+        "number": 68,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -209,7 +209,7 @@
     },
     {
         "card_name": "RB03",
-        "number": 103,
+        "number": 104,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -217,7 +217,7 @@
     },
     {
         "card_name": "RR03",
-        "number": 139,
+        "number": 141,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -225,15 +225,15 @@
     },
     {
         "card_name": "RG03",
-        "number": 176,
+        "number": 178,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "RI05",
-        "number": 212,
+        "card_name": "RI03",
+        "number": 214,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -249,7 +249,7 @@
     },
     {
         "card_name": "RU04",
-        "number": 68,
+        "number": 69,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -257,7 +257,7 @@
     },
     {
         "card_name": "RB04",
-        "number": 104,
+        "number": 105,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "RR04",
-        "number": 140,
+        "number": 142,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -273,15 +273,15 @@
     },
     {
         "card_name": "RG04",
-        "number": 177,
+        "number": 179,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "RI06",
-        "number": 213,
+        "card_name": "RI04 Unconventional Warfare",
+        "number": 215,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -297,7 +297,7 @@
     },
     {
         "card_name": "RU05",
-        "number": 69,
+        "number": 70,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -305,7 +305,7 @@
     },
     {
         "card_name": "RB05",
-        "number": 105,
+        "number": 106,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "RR05",
-        "number": 141,
+        "number": 143,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -321,15 +321,15 @@
     },
     {
         "card_name": "RG05",
-        "number": 178,
+        "number": 180,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "RI07 Open the Vault",
-        "number": 214,
+        "card_name": "RI05",
+        "number": 216,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -345,54 +345,6 @@
     },
     {
         "card_name": "RU06",
-        "number": 70,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "RB06",
-        "number": 106,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "RR06",
-        "number": 142,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "RG06",
-        "number": 179,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "UI01 Night Market Runner",
-        "number": 215,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "UW06 Astral Shift",
-        "number": 41,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "RU07",
         "number": 71,
         "shape": "normal",
         "set": "TVPC",
@@ -400,7 +352,7 @@
         "position": ""
     },
     {
-        "card_name": "RB07",
+        "card_name": "RB06",
         "number": 107,
         "shape": "normal",
         "set": "TVPC",
@@ -408,8 +360,56 @@
         "position": ""
     },
     {
+        "card_name": "RR06",
+        "number": 144,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG06",
+        "number": 181,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RI06",
+        "number": 217,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW06 Astral Shift",
+        "number": 42,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU07",
+        "number": 72,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB07",
+        "number": 108,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "RR07",
-        "number": 143,
+        "number": 145,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -417,22 +417,22 @@
     },
     {
         "card_name": "RG07",
-        "number": 180,
+        "number": 182,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UI02",
-        "number": 216,
+        "card_name": "RI07 Open the Vault",
+        "number": 218,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UW01",
+        "card_name": "UW Duraval Desert Scanner",
         "number": 35,
         "shape": "normal",
         "set": "TVPC",
@@ -441,23 +441,23 @@
     },
     {
         "card_name": "UU01",
-        "number": 72,
+        "number": 73,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UB01 The Origin of Wurms",
-        "number": 108,
-        "shape": "saga",
+        "card_name": "CB Ravenous Myconid",
+        "number": 95,
+        "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "Scourge of Tradition",
-        "number": 144,
+        "number": 146,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -465,22 +465,22 @@
     },
     {
         "card_name": "UG01",
-        "number": 181,
+        "number": 183,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UI03",
-        "number": 217,
+        "card_name": "UI Docile Duo",
+        "number": 219,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UW02",
+        "card_name": "UW01",
         "number": 36,
         "shape": "normal",
         "set": "TVPC",
@@ -489,14 +489,14 @@
     },
     {
         "card_name": "UU02",
-        "number": 73,
+        "number": 74,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UB02",
+        "card_name": "UB Weight of Betrayal",
         "number": 109,
         "shape": "normal",
         "set": "TVPC",
@@ -505,7 +505,7 @@
     },
     {
         "card_name": "UR01",
-        "number": 145,
+        "number": 147,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -513,22 +513,22 @@
     },
     {
         "card_name": "UG02",
-        "number": 182,
+        "number": 184,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UI04",
-        "number": 218,
+        "card_name": "UI Exuberant Archaeologist",
+        "number": 220,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UW03",
+        "card_name": "UW02",
         "number": 37,
         "shape": "normal",
         "set": "TVPC",
@@ -537,23 +537,23 @@
     },
     {
         "card_name": "UU03",
-        "number": 74,
+        "number": 75,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UB03",
+        "card_name": "UB01 The Origin of Wurms",
         "number": 110,
-        "shape": "normal",
+        "shape": "saga",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "UR02",
-        "number": 146,
+        "number": 148,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -561,22 +561,22 @@
     },
     {
         "card_name": "UG03",
-        "number": 183,
+        "number": 185,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UI05",
-        "number": 219,
+        "card_name": "UI Insect Rider",
+        "number": 221,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UW04",
+        "card_name": "UW03",
         "number": 38,
         "shape": "normal",
         "set": "TVPC",
@@ -585,14 +585,14 @@
     },
     {
         "card_name": "UU04",
-        "number": 75,
+        "number": 76,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UB04",
+        "card_name": "UB02",
         "number": 111,
         "shape": "normal",
         "set": "TVPC",
@@ -601,7 +601,7 @@
     },
     {
         "card_name": "UR03",
-        "number": 147,
+        "number": 149,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -609,22 +609,22 @@
     },
     {
         "card_name": "UG04",
-        "number": 184,
+        "number": 186,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UI06",
-        "number": 220,
+        "card_name": "UI Marvel the Future",
+        "number": 222,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UW05",
+        "card_name": "UW04",
         "number": 39,
         "shape": "normal",
         "set": "TVPC",
@@ -633,14 +633,14 @@
     },
     {
         "card_name": "UU05",
-        "number": 76,
+        "number": 77,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UB05",
+        "card_name": "UB03",
         "number": 112,
         "shape": "normal",
         "set": "TVPC",
@@ -649,7 +649,7 @@
     },
     {
         "card_name": "UR04",
-        "number": 148,
+        "number": 150,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -657,22 +657,22 @@
     },
     {
         "card_name": "UG05",
-        "number": 185,
+        "number": 187,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UI07",
-        "number": 221,
+        "card_name": "UI Murky Politics",
+        "number": 223,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UW06",
+        "card_name": "UW05",
         "number": 40,
         "shape": "normal",
         "set": "TVPC",
@@ -681,14 +681,14 @@
     },
     {
         "card_name": "UU06",
-        "number": 77,
+        "number": 78,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UB06",
+        "card_name": "UB04",
         "number": 113,
         "shape": "normal",
         "set": "TVPC",
@@ -697,7 +697,7 @@
     },
     {
         "card_name": "UR05",
-        "number": 149,
+        "number": 151,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -705,23 +705,23 @@
     },
     {
         "card_name": "UG06",
-        "number": 186,
+        "number": 188,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UI08 Omen of the Stars",
-        "number": 222,
+        "card_name": "UI Night Market Runner",
+        "number": 224,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UW07",
-        "number": 42,
+        "card_name": "UW06",
+        "number": 41,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -729,14 +729,14 @@
     },
     {
         "card_name": "UU07",
-        "number": 78,
+        "number": 79,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UB07",
+        "card_name": "UB05",
         "number": 114,
         "shape": "normal",
         "set": "TVPC",
@@ -745,7 +745,7 @@
     },
     {
         "card_name": "UR06",
-        "number": 150,
+        "number": 152,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -753,22 +753,22 @@
     },
     {
         "card_name": "UG07",
-        "number": 187,
+        "number": 189,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UI09 Second Look",
-        "number": 223,
+        "card_name": "UI Omen of the Stars",
+        "number": 225,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UW08",
+        "card_name": "UW07",
         "number": 43,
         "shape": "normal",
         "set": "TVPC",
@@ -777,14 +777,14 @@
     },
     {
         "card_name": "UU08",
-        "number": 79,
+        "number": 80,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UB08",
+        "card_name": "UB06",
         "number": 115,
         "shape": "normal",
         "set": "TVPC",
@@ -793,7 +793,7 @@
     },
     {
         "card_name": "UR07",
-        "number": 151,
+        "number": 153,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -801,22 +801,22 @@
     },
     {
         "card_name": "UG08",
-        "number": 188,
+        "number": 190,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UI10 Scourge of Monotony",
-        "number": 224,
+        "card_name": "UI Scourge of Monotony",
+        "number": 226,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UW09",
+        "card_name": "UW08",
         "number": 44,
         "shape": "normal",
         "set": "TVPC",
@@ -825,14 +825,14 @@
     },
     {
         "card_name": "UU09",
-        "number": 80,
+        "number": 81,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UB09",
+        "card_name": "UB07",
         "number": 116,
         "shape": "normal",
         "set": "TVPC",
@@ -841,7 +841,7 @@
     },
     {
         "card_name": "UR08",
-        "number": 152,
+        "number": 154,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -849,22 +849,22 @@
     },
     {
         "card_name": "UG09",
-        "number": 189,
+        "number": 191,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CI Aurelia-7",
-        "number": 191,
-        "shape": "leveler",
+        "card_name": "UI06 Change the Mind",
+        "number": 227,
+        "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UW10 Scourge of Defiance",
+        "card_name": "UW09",
         "number": 45,
         "shape": "normal",
         "set": "TVPC",
@@ -873,14 +873,14 @@
     },
     {
         "card_name": "UU10 Scourge of Ignorance",
-        "number": 81,
+        "number": 82,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UB10 Scourge of Equality",
+        "card_name": "UB08",
         "number": 117,
         "shape": "normal",
         "set": "TVPC",
@@ -889,62 +889,6 @@
     },
     {
         "card_name": "UR09",
-        "number": 153,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "UG10 Scourge of Magic",
-        "number": 190,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CI Back to Market",
-        "number": 192,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW Breaching Justice",
-        "number": 10,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CU Beachcombing Avakin",
-        "number": 46,
-        "shape": "transform double faced",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB Arboreal Aberration",
-        "number": 82,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "UR10 Scourge of Tradition",
-        "number": 154,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG Parastrider",
         "number": 155,
         "shape": "normal",
         "set": "TVPC",
@@ -952,15 +896,71 @@
         "position": ""
     },
     {
-        "card_name": "CI Center Mass",
-        "number": 193,
+        "card_name": "UG10 Scourge of Magic",
+        "number": 192,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CW Combat Trauler",
+        "card_name": "UI07 Instill Apathy",
+        "number": 228,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW10 Scourge of Defiance",
+        "number": 46,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU Beachcombing Avakin",
+        "number": 47,
+        "shape": "transform double faced",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB09",
+        "number": 118,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR10 Scourge of Tradition",
+        "number": 156,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG Parastrider",
+        "number": 157,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CI Aurelia-7",
+        "number": 193,
+        "shape": "leveler",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW Backup Shot",
         "number": 11,
         "shape": "normal",
         "set": "TVPC",
@@ -969,15 +969,15 @@
     },
     {
         "card_name": "CU Data Breach",
-        "number": 47,
+        "number": 48,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CB Bound to the Grid",
-        "number": 83,
+        "card_name": "UB10 Scourge of Equality",
+        "number": 119,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -985,7 +985,7 @@
     },
     {
         "card_name": "CR Carapace Cracker",
-        "number": 118,
+        "number": 120,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -993,14 +993,14 @@
     },
     {
         "card_name": "CG Predation Breach",
-        "number": 156,
+        "number": 158,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CI Docile Duo",
+        "card_name": "CI Back to Market",
         "number": 194,
         "shape": "normal",
         "set": "TVPC",
@@ -1008,7 +1008,7 @@
         "position": ""
     },
     {
-        "card_name": "CW Community Forager",
+        "card_name": "CW Breaching Justice",
         "number": 12,
         "shape": "normal",
         "set": "TVPC",
@@ -1017,15 +1017,15 @@
     },
     {
         "card_name": "CU Endless Comfort",
-        "number": 48,
+        "number": 49,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CB Captain's Orders",
-        "number": 84,
+        "card_name": "CB",
+        "number": 83,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1033,7 +1033,7 @@
     },
     {
         "card_name": "CR Crasher Mech",
-        "number": 119,
+        "number": 121,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1041,14 +1041,14 @@
     },
     {
         "card_name": "CG01",
-        "number": 157,
+        "number": 159,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CI Exuberant Archaeologist",
+        "card_name": "CI Break the Shell",
         "number": 195,
         "shape": "normal",
         "set": "TVPC",
@@ -1056,7 +1056,7 @@
         "position": ""
     },
     {
-        "card_name": "CW Diffusive Justice",
+        "card_name": "CW Break the Line",
         "number": 13,
         "shape": "normal",
         "set": "TVPC",
@@ -1065,15 +1065,15 @@
     },
     {
         "card_name": "CU Seawing Skimmer",
-        "number": 49,
+        "number": 50,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CB Geometrauma",
-        "number": 85,
+        "card_name": "CB Arboreal Aberration",
+        "number": 84,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1081,7 +1081,7 @@
     },
     {
         "card_name": "CR Firewall Breach",
-        "number": 120,
+        "number": 122,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1089,14 +1089,14 @@
     },
     {
         "card_name": "CG02",
-        "number": 158,
+        "number": 160,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CI Idolization",
+        "card_name": "CI Center Mass",
         "number": 196,
         "shape": "normal",
         "set": "TVPC",
@@ -1104,7 +1104,7 @@
         "position": ""
     },
     {
-        "card_name": "CW Inspiring Pegasus",
+        "card_name": "CW Combat Trauler",
         "number": 14,
         "shape": "normal",
         "set": "TVPC",
@@ -1113,23 +1113,23 @@
     },
     {
         "card_name": "CU02",
-        "number": 50,
+        "number": 51,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CB Gnubok",
-        "number": 86,
-        "shape": "transform double faced",
+        "card_name": "CB Bound to the Grid",
+        "number": 85,
+        "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "CR01",
-        "number": 121,
+        "number": 123,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1137,14 +1137,14 @@
     },
     {
         "card_name": "CG03",
-        "number": 159,
+        "number": 161,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CI Information Recovery Crew",
+        "card_name": "CI Drougth Quickblade",
         "number": 197,
         "shape": "normal",
         "set": "TVPC",
@@ -1152,7 +1152,7 @@
         "position": ""
     },
     {
-        "card_name": "CW Meirel Sweeper",
+        "card_name": "CW Community Forager",
         "number": 15,
         "shape": "normal",
         "set": "TVPC",
@@ -1161,54 +1161,6 @@
     },
     {
         "card_name": "CU03",
-        "number": 51,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB Gone Fishing",
-        "number": 87,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR02",
-        "number": 122,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG04",
-        "number": 160,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CI Insect Rider",
-        "number": 198,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW Territorial Lirrac",
-        "number": 16,
-        "shape": "transform double faced",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CU04",
         "number": 52,
         "shape": "normal",
         "set": "TVPC",
@@ -1216,63 +1168,15 @@
         "position": ""
     },
     {
-        "card_name": "CB Groundskeepers",
-        "number": 88,
+        "card_name": "CB Captain's Orders",
+        "number": 86,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CR03",
-        "number": 123,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG05",
-        "number": 161,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CI Isolate Perfection",
-        "number": 199,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW Twilight Feline",
-        "number": 17,
-        "shape": "transform double faced",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CU05",
-        "number": 53,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB Life-Like Taxidermy",
-        "number": 89,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR04",
+        "card_name": "CR02",
         "number": 124,
         "shape": "normal",
         "set": "TVPC",
@@ -1280,7 +1184,7 @@
         "position": ""
     },
     {
-        "card_name": "CG06",
+        "card_name": "CG04",
         "number": 162,
         "shape": "normal",
         "set": "TVPC",
@@ -1288,7 +1192,103 @@
         "position": ""
     },
     {
-        "card_name": "CI Murky Politics",
+        "card_name": "CI Idolization",
+        "number": 198,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW Diffusive Justice",
+        "number": 16,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU04",
+        "number": 53,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB Geometrauma",
+        "number": 87,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR03",
+        "number": 125,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG05",
+        "number": 163,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CI Information Recovery Crew",
+        "number": 199,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW Eye of Truth",
+        "number": 17,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU05",
+        "number": 54,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB Gnubok",
+        "number": 88,
+        "shape": "transform double faced",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR04",
+        "number": 126,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG06",
+        "number": 164,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CI Isolate Perfection",
         "number": 200,
         "shape": "normal",
         "set": "TVPC",
@@ -1296,7 +1296,7 @@
         "position": ""
     },
     {
-        "card_name": "CW07 Somni Strider",
+        "card_name": "CW Inspiring Pegasus",
         "number": 18,
         "shape": "normal",
         "set": "TVPC",
@@ -1305,15 +1305,15 @@
     },
     {
         "card_name": "CU06",
-        "number": 54,
+        "number": 55,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CB Missed Timing",
-        "number": 90,
+        "card_name": "CB Gone Fishing",
+        "number": 89,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1321,7 +1321,7 @@
     },
     {
         "card_name": "CR05",
-        "number": 125,
+        "number": 127,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1329,14 +1329,14 @@
     },
     {
         "card_name": "CG07",
-        "number": 163,
+        "number": 165,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CI Outerbelt Acolyte",
+        "card_name": "CI Martial Reshaper",
         "number": 201,
         "shape": "normal",
         "set": "TVPC",
@@ -1344,7 +1344,7 @@
         "position": ""
     },
     {
-        "card_name": "CW08",
+        "card_name": "CW Meirel Sweeper",
         "number": 19,
         "shape": "normal",
         "set": "TVPC",
@@ -1353,15 +1353,15 @@
     },
     {
         "card_name": "CU07",
-        "number": 55,
+        "number": 56,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CB Phishing Breach",
-        "number": 91,
+        "card_name": "CB Groundskeepers",
+        "number": 90,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1369,7 +1369,7 @@
     },
     {
         "card_name": "CR06",
-        "number": 126,
+        "number": 128,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1377,14 +1377,14 @@
     },
     {
         "card_name": "CG08",
-        "number": 164,
+        "number": 166,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CI Pathogenic Breach",
+        "card_name": "CI Miasmic Rumna",
         "number": 202,
         "shape": "normal",
         "set": "TVPC",
@@ -1392,7 +1392,7 @@
         "position": ""
     },
     {
-        "card_name": "CW09",
+        "card_name": "CW Somni Strider",
         "number": 20,
         "shape": "normal",
         "set": "TVPC",
@@ -1401,15 +1401,15 @@
     },
     {
         "card_name": "CU08",
-        "number": 56,
+        "number": 57,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CB Pulp the Flesh",
-        "number": 92,
+        "card_name": "CB Life-Like Taxidermy",
+        "number": 91,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1417,7 +1417,7 @@
     },
     {
         "card_name": "CR07",
-        "number": 127,
+        "number": 129,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1425,14 +1425,14 @@
     },
     {
         "card_name": "CG09",
-        "number": 165,
+        "number": 167,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CI Scouting Party",
+        "card_name": "CI Outerbelt Acolyte",
         "number": 203,
         "shape": "normal",
         "set": "TVPC",
@@ -1440,7 +1440,7 @@
         "position": ""
     },
     {
-        "card_name": "CW10",
+        "card_name": "CW Sunforged Iron",
         "number": 21,
         "shape": "normal",
         "set": "TVPC",
@@ -1449,15 +1449,15 @@
     },
     {
         "card_name": "CU09",
-        "number": 57,
+        "number": 58,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CB Ravenous Myconid",
-        "number": 93,
+        "card_name": "CB Missed Timing",
+        "number": 92,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1465,7 +1465,7 @@
     },
     {
         "card_name": "CR08",
-        "number": 128,
+        "number": 130,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1473,14 +1473,14 @@
     },
     {
         "card_name": "CG10",
-        "number": 166,
+        "number": 168,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CI Sensation Robbery",
+        "card_name": "CI Pathogenic Breach",
         "number": 204,
         "shape": "normal",
         "set": "TVPC",
@@ -1488,7 +1488,7 @@
         "position": ""
     },
     {
-        "card_name": "CW12",
+        "card_name": "CW Tandem Take-Down",
         "number": 22,
         "shape": "normal",
         "set": "TVPC",
@@ -1497,54 +1497,6 @@
     },
     {
         "card_name": "CU10",
-        "number": 58,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB Secret Extractor",
-        "number": 94,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR10",
-        "number": 129,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG12",
-        "number": 167,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CI Striking Reflection",
-        "number": 205,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW13",
-        "number": 23,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CU12",
         "number": 59,
         "shape": "normal",
         "set": "TVPC",
@@ -1552,8 +1504,56 @@
         "position": ""
     },
     {
-        "card_name": "CB Silver Moth",
-        "number": 95,
+        "card_name": "CB Phishing Breach",
+        "number": 93,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR10",
+        "number": 131,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG12",
+        "number": 169,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CI Scouting Party",
+        "number": 205,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW Territorial Lirrac",
+        "number": 23,
+        "shape": "transform double faced",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU12",
+        "number": 60,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB Pulp the Flesh",
+        "number": 94,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1561,7 +1561,7 @@
     },
     {
         "card_name": "CR12",
-        "number": 130,
+        "number": 132,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1569,22 +1569,22 @@
     },
     {
         "card_name": "CG13",
-        "number": 168,
+        "number": 170,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CI Unbothered Alchemist",
+        "card_name": "CI Sensation Robbery",
         "number": 206,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CW14",
+        "card_name": "CW Treeline Vulpine",
         "number": 24,
         "shape": "normal",
         "set": "TVPC",
@@ -1593,14 +1593,14 @@
     },
     {
         "card_name": "CU14",
-        "number": 60,
+        "number": 61,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CB Soul Drain",
+        "card_name": "CB Secret Extractor",
         "number": 96,
         "shape": "normal",
         "set": "TVPC",
@@ -1609,7 +1609,7 @@
     },
     {
         "card_name": "CR13",
-        "number": 131,
+        "number": 133,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1617,14 +1617,14 @@
     },
     {
         "card_name": "CG14",
-        "number": 169,
+        "number": 171,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CI Whisper Squad",
+        "card_name": "CI Striking Reflection",
         "number": 207,
         "shape": "normal",
         "set": "TVPC",
@@ -1632,23 +1632,23 @@
         "position": ""
     },
     {
-        "card_name": "CW15",
+        "card_name": "CW Twilight Feline",
         "number": 25,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "CU15",
-        "number": 61,
+        "number": 62,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CB Treeline Scythes",
+        "card_name": "CB Silver Moth",
         "number": 97,
         "shape": "normal",
         "set": "TVPC",
@@ -1657,7 +1657,7 @@
     },
     {
         "card_name": "CR14",
-        "number": 132,
+        "number": 134,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1665,22 +1665,22 @@
     },
     {
         "card_name": "CG15",
-        "number": 170,
+        "number": 172,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Idolization",
-        "number": 312,
-        "shape": "normal",
+        "card_name": "CI Unbothered Alchemist",
+        "number": 208,
+        "shape": "transform double faced",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CW16",
+        "card_name": "CW Watchful Diceramachhua",
         "number": 26,
         "shape": "normal",
         "set": "TVPC",
@@ -1689,14 +1689,14 @@
     },
     {
         "card_name": "CU16",
-        "number": 62,
+        "number": 63,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CB Weight of Betrayal",
+        "card_name": "CB Soul Drain",
         "number": 98,
         "shape": "normal",
         "set": "TVPC",
@@ -1705,7 +1705,7 @@
     },
     {
         "card_name": "CR15",
-        "number": 133,
+        "number": 135,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1713,15 +1713,15 @@
     },
     {
         "card_name": "CG16",
-        "number": 171,
+        "number": 173,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Murky Politics",
-        "number": 313,
+        "card_name": "CI Whisper Squad",
+        "number": 209,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1729,7 +1729,7 @@
     },
     {
         "card_name": "Scourge of Defiance",
-        "number": 306,
+        "number": 310,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1737,30 +1737,6 @@
     },
     {
         "card_name": "Scourge of Ignorance",
-        "number": 307,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Geometrauma",
-        "number": 308,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR16",
-        "number": 134,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Scourge of Magic",
         "number": 311,
         "shape": "normal",
         "set": "TVPC",
@@ -1768,8 +1744,60 @@
         "position": ""
     },
     {
-        "card_name": "Scourge of Monotony",
-        "number": 314,
+        "card_name": "CB Treeline Scythes",
+        "number": 99,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR16",
+        "number": 136,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Scourge of Magic",
+        "number": 315,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Idolization",
+        "number": 316,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Geometrauma",
+        "number": 312,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "MI Normalcy Breaker",
+        "number": 317,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1783,7 +1811,7 @@
     },
     {
         "card_name": "Scourge of Equality",
-        "number": 309,
+        "number": 313,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1796,7 +1824,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Murky Politics",
+        "number": 318,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1806,7 +1839,7 @@
     },
     {
         "card_name": "Weight of Betrayal",
-        "number": 310,
+        "number": 314,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1819,7 +1852,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Scourge of Monotony",
+        "number": 319,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"
@@ -1836,7 +1874,7 @@
     "a->gold",
     {
         "card_name": "UM01 Roaming War Fortress",
-        "number": 277,
+        "number": 281,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1847,7 +1885,7 @@
     },
     {
         "card_name": "UM Marker of Aberration",
-        "number": 251,
+        "number": 256,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1855,31 +1893,14 @@
     },
     {
         "card_name": "RM01 Crown of Conquest",
-        "number": 250,
+        "number": 254,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "UM01 Ignelscor Fangbearer",
-        "number": 276,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "UM01 Waterway Liaison",
+        "card_name": "UM01 Evolution Curator",
         "number": 280,
         "shape": "normal",
         "set": "TVPC",
@@ -1890,8 +1911,19 @@
         "card_name": "e"
     },
     {
-        "card_name": "UM01 Treedropper Attack",
-        "number": 279,
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM Ignelscor Fangbearer",
+        "number": 255,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM01 Waterway Liaison",
+        "number": 284,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1901,7 +1933,23 @@
         "card_name": "e"
     },
     {
+        "card_name": "UM01 Treedropper Attack",
+        "number": 283,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "e"
+    },
+    {
+        "card_name": "CM Godrearing",
+        "number": 230,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1911,7 +1959,7 @@
     },
     {
         "card_name": "UM01 Soul Famine",
-        "number": 278,
+        "number": 282,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1919,7 +1967,7 @@
     },
     {
         "card_name": "CM Sand's Blessing",
-        "number": 226,
+        "number": 231,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1945,7 +1993,7 @@
     },
     {
         "card_name": "CM Abhorrent Transformation",
-        "number": 225,
+        "number": 229,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1968,7 +2016,7 @@
     },
     {
         "card_name": "UM01",
-        "number": 264,
+        "number": 274,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1979,7 +2027,7 @@
     },
     {
         "card_name": "MX01 Expel Apathy",
-        "number": 240,
+        "number": 244,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -1990,7 +2038,7 @@
     },
     {
         "card_name": "RM01",
-        "number": 247,
+        "number": 253,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -2004,7 +2052,7 @@
     },
     {
         "card_name": "CM01",
-        "number": 237,
+        "number": 232,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -2043,14 +2091,6 @@
     "a->colorless",
     {
         "card_name": "MX02",
-        "number": 3,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "MX03",
         "number": 4,
         "shape": "normal",
         "set": "TVPC",
@@ -2058,7 +2098,7 @@
         "position": ""
     },
     {
-        "card_name": "MX04",
+        "card_name": "MX03",
         "number": 5,
         "shape": "normal",
         "set": "TVPC",
@@ -2066,7 +2106,7 @@
         "position": ""
     },
     {
-        "card_name": "MX05",
+        "card_name": "MX04",
         "number": 6,
         "shape": "normal",
         "set": "TVPC",
@@ -2074,7 +2114,7 @@
         "position": ""
     },
     {
-        "card_name": "RX07",
+        "card_name": "MX05",
         "number": 7,
         "shape": "normal",
         "set": "TVPC",
@@ -2082,8 +2122,16 @@
         "position": ""
     },
     {
-        "card_name": "RX08 Veil of Hunger",
+        "card_name": "RX07",
         "number": 8,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX08 Veil of Hunger",
+        "number": 9,
         "shape": "planeswalker",
         "set": "TVPC",
         "rotated": false,
@@ -2091,46 +2139,6 @@
     },
     {
         "card_name": "RX03 Nightshifter Engine",
-        "number": 283,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "RX04 Venerated Crystal",
-        "number": 284,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "RX05 Heretical Failure",
-        "number": 285,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "RX06 Mazemind Tome",
-        "number": 286,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "UC01 Crystallizing Aether",
-        "number": 9,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "U02 Surveyor001",
         "number": 287,
         "shape": "normal",
         "set": "TVPC",
@@ -2138,8 +2146,48 @@
         "position": ""
     },
     {
-        "card_name": "U03 Cloudslicer Fleet",
+        "card_name": "RX04 Venerated Crystal",
         "number": 288,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX05 Heretical Failure",
+        "number": 289,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RX06 Mazemind Tome",
+        "number": 290,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UC01 Crystallizing Aether",
+        "number": 10,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "U02 Surveyor001",
+        "number": 291,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "U03 Cloudslicer Fleet",
+        "number": 292,
         "shape": "transform double faced",
         "set": "TVPC",
         "rotated": false,
@@ -2147,7 +2195,7 @@
     },
     {
         "card_name": "U05",
-        "number": 289,
+        "number": 293,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -2170,8 +2218,16 @@
         "position": ""
     },
     {
+        "card_name": "CW01",
+        "number": 3,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "C Citysprout Bonsai",
-        "number": 281,
+        "number": 285,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -2179,14 +2235,11 @@
     },
     {
         "card_name": "C Ursine Temple",
-        "number": 282,
+        "number": 286,
         "shape": "transform double faced",
         "set": "TVPC",
         "rotated": false,
         "position": ""
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -2208,7 +2261,7 @@
     },
     {
         "card_name": "RX02 Gilded Bar",
-        "number": 293,
+        "number": 297,
         "shape": "transform double faced",
         "set": "TVPC",
         "rotated": false,
@@ -2216,38 +2269,6 @@
     },
     {
         "card_name": "U01 Lifeblood Factory",
-        "number": 294,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "U04 Gilded Viewing Room",
-        "number": 295,
-        "shape": "transform double faced",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "U06 Triome",
-        "number": 296,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "U07 Triome",
-        "number": 297,
-        "shape": "normal",
-        "set": "TVPC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "U08 Triome",
         "number": 298,
         "shape": "normal",
         "set": "TVPC",
@@ -2255,15 +2276,15 @@
         "position": ""
     },
     {
-        "card_name": "U09 Triome",
+        "card_name": "U04 Gilded Viewing Room",
         "number": 299,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "TVPC",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "U10 Triome",
+        "card_name": "U06 Triome",
         "number": 300,
         "shape": "normal",
         "set": "TVPC",
@@ -2271,7 +2292,7 @@
         "position": ""
     },
     {
-        "card_name": "U11 Triome",
+        "card_name": "U07 Triome",
         "number": 301,
         "shape": "normal",
         "set": "TVPC",
@@ -2279,7 +2300,7 @@
         "position": ""
     },
     {
-        "card_name": "U12 Triome",
+        "card_name": "U08 Triome",
         "number": 302,
         "shape": "normal",
         "set": "TVPC",
@@ -2287,7 +2308,7 @@
         "position": ""
     },
     {
-        "card_name": "U13 Triome",
+        "card_name": "U09 Triome",
         "number": 303,
         "shape": "normal",
         "set": "TVPC",
@@ -2295,7 +2316,7 @@
         "position": ""
     },
     {
-        "card_name": "U14 Triome",
+        "card_name": "U10 Triome",
         "number": 304,
         "shape": "normal",
         "set": "TVPC",
@@ -2303,7 +2324,7 @@
         "position": ""
     },
     {
-        "card_name": "U15 Triome",
+        "card_name": "U11 Triome",
         "number": 305,
         "shape": "normal",
         "set": "TVPC",
@@ -2311,8 +2332,40 @@
         "position": ""
     },
     {
+        "card_name": "U12 Triome",
+        "number": 306,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "U13 Triome",
+        "number": 307,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "U14 Triome",
+        "number": 308,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "U15 Triome",
+        "number": 309,
+        "shape": "normal",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "C Far Off Horizon",
-        "number": 290,
+        "number": 294,
         "shape": "transform double faced",
         "set": "TVPC",
         "rotated": false,
@@ -2320,7 +2373,7 @@
     },
     {
         "card_name": "C Gilded Tea Room",
-        "number": 291,
+        "number": 295,
         "shape": "transform double faced",
         "set": "TVPC",
         "rotated": false,
@@ -2328,7 +2381,7 @@
     },
     {
         "card_name": "C Search Grid",
-        "number": 292,
+        "number": 296,
         "shape": "normal",
         "set": "TVPC",
         "rotated": false,
@@ -2360,7 +2413,7 @@
     },
     "a->token",
     {
-        "card_name": "Angel",
+        "card_name": "RI Effects at rare that silver wants",
         "number": 1,
         "shape": "token",
         "set": "TVPC",
@@ -2368,7 +2421,7 @@
         "position": ""
     },
     {
-        "card_name": "Eye",
+        "card_name": "UI Effects at uncommon that silver wants",
         "number": 2,
         "shape": "token",
         "set": "TVPC",
@@ -2376,7 +2429,7 @@
         "position": ""
     },
     {
-        "card_name": "Plant",
+        "card_name": "Angel",
         "number": 3,
         "shape": "token",
         "set": "TVPC",
@@ -2384,7 +2437,7 @@
         "position": ""
     },
     {
-        "card_name": "Fractal",
+        "card_name": "Eye",
         "number": 4,
         "shape": "token",
         "set": "TVPC",
@@ -2392,7 +2445,7 @@
         "position": ""
     },
     {
-        "card_name": "Fish",
+        "card_name": "Plant",
         "number": 5,
         "shape": "token",
         "set": "TVPC",
@@ -2408,7 +2461,7 @@
         "position": ""
     },
     {
-        "card_name": "Insect Plant",
+        "card_name": "Fish",
         "number": 7,
         "shape": "token",
         "set": "TVPC",
@@ -2416,7 +2469,7 @@
         "position": ""
     },
     {
-        "card_name": "Merfolk",
+        "card_name": "Fractal",
         "number": 8,
         "shape": "token",
         "set": "TVPC",
@@ -2424,12 +2477,37 @@
         "position": ""
     },
     {
-        "card_name": "Pest Token",
+        "card_name": "Insect Plant",
         "number": 9,
         "shape": "token",
         "set": "TVPC",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "Merfolk",
+        "number": 10,
+        "shape": "token",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pest Token",
+        "number": 11,
+        "shape": "token",
+        "set": "TVPC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

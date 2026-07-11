@@ -1,4 +1,284 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+CW Somni Strider added.
+UW Duraval Desert Scanner added.
+CW Treeline Vulpine added.
+CW Backup Shot added.
+CW Eye of Truth added.
+CW Tandem Take-Down added.
+UB Weight of Betrayal added.
+UI Exuberant Archaeologist added.
+UI Murky Politics added.
+UI Insect Rider added.
+UI Scourge of Monotony added.
+UI Night Market Runner added.
+UI Marvel the Future added.
+UI Omen of the Stars added.
+UI07 Instill Apathy added.
+UI06 Change the Mind added.
+CM Godrearing added.
+UM Ignelscor Fangbearer added.
+UM01 Evolution Curator added.
+UI Docile Duo added.
+CW Sunforged Iron added.
+CW Watchful Diceramachhua added.
+CW Break the Line added.
+MI01 Normalcy Breaker added.
+MI02 added.
+MI Normalcy Breaker added.
+CI Miasmic Rumna added.
+CI Martial Reshaper added.
+CI Drougth Quickblade added.
+CI Break the Shell added.
+UI Effects at uncommon that silver wants added.
+RI Effects at rare that silver wants added.
+CB added.
+CW01 added.
+
+CW07 Somni Strider removed.
+CW08 removed.
+CW09 removed.
+CW10 removed.
+CW12 removed.
+CW13 removed.
+CB Weight of Betrayal removed.
+CI Exuberant Archaeologist removed.
+CI Murky Politics removed.
+CI Insect Rider removed.
+UI10 Scourge of Monotony removed.
+UI01 Night Market Runner removed.
+UI09 Second Look removed.
+UI08 Omen of the Stars removed.
+UI07 removed.
+UI06 removed.
+UI05 removed.
+UI04 removed.
+UI03 removed.
+UI02 removed.
+UM01 Ignelscor Fangbearer removed.
+UM01 removed.
+CM01 removed.
+CI Docile Duo removed.
+CW14 removed.
+CW15 removed.
+CW16 removed.
+
+CW Territorial Lirrac
+rules_text: When this creature enters, create a trace of Territorial Roc into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i] => When this creature enters, create a trace of Territorial Roc into your hand. [i](Traces are cards that become copies when they enter public zones.)[/i]
+
+CW Twilight Feline
+rules_text: When this creature enters, create a trace of Candlelight Vigil into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i] => When this creature enters, create a trace of Candlelight Vigil into your hand. [i](Traces are cards that become copies when they enter public zones.)[/i]
+
+CW Inspiring Pegasus
+rules_text: Flying, lifelink
+When this creature enters, creatures you control get +1/+1 until end of turn.
+Warp {W} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => Flying, lifelink
+When this creature enters, target creature you control get +1/+1 until end of turn.
+Warp {W} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+CW Diffusive Justice
+rules_text: When this creature enters, exile up to one other target noncreature, nonland permanent until this creature leaves the battlefield.
+Plainscycling {2W} [i]({2W}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i] => When this creature enters, exile up to one other target noncreature, nonland permanent until this creature leaves the battlefield.
+Plainscycling {2W} [i](Pay {2} or {W}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 3/4 => 4/4
+
+CU Beachcombing Avakin
+rules_text: When this creature enters, create a trace of Wishcoin Crab into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i] => When this creature enters, create a trace of Wishcoin Crab into your hand. [i](Traces are cards that become copies when they enter public zones.)[/i]
+
+CU Seawing Skimmer
+rules_text: Flying, vigilance
+When this creature enters, tap up to two target creatures.
+Islandcycling {2U} [i]({2U}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i] => Flying, vigilance
+When this creature enters, tap up to one target creature and put a stun counter on it.
+Islandcycling {2U} [i](Pay {2} or {U}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 4/3 => 4/4
+
+CB Missed Timing
+rules_text: Exile target creature or planeswalker. You gain 2 life. => Exile target creature or planeswalker. When you do, you gain 2 life.
+
+CB Ravenous Myconid
+rules_text: Whenever you sacrifice another creature, put a +1/+1 counter on this creature.
+{4}, Sacrifice a creature: Draw a card. => Once each turn, when you sacrifice a permanent, put a +1/+1 counter on this creature.
+{3}, Sacrifice a creature: Draw a card.
+pt: 1/1 => 2/2
+
+CB Gnubok
+rules_text: When this creature dies, create a trace of Skeletal Crocodile into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i] => When this creature leaves the battlefield, create a trace of Skeletal Crocodile into your hand. [i](Traces are cards that become copies when they enter public zones.)[/i]
+
+CB Geometrauma
+rules_text: Menace
+When this creature enters, each opponent loses 2 life and you gain 2 life.
+Swampcycling {2B} [i]({2B}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i] => Menace
+When this creature enters, each opponent loses 2 life and you gain 2 life.
+Swampcycling {2B} [i](Pay {2} or {B}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CI Whisper Squad
+pt: 2/1 => 2/2
+
+CI Striking Reflection
+rules_text: Whenever this creature enters or attacks, you may change the size of another target creature to 3/2 until end of turn.
+Warp {I} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => Whenever this creature enters or attacks, up to one other target creature becomes size 3/2 until end of turn.
+Warp {I} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+CR Carapace Cracker
+rules_text: Ward—Pay 3 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i]
+This creature can't be blocked by creatures with power 2 or less.
+Mountaincycling {2R} [i]({2R}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => Ward—Pay 2 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+This creature can't be blocked by creatures with power 2 or less.
+Mountaincycling {2R} [i](Pay {2} or {R}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CI Idolization
+rules_text: Tap target creature and put three stun counters on it. As long as it remains tapped, it's an enchantment. [i](Its not a creature. If a permanent with a stun counter would become untapped, remove one from it instead.)[/i] => Tap target creature and put three stun counters on it. As long as it remains tapped, it is an enchantment with no abilities. [i](Its not a creature. If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+CG Parastrider
+rules_text: Reach
+Whenever this creature attacks or dies, you gain 2 life.
+Forestcycling {2G} [i]({2G}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => Reach
+Whenever this creature attacks or dies, you gain 2 life.
+Forestcycling {2G} [i](Pay {2} or {G}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 4/5 => 6/5
+
+CI Sensation Robbery
+rules_text: Whenever you attack, up to one target creature you control gains flying, menace, trample, and first strike until end of turn.
+Warp {1}{I} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => Whenever you attack, up to one other target creature you control gains menace, trample, and first strike until end of turn.
+Warp {1}{I} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+RW01 Roost of Bound Dragons
+rules_text: When this enchantment enters and at the beginning of combat on your turn, create a 4/4 white Dragon creature token with flying if you've spent five or more mana this turn. => At the beginning of combat on your turn, create a 4/4 white Dragon creature token with flying if you've spent five or more mana this turn.
+
+RU02 Psychological Warfare
+cost: {3}{U}{U} => {1}{U}{U}
+rules_text: Whenever a blue or artifact source you control deals combat damage to on opponent, target player exiles the top five cards of their library. => Whenever a blue or artifact source you control deals damage to on opponent, target player mills two cards and you draw a card. [i](To mill two cards, they put the top two cards of their library into their graveyard.)[/i]
+
+C Far Off Horizon
+rules_text: When this land enters, create a trace of Resource Extraction in your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+{T}: Add {C}. => When this land enters, create a trace of Resource Extraction in your hand. [i](Traces are cards that become copies when they enter public zones.)[/i]
+{T}: Add {C}.
+
+C Digital Song
+rules_text: Flying
+This creature gets +1/+0 as long as you've cast a nonpermanent spell this turn. [i](Instant and Sorcery spells are nonpermanents.)[/i] => Flying
+This creature gets +1/+0 as long as you've cast a noncreature spell this turn.
+
+C Gilded Tea Room
+rules_text: When this land enters, create a trace of Mana Cylix in your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+{T}: Add {C}. => This land enters tapped. When this land enters, create a trace of Mana Cylix in your hand. [i](Traces are cards that become copies when they enter public zones.)[/i]
+{T}: Add {C}.
+
+U04 Gilded Viewing Room
+rules_text: You may have this land enter tapped. If you do, create a trace of Reflecting Pool into your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+{T}: Add {C}. => You may have this land enter tapped. If you do, create a trace of Reflecting Pool into your hand. [i](Traces are cards that become copies when they enter public zones.)[/i]
+{T}: Add {C}.
+
+U03 Cloudslicer Fleet
+rules_text: Flying
+Whenever this creature attacks, create a trace of it into your hand without this ability, except it costs {3} and has size 2/2. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i] => Flying
+Whenever this creature attacks, create a trace of it into your hand without this ability, except it costs {3} and has size 2/2. [i](Traces are cards that become copies when they enter public zones.)[/i]
+
+UR10 Scourge of Tradition
+pt: 3/3 => 5/3
+
+RX02 Gilded Bar
+rules_text: When this land enters the battlefield, create a trace of Your Past in your hand. [i](Create that card. Traces are cards that become copies when they enter public zones.)[/i]
+{T}: Add {C}. => When this land enters the battlefield, create a trace of Your Past in your hand. [i](Traces are cards that become copies when they enter public zones.)[/i]
+{T}: Add {C}.
+
+MX01 Expel Apathy
+rules_text: Destroy all nonland permanents with no colors. => Exile all artifacts and colorless nonland permanents.
+
+UM01
+cost: {G}{W} => {I}{G}
+
+UM01
+cost: {I}{G} => {I}{R}
+
+UM01
+cost: {I}{R} => {I}{U}
+
+UM01
+cost: {I}{U} => {I}{W}
+
+UM01
+cost: {I}{W} => {R}{G}
+
+UM01
+cost: {R}{G} => {R}{W}
+
+UM01
+cost: {R}{W} => {U}{B}
+
+UM01
+cost: {U}{B} => {U}{R}
+
+UM01
+cost: {U}{R} => {W}{B}
+
+CM01
+cost: {G}{W} => {I}{G}
+
+CM01
+cost: {I}{G} => {I}{R}
+
+CM01
+cost: {I}{R} => {I}{U}
+
+CM01
+cost: {I}{U} => {I}{W}
+
+CM01
+cost: {I}{W} => {R}{G}
+
+CM01
+cost: {R}{G} => {R}{W}
+
+CM01
+cost: {R}{W} => {U}{B}
+
+CM01
+cost: {U}{B} => {U}{R}
+
+CM01
+cost: {U}{R} => {W}{B}
+
+RI01 Memory Restored
+rules_text: Return target non-planeswalker permanent card from a graveyard to the battlefield under your control that has mana value 5. It enters as a kindred enchantment with its creature types. => Return target non-planeswalker permanent card with mana value 5 from a graveyard to the battlefield under your control. It enters as a kindred enchantment with its creature types.
+
+Idolization
+rules_text: Tap target creature and put a stun counter on it. As long as it remains tapped, it's an enchantment. => Tap target creature and put three stun counters on it. As long as it remains tapped, it is an enchantment with no abilities.
+
+CB Captain's Orders
+rules_text: Choose one —
+• Target creature you don't control get -3/-3 until end of turn.
+• Each opponent loses 3 life and you gain 3 life. Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => Choose one —
+• Target creature you don't control gets -3/-3 until end of turn.
+• Each opponent loses 3 life and you gain 3 life. Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+
+CB Phishing Breach
+cost: {6}{B}{B} => {5}{B}{B}
+
+CI Aurelia-7
+cost: {4}{I} => {3}{I}
+rules_text: When this Spacecraft enters, exile up to one other target creature. Return it to the battlefield tapped or untapped under its owner's control at the beginning of the next end step.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)[/i]
+[level 6+] Flying [4/4]
+ => When this Spacecraft enters, create a token that's a copy of target land.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)[/i]
+[level 2+] {1}{I}: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+[level 6+] Flying [4/4]
+
+Fish
+pt: 3/3 => 3/2
+
+CI Scouting Party
+rules_text: First strike
+Healing 3 [i](Damage dealt by this creature also causes you to gain 3 life.)[/i]
+Faultcycling {2I} [i]({2I}, Discard this card: Search your library for a Fault card, reveal it, put it into your hand, then shuffle.)[/i] => First strike
+Healing 3 [i](Damage dealt by this creature also causes you to gain 3 life.)[/i]
+Faultcycling {2I} [i](Pay {2} or {I}, Discard this card: Search your library for a Fault card, reveal it, put it into your hand, then shuffle.)[/i]
+
+
+VERSION 3 CHANGELOG
 ====================
 
 CW Territorial Lirrac added.
